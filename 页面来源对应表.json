@@ -1,0 +1,992 @@
+[
+  {
+    "page": "ab.html",
+    "sources": [
+      "abee",
+      "abhealth",
+      "abos",
+      "abrural",
+      "abstatus",
+      "abtour"
+    ]
+  },
+  {
+    "page": "bc.html",
+    "sources": [
+      "bcdocs",
+      "bcdraw",
+      "bcnews",
+      "bcpriority",
+      "bcworkers",
+      "pnp"
+    ]
+  },
+  {
+    "page": "budget.html",
+    "sources": [
+      "funds"
+    ]
+  },
+  {
+    "page": "business-detail.html",
+    "sources": [
+      "abbiz",
+      "abforeigncriteria",
+      "abgradbiz",
+      "cec",
+      "mbbiz",
+      "mbep",
+      "mbfarm",
+      "mbisep"
+    ]
+  },
+  {
+    "page": "business.html",
+    "sources": [
+      "abbiz",
+      "abfarm",
+      "abforeignbiz",
+      "abgradbiz",
+      "bcbiz",
+      "family",
+      "mbep",
+      "mbfarm",
+      "mbisep",
+      "ntbiz",
+      "skbizclosed",
+      "super",
+      "suv",
+      "ytbiz"
+    ]
+  },
+  {
+    "page": "careers.html",
+    "sources": [
+      "crna",
+      "ece",
+      "jobece",
+      "jobit",
+      "jobrn",
+      "jobteacher",
+      "jobwelder",
+      "lfs",
+      "teacher"
+    ]
+  },
+  {
+    "page": "case-01.html",
+    "sources": [
+      "category",
+      "fst",
+      "fsw",
+      "funds",
+      "trade"
+    ]
+  },
+  {
+    "page": "case-02.html",
+    "sources": [
+      "abee",
+      "abos",
+      "pal",
+      "pgwp",
+      "pgwplength",
+      "reform"
+    ]
+  },
+  {
+    "page": "case-03.html",
+    "sources": [
+      "bcworkers",
+      "bowp",
+      "category",
+      "cec",
+      "jobit",
+      "pgwpapply"
+    ]
+  },
+  {
+    "page": "case-04.html",
+    "sources": [
+      "abhealth",
+      "bccnm",
+      "category",
+      "crna",
+      "fsw",
+      "jobrn",
+      "workerspouse"
+    ]
+  },
+  {
+    "page": "case-05.html",
+    "sources": [
+      "abrural",
+      "fst",
+      "jobwelder",
+      "skoffer",
+      "skstatus",
+      "trade"
+    ]
+  },
+  {
+    "page": "case-06.html",
+    "sources": [
+      "bcworkers",
+      "crs",
+      "ece",
+      "funds",
+      "mbswm",
+      "studentspouse",
+      "workerspouse"
+    ]
+  },
+  {
+    "page": "case-07.html",
+    "sources": [
+      "category",
+      "cec",
+      "gipcriteria",
+      "mbchange",
+      "mbgip",
+      "pgwp",
+      "reform"
+    ]
+  },
+  {
+    "page": "case-08.html",
+    "sources": [
+      "bowp",
+      "category",
+      "lmia",
+      "skfaq",
+      "skoffer",
+      "skstatus"
+    ]
+  },
+  {
+    "page": "case-09.html",
+    "sources": [
+      "cec",
+      "ntentry",
+      "ntskilled",
+      "ntstatus",
+      "ntworker"
+    ]
+  },
+  {
+    "page": "case-10.html",
+    "sources": [
+      "abbiz",
+      "bcbiz",
+      "crs",
+      "family",
+      "ntbiz",
+      "pgppaused",
+      "super",
+      "suv"
+    ]
+  },
+  {
+    "page": "cases.html",
+    "sources": []
+  },
+  {
+    "page": "changes.html",
+    "sources": [
+      "agrifoodclosed",
+      "careclosed",
+      "caremi",
+      "funds",
+      "mbchange",
+      "ntstatus",
+      "pgppaused",
+      "reform",
+      "selfpaused",
+      "skbizclosed",
+      "skeoi",
+      "skstatus",
+      "studyworkers",
+      "suv",
+      "yt"
+    ]
+  },
+  {
+    "page": "communities.html",
+    "sources": [
+      "fcip",
+      "fcipjobs",
+      "rcip",
+      "rcipexp",
+      "rcipjobs",
+      "rciplang"
+    ]
+  },
+  {
+    "page": "consultant.html",
+    "sources": [
+      "rep"
+    ]
+  },
+  {
+    "page": "family.html",
+    "sources": [
+      "child",
+      "pgppaused",
+      "spouseguide",
+      "studentspouse",
+      "super",
+      "workerspouse"
+    ]
+  },
+  {
+    "page": "federal.html",
+    "sources": [
+      "abhealth",
+      "category",
+      "cec",
+      "crs",
+      "fst",
+      "fsw",
+      "mbswm",
+      "ntbiz",
+      "offerpoints",
+      "pnp"
+    ]
+  },
+  {
+    "page": "forecast.html",
+    "sources": [
+      "33000",
+      "abstatus",
+      "bcpriority",
+      "budgetpolicy",
+      "environics",
+      "frtargets",
+      "levels",
+      "opinion",
+      "reform"
+    ]
+  },
+  {
+    "page": "glossary.html",
+    "sources": []
+  },
+  {
+    "page": "index.html",
+    "sources": [
+      "ntstatus",
+      "skstatus",
+      "yt"
+    ]
+  },
+  {
+    "page": "intake-backgrounds.html",
+    "sources": [
+      "abbiz",
+      "abhealth",
+      "bcbiz",
+      "bccnm",
+      "bcworkers",
+      "bowp",
+      "careclosed",
+      "caremi",
+      "category",
+      "cec",
+      "child",
+      "crna",
+      "ece",
+      "family",
+      "fcip",
+      "fst",
+      "fsw",
+      "funds",
+      "iec",
+      "jobit",
+      "lmia",
+      "mbbiz",
+      "mbgip",
+      "mobility",
+      "outsidework",
+      "pgwp",
+      "pgwpapply",
+      "police",
+      "skstatus",
+      "studentspouse",
+      "study",
+      "suv",
+      "teacher",
+      "trade",
+      "workerspouse"
+    ]
+  },
+  {
+    "page": "intake.html",
+    "sources": [
+      "cec",
+      "crs",
+      "fsw",
+      "iec",
+      "intakelanguage",
+      "outsidework",
+      "pgwp"
+    ],
+    "conditional_sources": [
+      "abos",
+      "bcbiz",
+      "bowp",
+      "careclosed",
+      "category",
+      "cec",
+      "child",
+      "crna",
+      "crs",
+      "ece",
+      "family",
+      "fst",
+      "fsw",
+      "funds",
+      "iec",
+      "insidework",
+      "intakeeca",
+      "intakelanguage",
+      "intakenoc",
+      "maintained",
+      "mobility",
+      "ntstatus",
+      "outsidework",
+      "pgwp",
+      "pgwpapply",
+      "pnp",
+      "police",
+      "rep",
+      "studentspouse",
+      "studentwork",
+      "study",
+      "suv",
+      "teacher",
+      "tfwp",
+      "trade",
+      "visitorend",
+      "workerspouse",
+      "yt"
+    ],
+    "note": "动态结果按回答显示其中适用来源，不代表全部适用。"
+  },
+  {
+    "page": "mb.html",
+    "sources": [
+      "gipcriteria",
+      "mbbiz",
+      "mbchange",
+      "mbdraw",
+      "mbgip",
+      "mbisep",
+      "mbswm",
+      "mbswo"
+    ]
+  },
+  {
+    "page": "nt.html",
+    "sources": [
+      "ntbiz",
+      "ntentry",
+      "ntfr",
+      "ntskilled",
+      "ntstatus",
+      "ntworker"
+    ]
+  },
+  {
+    "page": "nu.html",
+    "sources": [
+      "nujobs",
+      "numandate",
+      "pnp"
+    ]
+  },
+  {
+    "page": "persona-ab-01.html",
+    "sources": [
+      "abhealth",
+      "crna",
+      "fsw",
+      "outsidework",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-ab-02.html",
+    "sources": [
+      "abos",
+      "abstatus",
+      "cec",
+      "pgwp",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-ab-03.html",
+    "sources": [
+      "abrural",
+      "fst",
+      "rep",
+      "tfwp",
+      "trade"
+    ]
+  },
+  {
+    "page": "persona-ab-04.html",
+    "sources": [
+      "abstatus",
+      "abtour",
+      "cec",
+      "maintained",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-ab-05.html",
+    "sources": [
+      "abbiz",
+      "child",
+      "outsidework",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-bc-01.html",
+    "sources": [
+      "bccnm",
+      "bcdocs",
+      "bcworkers",
+      "fsw",
+      "rep",
+      "workerspouse"
+    ]
+  },
+  {
+    "page": "persona-bc-02.html",
+    "sources": [
+      "bcpriority",
+      "bcworkers",
+      "cec",
+      "child",
+      "fst",
+      "maintained",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-bc-03.html",
+    "sources": [
+      "bcdocs",
+      "bcworkers",
+      "category",
+      "cec",
+      "pgwp",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-bc-04.html",
+    "sources": [
+      "bcworkers",
+      "category",
+      "fsw",
+      "intakeeca",
+      "mobility",
+      "outsidework",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-bc-05.html",
+    "sources": [
+      "bcbiz",
+      "child",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-mb-01.html",
+    "sources": [
+      "cec",
+      "ece",
+      "mb279",
+      "mbchange",
+      "mbswm",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-mb-02.html",
+    "sources": [
+      "cec",
+      "gipcriteria",
+      "mb279",
+      "pgwp",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-mb-03.html",
+    "sources": [
+      "fsw",
+      "intakeeca",
+      "mb279",
+      "mbswo",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-mb-04.html",
+    "sources": [
+      "category",
+      "cec",
+      "child",
+      "mbswm",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-mb-05.html",
+    "sources": [
+      "mbfarm",
+      "mbfarmapply",
+      "rep",
+      "skbizclosed"
+    ]
+  },
+  {
+    "page": "persona-nt-01.html",
+    "sources": [
+      "cec",
+      "ntskilled",
+      "ntstatus",
+      "ntworker",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-nt-02.html",
+    "sources": [
+      "cec",
+      "ntentry",
+      "ntstatus",
+      "rep",
+      "workerspouse"
+    ]
+  },
+  {
+    "page": "persona-nt-03.html",
+    "sources": [
+      "category",
+      "fsw",
+      "mobility",
+      "ntfr",
+      "ntstatus",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-nt-04.html",
+    "sources": [
+      "cec",
+      "ntskilled",
+      "ntstatus",
+      "pgwp",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-nt-05.html",
+    "sources": [
+      "child",
+      "ntbiz",
+      "ntstatus",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-nu-01.html",
+    "sources": [
+      "category",
+      "cec",
+      "fsw",
+      "nurnjob",
+      "pnp",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-nu-02.html",
+    "sources": [
+      "abos",
+      "cec",
+      "fst",
+      "maintained",
+      "pnp",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-nu-03.html",
+    "sources": [
+      "category",
+      "fsw",
+      "intakeeca",
+      "nujobs",
+      "pnp",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-nu-04.html",
+    "sources": [
+      "cec",
+      "mbswm",
+      "pgwp",
+      "pnp",
+      "rep"
+    ]
+  },
+  {
+    "page": "persona-nu-05.html",
+    "sources": [
+      "child",
+      "family",
+      "pnp",
+      "rep",
+      "spouseguide",
+      "visitorend"
+    ]
+  },
+  {
+    "page": "persona-sk-01.html",
+    "sources": [
+      "fsw",
+      "rep",
+      "skhealth",
+      "skstatus",
+      "workerspouse"
+    ]
+  },
+  {
+    "page": "persona-sk-02.html",
+    "sources": [
+      "cec",
+      "pgwp",
+      "rep",
+      "skstatus",
+      "skstudents"
+    ]
+  },
+  {
+    "page": "persona-sk-03.html",
+    "sources": [
+      "agrifoodclosed",
+      "rep",
+      "skagri",
+      "skstatus",
+      "tfwp"
+    ]
+  },
+  {
+    "page": "persona-sk-04.html",
+    "sources": [
+      "category",
+      "fsw",
+      "outsidework",
+      "rep",
+      "sktech",
+      "spouseguide"
+    ]
+  },
+  {
+    "page": "persona-sk-05.html",
+    "sources": [
+      "fst",
+      "rep",
+      "skoffer",
+      "skstatus"
+    ]
+  },
+  {
+    "page": "persona-yt-01.html",
+    "sources": [
+      "fsw",
+      "outsidework",
+      "rep",
+      "tfwp",
+      "yt"
+    ]
+  },
+  {
+    "page": "persona-yt-02.html",
+    "sources": [
+      "cec",
+      "fst",
+      "maintained",
+      "rep",
+      "yt"
+    ]
+  },
+  {
+    "page": "persona-yt-03.html",
+    "sources": [
+      "category",
+      "cec",
+      "pgwp",
+      "rep",
+      "yt"
+    ]
+  },
+  {
+    "page": "persona-yt-04.html",
+    "sources": [
+      "cec",
+      "maintained",
+      "rep",
+      "workerspouse",
+      "yt"
+    ]
+  },
+  {
+    "page": "persona-yt-05.html",
+    "sources": [
+      "bcbiz",
+      "child",
+      "rep",
+      "yt",
+      "ytbiz"
+    ]
+  },
+  {
+    "page": "personas-ab.html",
+    "sources": [
+      "abstatus"
+    ]
+  },
+  {
+    "page": "personas-bc.html",
+    "sources": [
+      "bcworkers"
+    ]
+  },
+  {
+    "page": "personas-mb.html",
+    "sources": [
+      "mb279"
+    ]
+  },
+  {
+    "page": "personas-nt.html",
+    "sources": [
+      "ntstatus"
+    ]
+  },
+  {
+    "page": "personas-nu.html",
+    "sources": [
+      "pnp"
+    ]
+  },
+  {
+    "page": "personas-sk.html",
+    "sources": [
+      "skstatus"
+    ]
+  },
+  {
+    "page": "personas-yt.html",
+    "sources": [
+      "yt"
+    ]
+  },
+  {
+    "page": "regions.html",
+    "sources": []
+  },
+  {
+    "page": "sk.html",
+    "sources": [
+      "cec",
+      "skagri",
+      "skbizclosed",
+      "skeoi",
+      "skfaq",
+      "skhealth",
+      "skoffer",
+      "skroutes",
+      "skstatus",
+      "skstudents",
+      "sktech"
+    ]
+  },
+  {
+    "page": "sources.html",
+    "sources": [
+      "33000",
+      "abbiz",
+      "abee",
+      "abfarm",
+      "abforeignbiz",
+      "abforeigncriteria",
+      "abgradbiz",
+      "abhealth",
+      "abos",
+      "abrural",
+      "abstatus",
+      "abtour",
+      "agrifoodclosed",
+      "bcbiz",
+      "bccnm",
+      "bcdocs",
+      "bcdraw",
+      "bcnews",
+      "bcpriority",
+      "bcworkers",
+      "bowp",
+      "budgetpolicy",
+      "careclosed",
+      "caremi",
+      "category",
+      "cec",
+      "child",
+      "cip",
+      "coop",
+      "crna",
+      "crs",
+      "ece",
+      "environics",
+      "family",
+      "fcip",
+      "fcipjobs",
+      "frtargets",
+      "fst",
+      "fsw",
+      "funds",
+      "gipcriteria",
+      "iec",
+      "imp",
+      "insidework",
+      "intakeeca",
+      "intakelanguage",
+      "intakenoc",
+      "jobece",
+      "jobit",
+      "jobrn",
+      "jobteacher",
+      "jobwelder",
+      "levels",
+      "lfs",
+      "lmia",
+      "maintained",
+      "mb279",
+      "mbbiz",
+      "mbchange",
+      "mbdraw",
+      "mbep",
+      "mbfarm",
+      "mbfarmapply",
+      "mbgip",
+      "mbisep",
+      "mbswm",
+      "mbswo",
+      "mobility",
+      "ntbiz",
+      "ntentry",
+      "ntfr",
+      "ntskilled",
+      "ntstatus",
+      "ntworker",
+      "nujobs",
+      "numandate",
+      "nurnjob",
+      "offerpoints",
+      "opinion",
+      "outsidework",
+      "pal",
+      "pgppaused",
+      "pgwp",
+      "pgwpapply",
+      "pgwplength",
+      "pnp",
+      "police",
+      "rcip",
+      "rcipexp",
+      "rcipjobs",
+      "rciplang",
+      "reform",
+      "rep",
+      "selfpaused",
+      "skagri",
+      "skbizclosed",
+      "skeoi",
+      "skfaq",
+      "skhealth",
+      "skoffer",
+      "skroutes",
+      "skstatus",
+      "skstudents",
+      "sktech",
+      "spouseguide",
+      "studentspouse",
+      "studentwork",
+      "study",
+      "studyworkers",
+      "super",
+      "suv",
+      "teacher",
+      "tfwp",
+      "trade",
+      "visitorend",
+      "workerspouse",
+      "yt",
+      "ytbiz"
+    ]
+  },
+  {
+    "page": "study.html",
+    "sources": [
+      "cip",
+      "coop",
+      "pal",
+      "pgwp",
+      "pgwpapply",
+      "pgwplength",
+      "studentwork"
+    ]
+  },
+  {
+    "page": "timeline.html",
+    "sources": [
+      "lmia",
+      "ntstatus",
+      "skstatus"
+    ]
+  },
+  {
+    "page": "work.html",
+    "sources": [
+      "33000",
+      "bowp",
+      "iec",
+      "imp",
+      "lmia",
+      "mobility",
+      "pgwp",
+      "studentspouse",
+      "studyworkers",
+      "tfwp",
+      "workerspouse"
+    ]
+  },
+  {
+    "page": "yt.html",
+    "sources": [
+      "yt",
+      "ytbiz"
+    ]
+  }
+]

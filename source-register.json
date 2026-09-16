@@ -1,0 +1,828 @@
+{
+  "levels": {
+    "title": "2026—2028 移民水平计划",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels/supplementary-immigration-levels-2026-2028.html",
+    "note": "永久居民入境目标，不等于省提名证书数量。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "reform": {
+    "title": "EE 项目及 CRS 改革咨询文件",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/consultations/2026-consultation-express-entry.html",
+    "note": "咨询提案，不是已经实施的规则；查 Potential future direction。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "category": {
+    "title": "EE 当前类别及职业清单",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations/category-based-selection.html",
+    "note": "2026-06-22 页面版本；类别、NOC、经验所在地及年限。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "fsw": {
+    "title": "联邦技术移民 FSW",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/federal-skilled-workers.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "cec": {
+    "title": "加拿大经验类别 CEC",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/canadian-experience-class.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "fst": {
+    "title": "联邦技工 FST",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/federal-skilled-trades.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "crs": {
+    "title": "CRS 评分规则",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "offerpoints": {
+    "title": "EE 工作邀请与取消加分",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/job-offer.html",
+    "note": "2025-03-25 取消普通工作邀请 CRS 加分。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "pnp": {
+    "title": "省提名联邦阶段",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html",
+    "note": "Nunavut 没有 PNP；EE 与非 EE 分开。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "funds": {
+    "title": "学签资金证明",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+    "note": "2026-08-28 更新；2026-09-01 起新金额。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "study": {
+    "title": "学签资格",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/eligibility.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "pgwp": {
+    "title": "PGWP 资格",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "pgwplength": {
+    "title": "PGWP 长度",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "cip": {
+    "title": "PGWP 专业与 CIP",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html",
+    "note": "2026 清单冻结；冻结不等于以后永远不改。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "pgwpapply": {
+    "title": "PGWP 申请与待审工作",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/apply.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "pal": {
+    "title": "公立硕博学签 PAL/TAL",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/graduate-student/how-to-apply.html",
+    "note": "2026-01-01 起符合条件的公立硕博学位豁免。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "studentwork": {
+    "title": "学生校外工作",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "coop": {
+    "title": "2026 高等教育实习工签调整",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/simplifying-co-op-work-permit-requirement-post-secondary-international-students.html",
+    "note": "2026-04-01 生效。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "studentspouse": {
+    "title": "留学生配偶工签",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "workerspouse": {
+    "title": "工人配偶工签",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/spouses-dependent-children/eligibility.html",
+    "note": "普通高技能配偶规则及其他通道例外分开。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "bowp": {
+    "title": "过桥开放工签 BOWP",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/pr-work-permits/bridging.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "mobility": {
+    "title": "法语流动工签资格",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/francophone-mobility/eligibility.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "lmia": {
+    "title": "LMIA 拒绝受理规则",
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/refusal.html",
+    "note": "2026-07-10—10-08 适用地区表；下一次更新 10-09。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "tfwp": {
+    "title": "临时外劳计划入口",
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers.html",
+    "note": "2026-07-17 工资门槛更新；每个雇主另查。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "rcip": {
+    "title": "RCIP 资格",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "rcipjobs": {
+    "title": "RCIP 社区及指定雇主入口",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/job-offer.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "rcipexp": {
+    "title": "RCIP 工作经验",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/work-experience.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "rciplang": {
+    "title": "RCIP 语言",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/language-test.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "fcip": {
+    "title": "FCIP 资格",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "fcipjobs": {
+    "title": "FCIP 社区",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/job-offer.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "33000": {
+    "title": "境内工人一次性加速措施",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/filling-labour-gaps-in-smaller-communities-by-accelerating-permanent-residence-for-33000-workers.html",
+    "note": "正文日期 2026-05-04；网址的 /04/ 不是生效日期。处理已有申请，申请人无需另行操作。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "frtargets": {
+    "title": "法语移民目标",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/committees/cimm-nov-18-2025/francophone-immigration.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "careclosed": {
+    "title": "家护移民暂停通知",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/pausing-home-care-worker-immigration-pilots-application-intake.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "caremi": {
+    "title": "家护移民部长指令",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/other-goals/mi86-87-88.html",
+    "note": "2026-03-31 起不收新申请；指令期限不构成未来重开保证。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "suv": {
+    "title": "创业签证暂停",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/about.html",
+    "note": "2026-06-30 已过渡截止，当前暂停。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "family": {
+    "title": "家庭团聚入口",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "super": {
+    "title": "父母超级签证",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/eligibility.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "iec": {
+    "title": "IEC 国籍资格",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/eligibility.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "rep": {
+    "title": "有偿代表授权规则",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/learn-about-representatives.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "bcworkers": {
+    "title": "BC 当前技术移民规则",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/for-workers",
+    "note": "2026-05-28 版本；不合格职业清单、语言、工龄、雇主。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "bcdraw": {
+    "title": "BC 邀请记录",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
+    "note": "已查 2026-09-10 轮次；邀请不是提名。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "bcnews": {
+    "title": "BC 政策公告",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news",
+    "note": "2026-08-18 增额至 6,254；一次性健康支持登记已于 08-31 结束。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "bcpriority": {
+    "title": "BC Care / Build / Innovate 选择方向",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "bcdocs": {
+    "title": "BC 当前申请指南与历史版本",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "bcbiz": {
+    "title": "BC 企业家两类与战略项目",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/for-entrepreneurs-and-businesses",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "abstatus": {
+    "title": "阿省配额、池子与抽选",
+    "url": "https://www.alberta.ca/aaip-processing-information",
+    "note": "2026-09-09 更新：6,603 配额，非旧版 6,403。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "abos": {
+    "title": "阿省 AOS 资格",
+    "url": "https://www.alberta.ca/aaip-alberta-opportunity-stream-eligibility",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "abee": {
+    "title": "阿省 EE 资格",
+    "url": "https://www.alberta.ca/aaip-alberta-express-entry-stream-eligibility",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "abhealth": {
+    "title": "阿省医疗通道",
+    "url": "https://www.alberta.ca/dedicated-health-care-pathway",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "abrural": {
+    "title": "阿省乡村振兴资格",
+    "url": "https://www.alberta.ca/aaip-rural-renewal-stream-eligibility",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "abtour": {
+    "title": "阿省旅游酒店资格",
+    "url": "https://www.alberta.ca/tourism-and-hospitality-stream-eligibility",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "abbiz": {
+    "title": "阿省乡村企业家",
+    "url": "https://www.alberta.ca/aaip-rural-entrepreneur-stream-eligibility",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "abgradbiz": {
+    "title": "阿省毕业生企业家",
+    "url": "https://www.alberta.ca/aaip-graduate-entrepreneur-stream-eligibility",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "abforeignbiz": {
+    "title": "阿省海外毕业生企业家",
+    "url": "https://www.alberta.ca/aaip-foreign-graduate-entrepreneur-stream",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "skfaq": {
+    "title": "萨省 2026 FAQ",
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/immigration-faqs",
+    "note": "部分时间表已被最新统计页公告替代。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "skstatus": {
+    "title": "萨省处理与最新窗口",
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/sinp-processing-statistics",
+    "note": "2026-09-14 / 15 为本年最后受限行业窗口；旧 FAQ 的 11 月计划不再使用。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "skroutes": {
+    "title": "萨省技术类总入口",
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-international-skilled-workers",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "skbizclosed": {
+    "title": "萨省企业家及农场永久关闭",
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/entrepreneur/applicants-entrepreneurs",
+    "note": "2025-03-27 关闭新申请，存量案件继续。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "mbswm": {
+    "title": "曼省境内工人 SWM",
+    "url": "https://immigratemanitoba.com/mpnp/skilled-worker/swm/eligibility/",
+    "note": "部分浏览接口受阻，官方搜索索引已读；办理前重开原页。",
+    "state": "官方索引核查",
+    "checked": "2026-09-15"
+  },
+  "mbswo": {
+    "title": "曼省海外工人 SWO",
+    "url": "https://immigratemanitoba.com/mpnp/skilled-worker/swo/eligibility/",
+    "note": "已直接获取当前规范路径的官方 HTML。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "mbchange": {
+    "title": "曼省 CEP 毕业生转 SWM 公告",
+    "url": "https://immigratemanitoba.com/2026/06/important-update-for-manitoba-provincial-nominee-program-international-education-stream-ies-career-employment-pathway-cep-candidates/",
+    "note": "2026-06-11；浏览抓取 403，已直接下载官方 HTML 核查正文。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "mbgip": {
+    "title": "曼省研究生实习 GIP",
+    "url": "https://immigratemanitoba.com/mpnp/ies/gip/",
+    "note": "Mitacs Accelerate / Elevate；须满足全部资格。",
+    "state": "官方索引核查",
+    "checked": "2026-09-15"
+  },
+  "mbisep": {
+    "title": "曼省学生企业家 ISEP",
+    "url": "https://immigratemanitoba.com/mpnp/ies/isep/eligibility/",
+    "note": "",
+    "state": "官方索引核查",
+    "checked": "2026-09-15"
+  },
+  "mbbiz": {
+    "title": "曼省企业家 EP",
+    "url": "https://immigratemanitoba.com/mpnp/bis/ep/apply/",
+    "note": "",
+    "state": "官方索引核查",
+    "checked": "2026-09-15"
+  },
+  "mbdraw": {
+    "title": "曼省抽选公告",
+    "url": "https://immigratemanitoba.com/draws/",
+    "note": "已直接获取官方 HTML；最新读取轮次 2026-09-10，第 279 轮。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "yt": {
+    "title": "育空 2026 全流程",
+    "url": "https://yukon.ca/en/yukon-nominee-program",
+    "note": "2026 两轮 EOI 均已关闭；282 配额。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "ytbiz": {
+    "title": "育空企业家资格",
+    "url": "https://yukon.ca/en/immigration/yukon-business-nominee-program/find-eligibility-requirements-apply-run-your-business",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "ntstatus": {
+    "title": "西北地区增额与 9 月截止",
+    "url": "https://www.immigratenwt.ca/newsroom/northwest-territories-nominee-program-allocations-increased-300",
+    "note": "2026-08-07 公告：300 配额；09-22 截止、09-25 抽选。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "ntworker": {
+    "title": "西北地区雇主驱动",
+    "url": "https://www.immigratenwt.ca/employer-driven-stream",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "ntfr": {
+    "title": "西北地区法语通道",
+    "url": "https://www.immigratenwt.ca/francophone-stream",
+    "note": "页面仍留 2025 关闭横幅；2026 状态用 08-07 新公告，申请前再次确认。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "ntbiz": {
+    "title": "西北地区企业家",
+    "url": "https://www.immigratenwt.ca/business-stream",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "nujobs": {
+    "title": "努纳武特政府岗位",
+    "url": "https://www.gov.nu.ca/en/careers/job-listings",
+    "note": "岗位实时变化，招聘优先政策和住房逐岗核查。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "numandate": {
+    "title": "努纳武特施政重点",
+    "url": "https://www.gov.nu.ca/en/mandate/our-priorities",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "lfs": {
+    "title": "2026 年 8 月劳动力调查",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260904/dq260904a-eng.htm",
+    "note": "2026-09-04 发布；统计人群和个人求职不是同一分母。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "jobrn": {
+    "title": "阿省注册护士就业展望",
+    "url": "https://www.jobbank.gc.ca/marketreport/outlook-occupation/993/AB",
+    "note": "2025—2027：Good。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "jobit": {
+    "title": "BC 软件开发就业展望",
+    "url": "https://www.jobbank.gc.ca/marketreport/outlook-occupation/22548/BC",
+    "note": "2025—2027：Moderate。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "jobwelder": {
+    "title": "萨省焊工就业展望",
+    "url": "https://www.jobbank.gc.ca/marketreport/outlook-occupation/23242/SK",
+    "note": "2025—2027：Moderate；具体地区可能更弱。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "jobece": {
+    "title": "曼省幼教就业展望",
+    "url": "https://www.jobbank.gc.ca/marketreport/outlook-occupation/5189/MB",
+    "note": "2025—2027：Moderate。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "jobteacher": {
+    "title": "BC 中学教师就业展望",
+    "url": "https://www.jobbank.gc.ca/marketreport/outlook-occupation/15904/BC",
+    "note": "2025—2027：Moderate。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "crna": {
+    "title": "阿省境外护士注册",
+    "url": "https://www.nurses.ab.ca/nursing-in-alberta/international-applicants/",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "bccnm": {
+    "title": "BC 境外护士注册",
+    "url": "https://www.bccnm.ca/RN/applications_registration/how_to_apply/InternationalEN/Pages/Default.aspx",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "trade": {
+    "title": "阿省熟练技工认证",
+    "url": "https://tradesecrets.alberta.ca/become-certified/trades-qualifier-programs/qualify-based-on-work-experience/",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "ece": {
+    "title": "曼省幼教资格分级",
+    "url": "https://www.gov.mb.ca/education/childcare/students_workforce/info_classification.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "teacher": {
+    "title": "BC 境外教师资格材料",
+    "url": "https://www2.gov.bc.ca/gov/content/education-training/k-12/teach/your-application/submit-documents",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "opinion": {
+    "title": "IRCC 2026 民意研究简报",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/transition-binders/deputy-minister-2026/public-opinion-research-immigration.html",
+    "note": "发布于 2026，不代表每项调查都是 2026 做的；文内含 2025 调查。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "environics": {
+    "title": "Environics 2026 多元文化与移民态度",
+    "url": "https://environicsinstitute.org/canadian-perspectives-on-multiculturalism-and-diversity/",
+    "note": "2026-06-30 发布；本报告只使用研究结论，未核全问卷，故不报比例。",
+    "state": "原始调查机构页面核查",
+    "checked": "2026-09-15"
+  },
+  "ntentry": {
+    "title": "西北地区初级 / 半熟练工",
+    "url": "https://www.immigratenwt.ca/entry-levelsemi-skilled-occupations",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "ntskilled": {
+    "title": "西北地区技能工",
+    "url": "https://www.immigratenwt.ca/skilled-worker",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "skoffer": {
+    "title": "萨省雇主邀请类",
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-international-skilled-workers/international-skilled-worker-with-employment-offer",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "sktech": {
+    "title": "萨省创新与科技人才",
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-international-skilled-workers/sinp-innovation-tech-talent-pathway",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "skagri": {
+    "title": "萨省农业人才",
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-international-skilled-workers/agriculture-talent-pathway",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "skhealth": {
+    "title": "萨省医疗人才",
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-international-skilled-workers/health-talent-pathway",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "skeoi": {
+    "title": "萨省无雇主 EOI 状态",
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-international-skilled-workers/international-skilled-worker-eoi-system",
+    "note": "官网仍介绍 EOI 入池；明确目前没有已安排的 EOI 抽选，不把能入池说成能近期获邀。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "skstudents": {
+    "title": "萨省本省毕业生类别",
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-with-saskatchewan-experience/students",
+    "note": "已读资格及工龄章节；窗口以较新统计页为准。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "abfarm": {
+    "title": "阿省农场经营资格",
+    "url": "https://www.alberta.ca/aaip-farm-stream-eligibility.aspx",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "abforeigncriteria": {
+    "title": "阿省海外毕业生企业家详细条件",
+    "url": "https://www.alberta.ca/aaip-foreign-graduate-entrepreneur-stream-eligibility",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "mbep": {
+    "title": "曼省企业家详细资格",
+    "url": "https://immigratemanitoba.com/mpnp/bis/ep/eligibility/",
+    "note": "已直接获取官方 HTML。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "mbfarm": {
+    "title": "曼省农场投资资格",
+    "url": "https://immigratemanitoba.com/immigrate/bis/fip/eligibility/",
+    "note": "",
+    "state": "官方索引核查",
+    "checked": "2026-09-16"
+  },
+  "mb279": {
+    "title": "曼省 2026-09-10 第 279 轮",
+    "url": "https://immigratemanitoba.com/2026/09/expression-of-interest-draw-279/",
+    "note": "已直接获取官方 HTML；分组分数不能混用。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "gipcriteria": {
+    "title": "曼省 GIP 完整资格",
+    "url": "https://immigratemanitoba.com/mpnp/ies/gip/eligibility/",
+    "note": "",
+    "state": "官方索引核查",
+    "checked": "2026-09-16"
+  },
+  "budgetpolicy": {
+    "title": "联邦 2025 预算：经济与移民方向",
+    "url": "https://www.budget.canada.ca/2025/report-rapport/chap1-en.html",
+    "note": "用于解释政策取向；预算提案不等于每项移民措施已可申请。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "pgppaused": {
+    "title": "父母团聚暂停新案通知",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/responsibly-manage-parent-grandparent-program.html",
+    "note": "2026-07-15：暂停新的意向与邀请，已有申请继续。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "child": {
+    "title": "受养子女与锁龄",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/age-limit-requirements-dependent-children.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "spouseguide": {
+    "title": "配偶及子女团聚完整指南",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5289-sponsor-your-spouse-common-law-partner-conjugal-partner-dependent-child-complete-guide.html",
+    "note": "",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "studyworkers": {
+    "title": "境内工人短期培训临时措施",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/economic-growth-public-services-contributions-temporary-workers.html",
+    "note": "2026-09-09 公告；合格者获通知，措施至 2027-12-31；非境外入境或新 PR 通道。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "selfpaused": {
+    "title": "联邦文化体育自雇项目状态",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/self-employed.html",
+    "note": "当前 Paused；不是普通企业主项目。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "agrifoodclosed": {
+    "title": "农业食品试点结束",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/agri-food-pilot.html",
+    "note": "2025-05-14 结束；旧申请继续处理。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "imp": {
+    "title": "国际流动计划：雇主招聘与豁免入口",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/international-mobility-program/who.html",
+    "note": "工签豁免、开放许可、雇主特定豁免要分别核查。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-15"
+  },
+  "intakelanguage": {
+    "title": "EE 认可语言考试与 CLB / NCLC 换算",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html",
+    "note": "按考试类别、日期与四项成绩查表，不用总分代替。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "intakeeca": {
+    "title": "境外学历 ECA 与认可机构",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessment.html",
+    "note": "移民学历认证与学校录取、职业执照认可分别核。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "intakenoc": {
+    "title": "按真实职责查 NOC / TEER",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/find-national-occupation-code.html",
+    "note": "先查职责，再核职业代码与项目要求。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "outsidework": {
+    "title": "境外申请工签：官方完整指南 5487",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5487-applying-work-permit-outside-canada.html",
+    "note": "查看现居地合法身份、材料与境外申请程序；居住地不等于国籍。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "insidework": {
+    "title": "境内申请 / 延长工签：指南 5553",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5553-applying-change-conditions-extend-your-stay-canada-worker.html",
+    "note": "先查境内申请资格及适用类别；人在境内不等于自动有资格。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "maintained": {
+    "title": "工签到期与维持身份的工作条件",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/expired-permit.html",
+    "note": "工签延期、改学签、改访客分别核；旅行与换雇主另查。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "visitorend": {
+    "title": "访客境内申请工签临时政策于 2024-08-28 结束",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/ends-tpp-allowing-visitors-apply-work-permits-within-country.html",
+    "note": "结束的是普遍临时政策；其他独立资格和例外仍需个案核查。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "police": {
+    "title": "EE 多国无犯罪证明与签发时间",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/police-certificates.html",
+    "note": "先整理多国居住史；不同项目和国家办理要求不可混用。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "nurnjob": {
+    "title": "努纳武特公共卫生护士招聘示例",
+    "url": "https://www.gov.nu.ca/en/jobs/public-health-nurse/708",
+    "note": "本次核查职位要求、优先招聘与住房文字；不代表保证空缺、工签支持或录用。",
+    "state": "官方原文已核查",
+    "checked": "2026-09-16"
+  },
+  "mbfarmapply": {
+    "title": "曼省 Farm Investor 官方申请步骤",
+    "url": "https://immigratemanitoba.com/mpnp/bis/fip/apply/",
+    "note": "提名获批、保证金协议、联邦 PR、登陆后建立农场的顺序；本次正文抓取受限，官方索引已读。",
+    "state": "官方索引核查",
+    "checked": "2026-09-16"
+  }
+}
