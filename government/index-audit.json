@@ -1,0 +1,469 @@
+{
+  "checked": "2026-09-17",
+  "coverage": [
+    {
+      "region": "fed",
+      "index_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html",
+      "scope_statement": "覆盖IRCC现行永久居留主索引所有经济、地区、家庭、保护、特殊及暂停关闭入口；新增EE管理层、魁省联邦阶段与历史项目。",
+      "unresolved": [
+        "各特殊国籍公共政策全部子资格和延期不是本轮逐项审计范围。",
+        "已宣布High Impact Start-up Pilot未核到实际开放申请页；保持announced。",
+        "无身份建筑工人全国后续政策与已关闭GTA旧试点可能混淆；不凭新闻表述认定新申请入口开放。"
+      ]
+    },
+    {
+      "region": "fed",
+      "index_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html",
+      "scope_statement": "覆盖A25.2及R204、R205、R206、R207、R207.1、R208主要授权和行政代码族；每个主要协定族建立入口。 R204(b)省地区与外国协议层官网明确目前无获批协议，故不虚列可申请项目。",
+      "unresolved": [
+        "协定职业、国籍、每一F/T子代码具体资格未逐一审计；母索引是完整代码清单。",
+        "Unique work situations特殊职业例子保留在C10/C11/T11等母指引，不逐例当作独立移民项目。",
+        "IMP代码索引存在旧代码/旧项目，并非所有列名现在收新申请；C32与SUV已使用较新专页纠偏。",
+        "社区试点工签及旧项目家属/续签的每个行政代码和存量窗口，需在产品资格卡阶段逐专页补审。"
+      ]
+    },
+    {
+      "region": "fed",
+      "index_url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers.html",
+      "scope_statement": "覆盖工资、初级农业、PR支持、GTS、护理、学术全部主索引，并增加SAWP/Agricultural Stream、REP及魁省行政层。",
+      "unresolved": [
+        "工资阈值、拒绝处理地区、低工资上限及雇主岗位实时限制不在此框架审计中重算。",
+        "GTS A/B、农业商品表及NOC属于下一层条件表，需与现有职业清单联动。"
+      ]
+    },
+    {
+      "region": "fed",
+      "index_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions.html",
+      "scope_statement": "覆盖特殊工签公众索引；按开放/雇主限定、处理便利和公共政策分层。",
+      "unresolved": [
+        "IEC每国开放类别、年龄与剩余配额未在此核验。",
+        "Special-measures动态索引未展开所有国籍与危机政策。"
+      ]
+    },
+    {
+      "region": "fed",
+      "index_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work.html",
+      "scope_statement": "覆盖校内、校外、必需实习及PGWP；高等教育实习2026-04规则单列。",
+      "unresolved": [
+        "PGWP专业CIP、语言及申请日期规则由现有专题承担，此轮只核制度层。",
+        "毕业等待PGWP期间及maintained status工作授权不是新项目，具体条件应作为工作授权状态机另建。"
+      ]
+    },
+    {
+      "region": "fed",
+      "index_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/work-without-permit.html",
+      "scope_statement": "新增免工签职业与短期GSS分支，明确与免LMIA不同。",
+      "unresolved": [
+        "R186各项的全部法条条件及持续工作授权不逐条展开。",
+        "Visa/eTA入境文书、visitor/study/work临时身份、TRP例外许可、PR身份和省级nomination/CSQ是不同对象；当前level枚举没有status/document，宜另建术语/法律层而不是虚构项目。"
+      ]
+    },
+    {
+      "region": "fed",
+      "index_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship.html",
+      "scope_statement": "家庭PR按关系分支；PGP暂停已核专页。",
+      "unresolved": [
+        "SCLPC与Family Class境内/境外程序、收养直入籍路径与魁省undertaking配额另专题处理。"
+      ]
+    },
+    {
+      "region": "fed",
+      "index_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees.html",
+      "scope_statement": "覆盖GAR、PSR担保类型、BVOR、境内庇护；补已受保护者PR、H&C、TRP持有人类及state-care。",
+      "unresolved": [
+        "难民resettlement法律类别与GAR/PSR/BVOR资助安排是两个维度；本轮仅建立可用政府入口，不混同为同级互斥资格类别。",
+        "庇护受理、安全第三国、PRRA与上诉程序为保护制度程序层，不做就业移民路线。",
+        "Group of Five及Community Sponsor普通私人担保暂停，但BVOR例外保留。"
+      ]
+    },
+    {
+      "region": "bc",
+      "index_url": "https://www.welcomebc.ca/immigrate-to-b-c/for-workers",
+      "scope_statement": "已核工人及商业索引、2026新闻；两工人类别、两EEBC选项、三商业类别、临时及历史学生项目、选择重点分层。",
+      "unresolved": [
+        "旧IPG存量积压处理阶段未逐案/逐日期复核。"
+      ]
+    },
+    {
+      "region": "ab",
+      "index_url": "https://www.alberta.ca/alberta-advantage-immigration-program",
+      "scope_statement": "已核八个主 streams、医疗双分支、EE专门路径、重点选择及官方旧类别索引。",
+      "unresolved": [
+        "2024/2025省候选人工签支持措施的所有批次未逐条穷尽；不将其计作PR项目。"
+      ]
+    },
+    {
+      "region": "sk",
+      "index_url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program",
+      "scope_statement": "已核国际工人及本省经验索引、医疗科技双分支、EOI当前无预排抽选、创业农场关闭。",
+      "unresolved": [
+        "旧 Health Professionals/Hospitality/Long-Haul Truck Driver 独立类别已不在现行经验索引；本次未取得其逐项关闭或合并日期，不编造日期。",
+        "Accompanying Farm Employee 存量衔接的当前接收需官方确认；只保留制度记录。"
+      ]
+    },
+    {
+      "region": "mb",
+      "index_url": "https://immigratemanitoba.com/mpnp/streams/",
+      "scope_statement": "已核三大父类别及子路径，补雇主端、五个区域、战略招聘、工签桥梁。",
+      "unresolved": [
+        "部分现行网页 web 直读403，搜索索引多为三个月前；部分细项使用已有同日官方DOM文本并明确说明。",
+        "旧文档使用 Manitoba Work Experience / Employer Direct Recruitment / Human Capital / Manitoba Express Entry 名称；当前工人索引采用SWM/SWO，不能把旧规划名称全当当前并列stream。",
+        "地区名单以省索引为准，各社区独立窗口未逐个核实。"
+      ]
+    },
+    {
+      "region": "yt",
+      "index_url": "https://yukon.ca/en/immigration",
+      "scope_statement": "核两大提名框架、三个工人stream、2026窗口、企业入池选择、已关闭社区工签。",
+      "unresolved": [
+        "2024/2025 Temporary Measure Letters of Support 旧工签操作批次未逐条穷尽。"
+      ]
+    },
+    {
+      "region": "nt",
+      "index_url": "https://www.gov.nt.ca/en/newsroom/nwt-nominee-program-opens-updated-selection-process",
+      "scope_statement": "三大stream；雇主stream三个子类别；用2026新闻纠正法语页旧公告。",
+      "unresolved": []
+    },
+    {
+      "region": "nu",
+      "index_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html",
+      "scope_statement": "IRCC明确 Nunavut 没有 Provincial Nominee Program。该地区PNP为零项；联邦可适用框架不重命名为Nunavut项目。",
+      "unresolved": []
+    },
+    {
+      "region": "on",
+      "index_url": "https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp",
+      "scope_statement": "已上线一个 Ontario Workforce Priority stream，内含三个子路径；保留八个已关闭的雇主、毕业生和 EE 前身，以及旧 Entrepreneur Stream；第二阶段公告独立记录。",
+      "unresolved": [
+        "未能读取官方 Registry proposal 52773；第二阶段三个类别的最终名称、细则及上线日期仍待核验。https://www.regulatoryregistry.gov.on.ca/proposal/52773",
+        "直接读取 OWP 页面受阻；政府搜索索引及 2026 官方更新页共同支持本次层级盘点。"
+      ]
+    },
+    {
+      "region": "qc",
+      "index_url": "https://www.quebec.ca/en/immigration/permanent/skilled-workers",
+      "scope_statement": "独立 CSQ 体系：PSTQ 四类别、PEQ 两个限定历史群体的窗口、三个商业计划；Entrepreneur Program 另分三类别及六个子画像；保留 PRTQ 与三个已结束试点。商业总目录也已独立核对。",
+      "unresolved": [
+        "三个已关闭试点的全部历史子画像未重新复原；现行页面已明确关闭，保留其父级历史记录。",
+        "魁省家庭团聚及难民担保应归入联邦家庭／人道路径审计，不计入本次经济移民目录。"
+      ]
+    },
+    {
+      "region": "nb",
+      "index_url": "https://www.gnb.ca/en/topic/family-home-community/immigration/provincial-nominee-program.html",
+      "scope_statement": "覆盖四个现行 PNP 类别、八个主要工作者子路径、Francophone Priorities 两个子画像、两个试点、被替代的 Entrepreneurial stream，以及独立 AIP 实施门槛。",
+      "unresolved": [
+        "PCC 试点网页及 2026 年 2 月指南，仍需与限定延长至 2027 年底的公告逐项核对合格入学日期。",
+        "Critical Worker 的参与雇主属于实施名单，不是六个独立永居计划。"
+      ]
+    },
+    {
+      "region": "ns",
+      "index_url": "https://liveinnovascotia.com/nova-scotia-nominee-program",
+      "scope_statement": "覆盖四个合并后类别及当前展示的所有子条件，包括职业名单为空的 Occupations in Demand；保留十个旧名称的映射，并独立列出招聘项目、AIP 实施及阶段性邀请筛选。",
+      "unresolved": [
+        "现行 Express Entry 页面展示本省经验与医生两个分页；合并公告称原 Labour Market Priorities 条件保留。保留旧制映射，但不虚构一个已独立开放的 Labour Market Priorities 分页。"
+      ]
+    },
+    {
+      "region": "pe",
+      "index_url": "https://www.princeedwardisland.ca/en/topic/office-immigration",
+      "scope_statement": "覆盖官方工作者目录的七个入口及一个商业类别；邀请优先、AIP 省级门槛独立记录；保留两个已关闭商业前身。",
+      "unresolved": [
+        "Skilled Workers in PEI 与 Outside Canada 是目录中分别展示的地域变体，不能算作两个互不关联的父级计划。"
+      ]
+    },
+    {
+      "region": "nl",
+      "index_url": "https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/provincial-nominee-program/overview/",
+      "scope_statement": "覆盖官方五个现行类别、四个商业子路径、毕业生变体、独立 EOI／法语筛选及联邦 AIP 的省级实施。",
+      "unresolved": [
+        "Priority Skills NL 当前法律及接收状态尚未解决；旧页面仅保留空标题。",
+        "雇主指定及 JVA 当前接收状态应在办理时单独核验；不将 2025 年旧暂停公告直接当作现行规则。"
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "existing_id": "family-pr",
+      "issue": "家庭团聚统一状态掩盖PGP暂停及不同亲属路径。",
+      "replacement": "拆配偶/伴侣/子女、收养、特定其他亲属、父母祖父母；PGP标paused。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/sponsor-parents-grandparents.html"
+    },
+    {
+      "existing_id": "protection-pr",
+      "issue": "将难民、保护人士、H&C及全部公共政策合成一条，无法审计。",
+      "replacement": "按境外GAR/PSR/BVOR、境内庇护、Protected persons PR、H&C、Permit Holder、State care和特殊政策索引拆分。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees.html"
+    },
+    {
+      "existing_id": "wp-student-placement",
+      "issue": "名称与work-permit定位容易使用户误以为所有在读必需实习都需另办工签。",
+      "replacement": "2026-04-01起区分合格高等教育免单独co-op工签与中学co-op工签。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html"
+    },
+    {
+      "existing_id": "paused-suv",
+      "issue": "仍写遗留承诺/过渡安排须核而未明确截止已经过。",
+      "replacement": "PR在2026-06-30后暂停新申请；SUV可选工签只保留符合条件的既有工签延期。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/about.html"
+    },
+    {
+      "existing_id": "closed-hk",
+      "issue": "PR关闭状态需要标明日期并与存量开放工签区分。",
+      "replacement": "PR于2026-08-31关闭；合格已递交者仍可有可选开放工签。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/hong-kong-residents-permanent-residence.html"
+    },
+    {
+      "existing_id": "closed-care",
+      "issue": "两个2025护理试点及多个旧护理项目未分别列出。",
+      "replacement": "Child Care与Home Support两项目分别建档；旧HCCPP/HSWP/LCP等作为historical，不暗示2026年3月重开。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/caregivers/home-care-worker-immigration-pilots/child-care-home-support.html"
+    },
+    {
+      "existing_id": "wp-agriculture",
+      "issue": "农业统一一条遗漏SAWP国籍限制及Agricultural Stream分流。",
+      "replacement": "拆SAWP、Agricultural Stream；其他农业岗位依高/低工资分流。",
+      "source_url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/agricultural.html"
+    },
+    {
+      "existing_id": "wp-ict",
+      "issue": "公司内部调动与一般重大利益并为一条。",
+      "replacement": "C10与非协定ICT C61/C62/C63分列，并与FTA ICT区分。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html"
+    },
+    {
+      "existing_id": "wp-entrepreneur",
+      "issue": "企业家/自雇重大利益未区分C11与C60及提名阶段。",
+      "replacement": "分C11临时业主、C60省商业候选人/魁省甄选商业人士；正式提名后另核T13。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-entrepreneurs-self-employed-candidates-seeking-operate-business-r205-c11.html"
+    },
+    {
+      "existing_id": "wp-reciprocal",
+      "issue": "互惠、研究、演艺和宗教慈善混合了不同R205授权。",
+      "replacement": "分R205(b)互惠，R205(c)(i)研究教育，R205(c)(ii)指定工作，R205(d)宗教慈善。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html"
+    },
+    {
+      "existing_id": "wp-community",
+      "issue": "AIP/RCIP/FCIP衔接工签合并，省提名T13与旧社区工签缺少边界。",
+      "replacement": "三项目可选工签分列；T13单列；RNIP/Yukon旧项目独立遗留索引。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/pr-work-permits.html"
+    },
+    {
+      "existing_id": "wp-qc",
+      "issue": "魁省甄选与投资者工签统一标签遗漏不同阶段。",
+      "replacement": "分T10投资者意向、A73境内CSQ、A76魁省外CSQ及2026 PSTQ待甄选临时公共政策。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/work-permit-skilled-workers-quebec-pstq.html"
+    },
+    {
+      "existing_id": "wp-prospective",
+      "issue": "统一活跃状态未体现2025存量候选人限制。",
+      "replacement": "标transitional：至2027-12-31申请，但EOI和支持信须在2025-12-31前。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/support-letter.html"
+    },
+    {
+      "existing_id": "wp-spouse-worker",
+      "issue": "仅配偶命名过窄，但广义家属资格也不能一概开放。",
+      "replacement": "改家庭成员并在C41/C46/C47/C48/C49下区分PR过渡状态、职业和时间规则。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/spouses-dependent-children.html"
+    },
+    {
+      "existing_id": "wp-special",
+      "issue": "其他专门许可无法证明政府目录完整覆盖。",
+      "replacement": "明确外交/组织、医生加速、危机公共政策、原住民、香港旧毕业工签等索引分支。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions.html"
+    },
+    {
+      "existing_id": "wp-gts",
+      "issue": "需避免与Global Skills Strategy概念互换。",
+      "replacement": "GTS为TFWP LMIA流；GSS为快速处理及特定免工签机制。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/global-skills-strategy/exemptions.html"
+    },
+    {
+      "existing_id": "",
+      "issue": "缺少支持PR的LMIA入口、认可雇主行政试点及免工签工作框架。",
+      "replacement": "补TFWP PR支持LMIA、REP、work-permit-exempt独立层。",
+      "source_url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers.html"
+    },
+    {
+      "existing_id": "",
+      "issue": "缺少魁省经济移民的联邦永久居民阶段。",
+      "replacement": "补Quebec-selected skilled workers及Quebec business；魁省甄选项目留在省目录。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-business.html"
+    },
+    {
+      "existing_id": "",
+      "issue": "33,000境内工人措施容易被误写成开放新TR-to-PR通道。",
+      "replacement": "将其列为已有库存加速selection/transitional；不能建立新申请产品入口。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/understanding-the-one-time-in-canada-workers-initiative.html"
+    },
+    {
+      "existing_id": "closed-bc-elss",
+      "issue": "一个条目合并 ELSS、International Graduate 与 International Post-Graduate；还遗漏未落地的新学生类别。",
+      "replacement": "按各官方名称拆为历史条目，标明不同关闭/取消状态。",
+      "source_url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news"
+    },
+    {
+      "existing_id": "bc-skilled",
+      "issue": "未明确 EEBC 是类别内选项，Care/Build/Innovate 是选择层。",
+      "replacement": "建立 stream → EEBC option 与独立 selection 层。",
+      "source_url": "https://www.welcomebc.ca/immigrate-to-b-c/for-workers"
+    },
+    {
+      "existing_id": "ab-health",
+      "issue": "将 EE 与非 EE 医疗合为一个入口容易错置父级。",
+      "replacement": "拆成两个子路径，EE 子路径属于 Alberta Express Entry；非 EE 不属于 EE。",
+      "source_url": "https://www.alberta.ca/dedicated-health-care-pathway"
+    },
+    {
+      "existing_id": "ab-ee",
+      "issue": "类别与重点选择混写。",
+      "replacement": "保留类别；另列重点行业选择和三个专门 EE 子路径。",
+      "source_url": "https://www.alberta.ca/aaip-alberta-express-entry-stream"
+    },
+    {
+      "existing_id": "closed-sk-biz",
+      "issue": "三个关闭类别被并成一项。",
+      "replacement": "分列 Entrepreneur、International Graduate Entrepreneur、Farm Owner and Operator；青年农场主归后者。",
+      "source_url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/entrepreneur/applicants-entrepreneurs"
+    },
+    {
+      "existing_id": "sk-health",
+      "issue": "遗漏 EE/非 EE 两套子条件。",
+      "replacement": "建立两分支及对 Saskatchewan Work Experience 的交叉引用。",
+      "source_url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-international-skilled-workers/health-talent-pathway"
+    },
+    {
+      "existing_id": "sk-tech",
+      "issue": "遗漏 EE/非 EE 两套子条件。",
+      "replacement": "建立两分支，不与无雇主 Saskatchewan Express Entry 混同。",
+      "source_url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-international-skilled-workers/sinp-innovation-tech-talent-pathway"
+    },
+    {
+      "existing_id": null,
+      "issue": "曼省缺少雇主端、地区及战略招聘制度层。",
+      "replacement": "增加 EDI、TRRP、战略招聘、五个地区措施及法语/族裔社区选择，避免伪装独立 stream。",
+      "source_url": "https://immigratemanitoba.com/mpnp/regional-immigration-initiatives/"
+    },
+    {
+      "existing_id": "mb-cep",
+      "issue": "过渡标签合理，但须保留官方措辞与核验限制。",
+      "replacement": "注明六个月经验转 SWM；本次403，不采媒体永久关闭表述。",
+      "source_url": "https://immigratemanitoba.com/2026/06/important-update-for-manitoba-provincial-nominee-program-international-education-stream-ies-career-employment-pathway-cep-candidates/"
+    },
+    {
+      "existing_id": "nt-fr",
+      "issue": "只引用类别页2025关闭提示，忽略2026重开公告。",
+      "replacement": "改为 active-framework；优先引用2026年3月及8月 GNWT 公告。",
+      "source_url": "https://www.gov.nt.ca/en/newsroom/northwest-territories-nominee-program-allocations-increased-300"
+    },
+    {
+      "existing_id": "nt-entry",
+      "issue": "三条雇主子类别平铺未体现 Employer-Driven 父级及2026 EOI。",
+      "replacement": "新增父类别及邀请机制；非先到先审。",
+      "source_url": "https://www.gov.nt.ca/en/newsroom/nwt-nominee-program-opens-updated-selection-process"
+    },
+    {
+      "existing_id": "nu-federal",
+      "issue": "联邦路线集合不应列为 Nunavut 省提名或地区专属经济项目。",
+      "replacement": "作为联邦路线交叉引用保留；地区省提名清单明确零项。",
+      "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html"
+    },
+    {
+      "existing_id": "on-entry",
+      "issue": "工作经验描述遗漏必须为同一 job offer 雇主工作。",
+      "replacement": {
+        "experience": "近2年在该 job offer 雇主的同一职位累计至少9个月。"
+      },
+      "source_url": "https://www.ontario.ca/page/2026-ontario-immigrant-nominee-program-updates"
+    },
+    {
+      "existing_id": "on-physician",
+      "issue": "套用普通雇主发起、审批时限及材料模板，会误导无需普通 offer 的自雇医生。",
+      "replacement": {
+        "extra": "自雇医生使用专门申请流程；普通雇主指南明确不适用。不能套用雇主发起、雇主审批及雇主14天时限。",
+        "docs": "按 OWP 自雇医生要求提供 CPSO 合格注册、OHIP 计费资格及个人申请材料。"
+      },
+      "source_url": "https://www.ontario.ca/page/oinp-employer-guide"
+    },
+    {
+      "existing_id": "qc-invest",
+      "issue": "魁省投资者属于直接递交申请制度，泛化为按当期邀请办理缺乏依据。",
+      "replacement": {
+        "status": "现行制度；官网允许随时递交且无接收上限，仍须满足完整甄选条件。"
+      },
+      "source_url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/investors/applying"
+    },
+    {
+      "existing_id": "qc-self",
+      "issue": "魁省自雇属于直接递交申请制度，泛化为按当期邀请办理缺乏依据。",
+      "replacement": {
+        "status": "现行制度；官网允许随时递交且无接收上限，仍须满足完整甄选条件。"
+      },
+      "source_url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/self-employed-workers/applying"
+    },
+    {
+      "existing_id": "qc-innovative",
+      "issue": "缺少两个官方子画像的明确层级；泛化为邀请制不准确。",
+      "replacement": {
+        "status": "现行制度；可随时递交且无接收上限。两个官方子画像须分别审查。"
+      },
+      "source_url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/entrepreneurs/start-operate-innovative-business/applying"
+    },
+    {
+      "existing_id": "qc-startup",
+      "issue": "缺少两个官方子画像的明确层级；泛化为邀请制不准确。",
+      "replacement": {
+        "status": "现行制度；可随时递交且无接收上限。两个官方子画像须分别审查。"
+      },
+      "source_url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/entrepreneurs/start-acquire-business/applying"
+    },
+    {
+      "existing_id": "qc-takeover",
+      "issue": "缺少两个官方子画像的明确层级；泛化为邀请制不准确。",
+      "replacement": {
+        "status": "现行制度；可随时递交且无接收上限。两个官方子画像须分别审查。"
+      },
+      "source_url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/entrepreneurs/takeover/applying"
+    },
+    {
+      "existing_id": "ns-critical-vacancy",
+      "issue": "现有流程把雇主招聘联系错误映射为可直接进入 EE 省提名的路径。",
+      "replacement": {
+        "gate": "收到省招聘联系者按 Critical Vacancies 提交职业信息以供雇主匹配。",
+        "status": "招聘匹配入口；不是省提名或 AIP 背书邀请",
+        "mapping": "职业资料 → 雇主筛选/面试/offer → 再独立满足适用联邦或省级移民路线",
+        "extra": "官方明确声明该通知不是申请 PNP nomination 或 AIP endorsement 的邀请；不能据此推定 EE 提名。"
+      },
+      "source_url": "https://liveinnovascotia.com/critical-vacancies"
+    },
+    {
+      "existing_id": "qc-innovative",
+      "issue": "把第二种创新企业画像简化成普通已成立企业，遗漏实施创新项目的具体性质。",
+      "replacement": {
+        "gate": "两个官方画像：Start-up of an innovative company；Carrying out an innovative project（人在魁省，已有创新企业并实施创新项目）。"
+      },
+      "source_url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/entrepreneurs/start-operate-innovative-business/conditions"
+    },
+    {
+      "existing_id": "qc-peq-grad",
+      "issue": "历史截止日应表述为截至 2025-11-19 已达到条件；两年重启期限不等于连续开放接收。",
+      "replacement": {
+        "gate": "截至2025-11-19已取得限定魁省学历；递交时仍满足完整条件。",
+        "status": "过渡重启：现行接收窗口2026-07-02至10-31；不能将2028年重启终点当作连续开放接收。"
+      },
+      "source_url": "https://www.quebec.ca/immigration/permanente/travailleurs-qualifies/programme-experience-quebecoise/conditions-selection"
+    }
+  ],
+  "record_counts": {
+    "selection": 50,
+    "program": 45,
+    "subpath": 111,
+    "historical": 66,
+    "stream": 81,
+    "work-permit": 55
+  },
+  "counting_note": "目录记录不等于独立开放签证；各层级不相加作为机会数量"
+}

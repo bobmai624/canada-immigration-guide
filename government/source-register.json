@@ -33598,5 +33598,1197 @@
         ]
       ]
     ]
+  },
+  "audit-8c3b7f96ae33": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html",
+    "title": "Express Entry",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-7f576ad0c3d4": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations.html",
+    "title": "General rounds of invitations",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-dd48818b0473": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/medical-doctors.html",
+    "title": "Live and work as a medical doctor in Canada",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-1860425f1986": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/transition-binders/deputy-minister-2026/economic-immigration.html",
+    "title": "Targeted Federal Provincial Nominee Program spaces",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-163e56f02e51": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/understanding-the-one-time-in-canada-workers-initiative.html",
+    "title": "In-Canada Workers Initiative",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-12cf3a5e387b": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/04/filling-labour-gaps-in-smaller-communities-by-accelerating-permanent-residence-for-33000-workers.html",
+    "title": "In-Canada Workers Initiative",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-bcfe6f569288": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/about.html",
+    "title": "Start-up Visa Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-b63599aeac34": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/caregivers/home-care-worker-immigration-pilots/child-care-home-support.html",
+    "title": "Home Care Worker Immigration Pilot: Child Care",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-734d365abe06": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/live-in-caregiver/become-permanent-resident.html",
+    "title": "Live-in Caregiver Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-a2bc1ecb3482": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/caregivers/children.html",
+    "title": "Caring for Children Pilot",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-f8364953f3eb": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/caregivers/people-high-medical-needs.html",
+    "title": "Caring for People with High Medical Needs Pilot",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-c0862860b3cb": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/caregivers/interim-pathway.html",
+    "title": "Interim Pathway for Caregivers Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-de69bb825b37": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/tr-pr-pathway.html",
+    "title": "Temporary resident (TR) to permanent resident (PR) pathway",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-0ef5c5a52902": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-northern-immigration-pilot.html",
+    "title": "Rural and Northern Immigration Pilot (RNIP)",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-8d0fc26a4330": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/sudan2023/pr-pathway.html",
+    "title": "People affected by the conflict in Sudan",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-994a103ba339": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/humanitarian-colombia-haiti-venezuela.html",
+    "title": "Family-based program for Colombians, Haitians and Venezuelans",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-c6f97d665c33": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/pr-family-reunification.html",
+    "title": "Ukrainian nationals with family in Canada",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-860451e8b406": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/gta-construction-workers.html",
+    "title": "Out-of-status construction workers",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-d1e7e6239e93": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/yazidi-or-survivors-of-daesh.html",
+    "title": "Resettled Yazidis and survivors of Daesh",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-54355bf71d54": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/families-ps752.html",
+    "title": "Families of flight PS752 victims",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-70ece132b101": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/spouse-partner-children.html",
+    "title": "Sponsor your spouse, partner or child",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-dd6d10174b77": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/adopt-child-abroad/processes/choose-process/immigration.html",
+    "title": "Sponsor your adopted child",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-5ad4f20e7135": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/other-relatives.html",
+    "title": "Sponsor your relatives",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-f50d97e0e8c3": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/sponsor-parents-grandparents.html",
+    "title": "Sponsor your parents and grandparents",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-8d68756a1fda": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/resettle-refugee/government-assisted-refugee-program.html",
+    "title": "Government-Assisted Refugees Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-1fe2c4e1d98e": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/about-refugee-system/how-system-works.html",
+    "title": "Private Sponsorship of Refugees Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-cc538f17c061": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/sponsor-refugee/private-sponsorship-program/agreement-holders.html",
+    "title": "Sponsorship Agreement Holders",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-5eca0f52bcd3": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/sponsor-refugee/private-sponsorship-program/groups-five.html",
+    "title": "Groups of Five",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-11829f3f1f3e": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/sponsor-refugee/private-sponsorship-program/community-sponsors.html",
+    "title": "Community Sponsors",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-1fbfa5edd52d": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/sponsor-refugee/private-sponsorship-program/blended-visa-office-program.html",
+    "title": "Blended Visa Office-Referred Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-6358ef033e95": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/protection.html",
+    "title": "In-Canada Asylum Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-41c8016d3c72": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/application-permanent-residence-canada-protected-persons-convention-refugees.html",
+    "title": "Protected persons and Convention refugees in Canada",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-f0b11d4bdbbb": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5291-humanitarian-compassionate-considerations.html",
+    "title": "Humanitarian and compassionate considerations",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-ea57dae8fc0d": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5527-application-permanent-residence-temporary-resident-permit-holder.html",
+    "title": "Permit Holder Class",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-4dc4a1c24f3e": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/minors-pr.html",
+    "title": "Permanent residence pathway for foreign nationals who were in state care",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-0b371964e2e4": {
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/agricultural/seasonal-agricultural.html",
+    "title": "Seasonal Agricultural Worker Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-346f6cda36dc": {
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/agricultural/agricultural-stream.html",
+    "title": "Agricultural Stream",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-da0906958483": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/transition-binders/deputy-minister-2026/temporary-workers.html",
+    "title": "Hiring temporary foreign workers in Quebec",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-76dd61e89021": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html#r204",
+    "title": "R204 — Agreements or arrangements",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-fa12477f55d8": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html#r205",
+    "title": "R205 — Canadian interests",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-fcf17a4fef9d": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html#r206",
+    "title": "R206 — No other means of support",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-2c577181f0cb": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html#r207",
+    "title": "R207 — Permanent residence applicants in Canada",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-3eb2c1b17592": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html#r207.1",
+    "title": "R207.1 — Vulnerable workers",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-357e0268b76a": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html#r208",
+    "title": "R208 — Humanitarian reasons",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-6c8797a092dd": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html#a25",
+    "title": "A25.2 — Public policies",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-37cc77b6b6fe": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canada-international-non-trade-agreements-r204-t11.html",
+    "title": "Canada-international non-trade agreements [T11]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-28889f288314": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/federal-provincial-territorial-agreements-r204-lmia-exemption-code-t13.html",
+    "title": "Canada-provincial/territorial agreements [T13]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-22cfb1f3ecd5": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/foreign-workers/quebec-cases-program.html",
+    "title": "Quebec investors with notice of intent to select [T10]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-727b928713bb": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-general-guidelines-r205-c10.html",
+    "title": "Significant benefit [C10]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-fd52f3c9de30": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/entrepreneurs-self-employed-seeking-only-temp-residence-r205-c11.html",
+    "title": "Entrepreneurs or self-employed business owners [C11]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-f5d585cf0b08": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-entrepreneurs-self-employed-candidates-seeking-operate-business-r205-c11.html",
+    "title": "Provincial business candidates or Quebec-selected entrepreneurs/self-employed persons [C60]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-6bfe8f60c491": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/intra-company-transferees.html",
+    "title": "ICT — Starting a branch or affiliate [C61]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-10b496e902ff": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-emergency-repair-personnel-repair-personnel-warranty-equipment-r205-exemption.html",
+    "title": "Emergency repair personnel [C13]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-db4773eff078": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-significant-benefit-television-film-production-workers-r205-exemption-code-c14.html",
+    "title": "Television and film production workers [C14]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-55dd263e7121": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-reciprocal-employment-general-guidelines-r205-b-c20.html",
+    "title": "Reciprocal employment [C20]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-a7ac596f80ef": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/unique-situations/camp-counsellors-r205-b-exemption-code-c20.html",
+    "title": "Residential summer camp counsellors [C24]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-1f4012e0a6c3": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-reciprocal-employment-academic-exchanges-r205-b-exemption-code-c22.html",
+    "title": "Academic exchanges [C22]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-29ebad1109a1": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-reciprocal-employment-performing-arts-r205-b-exemption-code-c23.html",
+    "title": "Performing arts [C23]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-c52012eac315": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/work-related-research-educational-training-program-r205-1-2-codes-c31-c32-c33.html",
+    "title": "Research [C31]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-74adc90ccdc2": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/public-policy-competitiveness-economy.html",
+    "title": "Post-doctoral fellows [C44]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-b599d60cbb1f": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/public-policy-competitiveness-economy/c52.html",
+    "title": "Academic award recipients [C52]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-1befe24ec626": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/religious-work.html",
+    "title": "Religious work [C50]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-1fd13311b9e6": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/canadian-interests-charitable-religious-work-r205-exemption-code-c50.html",
+    "title": "Charitable work [C51]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-2516ca72687f": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/applicants-no-other-means-support-r206.html",
+    "title": "Refugee claimants [S61]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-e904f9b385de": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/applicants-canada.html",
+    "title": "Permanent residence applicants in Canada [A70]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-c3455b970759": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/vulnerable-workers.html",
+    "title": "Vulnerable workers and their family members [A72]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-0e0afadd97aa": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/humanitarian-reasons-r208.html",
+    "title": "Destitute students [H81]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-21132728497c": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/humanitarian-h82.html",
+    "title": "Temporary resident permit holders [H82]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-42a8588c30f2": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/cusma/traders.html",
+    "title": "CUSMA",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-10b6bbd77437": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-colombia/traders.html",
+    "title": "Canada–Colombia Free Trade Agreement",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-fc5934539437": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-chile/traders.html",
+    "title": "Canada–Chile Free Trade Agreement",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-9e7e4990893b": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-canada-korea/traders.html",
+    "title": "Canada–Korea Free Trade Agreement",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-b5f044412029": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/panama/professionals.html",
+    "title": "Canada–Panama Free Trade Agreement",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-b8435bb9e2e9": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/internationals-ftas-canada-peru/traders.html",
+    "title": "Canada–Peru Free Trade Agreement",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-7846b13469de": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/general-agreement-trade-services.html",
+    "title": "General Agreement on Trade in Services (GATS)",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-67a883ba5dcc": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/canada-eu/investors.html",
+    "title": "CETA",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-e12efd8f266c": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/trans-pacific/investors.html",
+    "title": "CPTPP",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-763a4b98ab0b": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/international-free-trade-agreements/agreement-cuktca/contract-independent-professionals.html",
+    "title": "Canada–United Kingdom Trade Continuity Agreement",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-ba22d4039f4f": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/provincial-nominees-permanent-resident-applicants/bridging-open-work-permits.html",
+    "title": "Bridging open work permits [A75]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-7498ec13b3f2": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/labour-market-impact-assessment-exempt-work-permit-renewals-extensions-certain-quebec-selection-holders.html",
+    "title": "Quebec Selection Certificate holders currently in Quebec [A73]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-23d72c73a62a": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/quebec-cases/csq-outside-quebec.html",
+    "title": "Quebec Selection Certificate holders outside Quebec [A76]",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-b21ee1cfa772": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/work-permits.html",
+    "title": "Start-up visa optional open work permit",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-a7ea7da33f38": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/open-work-pathways-hong-kong.html",
+    "title": "Optional open work permits for Hong Kong PR applicants",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-9e8522aaf501": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/hong-kong-graduates.html",
+    "title": "Hong Kong recent graduates",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-6d7072ca4276": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/global-skills-strategy.html",
+    "title": "Global Skills Strategy",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-62f827ebd9ef": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work.html",
+    "title": "Working in Canada as an international student",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-09b413019a98": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-on-campus.html",
+    "title": "Work on campus",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-1c5ce454a678": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/work-off-campus.html",
+    "title": "Work off campus",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-6651a1b2abff": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/work-without-permit.html",
+    "title": "Work without a work permit",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-0536fbc90aff": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/global-skills-strategy/exemptions.html",
+    "title": "Short-term highly skilled workers",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-e889ec02cfc2": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/need-permit.html",
+    "title": "Employer-specific work permit",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-3815bda92e01": {
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-program-guide-may-28-2026-pdf",
+    "title": "Health Authority",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-77733c7009c8": {
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-program-guide_january-17-2025-pdf",
+    "title": "International Graduate",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-c3b25c50c0d7": {
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-program-guide_jan-7-2025-pdf",
+    "title": "International Post-Graduate",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-91d1a723fc0f": {
+    "url": "https://www.alberta.ca/alberta-advantage-immigration-program",
+    "title": "Alberta Advantage Immigration Program (AAIP)",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-e592c64a75fd": {
+    "url": "https://www.alberta.ca/aaip-alberta-express-entry-stream",
+    "title": "Accelerated Tech Pathway",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-ff812532fa2d": {
+    "url": "https://www.alberta.ca/aaip-expired-streams",
+    "title": "Employer-driven Stream",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-dc5a1e53873f": {
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program",
+    "title": "Saskatchewan Immigrant Nominee Program (SINP)",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-57c1ee3cc828": {
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-with-saskatchewan-experience",
+    "title": "Worker with Saskatchewan Work Experience",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-5929b3fff804": {
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/farm-owner-and-operator/applicants-farm-owners-and-operators",
+    "title": "Farm Owner and Operator Category",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-9072da286d12": {
+    "url": "https://immigratemanitoba.com/mpnp/streams/",
+    "title": "Manitoba Provincial Nominee Program (MPNP)",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-dc2d740367c3": {
+    "url": "https://immigratemanitoba.com/mpnp/skilled-worker/",
+    "title": "Skilled Worker Stream",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-c45f4bbff2b2": {
+    "url": "https://immigratemanitoba.com/mpnp/ies/",
+    "title": "International Education Stream",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-7a8d6655894e": {
+    "url": "https://immigratemanitoba.com/mpnp/bis/",
+    "title": "Business Investor Stream",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-624a610e4346": {
+    "url": "https://immigratemanitoba.com/resources/data/annual-report-2024/",
+    "title": "Strategic Recruitment Initiatives",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-bf8d8ac13af7": {
+    "url": "https://immigratemanitoba.com/employer-direct-initiative/",
+    "title": "Employer Direct Initiative",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-01eb646cb842": {
+    "url": "https://immigratemanitoba.com/employer-services/temporary-resident-retention-pilot/",
+    "title": "Temporary Resident Retention Pilot",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-dcbd8c119cc7": {
+    "url": "https://immigratemanitoba.com/mpnp/regional-immigration-initiatives/",
+    "title": "Regional Immigration Initiatives",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-28367eb02756": {
+    "url": "https://immigratemanitoba.com/embed/",
+    "title": "Francophone Community",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-3b9bdb419801": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/public-policies/prospective-pnp-applicants.html",
+    "title": "Manitoba Workforce Transition Bridge public policy",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-5cba741b1202": {
+    "url": "https://yukon.ca/en/immigration/yukon-business-nominee-program",
+    "title": "Yukon Business Nominee Program (YBNP)",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-a6c5ce803dc8": {
+    "url": "https://yukon.ca/en/immigration/yukon-business-nominee-program/apply-run-your-own-business-yukon-foreign-entrepreneurs?wbdisable=true",
+    "title": "Yukon Business Nominee Program (YBNP)",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-e2b66f4623ad": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/non-express-entry/after-apply/yukon-community-pilot.html",
+    "title": "Yukon Community Pilot — open work permit",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-dc8a5e4b65aa": {
+    "url": "https://www.gov.nt.ca/en/newsroom/nwt-nominee-program-opens-updated-selection-process",
+    "title": "Northwest Territories Nominee Program (NTNP)",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-54704c91b019": {
+    "url": "https://www.gov.nt.ca/en/newsroom/northwest-territories-nominee-program-allocations-increased-300",
+    "title": "Francophone Stream",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-0837b10a0808": {
+    "url": "https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp",
+    "title": "Ontario Immigrant Nominee Program (OINP)",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-ec46b0e82634": {
+    "url": "https://news.ontario.ca/en/release/1007677/ontario_modernizing_immigration_program_to_fill_in_demand_jobs",
+    "title": "OINP redesign Phase 2 — remaining three streams",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-6174d9dd99a8": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/skilled-workers/skilled-worker-selection-program/invitation",
+    "title": "PSTQ invitation criteria and Arrima ranking",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-0bb5eadb134f": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/investors",
+    "title": "Investor Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-fc77ec30d4b0": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/investors/applying",
+    "title": "Investor Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-79c4f120bfe1": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/self-employed-workers/applying",
+    "title": "Self-Employed Worker Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-b16d60c813d7": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/entrepreneurs/start-operate-innovative-business/conditions",
+    "title": "Stream 1: Innovative business",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-eb7b76b409d6": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/entrepreneurs/start-operate-innovative-business/applying",
+    "title": "Stream 1: Innovative business",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-1fc97905b6bf": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/entrepreneurs/start-acquire-business/applying",
+    "title": "Stream 2: Business start-up",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-df8aa3aab06e": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/entrepreneurs/takeover/applying",
+    "title": "Stream 3: Business takeover",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-a61fdec93f4b": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/skilled-workers/regular-skilled-worker-program",
+    "title": "Programme régulier des travailleurs qualifiés (PRTQ)",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-2798b08ae5c2": {
+    "url": "https://www.quebec.ca/immigration/permanente/travailleurs-qualifies/transformation-alimentaire",
+    "title": "Permanent immigration pilot program for workers in food processing",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-0e70044558f7": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/skilled-workers/orderlies",
+    "title": "Permanent immigration pilot program for orderlies",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-0791c3445c9a": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/skilled-workers/artificial-intelligence",
+    "title": "Permanent immigration pilot program for workers in the artificial intelligence, information technologies and visual effects sectors",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-449af56db48a": {
+    "url": "https://www.gnb.ca/en/topic/family-home-community/immigration/provincial-nominee-program/pccg-pilot-program.html",
+    "title": "New Brunswick Private Career College Graduate Pilot Program",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-a17e54dcce97": {
+    "url": "https://www.gnb.ca/en/topic/family-home-community/immigration/atlantic-immigration-program.html",
+    "title": "Atlantic Immigration Program — New Brunswick implementation",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-6bfba640a04b": {
+    "url": "https://liveinnovascotia.com/resources/nsnp-update-four-consolidated-streams",
+    "title": "Nova Scotia Nominee Program (NSNP)",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-1577f90f2c34": {
+    "url": "https://liveinnovascotia.com/critical-vacancies",
+    "title": "Critical Vacancies",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-09861056f4aa": {
+    "url": "https://liveinnovascotia.com/resources/update-nova-scotia-nominee-program-and-atlantic-immigration-program-2026-selection",
+    "title": "2026 selection priorities and one-time expansion",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-cec72ac7a9cb": {
+    "url": "https://liveinnovascotia.com/atlantic-immigration-program",
+    "title": "Atlantic Immigration Program — Nova Scotia implementation",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-1a6835efdd97": {
+    "url": "https://www.princeedwardisland.ca/en/topic/immigrate-to-pei-as-a-worker",
+    "title": "Skilled Workers in PEI",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-c9567c3cc66f": {
+    "url": "https://www.princeedwardisland.ca/en/information/office-of-immigration/skilled-workers-outside-canada",
+    "title": "Skilled Workers Outside Canada",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-d947a7308f53": {
+    "url": "https://www.princeedwardisland.ca/en/information/office-of-immigration/critical-workers",
+    "title": "Critical Workers",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-0f5bb0af1203": {
+    "url": "https://www.princeedwardisland.ca/en/information/office-of-immigration/international-graduates",
+    "title": "International Graduates",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-c560646c16bf": {
+    "url": "https://www.princeedwardisland.ca/en/information/office-of-immigration/intermediate-experience-stream",
+    "title": "Intermediate Experience Stream",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-d5b5fa135c1b": {
+    "url": "https://www.princeedwardisland.ca/en/information/office-of-immigration/pei-express-entry",
+    "title": "PEI Express Entry",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-2ab637c5288b": {
+    "url": "https://www.princeedwardisland.ca/en/service/atlantic-immigration-program-endorsement-application",
+    "title": "Atlantic Immigration Program — PEI implementation",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-9164894a4bb7": {
+    "url": "https://www.princeedwardisland.ca/sites/default/files/publications/iidi-annual-report-2018-2019-web_0.pdf",
+    "title": "100% Ownership Stream",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-4e885d61d00f": {
+    "url": "https://www.gov.nl.ca/immigration/expression-of-interest-model-prioritization-criteria/",
+    "title": "Expression of Interest prioritization criteria",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-b295f610b9a4": {
+    "url": "https://www.gov.nl.ca/immigration/assessing-language-skills-of-french-speaking-candidates/",
+    "title": "Francophone EOI prioritization",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-b7c53e27f627": {
+    "url": "https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/atlantic-immigration-program/workers/",
+    "title": "Atlantic Immigration Program — NL implementation",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-093a16fd5ae9": {
+    "url": "https://www.gov.nl.ca/releases/2025/ipgs/0219n02/",
+    "title": "Atlantic Immigration Program — NL implementation",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-861feaf045a3": {
+    "url": "https://www.gov.nl.ca/immigration/priority-skills-nl/",
+    "title": "Priority Skills Newfoundland and Labrador",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "audit-3c16870f2931": {
+    "url": "https://www.gov.nl.ca/releases/2020/exec/1118n02/",
+    "title": "Priority Skills Newfoundland and Labrador",
+    "status": "audit-reference",
+    "checked": "2026-09-17",
+    "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
+    "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
   }
 }
