@@ -34790,5 +34790,733 @@
     "checked": "2026-09-17",
     "verification": "已纳入本轮政府目录核对。证据读取限制与待核事项见对应地区盘点页；不代表全部条款或截图已归档。",
     "method": "官方项目索引、状态公告及已有官方资料交叉核对；参见 index-audit.json"
+  },
+  "detail-7186d7bf300c": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html",
+    "title": "IRCC — language test",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-f091c9135873": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html",
+    "title": "IRCC — proof funds",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-5aa277dd3e25": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents.html",
+    "title": "IRCC — documents",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-74ae6ed1ceeb": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/express-entry/eligibility.html",
+    "title": "IRCC — eligibility",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-0c439c2fb580": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/express-entry/get-confirm-nomination.html",
+    "title": "IRCC — get confirm nomination",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-c4f8bc2dc2e7": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/express-entry.html",
+    "title": "IRCC — express entry",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-57969e6a5b9a": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/non-express-entry/documents.html",
+    "title": "IRCC — documents",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-d4ce35d7fcca": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-skilled-workers/eligibility.html",
+    "title": "IRCC — eligibility",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-5b4cc6ac8b16": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-skilled-workers/apply.html",
+    "title": "IRCC — apply",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-3a075ec41440": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-business/eligibility.html",
+    "title": "IRCC — eligibility",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-24cafdef586e": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-business/apply.html",
+    "title": "IRCC — apply",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-a3babf7541b8": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/how-to-immigrate/work-experience.html",
+    "title": "IRCC — work experience",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-499f0b7e3948": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/education-assessment.html",
+    "title": "IRCC — education assessment",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-1d23a4d87bb7": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/language-testing.html",
+    "title": "IRCC — language testing",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-0bfd08caf637": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/how-to-immigrate/job-offer.html",
+    "title": "IRCC — job offer",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-a5abf92c00a6": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/how-to-immigrate/permanent-residence.html",
+    "title": "IRCC — permanent residence",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-c4b0d46397bc": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/how-to-immigrate/eligibility.html",
+    "title": "IRCC — eligibility",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-7e4440e35f73": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/hire-immigrant/endorsement.html",
+    "title": "IRCC — endorsement",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-5bf27a2a93f0": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/work-experience.html",
+    "title": "IRCC — work experience",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-a4c619b2a502": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/language-test.html",
+    "title": "IRCC — language test",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-a2d6561af190": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/education-assessment.html",
+    "title": "IRCC — education assessment",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-88f6da062f67": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/proof-funds.html",
+    "title": "IRCC — proof funds",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-bc1ecce4daf4": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/permanent-residence.html",
+    "title": "IRCC — permanent residence",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-3e333a2f51e4": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility/work-experience.html",
+    "title": "IRCC — work experience",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-36624cbdbd15": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility/language-test.html",
+    "title": "IRCC — language test",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-6fafa606031b": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility/education-assessment.html",
+    "title": "IRCC — education assessment",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-a3917b81aa0d": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility/proof-funds.html",
+    "title": "IRCC — proof funds",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-199de7932673": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/permanent-residence.html",
+    "title": "IRCC — permanent residence",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-f0b7f54832fc": {
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage/high/requirements.html",
+    "title": "ESDC — requirements",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-fab71f0c38a7": {
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/median-wage/low/requirements.html",
+    "title": "ESDC — requirements",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-05eaf6e1a913": {
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/agricultural/agricultural.html",
+    "title": "ESDC — agricultural",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-7b127007751e": {
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/agricultural/agricultural/requirements.html",
+    "title": "ESDC — requirements",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-7db036533d25": {
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/agricultural/seasonal-agricultural/requirements.html",
+    "title": "ESDC — requirements",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-73ed5ca0d4ab": {
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/global-talent/requirements.html",
+    "title": "ESDC — requirements",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-99768ce181ce": {
+    "url": "https://www.canada.ca/en/employment-social-development/services/foreign-workers/permanent/requirements.html",
+    "title": "ESDC — requirements",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-56ffa2d0e9c5": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/get-documents.html",
+    "title": "IRCC — get documents",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-7d66ffff838e": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/apply.html",
+    "title": "IRCC — apply",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-5ba3c1754d10": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/francophone-mobility/apply.html",
+    "title": "IRCC — apply",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-2cfc4856ffd8": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/spouses-dependent-children/eligibility.html",
+    "title": "IRCC — eligibility",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-78b5a3d6450e": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/spouses-dependent-children/apply.html",
+    "title": "IRCC — apply",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-379e0b072392": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/pr-work-permits/bridging.html",
+    "title": "IRCC — bridging",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-569b884a1765": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/spouse-partner-children/eligibility.html",
+    "title": "IRCC — eligibility",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-2e4028a04013": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/spouse-partner-children/who-you-can-sponsor.html",
+    "title": "IRCC — who you can sponsor",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-566ec03c5dcb": {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/spouse-partner-children/apply.html",
+    "title": "IRCC — apply",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-8da21ba2badd": {
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-technical-guide-pdf",
+    "title": "Skills Immigration Application Guide 第6部分",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-a0d8a8fa2cab": {
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-employer-declaration-form-pdf",
+    "title": "Employer Declaration Form",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-c47df5498a3b": {
+    "url": "https://www.alberta.ca/system/files/jeti-aaip-worker-streams-document-checklist.pdf",
+    "title": "AAIP Worker Streams Checklist",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-84d792f59708": {
+    "url": "https://www.alberta.ca/how-to-apply-to-aaip-worker-streams",
+    "title": "Employer Declaration and Authorization",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-28f996ea270e": {
+    "url": "https://www.alberta.ca/system/files/jeti-aaip-rural-entrepreneur-stream-checklist.pdf",
+    "title": "本stream正式Business Application Checklist",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-8168a61e563f": {
+    "url": "https://www.alberta.ca/aaip-rural-entrepreneur-stream-how-to-apply",
+    "title": "官方资格及程序依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-f5fd1be5d7a4": {
+    "url": "https://www.alberta.ca/system/files/jeti-aaip-graduate-entrepreneur-stream-checklist.pdf",
+    "title": "本stream正式Business Application Checklist",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-3d342cf88523": {
+    "url": "https://www.alberta.ca/aaip-graduate-entrepreneur-stream-how-to-apply",
+    "title": "官方资格及程序依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-10d3eefec8a7": {
+    "url": "https://www.alberta.ca/system/files/jeti-aaip-foreign-graduate-entrepreneur-stream-checklist.pdf",
+    "title": "本stream正式Business Application Checklist",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-319e66112f5b": {
+    "url": "https://www.alberta.ca/aaip-foreign-graduate-entrepreneur-stream-how-to-apply",
+    "title": "官方资格及程序依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-2c716aa7d215": {
+    "url": "https://www.alberta.ca/aaip-farm-stream-eligibility",
+    "title": "管理与资金",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-1176c3f6e93c": {
+    "url": "https://www.alberta.ca/system/files/custom_downloaded_images/lbr-aaip-farm-stream-checklist.pdf",
+    "title": "本stream正式Business Application Checklist",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-8996b58d919c": {
+    "url": "https://www.alberta.ca/aaip-farm-stream-how-to-apply",
+    "title": "官方资格及程序依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-4ebc84816d4d": {
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-with-saskatchewan-experience/applicants-with-existing-work-permit",
+    "title": "雇佣",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-d96f270eefa4": {
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-international-skilled-workers/international-skilled-worker-occupations-in-demand",
+    "title": "评分学历语言",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-82ad8fdaece9": {
+    "url": "https://publications.saskatchewan.ca/api/v1/products/102709/formats/113851/download",
+    "title": "官方资格及程序依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-d0bf1401a88e": {
+    "url": "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program/browse-sinp-programs/applicants-international-skilled-workers/international-skilled-worker-saskatchewan-express-entry",
+    "title": "评分学历语言",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-ab972f2bb747": {
+    "url": "https://immigratemanitoba.com/mpnp/apply/laa/",
+    "title": "正式申请说明",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-fc5f340f7580": {
+    "url": "https://immigratemanitoba.com/mpnp/ies/gip/eligibility/",
+    "title": "毕业实习",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-a65765572d95": {
+    "url": "https://immigratemanitoba.com/wp-content/uploads/2019/03/mpnp-isep-guideline-kit.pdf",
+    "title": "资格及材料",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-909f35e015eb": {
+    "url": "https://immigratemanitoba.com/wp-content/uploads/2024/04/BIS-Entrepreneur-Stream-Guidelines-final-June-2023.pdf",
+    "title": "资格及材料",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-03be0f0e29b2": {
+    "url": "https://yukon.ca/en/yukon-nominee-program-application-form",
+    "title": "YNP Application Form及内置清单",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-2c77145f2255": {
+    "url": "https://yukon.ca/sites/default/files/ecdev-yukon-nominee-program-application-handbook__2026.07.02.pdf",
+    "title": "YNP Handbook",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-91b7e089b541": {
+    "url": "https://yukon.ca/sites/default/files/ecdev/ecdev-yukon-business-nominee-policy-appendix_0.pdf",
+    "title": "YBNP Policy Appendix 1",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-45dded979ded": {
+    "url": "https://www.immigratenwt.ca/sites/immigratenwt/files/resources/2025_-_11_-_ntnp_program_guidelines_-_francophone_stream-_final.pdf",
+    "title": "双语",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-0d7950825acc": {
+    "url": "https://www.immigratenwt.ca/francophone-stream-application-checklist",
+    "title": "Francophone Stream Checklist",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-9f64f46bd9b8": {
+    "url": "https://www.immigratenwt.ca/ntnp3-business-stream-nominee-application-checklist",
+    "title": "NTNP-03 Business Checklist",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-50155711d7d5": {
+    "url": "https://www.princeedwardisland.ca/sites/default/files/forms/peiw-02_workforce_job_offer_form.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-2237ae95d822": {
+    "url": "https://www.princeedwardisland.ca/sites/default/files/publications/business_impact_application_guide.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-c9ff27f810de": {
+    "url": "https://www.gov.nl.ca/immigration/4-skilled-worker-category-eligibility-criteria/",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-d0d49bab392d": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/skilled-workers/skilled-worker-selection-program/applying/list-supporting-documents",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-05c2d8378e2a": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/skilled-workers/skilled-worker-selection-program/applying",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-5a6781971e5d": {
+    "url": "https://cdn-contenu.quebec.ca/cdn-contenu/immigration/formulaires/fr/FO_demande_selection_volet_travailleurs_A0520IF.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-e32bcb3fefa7": {
+    "url": "https://cdn-contenu.quebec.ca/cdn-contenu/immigration/formulaires/fr/FO_demande_selection_volet_diplomes_A0520GF.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-dfbb7246dfd0": {
+    "url": "https://www.quebec.ca/en/immigration/permanent/immigrate-business/self-employed-workers/conditions",
+    "title": "官方资格条件",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-49a4ea4a389e": {
+    "url": "https://www.ontario.ca/page/oinp-employer-guide",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-230207a22ed2": {
+    "url": "https://www.ontario.ca/document/oinp-document-checklists/applicant-checklist-ontario-workforce-priority-stream",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-f42438224c19": {
+    "url": "https://www.ontario.ca/document/oinp-document-checklists/employer-checklist-ontario-workforce-priority-stream",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-aaaf385409da": {
+    "url": "https://www.ontario.ca/laws/regulation/170422",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-fa82f94cc41f": {
+    "url": "https://www2.gnb.ca/content/dam/gnb/Corporate/Promo/Immigration/guide-new-brunswick-experience.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-ef010de980de": {
+    "url": "https://www2.gnb.ca/content/dam/gnb/Corporate/Promo/Immigration/guide-new-brunswick-graduates.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-c3143c0757b8": {
+    "url": "https://www2.gnb.ca/content/dam/gnb/Corporate/Promo/Immigration/nbpnp-si-francophone-workers-in-nb.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-4c163a61c2cd": {
+    "url": "https://www2.gnb.ca/content/dam/gnb/Corporate/Promo/Immigration/nbpnp-si-nb-francophone-priorities.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-95301dd4bd29": {
+    "url": "https://www2.gnb.ca/content/dam/gnb/Corporate/Promo/Immigration/nbpnp-si-francophones-working-remotely-in-nb.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-b312efe7e023": {
+    "url": "https://www.gnb.ca/content/dam/GNB3/t/fhc-fmc/immigration/docs/nbbis-001-document-checklist.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-e334171143c8": {
+    "url": "https://www2.gnb.ca/content/dam/gnb/Corporate/Promo/Immigration/guide-to-nb-critical-worker-pilot.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
+  },
+  "detail-97628dd171c8": {
+    "url": "https://www.gnb.ca/content/dam/GNB3/t/fhc-fmc/immigration/docs/guide-nb-private-career-college-graduate-pilot.pdf",
+    "title": "官方材料、流程或限制依据",
+    "status": "detail-reference",
+    "checked": "2026-09-18",
+    "verification": "本轮条件与材料档案引用。部分页面仅取得检索摘要或先前官方记录；具体读取限制见对应选项的待核事项。未声明已有完整截图。",
+    "method": "官方资格页、清单与指南核对；参见 option-details.json"
   }
 }
