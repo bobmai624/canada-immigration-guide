@@ -1,0 +1,2442 @@
+
+[PDF PAGE 1]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+British Columbia 
+Provincial Nominee 
+Program 
+ 
+Skills Immigration 
+Application Guide 
+ 
+ 
+ 
+
+[PDF PAGE 2]
+ 
+ 
+In the event of a discrepancy between the Skills Immigration Application Guide and the Skills 
+Immigration Program Guide, the program guide shall be considered correct. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The BC Provincial Nominee Program 
+Vancouver, B.C. 
+Canada 
+ 
+E-mail: PNPinfo@gov.bc.ca 
+Website: WelcomeBC.ca/PNP 
+ 
+ 
+ 
+ 
+The offices of the BC Provincial Nominee Program are located on the traditional territory of the 
+Squamish, Musqueam, and Tsleil-Waututh peoples, who have been stewards of this area for 
+many generations. 
+  
+
+[PDF PAGE 3]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 1: Skills Immigration Application Guide 
+Instructions 
+3 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+Part 1: Skills Immigration Application Guide Instructions ................................ ........... 5 
+About the Skills Immigration Application Guide ............................................................................... 5 
+General information ............................................................................................................................ 5 
+How to find eligibility criteria for Skills Immigration streams ........................................................................ 5 
+Communication with the BC PNP ....................................................................................................................... 5 
+Fees and Processing times .................................................................................................................................. 5 
+Be aware of immigration fraud ........................................................................................................................... 6 
+Skills Immigration Application Process at a Glance .......................................................................... 7 
+Part 2: The BCPNP Online User Portal ................................ ................................ ............. 8 
+BCPNP Online User Portal: ‘My Profile’ .............................................................................................. 8 
+Provide personal and contact information ..................................................................................................... 10 
+Ensure your profile remains current and accurate ........................................................................................ 13 
+BCPNP Online User Portal: ‘My Dashboard’ .................................................................................... 14 
+BCPNP Online User Portal: ‘My Representative’ .............................................................................. 14 
+Declaring a representative ................................................................................................................................ 15 
+Changing or removing your representative ................................................................................................... 16 
+Part 3: Your Registration ................................ ................................ ................................  17 
+Select your stream ............................................................................................................................. 17 
+Decide if you will use the Express Entry BC option ......................................................................... 18 
+Complete all tabs of the registration form ...................................................................................... 18 
+Registrant tab ...................................................................................................................................................... 19 
+Education tab ....................................................................................................................................................... 20 
+Work Experience tab ........................................................................................................................................... 22 
+Job Offer tab ......................................................................................................................................................... 23 
+Language tab ....................................................................................................................................................... 24 
+Submit tab ............................................................................................................................................................ 26 
+Making changes to your registration ............................................................................................... 28 
+Prepare documents for application ................................................................................................. 29 
+Maintain your Express Entry profile ................................................................................................. 29 
+Part 4: Your Application................................ ................................ ................................ .. 30 
+Submit an application ........................................................................................................................ 30 
+After you receive an Invitation to Apply .......................................................................................................... 30 
+Start a Health Authority stream application ................................................................................................... 31 
+Complete all tabs of the application form ....................................................................................... 31 
+Applicant tab ........................................................................................................................................................ 32 
+Education tab ....................................................................................................................................................... 34 
+Work experience tab ........................................................................................................................................... 36 
+Family tab ............................................................................................................................................................. 37 
+Job Offer tab ......................................................................................................................................................... 40 
+Job Offer tab – Health Authority ........................................................................................................................ 43 
+Language tab ....................................................................................................................................................... 45 
+Attachments tab .................................................................................................................................................. 47 
+Submit tab ............................................................................................................................................................ 49 
+Notify the BC PNP of changes to your application ......................................................................... 52 
+
+[PDF PAGE 4]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 1: Skills Immigration Application Guide 
+Instructions 
+4 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+After submitting your application .................................................................................................... 52 
+Additional document requests .......................................................................................................................... 52 
+Request to withdraw your application ............................................................................................................. 53 
+Part 5: Decision ................................ ................................ ................................ ................ 53 
+Becoming a provincial nominee ....................................................................................................... 53 
+Applications that are not approved.................................................................................................. 54 
+Part 6: Documentation Requirements by stream ................................ ........................ 54 
+Preparing documents for submission ............................................................................................. 54 
+Skilled Worker stream ........................................................................................................................................ 55 
+Health Authority stream (direct employees) ................................................................................................... 56 
+Health Authority stream (physicians, nurse practitioners, and midwives)  ................................................. 57 
+Temporary Rural/Remote Health Support initiative ...................................................................................... 58 
+Description of documents ................................................................................................................. 59 
+Description of required documents about the applicant .............................................................................. 59 
+Description of required documents about the applicant’s family ............................................................... 61 
+Description of required documents about the supporting employer  ........................................................ 61 
+Part 7: Request for Review ................................ ................................ .............................  63 
+Complete all tabs of the Request for Review form ......................................................................... 64 
+Attachments tab .................................................................................................................................................. 65 
+Submit Tab ........................................................................................................................................................... 65 
+ 
+  
+
+[PDF PAGE 5]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 1: Skills Immigration Application Guide 
+Instructions 
+5 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Part 1: Skills Immigration Application Guide Instructions 
+About the Skills Immigration Application Guide 
+The Skills Immigration Application Guide will help you understand how to register (if applicable) 
+and apply to a Skills Immigration stream, including how to select the Express Entry BC option. It 
+will also help you understand how to request a review of a refusal decision. 
+Each stream has different document requirements. These are identified in this guide.  
+General information 
+How to find eligibility criteria for Skills Immigration streams 
+Before registering or applying to one of the BC PNP’s Skills Immigration streams, you should 
+understand the eligibility requirements  
+• The best way to do this is to read the Skills Immigration Program Guide 
+• After reading the Skills Immigration Program Guide, you should be able to identify which 
+stream best fits your situation.  
+• Once you’ve selected the correct stream, you can then choose whether to select the 
+Express Entry BC option for that stream. This is explained further in part 3 of this guide.  
+• If you have registered and/or applied to the BC PNP without selecting the EEBC option, 
+your registration/application cannot later be converted to the EEBC option. 
+The Skills Immigration Program Guide can be found on the documents page of our website. 
+Communication with the BC PNP 
+Our website explains how to contact the BC PNP by email, request a call-back by phone, or 
+schedule a video appointment. Please note that BC PNP staff cannot provide advice.   
+If you have submitted a registration or application, BC PNP staff will only communicate with you 
+if you are using the email address in the BCPNP Online user portal. It is important to make sure 
+you use the same email address, and that you always have access to that email.  
+If you would like confirmation that your e -mail messages to the BC PNP have been received, 
+please enable delivery receipts and/or read receipts in your email. 
+As part of an application assessment, BC PNP staff may contact you for additional information or 
+documents. For more information, please see additional document requests  in this guide or 
+section 1.6 of the Skills Immigration Program Guide.  
+Fees and Processing times 
+Fees for applications and requests for review are listed on the Workers page of our website.   
+• There is no cost to register for the BC PNP 
+• The BC PNP only accepts payment through the BCPNP Online user portal 
+ 
+
+[PDF PAGE 6]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 1: Skills Immigration Application Guide 
+Instructions 
+6 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Processing times are listed at the bottom of the Process section of our website. 
+• Processing times start on the date we receive your complete application 
+• Registrations are different from applications, and do not have processing times. A 
+registration is how you express interest in applying for the BC PNP. 
+• We will not respond to application status inquiries when the application is within our 
+standard processing times 
+Be aware of immigration fraud  
+Immigration fraud is a serious issue. Please refer to the fraud awareness page of our website 
+for important information on fraud risks to help protect yourself.  
+It is important to make sure you get accurate and up-to-date immigration information. The 
+best place to get information about the BC PNP is from the BC PNP. The BC PNP’s website is: 
+https://www.welcomebc.ca/immigrate-to-b-c. Information from other sources may be incorrect 
+or outdated.  
+If you are seeking immigration advice, make sure you only get advice from someone licenced 
+and authorized to do so, even if they are outside Canada.  
+Anyone providing immigration advice must be a member in good standing of a Canadian law 
+society, the College of Immigration and Citizenship Consultants, or La Chambre des notaires du 
+Québec. More information can be found in part 2 of the Skills Immigration Program Guide. 
+Examples of the differences between providing immigration information and immigration 
+advice: 
+Immigration information Immigration advice 
+Providing general facts about immigration 
+processes, policies, requirements, and 
+procedures. 
+Applying the facts to a specific situation; 
+providing guidance and helping someone 
+navigate the process. 
+Helping someone find information or forms 
+online. 
+Telling someone how to answer the questions 
+on an application form 
+Providing the correct links to websites or 
+specific webpages for more information 
+Providing guidance on the criteria of an 
+immigration program 
+ 
+  
+
+[PDF PAGE 7]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 1: Skills Immigration Application Guide 
+Instructions 
+7 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Skills Immigration Application Process at a Glance 
+The figure below is a brief overview of the steps involved in applying for a Skills Immigration 
+stream. More thorough information about each step is provided in this guide.  
+ 
+ 
+ 
+
+
+[PDF PAGE 8]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 2: The BCPNP Online User Portal 8 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Part 2: The BCPNP Online User Portal 
+The BCPNP Online User Portal is the BC PNP’s registration and application system. All 
+registrations, applications, and requests for review must be submitted through the BCPNP Online 
+user portal. The user portal is also used to submit many post-nomination requests.  
+The BCPNP Online User Portal has a home page, a profile, a dashboard and a representative 
+section. Each conveys different information between you and the BC PNP.  
+The user portal is also a secure way of submitting payment. Certain BC PNP processes require 
+the payment of a fee, such as when you submit an application or a request for review. Payments 
+to the BC PNP are only accepted through the BCPNP Online user portal.  
+Please note: The BC PNP will never ask for credit card or other payment information via email. 
+This BCPNP Online user portal is best experienced through a desktop computer using the latest 
+version of Microsoft Edge, Mozilla Firefox or Google Chrome browsers. 
+BCPNP Online User Portal: ‘My Profile’ 
+Before you can submit a registration or application, you must complete your profile. Your profile 
+is where you tell us who you are and how to contact you.  
+Your profile will remain the same, even if you submit more than one registration or application, 
+or if you withdraw a registration or application. You should not create more than one profile. 
+Start by clicking Register: 
+ 
+ 
+Next, set up a user ID and a password.  
+ 
+
+
+[PDF PAGE 9]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 2: The BCPNP Online User Portal 9 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+ 
+Login and Security Questions 
+The information required to set up a user ID and a password includes: 
+Information Fields Technical Notes 
+Email address 
+Only enter your own email address in your profile and 
+make sure you have access to that email.  
+The BC PNP will use the email address entered in your 
+profile as your unique personal identifier and will only 
+communicate with you if you are using that same 
+email address.  
+If you have a representative, their contact information 
+must be added to the ‘My Representative’ section.  
+User ID Your User ID must contain a minimum of 7 characters 
+Password 
+Your password is case-sensitive and must contain a 
+minimum of 8 characters. It should include: 
+• upper and lower case (A to Z; a to z) letters  
+• numerals (0 to 9) 
+
+
+[PDF PAGE 10]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 2: The BCPNP Online User Portal 10 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+• a non-alphanumeric keyboard symbols (such as 
+! $ # %) 
+The password must not contain User ID, First Name or 
+Last Name 
+Three security questions and 
+answers 
+All questions and answers are required. Create 
+combinations you will easily remember. 
+Provide personal and contact information 
+Once your User ID and password are created, you will be asked to provide personal information, 
+such as your birthdate, passport number and contact information. Should you submit a 
+registration or application, the system will automatically fill some fields for you.  
+Your profile: Personal Information 
+Information Fields Technical Notes 
+Family name(s) Last name(s) 
+Given name(s) First and middle names(s) 
+Have you ever used any other 
+name? Select Yes or No 
+Other family name(s) If you use another name (alias, English name) 
+Other given name(s) If you use another name (alias, English name) 
+Date of birth Should be in YYYY-MM-DD format 
+Country of birth 
+Use the drop-down list to select 
+Please note: your country of birth should match what 
+is in your passport and/or travel documents 
+City of birth  
+Gender Use the drop-down list to select 
+In which of Canada's two official 
+languages could you hold a 
+conversation? 
+Use the drop-down list to select 
+Do you speak a language other 
+than French or English? Select Yes or No 
+If yes, which language do you 
+speak most often at home? 
+Use drop-down list to select (choose Other if language 
+is not listed) 
+
+[PDF PAGE 11]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 2: The BCPNP Online User Portal 11 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+Your profile: Passport Information 
+Information Fields Technical Notes 
+Passport number  
+Passport country  
+From your passport – use the drop-down list to select 
+Please note: Passport country means the country that 
+produced your passport, not the country where you 
+received it. It is usually on the cover of the passport.  
+Passport Issue date Should be in YYYY-MM-DD format 
+Passport Expiry date Should be in YYYY-MM-DD format 
+ 
+Your profile: Primary Contact 
+Information Fields Technical Notes 
+Phone number Provide all numbers required to place a call from B.C. 
+Secondary phone number  
+Business phone number  
+ 
+Your profile: Residential Address 
+Information Fields Technical Notes 
+Country Use the drop-down list to select 
+Address line  
+City/Town  
+Province/State  
+Postal/ZIP code  
+ 
+Your profile: Additional Information 
+Information Fields Technical Notes 
+How did you learn about the BC 
+PNP 
+Use the drop-down list to select where you first found 
+out about the BC PNP 
+
+[PDF PAGE 12]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 2: The BCPNP Online User Portal 12 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+Once these sections are complete, click the Register button at the bottom. 
+ 
+You will be asked to review the information in your profile and confirm it is correct by selecting a 
+checkbox and clicking the Confirm button. 
+ 
+ 
+You will then see a screen confirming that your profile has been created, and that a 
+confirmation email has been sent to the email address you provided.  
+ 
+To continue using the BCPNP Online user portal, you will need to confirm your email address. 
+This is done by clicking on the verification link that was sent to your email. This verification link 
+should be used within 24 hours. 
+If you do not confirm your email address before the verification link expires, you can request a 
+new verification link by logging into the BCPNP Online user portal again. There will be a banner 
+at the top of your profile that will allow you to request a new verification link.  
+ 
+Please note: completing this verification step simply creates your profile. It does not mean you 
+have registered for or applied to the BC PNP.  
+You should create your profile and complete the verification step within 30 days. Unverified 
+accounts will be subject to deletion after 30 days of inactivity. Verified accounts with incomplete 
+registrations or applications that have had no activity for 30 days may also be deleted.  
+ 
+
+
+[PDF PAGE 13]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 2: The BCPNP Online User Portal 13 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Ensure your profile remains current and accurate 
+It is very important to ensure that the information in your profile is current and accurate at all 
+times, including after nomination.  
+If your information changes, for example, you may move or renew your passport, you can 
+update the fields in your profile at any time.  
+The only field you cannot change is your date of birth. If you make an error in this field, you 
+must contact the BC PNP and request a change.  
+If you change your email address, you will receive an email confirming that you have made this 
+change.  
+• Please follow the prompts to verify your new email address by clicking on the link  in the 
+confirmation email.  
+• If you do not verify this change within the required timelines, log in to the BCPNP Online 
+user portal and request a new verification link by clicking on the banner at the top of your 
+profile. 
+Your previous email address will continue to be used for communication purposes until the new 
+one is confirmed. If you requested a new verification link but did not receive a confirmation 
+email, contact the BC PNP immediately.  
+If you forget your password or user ID, click Forgot User ID? or Forgot password? on the main sign 
+in page. 
+
+
+[PDF PAGE 14]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 2: The BCPNP Online User Portal 14 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+BCPNP Online User Portal: ‘My Dashboard’ 
+Your dashboard area of the portal is where you can see the progress of your submissions. If you 
+have submitted more than one registration or application, you will see a dashboard that shows 
+your case history. 
+You can click the View button next to your case(s) to see case details. If you have an active case, it 
+will be listed last. 
+ 
+BCPNP Online User Portal: ‘My Representative’ 
+You do not need to hire an immigration consultant or lawyer to use the BC PNP. If you choose to 
+get help with any part of the immigration process, it is important to understand who is 
+authorized by law to provide immigration advice. Please refer to part 1 of this guide.  
+If you choose to get help with your BC PNP registration or application, please refer to part 2 of 
+the Skills Immigration Program Guide. It explains the difference between paid and unpaid 
+representatives, and details that could affect your eligibility, such as declaring a representative.  
+
+
+[PDF PAGE 15]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 2: The BCPNP Online User Portal 15 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Declaring a representative  
+If you have retained a person to represent you throughout the BC PNP process, you must follow 
+the steps below: 
+Click My Representative at the top of your profile. 
+  
+Complete all of the fields under the My Representative section  
+Representative Information 
+Information Fields Technical Notes 
+Family name(s) Last name(s) 
+Given name(s) First and middle name(s) 
+Name of firm/organization If applicable 
+Primary phone number Provide all numbers required to place a call from B.C. 
+Secondary phone number If applicable - provide all numbers required to place a 
+call from B.C. 
+Email address  
+Country Use the drop-down list to select 
+Address line  
+City/Town  
+Province/State  
+Postal/ZIP code  
+ 
+Representative Type 
+If your representative is not paid, select No. If they are paid, select Yes. 
+ 
+
+
+[PDF PAGE 16]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 2: The BCPNP Online User Portal 16 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+You will be asked to indicate the membership of your representative from a drop-down list 
+before proceeding to the next step.  
+ 
+Representative Authorization
+ 
+ 
+Select the checkboxes, including the checkbox authorizing the representative to conduct 
+business on your behalf with the BC PNP. 
+Click the Browse button to attach your completed BC PNP Use of Representative form(s). The 
+blank forms are found on the  documents page of our website. Click the Save button when you 
+are done. 
+Changing or removing your representative  
+You can add or change a representative at any time, but you can only have one representative at 
+any given time. 
+To change your immigration representative, complete the following steps: 
+• Log into your BCPNP Online user portal and navigate to your profile 
+• Update all fields in the ‘My Representative’ tab with your new representative’s 
+information 
+• Complete and upload a new Use of Representative form – applicant  
+Submitting a new Use of a Representative form will automatically cancel any previously 
+appointed representative. 
+
+
+[PDF PAGE 17]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 17 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+To remove your immigration representative, complete the following steps: 
+• Log into your BCPNP Online user portal and navigate to your profile 
+• Click ‘remove information regarding your representative’ in this tab 
+• Then, contact the BC PNP to confirm that you would like to remove your representative  
+ 
+Part 3: Your Registration 
+A registration is how you tell the BC PNP that you want to apply to the program, and which 
+stream you have selected. Information in each registration is scored and used to select which 
+registrations will be invited to apply.  
+You must complete each section of the registration in order to be entered into the registration 
+pool. You can see your score at any time as you complete your registration.  
+It is important to make sure the information in your registration is completed correctly. If you 
+don’t receive an invitation to apply because your registration information was inaccurate, you 
+will not receive an invitation to apply retroactively. Please refer to the section on making 
+changes to your registration for more information.  
+Once your registration has been successfully submitted, you will receive a confirmation of 
+registration email that includes your BC PNP registration number.  
+If you would like to apply to the Health Authority stream, you do not need to register. Health 
+Authority stream candidates can start a Health Authority stream application immediately after 
+creating a profile.  
+ 
+Select your stream 
+It is very important to make sure you register and apply for the correct stream. This includes 
+deciding if you will use the Express Entry BC option.  
+Go to the ‘Home’ page of your user portal, where you will be asked if you are a worker or an 
+entrepreneur. Click the Skills Immigration button, then select your stream from the list.  
+ 
+ 
+
+
+[PDF PAGE 18]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 18 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Decide if you will use the Express Entry BC option 
+Once you have determined which stream best fits your personal situation, you’ll need to 
+determine whether to select the Express Entry BC option. The Express Entry BC option is for 
+candidates who wish to pursue permanent residency through a federal Express Entry pathway. 
+If you register and/or apply to the BC PNP without selecting the EEBC option, your 
+registration/application cannot later be converted to the EEBC option. 
+ 
+If you want to choose the Express Entry BC option, select: 
+• Express Entry BC – Skilled Worker 
+If you do not want to choose the Express Entry BC option, select from these streams: 
+• Skills Immigration – Skilled Worker 
+• Skills Immigration – Temporary Rural/Remote Health Support initiative 
+Once you have chosen your stream, and after reviewing the stream requirements, select the 
+checkbox confirming you meet all stream requirements and click the Start button.  
+ 
+Complete all tabs of the registration form 
+Once you have started your new registration, you will be directed to a page where you can begin 
+filling out your personal information. There are tabs across the top of the page which will show 
+how far along you are in the registration process. You can click on these tabs to move to a 
+different section of the form. 
+
+
+[PDF PAGE 19]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 19 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+As you work on your registration, you can also use the menu bar at the bottom to navigate 
+between sections. You can click Next to advance to the next tab, or return to the previous tab by 
+clicking Previous. You can also use the drop-down menu to jump to any other tab.  
+ 
+The system will automatically save your information when you move to a new tab. 
+If you have started, but not yet completed your registration, you can return to it by logging in to 
+the portal and clicking Continue.  
+ 
+You can also start a new registration by clicking Start New at any time prior to submitting. 
+Please note that clicking Start New will delete the information in your current registration. This 
+will not affect your profile information. 
+ 
+Registrant tab 
+Many of the fields in the Registrant tab will be auto-filled with the personal and contact 
+information you provided in your profile.  
+If you selected the Express Entry BC option, you will enter it on this tab.  
+Once you have completed the contact information and residential address sections, you will be 
+required to check a box confirming that the contact information you have provided is your own. 
+
+
+[PDF PAGE 20]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 20 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+Current and previous applications 
+Information Fields Technical Notes 
+Do you currently have any other 
+active registrations or applications 
+with the BC PNP?  
+This includes any submissions with Skills Immigration 
+or Entrepreneur Immigration pathways. Please note 
+that you cannot have more than one active 
+registration or application with the BC PNP.  
+Have you applied to the BC 
+Provincial Nominee Program in the 
+past? 
+If Yes, provide your BC PNP file number 
+Express Entry information (if applicable) 
+If you are using the Express Entry BC option , you must provide your federal Express Entry 
+information from Immigration, Refugees and Citizenship Canada (IRCC). 
+Information Fields Technical Notes 
+Express entry profile number Provided by IRCC upon Express Entry registration 
+Express entry profile submission 
+expiry date Provided by IRCC upon Express Entry registration 
+Job seeker validation code (JSVC) Provided by IRCC upon Express Entry registration 
+Comprehensive ranking score (CRS) Provided by IRCC upon Express Entry registration 
+NOC (National Occupational 
+Classification) 
+Enter the 5-digit NOC code listed in your Express 
+Entry registration. This NOC code normally matches 
+the NOC of your B.C. job offer  
+Job title The job title you listed in your Express Entry 
+registration  
+Education tab 
+The Education tab is where you provide information on your post-secondary education. You will 
+be asked if you completed post-secondary education in B.C., in Canada (but outside B.C.) and 
+outside of Canada. Below are the details you’ll need to complete. 
+Highest Level of Education 
+
+
+[PDF PAGE 21]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 21 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+Information Fields Technical Notes 
+Highest level of education completed 
+Provide the highest level of education you 
+completed  
+Please refer to section 8.2 of the Skills Immigration 
+Program Guide for information about what 
+education is eligible for points 
+Date highest level of education 
+completed?  
+Did you obtain this education in 
+Canada? Select Yes or No 
+Did you obtain this education in B.C.? Select Yes or No  
+Do you have an Education Credential 
+Assessment? 
+ 
+ECAs do not qualify for registration 
+points. However, you may wish to 
+provide an ECA from a qualified 
+supplier to support the rapid 
+verification of your information.  
+If Yes, you must provide the name of the qualified 
+supplier and your certificate number 
+ 
+Qualified suppliers include: 
+• Comparative Education Service – University of 
+Toronto School of Continuing Studies 
+• International Credential Assessment Service of 
+Canada 
+• World Education Services 
+• International Qualifications Assessment Service 
+• International Credential Evaluation Service 
+• Medical Council of Canada (professional body for 
+Doctors) 
+• Pharmacy Examining Board of Canada (professional 
+body for Pharmacists) 
+Do you meet the requirements for a 
+BC PNP-eligible professional 
+designation?  
+Select Yes or No 
+ 
+Which eligible professional 
+designation?  
+If Yes, select the eligible professional designation 
+from the drop-down.  
+Please see section 8.2 of the Skills Immigration 
+Program Guide to find out which professional 
+designations are eligible. 
+
+[PDF PAGE 22]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 22 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Work Experience tab 
+The Work Experience tab is where you provide information on your directly related work 
+experience for the last 10 years.  
+If you are already working in the job you have been offered, please include your current 
+position. 
+The BC PNP defines directly related work experience as paid employment that is classified under 
+the same NOC code as the B.C. job offer that you have accepted. Experience in a related 
+occupation at a NOC TEER category equal to or higher than the NOC TEER category of the B.C. 
+job offer may also be included if, at the time of application, you can satisfactorily demonstrate 
+how this work experience is directly related. For NOC TEER 0 job offers, work experience in a 
+related NOC TEER 1 occupation may also be considered.  
+Directly Related Work Experience 
+ 
+Information Fields Technical Notes 
+Do you have directly related work experience 
+at the same or higher NOC TEER category in 
+the past 10 years, including the Job Offer? 
+Please list any paid work experience from 
+the past 10 years that is directly related to 
+your job offer.  
+This may include your current position. 
+You may add multiple past jobs if they are 
+directly related experience. 
+Job title  
+NOC 
+Determine the correct 5-digit NOC code for 
+your position by reviewing the Government 
+of Canada’s NOC website. 
+ 
+Job hours 
+Full-time employment is as at least an 
+average of 30 hours per week, year-round.  
+Part-time is a minimum of 20 hours per 
+week. 
+Start date Use calendar tool to select your job’s start 
+date 
+End date 
+Use calendar tool to select your job’s end 
+date. Check the box next to Present if your 
+job does not have an end date. 
+Total months This field is automatically calculated based 
+on your Start date and End date 
+
+[PDF PAGE 23]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 23 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Company name  
+Was this work in Canada? Select Yes or No 
+Add job Click the green "+" sign to add more rows 
+Job Offer tab 
+The Job Offer tab is where you provide information on your B.C. job offer and employer. Below 
+are the details you’ll need to complete.  
+Company Details 
+Information Fields Technical Notes 
+Company legal name Provide your supporting employer’s full legal name 
+Company operating name If different from legal name 
+Work Location Details 
+Information Fields Technical Notes 
+Unit number   
+Street address 
+Provide the address of the main location where you 
+will work, as stated on your job offer letter. It must be 
+a physical location in B.C. and may be different from 
+company headquarters. 
+City/Town Use the drop-down list to select 
+Postal code  
+Phone number Provide all numbers required to place a call from B.C. 
+Job Offer Details 
+Information Fields Technical Notes 
+Job title Provide you job title as listed on your job offer 
+NOC 
+Provide your 5 -digit NOC code.  You can determine 
+the correct NOC code for your job offer by reviewing 
+the Government of Canada’s NOC website. 
+Hours of work per week Based on an average in a 52 -week period 
+
+[PDF PAGE 24]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 24 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Hourly wage 
+Enter the hourly wage listed in your job offer. 
+If your job offer does not list your hourly wage, 
+please refer to section 8.4 of the Skills Immigration 
+Program Guide. It is important to accurately 
+calculate your hourly wage.  
+Please note: your hourly wage must NOT include 
+gratuities, bonuses, commissions, etc.   
+Annual Salary  
+Enter the annual wage listed in your job offer. 
+If your job offer does not list your annual wage, 
+please refer to section 3.10 of the Skills Immigration 
+Program Guide. It is important to accurately 
+calculate your annual wage.  
+Please note: your annual wage must NOT 
+include gratuities, bonuses, commissions, etc.   
+Are you currently working for the 
+employer in the job being offered? Select Yes or No 
+Are you working full-time in B.C. in 
+the job being offered? Select Yes or No 
+Do you meet the requirements for 
+either Regional Experience or 
+Regional Alumni? 
+If Yes, select the option that best fits your situation.  
+ 
+If No, select ‘Does not apply’ 
+ 
+Please see section 8.5 of the Skills Immigration 
+Program Guide for information about points for 
+regional experience and regional alumni. 
+Language tab 
+Test details 
+Information Fields Technical Notes 
+Have you completed a valid English 
+language proficiency test within the 
+past two years?  
+Select Yes or No. If Yes, you will see the fields listed 
+below. 
+
+[PDF PAGE 25]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 25 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Type of test taken 
+The valid language test results must be from one of the 
+following language proficiency tests administered by a 
+designated testing agency: 
+• CELPIP-General 
+• IELTS General 
+• Pearson PTE Core 
+Date of test taken 
+The name of this field changes, depending on the type 
+of test taken: 
+• For CELPIP General tests, this field is "Date of issue" 
+• For IELTS General tests, this field is "Date of 
+administrator’s signature" 
+• For Pearson PTE Core, this field is "Test date" 
+Listening score  
+Reading score  
+Writing score  
+Speaking score  
+Validation number provided on 
+language test certificate 
+The name of this field changes, depending on the type 
+of test taken: 
+• For CELPIP General tests, this field is "Registration 
+number" 
+• For IELTS General tests, this field is "Test report form 
+number" 
+• For Pearson PTE Core, this field is "Score Report Code" 
+PIN/Registration ID 
+This field does not apply to IELTS General 
+• For CELPIP General, there is a field for your "PIN" 
+• For Pearson PTE Core, there is a field for your 
+"Registration ID" 
+Have you completed a valid French 
+language proficiency test within 
+the past two years?  
+Select Yes or No. If Yes, you will see the fields listed 
+below. 
+Type of test taken  
+The valid language test results must be from one of the 
+following language proficiency tests administered by a 
+designated testing agency: 
+
+[PDF PAGE 26]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 26 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+• TCF Canada 
+• TEF Canada 
+Date of test taken For both tests this field is "Date de session" 
+Listening score  
+Reading score  
+Writing score  
+Speaking score  
+Validation number provided on 
+language test certificate 
+The name of this field changes, depending on the type 
+of test taken: 
+• For TCF tests, this field is "No de l’attestation" 
+• For TEF tests, this field is "Attestation No" 
+Submit tab 
+Registration Declaration and consent 
+The last tab contains the registration declaration and consent that you must agree to in order to 
+submit your registration. To do so, you must click the checkbox and enter your full name as it 
+appears on your passport. 
+ 
+Use of paid representative 
+You will then be asked if you hired a paid representative to help fill out this form. If you select 
+"Yes," the following fields will appear:  
+Information Fields Technical Notes 
+Representative Family Name(s) Last name(s) of your representative 
+Representative Given Name(s) First and middle name(s) of your representative 
+Phone number of paid 
+representative Provide all numbers required to place a call from B.C. 
+ 
+If you have retained a person to represent you throughout the BC PNP process, you must also 
+declare them as your representative. Please see your representative section in Part 3 of this 
+guide for information about updating your profile.  
+
+
+[PDF PAGE 27]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 27 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+If you have paid a person to help you fill out these forms, but you are not authorizing them to 
+represent you throughout the BC PNP process, you only need to complete this section.  
+Once you have finished completing your form, you can click Validate to verify the information in 
+your registration is complete.  
+ 
+ 
+If there are any missing pieces of information, you will see the following message: 
+  
+ 
+Click on any tabs with a light red background. You will then see the field(s) with missing 
+information highlighted in red. 
+  
+ 
+Complete the required information in each tab, then click on the Submit tab at the top, and click 
+the Validate button at the bottom once again. If no missing information is found, you can submit 
+your registration. 
+When you are ready to submit your registration, click the Submit button. 
+ 
+ 
+Once you successfully submit your registration, you will receive an email that will include your file 
+number, your stream, the date your registration was received, and the date your registration will 
+
+
+[PDF PAGE 28]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 28 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+expire. In the BCPNP Online user portal , you will see the file number for your registration and 
+your case status will show as "Registered". 
+ 
+ 
+ 
+After submitting a registration , if you do not receive a confirmation email within 24 hours with 
+your file number included, please check your email’s ‘junk’ or ‘spam’ folder.   
+If you do not see a file number in the BCPNP Online user portal, contact the BC PNP immediately 
+to ensure your submission has been received for processing. Failure to do so may result in 
+delays to file processing. 
+Your registration is valid for twelve months from the date of submission. If you do not receive 
+an invitation to apply before your registration expires, it will no longer be valid.  You may then 
+create and submit a new registration through the BCPNP Online user portal using your existing 
+profile. 
+Making changes to your registration 
+Once a registration is submitted, the information contained in your registration is locked. The BC 
+PNP will not make corrections to the information in your registration and will not change the 
+stream under which you registered.  
+If you need to make changes to your submitted registration, you will need to withdraw and 
+submit your registration again.  
+To withdraw your registration, complete the steps below: 
+• Click the Withdraw button on your existing profile 
+• This will start a new registration  
+• Complete your registration following the steps at the start of part 3 
+Once submitted, your new registration will go back into the registration pool for your stream.  
+
+
+[PDF PAGE 29]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 3: Your Registration 29 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+ 
+Prepare documents for application 
+Once in the registration pool for a Skills Immigration stream, you will wait for an invitation to 
+apply. If you are invited to apply, you have a maximum of 30 calendar days to submit a complete 
+application.  
+To submit a complete application, you will be required to provide documentation to verify any 
+information you declared in your registration and application. Your supporting employer will 
+also be required to provide documentation.  
+While waiting for an invitation, you may wish to prepare the documents that will be required to 
+submit an application.  
+ 
+Maintain your Express Entry profile 
+If you registered or applied under one of the BC PNP’s Express Entry BC options, it is important to 
+make sure your federal Express Entry profile remains valid throughout the BC PNP process. Please 
+refer to part 5 of the Skills Immigration Program Guide for more information.  
+ 
+If your federal Express Entry profile expires during the BC PNP process, you will need to create a 
+new federal Express Entry profile. Once you have done this, please email PNPInfo@gov.bc.ca to 
+inform the BC PNP of your new Express Entry profile number and Job Seeker Validation Code 
+ 
+
+
+[PDF PAGE 30]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 30 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Part 4: Your Application 
+Submit an application 
+You can only apply to a Skills Immigration stream if you receive an invitation to apply, or if you 
+are applying directly to the Health Authority stream.  
+Your application is where you can demonstrate you meet the criteria for your Skills Immigration 
+stream. To do this, you will complete the application form and upload documentation that can 
+confirm all information you have declared. You will also need to pay the application fee.  
+ 
+The required documents are described in part 6 of this guide . You may wish to prepare these  
+documents in advance. 
+After you receive an Invitation to Apply 
+If you have submitted a registration and are invited to apply, you will receive an email 
+notification. When you login to the BCPNP Online user portal, your Case Status will say "Invited". 
+ 
+To proceed with submitting an application, click the “Continue” button.  
+Should you choose to not proceed with an application, you can decline the invitation by clicking 
+the Decline button. Your registration will then be removed from the selection pool and your 
+registration and invitation will be cancelled. Your account, profile information, and case history 
+will be retained.  
+
+
+[PDF PAGE 31]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 31 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+Click the Continue button under "My Application"  
+Start a Health Authority stream application 
+If you have a job offer with one of B.C.’s provincial health authorities and you qualify for the 
+Health Authority stream, you do not need to complete a registration form.  
+After creating your profile in the BCPNP Online user portal, select one of the following options:  
+• Express Entry BC – Health Authority 
+• Skills Immigration – Health Authority 
+Once you have selected one of these streams, you will be taken directly to the application form. 
+Click the Start button under the stream you have selected 
+Complete all tabs of the application form 
+You will be asked to confirm that your profile and representative information is correct and up 
+to date before proceeding to the application form. If you wish to make changes to either your 
+profile or your representative information, you can click the Edit profile or Edit representative 
+button. 
+Once you have confirmed the information is correct, click the Proceed button. 
+An application form will appear, with tabs across the top of the page showing how far along you 
+are in the application process. 
+ 
+The tabs you see may be different depending on the stream you have selected. 
+
+
+[PDF PAGE 32]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 32 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Applicant tab 
+Many of the fields in the Applicant tab will be auto-filled with the personal and contact 
+information you provided in your profile.  
+You will also be asked to provide additional details, such as intended place of residence within 
+B.C., current or previous application details, current status in Canada and previous visits to 
+Canada, language proficiency, settlement funds, and how you learned about the BC PNP. 
+Once you have completed the contact information and residential address sections, you will be 
+required to check a box confirming that the contact information you have provided is your own. 
+  
+Intended Place of Residence 
+Information Fields Technical Notes 
+In which city/town will you live after 
+nomination? Use the drop-down list to select 
+Current/Previous Applications 
+You will be required to indicate and explain if you have applied previously for provincial 
+nomination or permanent residence, if you have an application in process, and information 
+about your status in Canada. 
+Information Fields Technical Notes 
+Do you have another active 
+application or registration with BC 
+PNP? 
+Select Yes or No 
+Have you had another Skills 
+Immigration or Entrepreneur 
+Immigration registration or 
+application refused or approved with 
+BC PNP? 
+Select Yes or No 
+Do you have an active application for 
+provincial nomination or permanent 
+residence under any other federal or 
+provincial program? 
+Select Yes or No 
+
+
+[PDF PAGE 33]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 33 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Have you ever had an application 
+refused for provincial nomination or 
+permanent residence in Canada 
+under any other federal or provincial 
+program? 
+Select Yes or No 
+Have you ever had an application 
+refused for a Canadian visitor visa, 
+study permit, or temporary work 
+permit? 
+Select Yes or No 
+Have you made a claim for refugee 
+protection in Canada, or have you 
+been refused refugee status in 
+Canada? 
+Select Yes or No 
+Are you under a removal order from 
+Canada (e.g. departure order or 
+exclusion order)? 
+Select Yes or No 
+Express Entry Information (if applicable) 
+If you have selected an Express Entry BC option, you must provide your federal Express Entry 
+information from Immigration, Refugees and Citizenship Canada (IRCC). 
+Information Fields Technical Notes 
+Express entry profile number Provided by IRCC upon creating an Express Entry 
+profile 
+Express entry profile submission 
+expiry date 
+Provided by IRCC upon creating an Express Entry 
+profile 
+Job seeker validation code (JSVC) Provided by IRCC upon creating an Express Entry 
+profile 
+Comprehensive ranking score (CRS) Provided by IRCC upon creating an Express Entry 
+profile 
+NOC 
+Enter the 5-digit NOC code listed in your Express Entry 
+profile. This NOC code normally matches the NOC of 
+your B.C. job offer. 
+Job title Provide the job title you entered in your Express Entry 
+profile 
+Current Status in Canada 
+
+[PDF PAGE 34]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 34 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+You will be asked if you are currently in Canada.  If you select "Yes," the following field will 
+appear: 
+Information Fields Technical Notes 
+Indicate your current status in 
+Canada 
+Use the drop-down list to select 
+If you are on maintained status, please select ‘Other’ 
+ 
+Depending on your selection, you will be required to provide additional information about your 
+current status. 
+Education tab 
+The Education tab is where you provide information on your post-secondary education within 
+Canada and B.C. (if applicable), and outside of Canada. You may add multiple educational 
+institutions. 
+Post-Secondary Education in B.C. 
+Information Fields Technical Notes 
+Have you enrolled in or completed a 
+BC PNP eligible post-secondary 
+program within B.C.? 
+Select Yes or No 
+From Use the calendar tool to select 
+To Use the calendar tool to select 
+Name of institution  
+City/town Use the drop-down list to select 
+Level of post-secondary education 
+attained Use the drop-down list to select 
+Field of study 
+Use the drop-down list to select 
+ 
+Add post-secondary education 
+within B.C. Click the green "+" sign to add more rows 
+Post-Secondary education in Canada, but not in B.C. 
+Information Fields Technical Notes 
+
+[PDF PAGE 35]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 35 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Have you enrolled in or completed a 
+BC PNP eligible post-secondary 
+program in Canada but not in B.C.? 
+Select Yes or No 
+From Use the calendar tool to select 
+To Use the calendar tool to select 
+Name of institution  
+City/town  
+Province/territory Use the drop-down list to select 
+Level of post-secondary education 
+attained Use the drop-down list to select 
+Field of study Use the drop-down list to select 
+Add post-secondary education 
+within Canada, but outside of B.C. Click the green "+" sign to add more rows 
+Post-Secondary Education Outside of Canada 
+If you have obtained post-secondary education outside of Canada, provide the following details: 
+Information Fields Technical Notes 
+Have you enrolled in or completed a 
+BC PNP eligible post-secondary 
+program outside of Canada? 
+Select Yes or No 
+From Use the calendar tool to select 
+To Use the calendar tool to select 
+Name of institution  
+City/town  
+Country Use the drop-down list to select 
+Level of post-secondary education 
+attained Use the drop-down list to select 
+Field of study Use the drop-down list to select 
+Add post-secondary education 
+outside of Canada Click the green "+" sign to add more rows 
+Secondary/High School Education 
+
+[PDF PAGE 36]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 36 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Information Fields Technical Notes 
+From Use the calendar tool to select 
+To Use the calendar tool to select 
+Name of Institution  
+City/town  
+Country Use the drop-down list to select 
+Did you successfully complete high 
+school? Select Yes or No 
+Add secondary education Click the green "+" sign to add more rows 
+Work experience tab 
+The Work Experience tab is where you provide information on your work experience for the last 
+10 years, including work experience that is directly related to your current position. 
+Information Fields Technical Notes 
+Do you have work experience in the 
+past ten years? Select Yes or No 
+Job title Provide the job title listed in your job offer 
+NOC 
+Provide your 5-digit NOC code.  You can determine the 
+correct NOC code for your job offer by reviewing the 
+Government of Canada’s NOC website. 
+From Use the calendar tool to select your job's start date. 
+To 
+Use the calendar tool to select your job's end date. 
+Check the box next to Present if your job does not 
+have an end date. 
+Job hours 
+Full-time employment is as at least an average of 30 
+hours per week, year-round.  
+Part-time is a minimum of 20 hours per week.  
+Company name  
+Company phone number  
+Company website (if applicable)  
+Unit number (if applicable)  
+
+[PDF PAGE 37]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 37 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Address  
+City/town  
+Province  
+Country Use the drop-down list to select 
+Postal/zip code  
+Your responsibilities  
+Add job Click the green "+" sign to add more rows 
+Family tab 
+The family tab is where you provide details on your spouse/common-law partner and dependent 
+children, parents, siblings and family members in Canada. 
+Your spouse or common-law partner and dependent children must be included, whether or not 
+they come with you to live in B.C.  
+Spouse or Common-law Partner 
+If you are currently married or in a common-law relationship, select "Yes" and continue with the 
+questions below.  
+If you are separated or divorced, you must provide a signed Statutory Declaration of your official 
+separation, a Divorce Certificate, or an equivalent official document indicating that the 
+relationship has ended. Without this information, your spouse will be included as part of your 
+family in your application.  
+If you have a spouse, they must agree to the application declaration and consent on the final 
+page of the application (in the Submit tab). 
+Information Fields Technical Notes 
+Are you currently married or in 
+a common-law relationship?  Select Yes or No 
+Family name(s) Spouse/common-law partner’s last name(s) 
+Given name(s) Spouse/common-law partner’s first and middle name(s) 
+Gender Use the drop-down list to select 
+Date of birth Use the calendar tool to select 
+Country of birth Use the drop-down list to select 
+Country of citizenship Use the drop-down list to select 
+
+[PDF PAGE 38]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 38 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Present address Add your current civic or physical address 
+Date entered into marriage or 
+common-law relationship Use the calendar tool to select 
+Is your spouse or common-law 
+partner in Canada? 
+Select Yes or No. If Yes, you will see the fields listed 
+below. 
+Spouse or common-law partner 
+status in Canada 
+Use the drop-down list to select. Different fields will 
+appear depending upon selection. 
+Date spouse or common-law 
+partner documents expire Use the calendar tool to select 
+Is your spouse or common-law 
+partner working? 
+Select Yes or No. If Yes, you will see the fields listed 
+below. 
+Spouse or common-law partner 
+occupation (if working) 
+Spouse or common-law partner 
+employer (if working) 
+Dependent Children 
+You will be asked if you have any children that meet Immigration, Refugees and Citizenship 
+Canada’s (IRCC) definition of a dependent child. Include all children you have that meet this 
+definition. For more information, please refer to IRCC’s website. 
+Please note that for the purpose of federal immigration requirements, the age(s) of your 
+dependent children, if any, are locked in at the time of application to the BC PNP .  
+Please also note that the number of dependants declared on your federal application for 
+permanent residence to IRCC should match the number of dependants listed on your BC PNP 
+application.  
+Information Fields Technical Notes 
+Family name(s) Child's last name(s) 
+Given name(s) Child's first and middle name(s) 
+Date of birth Use the calendar tool to select 
+Country of birth Use the drop-down list to select 
+Country of citizenship Use the drop-down list to select 
+Present address  
+
+[PDF PAGE 39]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 39 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Add a dependent child Click the green "+" sign to add more rows 
+Family members 
+Information Fields Technical Notes 
+Number of family members 
+This field indicates the total number of family members 
+included in your application. It is automatically calculated 
+based on your entries in the Family tab. 
+ 
+This includes yourself, your dependent children and 
+spouse/common-law partner, regardless of whether they 
+intend to accompany you to Canada. 
+ 
+Parent 1 and Parent 2 
+If you do not know information about your parents, enter "N/A" into applicable fields. 
+Information Fields Technical Notes 
+Family name(s) Parent's last name(s) 
+Given name(s) Parent's first and middle name(s) 
+Date of birth Use the calendar tool to select 
+Country of birth Use the drop-down list to select 
+Deceased Check this box if your parent is deceased 
+Present address  
+Siblings 
+If you have siblings, select Yes and continue with the questions below: 
+Information Fields Technical Notes 
+Family name(s) Sibling's last name(s) 
+Given name(s) Sibling's first and middle name(s) 
+Date of birth Use the calendar tool to select 
+Country of birth Use the drop-down list to select 
+
+[PDF PAGE 40]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 40 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Marital status Use the drop-down list to select 
+Deceased Check this box if your sibling is deceased 
+Present address  
+Add a brother or sister Click the green "+" sign to add more rows 
+Other family members in Canada 
+If you have other family members in Canada, select Yes and continue with the questions below: 
+Information Fields Technical Notes 
+Family name(s) Family member's last name(s) 
+Given name(s) Family member's first and middle name(s) 
+Gender Use the drop-down list to select 
+Relationship to applicant  
+City/town of relative  
+Province/territory of relative Use the drop-down list to select 
+Immigration status in Canada Use the drop-down list to select 
+Years in Canada  
+Add a family member Click the green "+" sign to add more rows 
+Job Offer tab 
+The job offer tab is where you provide information about your job offer and the supporting B.C. 
+employer’s company or organization.  
+If you are completing a Health Authority stream application, please jump to the Job Offer tab – 
+Health Authority section. 
+Company Details 
+Information Fields Technical Notes 
+Company legal name Enter the full legal name of your B.C. supporting 
+employer 
+Company operating name if 
+different than legal name  
+Company legal structure Use the drop-down list to select 
+
+[PDF PAGE 41]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 41 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Incorporation or registration 
+number  
+Number of full-time equivalent 
+employees  
+Year established in B.C.  
+Company economic sector Use the drop-down list to select 
+Company website (if applicable)  
+Physical Address 
+Information Fields Technical Notes 
+Unit number  
+Street address  
+City/town Use the drop-down list to select 
+Province/territory  
+Postal code  
+Country Use the drop-down list to select 
+Is the mailing address the same 
+as the physical address? If No, provide mailing address 
+Employer Contact 
+Information Fields Technical Notes 
+Family name Employer contact’s last name(s) 
+Given name Employer contact’s first and middle name(s) 
+Job title Employer contact’s job title 
+Phone number Employer contact’s phone number where they can be 
+reached directly 
+Email Employer contact’s email address where they can be 
+reached directly 
+Job offer 
+If you select Yes to having a full-time job offer, the following fields will appear: 
+
+[PDF PAGE 42]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 42 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Information Fields Technical Notes 
+Do you have an indeterminate 
+job offer? 
+Select Yes or No.  
+If you select No, you will be asked to provide the end 
+date of your job. 
+Job title  
+NOC 
+Provide your 5 -digit NOC code.  You can determine the 
+correct NOC code for your job offer by reviewing the 
+Government of Canada’s NOC website. 
+Is the occupation 
+regulated/licensed? 
+Indicate whether you require licensing or registration to 
+work in this job/NOC in B.C.  
+Select Yes or No  
+Hours of work per week 
+Use the average number of hours worked per week over 
+the last 52 weeks or since starting in your role. If you 
+have not yet started working for your employer, use the 
+number of hours you have been offered. 
+Hourly wage 
+Enter the hourly wage listed in your job offer. 
+If your job offer does not list your hourly wage, please 
+refer to section 8.4 of the Skills Immigration Program 
+Guide. It is important to accurately calculate your hourly 
+wage.  
+Please note: your hourly wage must NOT include 
+gratuities, bonuses, commissions, etc.   
+Annual salary 
+Enter the annual wage listed in your job offer. 
+If your job offer does not list your annual wage, please 
+refer to section 3.10 of the Skills Immigration Program 
+Guide. It is important to accurately calculate your 
+annual wage.  
+Please note: your annual wage must NOT include 
+gratuities, bonuses, commissions, etc.   
+Your annual wage will be verified on the Employer 
+Declaration Form which will be completed by your 
+supporting employer.  
+Work location 
+This is where you provide information for all work site locations you will be working at. 
+
+[PDF PAGE 43]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 43 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Information Fields Technical Notes 
+Unit number  
+Street address  
+City/Town Use the drop-down list to select 
+Phone number  
+Add a work location Click the green "+" sign to add more rows 
+Job Offer tab – Health Authority 
+Health Authority Details – Health Authority stream applications only 
+Information Fields Technical Notes 
+Which Health Authority is your 
+employer?  
+Use the drop-down list to select the Health Authority 
+that directly employs you 
+If you are a physician  or nurse practitioner select the 
+Health Authority that is supporting your application 
+If you are a midwife, select either the Health Authority 
+that is supporting your application, or the health 
+authority where you provide services. For example, 
+where you have hospital privileges  
+ 
+Name of Hospital, Clinic, Facility 
+or Midwife Practice Group 
+Provide the name of the main hospital, clinic, facility, or 
+midwife practice group where you will work.  
+Physical Address – Health Authority stream applications only 
+Information Fields Technical Notes 
+Unit number  
+Street address  
+City/town Use the drop-down list to select 
+Province/territory  
+Postal code  
+Country Use the drop-down list to select 
+Is the mailing address the same 
+as the physical address? If No, provide mailing address 
+
+[PDF PAGE 44]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 44 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Health Authority Employer Contact – Health Authority stream applications only 
+Information Fields Technical Notes 
+Family name Employer contact last name(s) 
+Given name Employer contact first and middle name(s) 
+Job title Employer contact’s job title 
+Phone number Employer contact’s phone number where they can be 
+reached directly 
+Email Employer contact’s email address where they can be 
+reached directly 
+Job offer – Health Authority stream applications only 
+If you select Yes to having a full-time job offer, the following fields will appear: 
+Information Fields Technical Notes 
+Do you have an indeterminate 
+job offer? 
+Select Yes or No. If No, you will be asked to provide the 
+end date of your employment contract. 
+Job title  
+NOC 
+Provide your 5 -digit NOC code.  You can determine the 
+correct NOC code for your job offer by reviewing the 
+Government of Canada’s NOC website. 
+Does this occupation require 
+licencing or 
+certification/registration with a 
+regulatory body?  
+Select Yes or No 
+Do you currently have a copy of 
+this licence or certification?  Select Yes or No 
+How do you plan to work in this 
+occupation without 
+licencing/certification, and what 
+steps are you taking to meet 
+licencing/certification 
+requirements?  
+ 
+Hours of work per week Use the average number of hours worked per week over 
+the last 52 weeks or since starting in your role. If you 
+
+[PDF PAGE 45]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 45 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+have not yet started working for your employer, use the 
+number of hours you have been offered. 
+Hourly wage 
+Enter the hourly wage listed in your job offer. 
+If your job offer does not list your hourly wage, please 
+refer to section 8.4 of the Skills Immigration Program 
+Guide. It is important to accurately calculate your hourly 
+wage.  
+Please note: your hourly wage must NOT include 
+gratuities, bonuses, commissions, etc.   
+Annual salary 
+Enter the annual wage listed in your job offer. 
+If your job offer does not list your annual wage, please 
+refer to section 3.10 of the Skills Immigration Program 
+Guide. It is important to accurately calculate your 
+annual wage.  
+Please note: your annual wage must NOT include 
+gratuities, bonuses, commissions, etc.   
+Language tab 
+Test details 
+Information Fields Technical Notes 
+Have you completed a valid English 
+language proficiency test within the 
+past two years?  
+Select Yes or No. If Yes, you will see the fields listed 
+below. 
+Type of test taken 
+The valid language test results must be from one of the 
+following language proficiency tests administered by a 
+designated testing agency: 
+• CELPIP-General 
+• IELTS General 
+• Pearson PTE Core 
+• Please refer to the Skills Immigration Program Guide 
+for more information about accepted language 
+proficiency tests 
+Date of test taken 
+The name of this field changes, depending on the type 
+of test taken: 
+• For CELPIP General tests, this field is "Date of issue" 
+
+[PDF PAGE 46]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 46 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+• For IELTS General tests, this field is "Date of 
+administrator’s signature" 
+• For Pearson PTE Core, this field is "Test date" 
+Listening score  
+Reading score  
+Writing score  
+Speaking score  
+Validation number provided on 
+language test certificate 
+The name of this field changes, depending on the type 
+of test taken: 
+• For CELPIP General tests, this field is "Registration 
+number" 
+• For IELTS General tests, this field is "Test report form 
+number" 
+• For Pearson PTE Core, this field is "Score Report Code" 
+PIN/Registration ID 
+This field does not apply to IELTS General 
+• For CELPIP General, there is a field for your "PIN" 
+• For Pearson PTE Core, there is a field for your 
+"Registration ID" 
+Have you completed a valid French 
+language proficiency test within 
+the past two years?  
+Select Yes or No. If Yes, you will see the fields listed 
+below. 
+Type of test taken  
+The valid language test results must be from one of the 
+following language proficiency tests administered by a 
+designated testing agency: 
+• TCF Canada 
+• TEF Canada 
+• Please refer to the Skills Immigration Program Guide 
+for more information about accepted language 
+proficiency tests 
+Date of test taken For both tests this field is "Date de session" 
+Listening score  
+Reading score  
+Writing score  
+
+[PDF PAGE 47]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 47 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Speaking score  
+Validation number provided on 
+language test certificate 
+The name of this field changes, depending on the type 
+of test taken: 
+• For TCF tests, this field is "No de l’attestation" 
+• For TEF tests, this field is "Attestation No" 
+Attachments tab 
+The attachments tab is where you can upload scanned copies of documents to verify the 
+information in your registration (if applicable) and application. Please see part 7: document 
+requirements by stream for lists of documents you and your employer are required to submit. It 
+also provides a description of these documents. The required attachments will vary depending 
+on your stream. 
+If the required documentation is not provided or is incomplete, it may result in delayed 
+processing or a refusal of your application. 
+Personal documentation 
+Information Fields Technical Notes 
+Express entry candidacy 
+If you applied to a stream with the Express Entry 
+BC option, upload your Express Entry Profile 
+Number and Job Seeker Validation Code  
+Are you currently living in Canada? Select yes or no 
+Canadian immigration records 
+If yes, please upload your work permits, study 
+permits, visitor records, extension applications, 
+etc. 
+Click the green "+" sign to add more rows 
+Biographical page of passport  
+Current photograph (PDF or JPEG) Please provide a passport-style photograph of you 
+taken within the last 6 months 
+Do you require a valid B.C. driver's 
+licence for your job offer? 
+Select yes or no 
+If your job offer requires a driver’s licence but you 
+have a Canadian (non-B.C.) driver’s license, click no 
+to this question.  
+B.C. driver's licence Include the front and back of the licence.  
+
+[PDF PAGE 48]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 48 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+If your job requires a Canadian driver’s licence, you 
+must upload your Canadian (non-B.C.) driver’s 
+licence in this field. 
+Was your work permit issued as a 
+result of a positive LMIA? 
+Select yes or no 
+If yes, upload your Labour Market Impact 
+Assessment (LMIA) 
+Language test results  
+Did you claim points for language 
+proficiency in English and French? 
+Select yes or no 
+If yes, upload your language test results in second 
+official language 
+Current resume / CV  
+Did you complete an educational 
+credential assessment (ECA)? 
+Select yes or no 
+If yes, upload your educational credential 
+assessment (ECA) 
+Do you require certifications or 
+registrations for your job offer? Select yes or no 
+Education Certificates (Diploma, 
+Degree, etc) 
+Upload your education certificates 
+Click the green "+" sign to add more rows 
+Did you claim points for a BC PNP 
+eligible professional designation on 
+your registration? 
+Select yes or no 
+If yes, upload evidence of Professional Designation 
+Did you claim points for either 
+Regional Experience or Regional 
+Alumni on your registration? 
+Select yes or no 
+If yes, upload evidence of meeting either Regional 
+Experience or Regional Alumni requirements 
+Occupational Licence or Certificate Upload your occupational licence or certification 
+Spouse information 
+Information Fields Technical Notes 
+Do you have a spouse or common-law 
+partner currently working in Canada 
+on a work permit? 
+Select yes or no 
+Spousal Canadian work permit  
+Spousal Canadian two most recent pay 
+stubs 
+Upload of copy of your spouse’s two most recent 
+wage statements for employment in Canada 
+
+[PDF PAGE 49]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 49 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Spousal Canadian employment offer 
+letter  
+Employer documentation 
+Information Fields Technical Notes 
+Employer Declaration Form  
+Employer recommendation letter  
+Signed Job Offer Letter  
+Detailed job description  
+Evidence of recruitment   
+Company information  
+Certificate of incorporation  
+Municipal business licence  
+9-digit National Safety Code (NSC) number 
+(if applicable) 
+Employers that operate commercial vehicles, 
+such as trucks or buses, require certification 
+with B.C.’s National Safety Code (NSC) 
+Program. 
+ 
+If your employer operates commercial 
+vehicles, such as trucks or buses, provide your 
+employer’s 9-digit National Safety Code 
+number in any of the employer documentation 
+fields. For example, you may provide a copy of 
+the vehicle registration showing this number.  
+Submit tab 
+The last tab contains the declaration and consent. If you agree with the declaration, click the 
+checkbox and enter your full name as it appears on your passport. If you have a spouse, they 
+must also agree to the declaration and consent. 
+ 
+Use of paid representative 
+
+
+[PDF PAGE 50]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 50 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+You will be asked if you paid a representative to help fill out this form. If you select Yes, you 
+must complete the following fields: 
+Information Fields Technical Notes 
+Representative Family Name(s) Last name(s) of your representative 
+Representative Given Name(s) First and middle name(s) of your representative 
+Phone number of paid 
+representative Provide all numbers required to place a call from B.C. 
+ 
+If you have retained a person to represent you throughout the BC PNP process, you must also 
+declare them as your representative. Please see your representative section in Part 3 of this 
+guide for information about updating your profile.  
+If you have paid a person to help you fill out these forms, but you are not authorizing them to 
+represent you throughout the BC PNP process, you only need to complete this section.  
+Payment Refund Policy 
+You will be required to check a box to confirm that you understand and agree that application 
+fees will only be refunded if you withdraw your application before the BC PNP begins to assess 
+it.  
+ 
+ 
+If you have finished completing your form, you can click Validate to verify the information in your 
+application is complete. 
+ 
+ 
+If there are any missing pieces of information, you will see the following message: 
+  
+ 
+
+
+[PDF PAGE 51]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 51 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Click on any tabs with a light red background. When you do so, you will see the field(s) with 
+missing information highlighted in red: 
+ 
+ 
+Complete the required information in each tab, then click on the Submit tab at the top, and click 
+the Validate button at the bottom once again.  
+If no missing information is found, you will be able to click on the Submit button.  
+ 
+ 
+You will then be taken to a payment screen to pay the BC PNP application fee. 
+ 
+Enter your credit card details and click Pay Now. If the payment is successful, your application 
+will be submitted and you will receive a receipt via email. Receipt details can also be seen on 
+your dashboard.  
+After your application is submitted, you will be issued an email that includes your application file 
+number and the date your application was received. If you do not receive the confirmation email 
+within 24 hours, please check your email’s 'junk' or ‘spam’ folder. If you are unable to locate your 
+confirmation email, please contact the BC PNP immediately to ensure your submission has been 
+received. 
+
+
+[PDF PAGE 52]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 4: Your Application 52 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Notify the BC PNP of changes to your application 
+You must notify the BC PNP within 15 calendar days if there are any changes to your B.C. job offer, 
+including, but not limited to, the following: 
+• Change of employer 
+• Change of job title and duties 
+• Decrease in salary 
+• Decrease in hours of work below 30 hours/week 
+You can notify the BC PNP by emailing PNPInfo@gov.bc.ca, or by informing program staff 
+assigned to your application.  
+After submitting your application  
+After your application is submitted, your Case Status in the BCPNP Online user portal will say 
+"Applied". To view your submitted application form, you can click the View button under "My 
+Application." 
+ 
+You can monitor the progress of your application in the BCPNP Online user portal. This is 
+explained in part 3 of this guide.  
+Processing times start on the date your complete application is received by the BC PNP, and show 
+how long it may take to make a decision on your Skills Immigration application.  
+For more information, please see processing times in this guide.  
+Additional document requests  
+After you have submitted your application, it will be assessed for completeness and eligibility.  
+
+
+[PDF PAGE 53]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 5: Decision 53 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+At any point in the BC PNP process, staff may contact you, your employer or third parties to 
+request further information or documents to substantiate the information provided in your 
+registration or application.  
+Please refer to section 1.6 of the Skills Immigration Program Guide to learn more about 
+information gathering. 
+Part 6 of this guide lists minimum document requirements by stream, and instructions on how 
+to prepare your documents.  
+Request to withdraw your application  
+To withdraw your application: 
+• Contact the BC PNP to find out if you may be eligible for a refund 
+o Please provide your full name, your date of birth, and your BC PNP application file 
+number in your email request.  
+o Withdrawal requests submitted in-person or through voicemail will not be 
+accepted 
+• Once you have heard back from the BC PNP, confirm by email that you would like to 
+withdraw your application 
+To apply under a different stream or Express Entry BC option: 
+• Follow the steps above to withdraw your BC PNP application 
+• Once your application is withdrawn, you can complete a new registration for the 
+appropriate stream or Express Entry BC option 
+• Once you submit your registration, it will go into the registration pool for your stream 
+• Await a new invitation to apply.  
+For more information about the BC PNP’s refund policy, see section 7.5 of the Skills Immigration 
+Program Guide.  
+Part 5: Decision 
+Becoming a provincial nominee 
+If your application is approved, you become a B.C. nominee. You will receive a nomination 
+package within a week or two  after the nomination decision is made, which will include your 
+ongoing conditions of nomination, your confirmation of nomination, and a work permit support 
+letter (if applicable).  
+Information about the next steps to take after you are nominated, such as applying to the federal 
+government for permanent residence , maintaining your conditions of nomination , and 
+requesting post -nomination support, can be found in the Skills Immigration Post -Nomination 
+Guide. 
+
+[PDF PAGE 54]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 6: Documentation Requirements by stream 54 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Applications that are not approved 
+If your application is not approved, and you believe the decision was not fair or reasonable, you 
+can request a review of the decision. This is explained in part 7 of this guide.  
+The BC Provincial Nominee Program is only one means of applying for permanent resident status 
+in Canada. You may wish to explore the programs offered through Immigration, Refugees and 
+Citizenship Canada (IRCC) by consulting their website at www.ircc.canada.ca. 
+ 
+Part 6: Documentation Requirements by stream 
+You must provide documentation to verify the information you declare in your registration and 
+application.  
+The following tables list the minimum documentation required for each stream. The tables are 
+separated in two sections. One includes documents that must be provided by you, and the other 
+includes documents that must be provided by your supporting B.C. employer.  
+BC PNP staff may request additional information or documents through email to substantiate 
+the information provided in your registration or application. If the required documentation is 
+not provided, or if information you declared cannot be verified, your application may be 
+considered incomplete and will not be approved.   
+Preparing documents for submission 
+This section explains how to prepare documents for submission to the BC PNP. Whether you are 
+uploading documents to your application, or responding to an email request from BC PNP staff, 
+all documents must be:  
+• Clear, scanned copies  
+• Saved as a PDF 
+• Less than 3MB for each individual file 
+o This is enough for most documents scanned at 300dpi or lower 
+• In English 
+o If your documents are not in English, you must provide a certified translation with 
+photocopies of the originals.  
+o Translated documents must be stamped and certified by a person officially 
+authorized to notarize documents as accurate translations.  
+o Translators who are certified members in good standing of one of the provincial 
+or territorial organizations of translators and interpreters of Canada do not need 
+to supply an affidavit.  
+o Translated documents must contain the date of translation, the translator’s 
+signature and certification number. 
+
+[PDF PAGE 55]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 6: Documentation Requirements by stream 55 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Please do not submit any documents containing identifying personal information of individuals 
+who are not the BC PNP applicant. Personal information that is not related to the BC PNP 
+applicant should be redacted.  
+ 
+For additional information, please refer to the section on document descriptions. 
+BC PNP forms can be found on the documents page of our website. 
+Skilled Worker stream 
+The applicant must provide:  
+ Express Entry candidacy from IRCC (if using Express Entry BC) 
+ Canadian immigration records (if applicable) 
+ Valid B.C. or Canadian driver’s licence (if required by the employment job offer) 
+ Biographical page of passport 
+ Current photograph 
+ Labour Market Impact Assessment (if applicable) 
+ Language test results (if applicable) 
+ Current resume/C.V. 
+ Educational Credential Assessment (if applicable) 
+ Education Certificates (Diploma, Degree, etc.) 
+ Occupational Licences or Certificates 
+ Spouse’s Canadian work permit (if applicable) 
+ Spouse’s two most recent pay stubs in Canada (if applicable) 
+ Spouse’s employment offer letter from a Canadian employer (if applicable) 
+ 
+Evidence of meeting BC PNP-eligible Professional Designation (if applicable) 
+For example, trades apprentices must submit a Skilled Trades BC Official Program 
+Transcript 
+ Evidence of meeting Regional Experience or Regional Alumni (if applicable)  
+ Use of Representative – Applicant form (if applicable).  
+The B.C. employer must provide: 
+ Signed BC PNP Employer Declaration Form  
+
+[PDF PAGE 56]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 6: Documentation Requirements by stream 56 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ Recommendation letter 
+ Signed job offer  
+ Detailed job description 
+ Evidence of recruitment efforts 
+ Company information 
+ Certificate of incorporation (or legal equivalent) 
+ Evidence they are able to legally operate a business in B.C.  
+ Vehicle registration showing employer’s 9-digit National Safety Code number (if 
+applicable)   
+ Use of Representative – Employer form (if applicable) 
+ 
+Health Authority stream (direct employees) 
+Direct employees must provide: 
+ Express Entry candidacy from IRCC (if using Express Entry BC) 
+ Canadian immigration records (if applicable) 
+ Biographical page of passport 
+ Current photograph 
+ Valid B.C. driver’s licence (if required by the employment job offer) 
+ Labour Market Impact Assessment (if applicable) 
+ Language test results (if applicable) 
+ Current resume/C.V. 
+ Occupational licences or certificates (if applicable) 
+ Education certificates (diploma, degree etc.) 
+ Spouse’s Canadian work permit (if applicable) 
+ Spouse’s two most recent pay stubs in Canada (if applicable) 
+ Spouse’s employment offer letter from a Canadian employer (if applicable) 
+ Use of Representative – Applicant form (if applicable) 
+
+[PDF PAGE 57]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 6: Documentation Requirements by stream 57 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+The B.C. Health Authority or equivalent must provide: 
+ Signed BC PNP Employer Declaration Form  
+ Recommendation letter  
+ Copy of the job offer  
+ Detailed job description 
+ Use of Representative – Employer form (if applicable) 
+ 
+Health Authority stream (physicians, nurse practitioners, and midwives) 
+Physicians, nurse practitioners, and midwives must provide: 
+ Express Entry candidacy from IRCC (if using Express Entry BC) 
+ Canadian immigration records (if applicable) 
+ Biographical page of passport 
+ Current photograph 
+ Labour Market Impact Assessment (if applicable) 
+ Language test results (if applicable) 
+ Current resume/C.V. 
+ Education certificates (diploma, degree etc.) 
+ Occupational licences or certificates 
+ Use of Representative – Applicant form (if applicable).  
+The B.C. Health Authority must provide: 
+ 
+Signed BC PNP Employer Declaration Form  
+Physicians and nurse practitioners: this form must be signed by a delegated and 
+authorized employee of the health authority supporting your application 
+Midwives: this form must be signed by a delegated and authorized employee of 
+the health authority supporting your application or by your practice group 
+ 
+Signed job offer letter 
+Midwives: you may provide your letter of confirmation from a practice group in 
+lieu of a signed job offer letter 
+
+[PDF PAGE 58]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 6: Documentation Requirements by stream 58 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+Recommendation letter  
+Physicians and nurse practitioners: the recommendation letter must be provided 
+by a delegated and authorized employee of the health authority supporting your 
+application or by the owner/operator of the medical facility where you work 
+Midwives: the recommendation letter must be provided by a delegated and 
+authorized employee of the health authority supporting your application or by 
+your practice group 
+ Detailed job description 
+ Use of Representative – Employer form (if applicable) 
+ 
+Temporary Rural/Remote Health Support initiative 
+The applicant must provide:  
+ Canadian immigration records 
+ Valid B.C. driver’s licence (if required by the job offer) 
+ Biographical page of passport 
+ Current photograph 
+ Labour Market Impact Assessment (if applicable) 
+ Language test results  
+ Education certificates (diploma, degree etc.) 
+ Wage statements for the previous nine months 
+ Educational Credential Assessment (ECA) (if applicable) 
+ Occupational Licences or Certificates 
+ Current resume/C.V. 
+ Spouse’s Canadian Work Permit (if applicable) 
+ Spouse’s two most recent pay stubs in Canada (if applicable) 
+ Spouse’s employment offer letter from a Canadian employer (if applicable) 
+ 
+Evidence of meeting BC PNP-eligible Professional Designation (if applicable) 
+For example, trades apprentices must submit a Skilled Trades BC Official Program 
+Transcript 
+
+[PDF PAGE 59]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 6: Documentation Requirements by stream 59 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ Evidence of meeting Regional Experience or Regional Alumni (if applicable) 
+ Use of Representative – Applicant form (if applicable).  
+The B.C. employer must provide: 
+ BC PNP Employer Declaration Form  
+ Recommendation letter 
+ Signed job offer  
+ Detailed job description 
+ Company information* 
+ Certificate of Incorporation (or legal equivalent)* 
+ Evidence they are able to legally operate a business in B.C.* 
+ Wage statements for the previous nine months 
+ Evidence of recruitment efforts (if applicable)* 
+ Use of Representative – Employer form (if applicable) 
+*If your employer is a public health authority, you can re-upload the signed Employer 
+Declaration Form in lieu of these documents 
+ 
+Description of documents  
+Description of required documents about the applicant 
+Use of Representative – Applicant form:  If you are authorizing someone to represent you 
+throughout the BC PNP process, you must submit this form. Please refer to part 2 of the Skills 
+Immigration Program Guide for information about declaring a representative.  
+Please note: The Use of Representative – Applicant form is uploaded to your profile in the 
+BCPNP Online user portal instead of your registration or application form.  
+BC PNP forms can be found on the documents page of our website. 
+Biographical page of passport: The biographical page of your passport is the page in the 
+passport with the name, photo, passport/travel document number, issue date, expiration date, 
+and signature. 
+Canadian immigration records: Copies of all Canadian immigration records must be provided. 
+This includes all work permits, study permits or visitor records that you have recently obtained.    
+
+[PDF PAGE 60]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 6: Documentation Requirements by stream 60 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+If your application includes other family members who have recently visited Canada, a copy of 
+all their Canadian immigration records must also be provided. 
+Current photograph: You must provide a passport-style photograph taken within the past six 
+months. You do not need a guarantor. Spouses/common-law partners and dependants do not 
+need to submit photographs.  
+Education certificates (diplomas, degrees etc.): Your education certificates (i.e. parchments) 
+must be provided if you received points for education or if your education is required for the 
+position you have been offered.   
+Educational Credential Assessment (ECA): If you included the results of your Educational 
+Credential Assessment (ECA) in your Express Entry profile, upload the ECA from a designated 
+agency.  
+Education transcript(s): A copy of the official transcript from your post-secondary institution. 
+Express Entry candidacy from IRCC: (Express Entry BC option only) You must provide your 
+Express Entry Profile Number, and Job Seeker Validation Code, as proof you are in IRCC’s 
+Express Entry pool. Documents that do not include your full name will not be accepted.  
+Note that the BC PNP may request additional documentation to verify placement into the 
+Express Entry pool. The IMM5786 letter from IRCC displays this information. 
+Labour Market Impact Assessment (LMIA): A copy of your LMIA is required if your work 
+permit was issued as a result of a positive LMIA issued by Service Canada. 
+Language test results : You must provide valid language tests to verify your  English and/or 
+French language proficiency. Valid language test results include a  copy of the IELTS test results 
+form, the CELPIP official score report, the PTE score report, the test d’evaluation de Français (TEF) 
+or the Test Connaissance du Français (TCF) as a PDF file.  
+Please note: the BC PNP may request an original copy of the test results if needed. 
+Occupational licenses or certificates: Clear, scanned copies of licenses, certificates and 
+credentials that are relevant for your occupation.  
+In some cases, an occupational licence may include a valid B.C. driver’s licence.  
+If your job requires mandatory licensing or certification, but you do not yet have your full 
+credential, you must provide evidence from a third party, for example, a letter from a B.C. 
+regulator, that confirms these requirements will shortly be met. 
+Professional Designation: If you claimed registration points for having a professional 
+designation, you must provide evidence to demonstrate you have completed a BC PNP- eligible 
+professional designation in B.C. Your designation must correspond to your job offer. 
+
+[PDF PAGE 61]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 6: Documentation Requirements by stream 61 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+If you are a trades apprentice, you must submit a copy of your Skilled Trades BC Official 
+Program Transcript.  
+Regional Alumni: If you claimed additional points for Regional Alumni, you must provide 
+evidence that you meet the requirements as stated in the current version of the Skills 
+Immigration Program Guide. This can be demonstrated by providing a copy of your education 
+certificate or transcripts from an eligible public post-secondary institution.  
+Regional Experience: If you claimed additional points for Regional Experience, you must 
+provide evidence that you meet the requirements as stated in the current version of the Skills 
+Immigration Program Guide. You must clearly demonstrate where you worked, the duration in 
+which you obtained your paid experience, your hourly and the average number of hours you 
+worked during this time. 
+Evidence of this may include, but is not limited to: 
+• Wage statements 
+• Job offer letter 
+• A copy of your T4  
+• A copy of your Notice of Assessment issued by the CRA   
+• A copy of your tenancy agreement or mortgage document demonstrating the length of 
+your period of residence in B.C. 
+Resume/CV: Include an up-to-date copy of your resume showing current employment 
+experience, education, etc. The resume should also include the dates and positions for all 
+previous employment experiences. 
+Wage statements: (Temporary Rural/Remote Health Support initiative  only) You must provide 
+your wage statements for the 9 months of employment immediately prior to registering with the 
+BC PNP, and for the time between submitting a registration and application.  
+Description of required documents about the applicant’s family 
+Canadian immigration records: If your application includes other family members who have 
+recently visited Canada, a copy of all their immigration records must also be provided. This 
+includes all work permits, study permits or visitor records that were recently obtained.    
+Minimum income threshold: To consider your spouse or common-law partner’s wage in B.C. as 
+part of your family income, you must provide your spouse’s:  
+• Canadian work permit 
+• Employment offer letter from a B.C. employer 
+• Two most recent pay stubs from their B.C. employer  
+Description of required documents about the supporting employer 
+
+[PDF PAGE 62]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 6: Documentation Requirements by stream 62 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+The employer supporting your application must submit documentation as part of a complete 
+application. In most cases, these documents are provided to you, and you then upload the 
+documents as part of your online application. Your employer may also submit documentation 
+via email to PNPInfo@gov.bc.ca. The email should include your full name and your BC PNP 
+application number.    
+ 
+Employer Declaration Form: All sections of the Employer Declaration Form must be completed. 
+Responses that do not directly answer the questions in each section, or that provide vague, 
+imprecise statements such as ‘not applicable,’ or ‘employee on valid work permit’ will be 
+considered incomplete and your application may be refused.  
+This form must also be signed by the supporting B.C. employer.  
+If you are employed by a B.C. health authority, the Employer Declaration Form must be signed 
+by a delegated and authorized employee of the health authority.  
+Midwives must also provide a signed Employer Declaration Form. If you are a midwife, this form 
+can be completed by a B.C. health authority or your practice group.  
+Please refer to section 6.4 in the Skills Immigration Program Guide for information about who is 
+authorized to sign this form.  
+Recommendation letter: The supporting B.C. employer must submit a recommendation letter 
+on your behalf. This letter should outline why the employer is recommending you for 
+nomination and for permanent residence, how you are qualified for the position, the 
+recruitment process they undertook before offering the position to you, and how you will 
+contribute to the company or organization. 
+Physicians and nurse practitioners who have the support of a B.C. health authority, but are not 
+directly employed by the health authority, can provide a recommendation letter from the B.C. 
+health authority, or the clinic where you are working in B.C.   
+Midwives can provide a recommendation letter from a B.C. health authority or your midwife 
+practice group in B.C.  
+Signed job offer letter: The job offer letter must be written on official company letter  and be 
+signed and dated by an employee, or owner, of your supporting employer who is authorized to 
+hire employees. You must also sign and date the job offer letter to confirm that you accept the 
+offer.  Your job offer letter must also include the following details:  
+• Your job title and duties 
+• Your hourly and annual wage 
+• Your regular hours of work 
+• Your work location, and whether you will regularly work remotely 
+• That your position is indeterminate and full-time (at least an average of 30 regular hours 
+a week)  
+Any discretionary benefits in addition to those required by law (such as pension and 
+medical plans, disability insurance, sick pay, accommodation and meal allowances, and 
+extra paid vacations) 
+
+[PDF PAGE 63]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 7: Request for Review 63 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+If the job offer is covered by a collective agreement, a reference to the agreement 
+Certificate of Incorporation: A copy of the certificate of incorporation for your supporting B.C. 
+employer must be provided. Incorporation documents can be obtained directly from your 
+supporting employer. 
+Employers with other types of business structures with a permanent establishment in B.C. can 
+provide the legal equivalent to a certificate of incorporation. For example, non-profit 
+organizations that are not incorporated, can provide proof of registration under the Societies 
+Act, etc.  
+If your supporting employer is a public agency in B.C., your employer can re-upload the 
+Employer Declaration Form in lieu of the certificate of incorporation.  
+Company/Organization information: Provide a brief (1 page) profile of the company’s business 
+activities, as a PDF file or Word document. If the business is a franchise, provide a profile of the 
+franchisee rather than the parent franchise. 
+Detailed job description: Your supporting B.C. employer must provide a detailed job 
+description for the position offered to you. This should include the specific duties and 
+responsibilities of the position, and the requirements for the job (applicable education, 
+certification or licensing, work experience and language proficiency). 
+Evidence the employer can legally operate a business in B.C.: The supporting B.C. employer 
+must provide evidence that they are authorized to operate a business in B.C. This usually 
+includes a valid municipal business licence.  
+Regulated businesses and industries must also demonstrate that your employer has approval 
+from the industry’s governing body to operate. 
+Employers supporting early childhood educator or assistants must demonstrate they are 
+licensed by a provincial health authority to operate a child care facility. 
+National Safety Code (NSC) number: The supporting B.C. employer must provide a copy of 
+their 9-digit National Safety Code (NSC) number. For example, they may provide a copy of the 
+vehicle registration showing this number. The carrier name associated with the 9-digit NSC 
+number must match your employer’s legal name on your BC PNP application. 
+Use of Representative – Employer form:  If the supporting employer is authorizing someone 
+to represent them, they must complete a Use of a Representative – Employer form. You must 
+submit your employer’s form at the time you apply.  
+Part 7: Request for Review 
+If your BC PNP application is refused, you can request a review of the decision. The purpose of a 
+request for review is to determine whether the refusal decision was unreasonable or 
+procedurally unfair. Please refer to section 7.7 in the Skills Immigration Program Guide.  
+
+[PDF PAGE 64]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 7: Request for Review 64 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+When you receive a refusal decision from the BC PNP, the refusal will include a link to an online 
+form for requesting a review of the decision. This link is specific to your case and will not work 
+for other decisions.  
+To proceed with a request for review, click the link. This will initiate your Request for Review. 
+Once you have started the form, the link will no longer work, but you will be able to access your 
+Request for Review form through the BC PNP Online user portal. 
+Once you have clicked the link, log in to the BCPNP Online user portal to complete the form. 
+ 
+If you experience any issues with the link included in your refusal decision, please contact the BC 
+PNP immediately. 
+Complete all tabs of the Request for Review form 
+The first tab of the Request for Review form is the personal information tab. The fields on this 
+tab will be auto-filled with the personal and contact information you provided in your profile.  
+You will be asked to confirm that your profile and representative information is correct and up 
+to date. If you wish to make changes to either, you can click the Edit profile or Edit representative 
+button. 
+Once you have confirmed the information is correct, click the Proceed button. 
+The next tab of the Request for Review form is the file information tab. The fields on this tab 
+will be auto-filled from your BC PNP application. 
+Grounds for Review Request 
+Your complete review request must identify the grounds on which you are requesting a review. 
+To do this, select "Yes" to one of the following: 
+Information Fields Technical Notes 
+Unreasonable decision  
+Select this option if you believe the decision was 
+unreasonable.  
+A reasonable decision is defined as: 
+• Within the range of decisions that could be reasonably 
+supported by the evidence before the decision maker 
+• Made on the basis of the program criteria at the time of 
+decision 
+
+
+[PDF PAGE 65]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 7: Request for Review 65 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+Procedurally unfair 
+Select this option if you believe the decision was procedurally 
+unfair.  
+A procedurally fair decision is defined as: 
+• The decision was based on a fair process 
+• The decision maker provided an opportunity to respond to 
+concerns 
+If you select Yes to either, a field will appear in which you can type a detailed explanation of your 
+reasons for requesting a review of the BC PNP’s decision. These fields have a limit of 1,000 
+characters. If your explanation is longer than the limit, you can upload a document with your 
+explanation in the Attachments tab. 
+Attachments tab 
+The following documentation is required when requesting a review: 
+• A copy of your passport biographical and signature page (if separate) 
+• A copy of your BC PNP decision letter which will be used to verify that your letter is valid 
+You can also upload additional documents to support your request. 
+Submit Tab 
+The last tab presents you with the declaration and consent that you must read and agree to in 
+order to submit your request for review. In doing so, you must click on the checkbox and enter 
+your full name as it appears on your passport. 
+ 
+Use of paid representative 
+You will be asked if you hired a paid representative to help fill out this form. If you select Yes, the 
+following fields will appear: 
+Information Fields Technical Notes 
+Representative Family Name(s) Last name(s) of your representative 
+Representative Given Name(s) First and middle name(s) of your representative 
+Phone number of paid 
+representative Provide all numbers required to place a call from B.C. 
+Payment Refund Policy 
+You will be required to check a box to confirm that you understand and agree that the request 
+for review fee is non-refundable.  
+
+
+[PDF PAGE 66]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 7: Request for Review 66 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+   
+If you have finished completing your form, you can click Validate to verify the information in your 
+review request is complete. 
+ 
+If there are any missing pieces of information, you will see the following message:  
+  
+Click on any tabs with a light red background. When you do so, you will see the field(s) with 
+missing information highlighted in red.  
+ 
+Complete the required information in each tab, then click on the Submit tab at the top, and click 
+the Validate button at the bottom once again.  
+If no missing information is found, you will be able to click the Submit button. 
+ 
+If all the information in your review request is complete, you will be taken to a payment screen 
+to pay the application fee.  
+
+
+[PDF PAGE 67]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 7: Request for Review 67 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+Enter your credit card details and click Pay Now. If the payment is successful, your request for 
+review will be submitted, and you will receive an emailed receipt and confirmation of your 
+review request. You will also see receipt details on your dashboard. 
+  
+
+
+[PDF PAGE 68]
+BC PNP Skills Immigration Application Guide 
+ 
+Skills Immigration Application Guide | Part 7: Request for Review 68 
+The information in this guide is effective June 25, 2026. Please visit our website to ensure you are using the correct version. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This page intentionally left blank 
