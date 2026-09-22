@@ -1,0 +1,576 @@
+{
+  "as_of": "2026-09-22",
+  "language": "zh-CN with English policy names",
+  "scope": "BC三个企业家/企业stream详细核验、BC四个RCIP/FCIP落地社区及联邦工签衔接；不是所有联邦项目/表格完整审计。",
+  "sources": [
+    {
+      "id": "B1",
+      "title": "EI Base Program Guide，2024-05-27，当前 Documents 页面仍链接此版",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-program-guide-pdf",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "B2",
+      "title": "EI Regional Program Guide，2024-05-27，当前 Documents 页面仍链接此版",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-regional-pilot-program-guide-pdf",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "B3",
+      "title": "EI Application Guide，2022-11-16",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-application-guide-pdf",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "B4",
+      "title": "WelcomeBC 企业家与企业现行总页",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/for-entrepreneurs-and-businesses",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "B5",
+      "title": "WelcomeBC Invitations，更新2026-09-17",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "B6",
+      "title": "WelcomeBC 参与社区及经济优先事项",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/regional-immigration",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "B7",
+      "title": "WelcomeBC Documents 当前指南入口",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "F1",
+      "title": "IRCC RCIP/FCIP 官方社区目录",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "F2",
+      "title": "RCIP 联邦资格",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "F3",
+      "title": "RCIP 语言",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/language-test.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "F4",
+      "title": "FCIP 联邦资格",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "F5",
+      "title": "FCIP 法语",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility/language-test.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "F6",
+      "title": "RCIP 可选工作许可",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/work-permit.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "F7",
+      "title": "IRCC 雇主指定",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/hire/designation.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "W1",
+      "title": "West Kootenay 2026-09-15/16最新收件公告",
+      "url": "https://westkootenayimmigration.ca/september-intake-whats-next/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "W2",
+      "title": "West Kootenay 优先职业",
+      "url": "https://westkootenayimmigration.ca/priorities/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "W3",
+      "title": "West Kootenay 指定雇主名单",
+      "url": "https://westkootenayimmigration.ca/designated-employers/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "W4",
+      "title": "West Kootenay 雇主指定要求",
+      "url": "https://westkootenayimmigration.ca/employer-designation/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "N1",
+      "title": "North Okanagan Shuswap 2026收件日历",
+      "url": "https://rcipnorthokanaganshuswap.com/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "N2",
+      "title": "North Okanagan Shuswap 2026优先行业职业及限制",
+      "url": "https://rcipnorthokanaganshuswap.com/priority-sectors-nocs/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "N3",
+      "title": "North Okanagan Shuswap 资料与雇主清单入口；2026-08-31版",
+      "url": "https://rcipnorthokanaganshuswap.com/resources-and-policies/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "N4",
+      "title": "North Okanagan Shuswap FAQ",
+      "url": "https://rcipnorthokanaganshuswap.com/faqs/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "P1",
+      "title": "Peace Liard 最新2026-06-25收件更新",
+      "url": "https://www.nebcimmigration.ca/post/rcip-2026-candidate-intake-update-june-2026",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "P2",
+      "title": "Peace Liard 候选人规则",
+      "url": "https://www.nebcimmigration.ca/candidates",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "P3",
+      "title": "Peace Liard 2026职业入口",
+      "url": "https://www.nebcimmigration.ca/priority-occupations",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "P4",
+      "title": "Peace Liard 现链接指定雇主PDF",
+      "url": "https://www.nebcimmigration.ca/_files/ugd/c6258b_049cc44adc8b452f82bbb0a2f5f20019.pdf",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "K1",
+      "title": "Kelowna SDÉCB FCIP 官方执行机构及雇主名单",
+      "url": "https://www.sdecb.com/en/pilot-program/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "K2",
+      "title": "Kelowna 官方链接2026职业及招聘文件",
+      "url": "https://docs.google.com/document/d/1z5oaVk7P8Eat5acl5ydVUpcZhPvZ0iJQPFPdQJm9fqY/edit?usp=sharing",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "T1",
+      "title": "IRCC Bridging open work permit",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/pr-work-permits/bridging.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "T2",
+      "title": "IRCC Employer Portal user guide",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal/user-guide.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "T3",
+      "title": "IRCC Employer-specific work permit",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employer-specific.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "T4",
+      "title": "IRCC 境外工签材料",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit-outside/forms-documents.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "T5",
+      "title": "IRCC 境内续签维持身份说明",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/apply.html",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "B8",
+      "title": "BC Skills Immigration Post-Nomination Guide，2022-08-29，当前仍链接",
+      "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-post-nomination-guide-pdf",
+      "checked": "2026-09-22",
+      "evidence_file": "evidence/si-nominee.pdf"
+    }
+  ],
+  "source_conflicts": [
+    {
+      "issue": "经验与学历混同",
+      "website": "B4脚注称不满足business experience可提交post-secondary degree考虑。",
+      "guide": "B1第2.2(C)/(D)、B2第2.2(C)/(D)明确经验资格与学历资格是两项；学历不能豁免经验。",
+      "resolution": "按两项独立门槛呈现；指南第2页声明与网站冲突时指南为准。"
+    },
+    {
+      "issue": "Regional最终报告时间",
+      "website": "B4重复写18至20个月。",
+      "guide": "B2第3.5(A)明确工签签发后366至610日，约12至20个月。",
+      "resolution": "用Regional指南的366至610日。"
+    },
+    {
+      "issue": "抵达期限起算",
+      "website": "B4称取得工签后12个月。",
+      "guide": "B1/B2第3.4(A)规定从letter of confirmation日期起365日内持有效工签抵达。",
+      "resolution": "按支持信起365日；保留协议个案日期。"
+    },
+    {
+      "issue": "经验月数边界",
+      "website": "概览表3年以上/4年以上。",
+      "guide": "B1/B2第2.2(C)逐字为more than 36 / more than 48 months，组合为at least12+24 months。",
+      "resolution": "详细记录使用超过36/48个月；刚好36/48月不直接判定满足，需书面确认。"
+    },
+    {
+      "issue": "Regional评分时间",
+      "website": "B4给6周。",
+      "guide": "B2给通常4周。",
+      "resolution": "仅列服务估计4至6周及来源差异，不承诺完成日期。"
+    },
+    {
+      "issue": "Strategic Projects附加费用口径",
+      "website": "B4写each additional key staff另收1000。",
+      "guide": "当前公开资料没有独立Strategic Projects guide。",
+      "resolution": "如实保留每名额外关键员工1000的网页口径；不推导未核实的总额公式，邀请材料及portal确认。"
+    },
+    {
+      "issue": "BOWP旧省指南与联邦现行条件",
+      "website": "IRCC现行BOWP页更新2026-06-23，区分EE完整性审查与非EE PNP eligibility assessment，并纳入维持/可恢复身份。",
+      "guide": "2022-08-29 BC Post-Nomination Guide第18页仍写工签4个月内到期及有效工签等旧口径。",
+      "resolution": "工签资格以现行IRCC为准；不把旧省指南4个月期限作为当前BOWP通用门槛。"
+    }
+  ],
+  "common_requirements": [
+    "必须实际、持续在BC营业场所管理日常经营，不接受纯被动投资；登记商业构想需具体到6位NAICS，提交后不得任意更改。满足最低门槛不等于获邀、获提名或取得PR。",
+    "净资产可包含配偶/同居伴侣及受抚养子女资产并扣除债务，必须合法取得、可验证且完整申报；未发生的继承不能计入。获邀后必须由BC PNP授权会计师事务所核实净资产及资金积累；报告有效12个月，会计师审查可需60日，费用自付。",
+    "Owner-manager经验须个人现场参与日常管理且持股至少10%；senior manager须无股权或低于10%，管理至少3名全职员工，岗位为NOC TEER0或1。持股但仅参加股东会议不算积极管理经验。",
+    "学历为认可专上学位/文凭/证书；替代路径为过去60个月中至少36个月积极经营100%自有企业，100%可由本人、配偶/同居伴侣、受抚养子女合计。语言培训不算专上学历；可能要求ECA。此项不替代独立经验门槛。",
+    "最低投资来自个人净资产，仅计必要合资格营业支出；外部融资可用于超过个人最低额的部分。申请邀请前发生的投资不计入，BC亦不鼓励在签经营协议并取得有效工签前承诺投资。",
+    "合资格支出可含新设备、装修、新营销、合理开业存货与有上限经营成本。必要商业车辆最多计15000；新非加盟企业最多6个月经营费用，新加盟点最多3个月；合理存货最多3个月。现金储备/营运资金余额、本人/家人/共同股东工资、可退押金、房地产及相关费用、研发、移民及净资产审查费用不计最低投资。",
+    "须在持省支持工签抵达后420日内创造至少1个加拿大公民/PR永久全职等值岗位；FTE平均每周至少30小时、每年1560小时，可由连续雇佣的多个员工合成。独立承包商、持股10%以上者不计；须在主营场所而非远程工作。最终报告前须连续维持至少180日。",
+    "不得在加拿大无合法身份或非法工作；禁止入境、居住国未合法接纳、未决难民申请、境内外遣返令等会造成不合资格，具体依指南第2.2(A)。",
+    "当前EI指南列IELTS General Training、CELPIP-General、TEF、TCF Canada，语言四项均须达CLB4。IELTS最低听4.5、读3.5、写4、说4；CELPIP四项4。旧指南TEF/TCF换算应按考试日期及最新官方换算核实，不把旧量表直接用于新成绩。"
+  ],
+  "ineligible_businesses": [
+    "与移民挂钩的投资安排",
+    "含赎回权的投资",
+    "被动投资",
+    "B&B、hobby farm、家庭经营场所型企业",
+    "payday loan、支票兑现、换汇、ATM业务",
+    "典当",
+    "日光浴沙龙",
+    "DVD出租",
+    "投币洗衣",
+    "自动洗车",
+    "废金属回收",
+    "旧货销售但没有维修/翻新/再生增值",
+    "房地产/保险/企业经纪",
+    "房地产开发",
+    "没有增值的货物进出口贸易",
+    "色情或性服务业务",
+    "可能损害BC PNP或省政府声誉的其他业务"
+  ],
+  "programs": [
+    {
+      "id": "bc-ei-base",
+      "name": "Entrepreneur Immigration — Base",
+      "category": "省提名企业家stream",
+      "status": "现有登记及邀请机制；最近已公布2026-08-25邀请11人，最低116；不是免邀请开放申请",
+      "sources": [
+        "B1",
+        "B3",
+        "B4",
+        "B5"
+      ],
+      "eligibility": {
+        "net_worth_cad": 600000,
+        "eligible_personal_investment_cad": 200000,
+        "experience": "过去120个月内超过36个月owner-manager，或超过48个月senior manager，或至少12个月owner-manager加24个月senior manager。",
+        "education": "见共同独立学历门槛；不能以学历免经验。",
+        "ownership": "至少三分之一（33⅓%）；低于三分之一时须股权投资至少100万加元。",
+        "language": "英语或法语四项至少CLB4；若登记主张语言分须上传有效成绩，否则最迟最终报告提供；成绩24个月有效。",
+        "residence": "通常住所到企业最短公路距离50公里以内；渡轮行程不得超过30分钟，除非performance agreement另定；工签经营期间至少75%时间身在BC。",
+        "business": "BC全省可建立新企业或收购并改善/扩张现有企业；被收购企业须由现业主持有经营至少60个月。",
+        "scoring": "总200分：自报120、商业构想80；商业构想至少40，总分至少115入池；各子项最低分仍适用。",
+        "jobs": "至少1个新FTE；收购企业另须维持原有岗位数量。"
+      },
+      "business_rules": [
+        "收购价最多150000计作合资格business value，另至少50000用于真正改进/升级/扩张。房地产、交易专业费不计；维持原规模的租金、工资、常规库存不能充作50000改进。",
+        "加盟系统须有至少5年经营、财务及扩张能力证据，且加盟总部支持；收购现有加盟点的扩张需符合加盟方要求。季节企业必须证明全年在BC积极管理。农业项目及高度监管行业须额外处理经营计划、技能及许可。",
+        "可与BC PNP共同登记者合伙，但每人独立满足资格/投资/至少1新FTE、独立审理；共同登记须首人登记后30日内提交，各人登记分按最低共同登记者调整。"
+      ],
+      "process": [
+        "准备商业计划/建议实地考察 → 登记$300 → 通常6周评分 → 合格池180日。",
+        "获ITA后120日内提交完整申请及净资产审查，申请费$3500；可能面试，须按通知配合。",
+        "批准后签performance agreement、获90日有效工签支持信；支持信到期前申请联邦工签，从支持信日起365日内持有效工签抵达。",
+        "以持有效工签抵达 BC 的日期与履约协议签署日期中的较后者为起点，60 日内提交 Arrival Report；工签签发后365日内提交进度check-in。",
+        "工签签发后550至610日递交最终报告；履行投资/雇佣/居住/管理，提交CPA review-engagement财务报告等，省可实地检查或面试。",
+        "取得提名并签Conditions of Nomination；提名确认180日有效，期限内向IRCC提交非EE省提名PR；等待期间继续经营、保持许可及提名条件。"
+      ]
+    },
+    {
+      "id": "bc-ei-regional",
+      "name": "Entrepreneur Immigration — Regional",
+      "category": "省提名企业家stream；自2024年转为常设Regional，旧URL仍含pilot",
+      "status": "参与社区转介＋登记池＋邀请；最近已公布2026-08-25邀请5人，最低116；各社区是否接待考察/发转介另核实",
+      "sources": [
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6"
+      ],
+      "eligibility": {
+        "net_worth_cad": 300000,
+        "eligible_personal_investment_cad": 100000,
+        "experience": "过去60个月内超过36个月owner-manager，或超过48个月senior manager，或至少12个月owner-manager加24个月senior manager。",
+        "education": "同共同独立学历条件；专上学历或过去5年中3年100%积极经营。",
+        "ownership": "至少51%；不能套用Base的100万投资少数股权例外。",
+        "language": "登记时已具备英语/法语四项CLB4及有效考试成绩，成绩有效24个月。",
+        "residence": "须住在支持其申请的社区边界内，并在工签经营期间至少75%时间实际在BC。",
+        "business": "仅限参与社区新建企业，六位NAICS与社区选定经济优先事项吻合，本人经验与计划一致；不适用于收购现有企业。",
+        "community": "必须先实地考察并与指定联系人会面；社区可自定筛选、限制转介数量；转介90日有效，登记必须上传。",
+        "scoring": "总200分：自报140、商业构想60；总分至少105入池，无独立商业构想最低分，但其他最低资格仍适用。",
+        "jobs": "至少1个新加拿大公民/PR FTE，创造与持续雇佣要求同共同规则。"
+      },
+      "business_rules": [
+        "不能与另一个BC PNP共同登记者合伙；可以有当地商业伙伴，但个人至少51%所有权。",
+        "收购既有企业或企业资产不计合资格投资；加盟可考虑新加盟点，须加盟体系及总部支持。",
+        "参与社区并非泛指所有小镇，必须使用WelcomeBC现行社区及对应NAICS目录，申请前由社区确认考察与转介容量。"
+      ],
+      "process": [
+        "选社区及NAICS → 联系社区/实地考察 → 90日内有效转介＋CLB4测试 → $300登记。",
+        "通常4周评分（网页另列6周），入池180日；获ITA后120日内完整申请及授权净资产审查、$3500申请费。",
+        "批准后签经营协议；90日有效支持信内申请工签；支持信日期起365日内持有效工签抵达。",
+        "以持有效工签抵达 BC 的日期与履约协议签署日期中的较后者为起点，60 日内提交 Arrival Report；抵达6至8个月社区DCP进度回访并向省报告。",
+        "工签签发后366至610日提交最终报告（约12至20个月；不是网站复制的18至20）；至少一整年CPA review-engagement财务报告，岗位须报告前连续180日。",
+        "履约→省提名→180日有效期内IRCC非EE PR申请；持续满足经营和居住条件。"
+      ]
+    },
+    {
+      "id": "bc-strategic-projects",
+      "name": "Strategic Projects",
+      "category": "外国企业在BC扩张，企业主导关键员工省提名",
+      "status": "官网保留申请通道；须先与BC PNP资讯会面，获准登记再等邀请；未发现单独公开抽选分数/固定名额承诺",
+      "sources": [
+        "B4",
+        "B1",
+        "B7"
+      ],
+      "eligibility": {
+        "corporation": "外国公司已建立成熟业务、财务状况良好，具备向BC国际扩张的投资准备和能力；设立与核心业务战略一致的子公司或分支。",
+        "equity_investment_cad": 500000,
+        "key_staff": "永久全职雇佣、具备积极管理BC业务所需经验；最多5名关键员工。",
+        "job_creation": "每名拟提名关键员工至少创造3个加拿大公民/PR新全职岗位；5名员工对应至少15岗位，5是人员上限而非岗位上限。",
+        "education_language_networth": "当前公开现行总页未列个人净资产、固定学历、CLB分数或经历年限；不能自行套用Base/Regional或顾问网页。",
+        "residence": "关键员工须到BC积极经营；具体居住与管理条件见个别corporate Performance Agreement，不擅自套用Base50公里/75%门槛。"
+      },
+      "business_rules": [
+        "禁止业务以官网Strategic Projects部分为准。",
+        "现行Documents目录仅提供Base/Regional指南和通用申请指南；后者明确Strategic Projects看官网，不能声称已审独立Strategic Projects完整指南。",
+        "申请包在邀请后发放，具体企业财务、关键员工与商业扩张证据依正式清单；本研究仅核实公开层面。"
+      ],
+      "process": [
+        "高管联系BC PNP参加information meeting；建议访BC → 省可能允许登记proposal。",
+        "获ITA起90日内完整企业及关键员工申请；员工可能被邀面试。",
+        "获批后企业签字负责人及获准关键员工签corporate Performance Agreement；每名员工获工签支持信。",
+        "支持信后90日内申请工签；收到支持信6个月内抵达BC；抵达2个月内交Arrival Report。",
+        "抵达后12至24个月交最终报告；完成协议→签提名条件→提名→IRCC省提名PR。"
+      ],
+      "fees": "官网登记300、申请3500、review500；对每名额外关键员工另收1000。第一名是否在3500内以邀请包/门户确认，不能用历史顾问价格替代。"
+    }
+  ],
+  "application_evidence": [
+    {
+      "stage": "登记",
+      "requirements": "护照资料及签字页、照片、适用的代表授权；Regional另有有效社区转介与语言报告，Base如要求语言分须成绩。",
+      "source": "B1/B2第3.2"
+    },
+    {
+      "stage": "净资产及资金来源",
+      "requirements": "IMM Schedule4A及财富积累叙述；本人及配偶最近2年个人税单、每个银行账户最近2年月结单且相同截止日；定存/股票/养老金/保险退保值/贷款信用卡证据。房产证、购房协议、两年内认证评估、按揭及租金；赠与/继承/和解及转账、赠与人能力与死亡/遗嘱等适用证据。企业股权、工商/税务登记、股东名册、资本变动、工资红利、近2年审计财报与公司税单；会计师可加要材料。",
+      "source": "B3第5章"
+    },
+    {
+      "stage": "个人及经营经历",
+      "requirements": "本人及家属护照与居住国合法身份；出生、结婚/离婚等民事文件；学历及成绩单；最近10年（Regional5年）雇主/自有企业证明，写职务、责任、期间、薪金、奖金红利佣金及签字人联系方式；银行签字权、企业牌照、宣传材料；考察机票/酒店/照片；加拿大经历的许可、T4/NOA等。适用配偶IMM5406/IMM5669。",
+      "source": "B3第6章"
+    },
+    {
+      "stage": "商业计划",
+      "requirements": "完整经营模式、市场与竞争、管理及招聘、合资格投资和资金来源、实施进度及财务预测，附证据；收购企业的五年经营与产权、牌照、尽调/估值、扩张说明；加盟授权/披露，合伙人履历与安排等。",
+      "source": "B3第3/4章"
+    },
+    {
+      "stage": "翻译与文件",
+      "requirements": "非英文文件须认证翻译并附原文；净资产审查部分明确原文副本及译文公证。PDF上传最多50附件、每个3MB是当前链接指南要求，最终提交仍以门户现行格式为准。",
+      "source": "B3第5/6章"
+    },
+    {
+      "stage": "最终履约",
+      "requirements": "CPA review-engagement财报、实际投资付款与来源、营业许可证/租约/所有权、工资及持续雇佣、员工公民/PR身份、实际居住和旅行记录等；最终清单以Post-Arrival Guide及协议为准。",
+      "source": "B1/B2第3.5；详细Post-Arrival附件清单本子任务未逐条核审。"
+    }
+  ],
+  "fees_and_estimates": {
+    "province_cad": {
+      "registration": 300,
+      "application": 3500,
+      "review": 500
+    },
+    "additional_costs": "语言、翻译/公证、ECA（被要求时）、授权净资产审查、CPA经营财报、商务考察、投资、生活成本；IRCC工签/PR及家属/生物识别另计。最低投资不是家庭总预算。",
+    "processing": "官网Base/Regional申请决定约4个月、最终报告决定约4个月、review约6个月，均是约80%案件的估计，受容量/复杂度/名额影响。登记Base约6周、Regional指南4周/网页6周存在差异。",
+    "refund": "网页说开始评估前撤回才可退费用，review不可退；指南将登记列为不可退，须区分费用类型及门户说明。",
+    "sources": [
+      "B1",
+      "B2",
+      "B4"
+    ]
+  },
+  "communities": [
+    {
+      "id": "rcip-west-kootenay",
+      "name": "West Kootenay RCIP",
+      "level": "联邦pilot的BC社区实施，不属于BC PNP stream",
+      "status": "2026年9月收件已结束，最新公告明确下一轮2027，日期/配额/优先事项尚未确认。",
+      "details": "9月新259件加6月遗留108件，共367候选；暂审93分以上及可能更正至93的91/92分；93不是最终cut-off。委员会将看最高100件，余77社区推荐全部本轮使用；低于91未进入本轮审核且不延续至2027。",
+      "employer": "社区指定持续进行；一般同一管理下连续经营2年，合规，提供至少30小时永久非季节岗位，完成IRCC入门与跨文化培训、承诺安置支持。指定与候选推荐收件是两件事。",
+      "links": [
+        "W1",
+        "W2",
+        "W3",
+        "W4"
+      ]
+    },
+    {
+      "id": "rcip-north-okanagan-shuswap",
+      "name": "North Okanagan Shuswap RCIP",
+      "level": "联邦pilot的BC社区实施",
+      "status": "2026年第4轮9月12至20日已结束；计划第5轮11月8至15日，12月7日委员会，须开窗前复核。",
+      "details": "当地工资门槛通常22加元/小时；雇主行业和岗位都要符合当地规则，职业优先并不豁免行业要求。2026 six sectors、25优先职业及secondary NOC机制；部分行业排除、职位/企业/年度上限仍适用。",
+      "employer": "当前资源页链接2026-08-31指定雇主PDF；designation不是招聘承诺，也不是当年始终符合行业要求。",
+      "links": [
+        "N1",
+        "N2",
+        "N3",
+        "N4"
+      ]
+    },
+    {
+      "id": "rcip-peace-liard",
+      "name": "Northeast BC—Peace Liard RCIP",
+      "level": "联邦pilot的BC社区实施",
+      "status": "最新公告2026-06-25：4月轮已发56份推荐；8月底仅处理discretionary；秋季第二轮取决于约10月联邦重新分配，目前不能标开放。",
+      "details": "2026候选页给60份推荐年度授权及评分池，初期每指定雇主1名；可有最多20% discretionary NOC。地区覆盖Peace River Regional District与Northern Rockies Regional Municipality。",
+      "employer": "雇主主导提交；候选人先有指定雇主全职永久offer，工资至少当地Job Bank该NOC低端工资；推荐证有效6个月。页面个别NOC代码与名称配对需与NOC及最新清单核对，未转录可能错误的代码作为规则。",
+      "links": [
+        "P1",
+        "P2",
+        "P3",
+        "P4"
+      ]
+    },
+    {
+      "id": "fcip-kelowna",
+      "name": "Kelowna Francophone Community Immigration Pilot (FCIP)",
+      "level": "联邦法语社区pilot，由SDÉCB实施",
+      "status": "IRCC现行名单确认Kelowna；执行机构展示2026优先职业及指定雇主。页面当前所列雇主标not hiring at the moment；不能从designation推出有职位或可即时获推荐。",
+      "details": "法语四项NCLC5；指定雇主真实永久全职非季节offer，联邦学历/经验/资金及社区推荐要求。SDÉCB要求招聘走专用页面，不按旧FAQ泛泛直接联系雇主。",
+      "employer": "一般Kelowna真实经营至少2年、优先行业、劳动法合规、跨文化/安置培训及新移民支持；社区推荐后向IRCC PR。",
+      "limits": "2026 Google Docs链接可定位，但web仅返回JavaScript外壳，未将职业/空缺逐条核验。",
+      "links": [
+        "K1",
+        "K2",
+        "F4",
+        "F5"
+      ]
+    }
+  ],
+  "federal_pilot_baseline": {
+    "eligibility": "指定社区雇主的有效job offer；通常近3年1560小时相关工作经验，部分合资格本地毕业生可豁免；加拿大教育凭证或境外等值ECA；语言及安置资金；社区筛选/推荐后IRCC PR审查。工作经历与offer的TEER对应、毕业豁免及资金数额必须按联邦子页核对，本章不是替代完整申请清单。",
+    "language": "RCIP：offer TEER0/1需CLB6，TEER2/3需CLB5，TEER4/5需CLB4；FCIP四项法语NCLC5。获批考试成绩申请时不足2年。",
+    "work_permit": "RCIP递交PR后可另申请2年雇主限定工签，需合资格offer、社区推荐及一般工签资格；配偶/同居伴侣可同时申OWP，但限同一社区。此工签独立于PR和社区推荐，不自动授予工作权。",
+    "sources": [
+      "F1",
+      "F2",
+      "F3",
+      "F4",
+      "F5",
+      "F6",
+      "F7"
+    ]
+  },
+  "work_permit_bridges": [
+    {
+      "route": "一般LMIA employer-specific work permit",
+      "layer": "工作许可，不是PR项目",
+      "facts": "雇主先确认需LMIA与否；需要时取得positive LMIA并给申请人LMIA/Annex A、合同及offer。申请人独立符合工签资格、学历经验/职业执照及准入审查。最终许可规定雇主/职位/地点/期限；工作offer或LMIA本身不授权工作。",
+      "sources": [
+        "T3",
+        "T4"
+      ]
+    },
+    {
+      "route": "省提名支持的LMIA-exempt employer-specific工作许可／T13",
+      "layer": "工作许可衔接；须和企业家提名前工签区分",
+      "facts": "BC SI提名后，省可发支持信供申请LMIA豁免工签；之后通过BCPNP Online提出支持信请求，须工签即将到期、在提名到期前已递交PR、继续满足提名条件。材料通常含现行移民记录、按时递交PR证明及最近两期工资单（B8第16至18及27页）。雇主通常先经Employer Portal提交offer，付230加元或证明豁免，提供A加7位数字offer number。IRCC独立决定，提名或支持信本身不是工作许可。",
+      "sources": [
+        "B8",
+        "T2",
+        "T4"
+      ],
+      "verification_limit": "已核实BC提名后支持及联邦offer程序；IRCC T13 operational原页未能访问，T13代码的详细类别例外未独立审计。企业家提名前经营许可不自动视为同一种工签。"
+    },
+    {
+      "route": "Bridging Open Work Permit (BOWP)",
+      "layer": "PR等待期工签",
+      "facts": "一般规则：主申请人在加拿大并具有合资格有效/维持/可恢复身份；PNP提名不得含就业限制。非EE PNP须递交完整PR、通过eligibility assessment且有AOR；AOR本身不表示BOWP开始处理或必然可批。EE申请依该页EE专门条件及完整性审查。不能只凭registration、ITA或省提名证申请BOWP。",
+      "sources": [
+        "T1"
+      ],
+      "verification_limit": "可能有时限性operational例外必须另核官方原文，本章未确认2026临时AOR豁免，不能写一概豁免。"
+    },
+    {
+      "route": "Maintained status（维持身份）",
+      "layer": "既有许可及时续签的法定状态，不是新的PR路线",
+      "facts": "符合条件在工签到期前递交延长申请、并留在加拿大，可依原许可条件等待；雇主限定许可不能因此随意换雇主。省提名/PR递交本身不能延长临时身份或产生工作权。",
+      "sources": [
+        "T5"
+      ]
+    },
+    {
+      "route": "BC EI获省批准后的经营工签",
+      "layer": "提名前经营阶段工作许可",
+      "facts": "先批准省申请及performance agreement，再由省发工签支持信，申请人向IRCC申请经营所需工签，履约后才争取提名；不是直接投资买PR。旧EI指南关于配偶OWP的文字应再对照当前IRCC family OWP资格，不能对所有家属自动承诺。",
+      "sources": [
+        "B1",
+        "B2",
+        "B4"
+      ]
+    }
+  ],
+  "coverage_boundaries": [
+    "详细覆盖Base/Regional当前链接指南第2及3章，并交叉审阅Application Guide；评分只说明结构及资格线，不声称所有逐分因子建模。",
+    "Strategic Projects公开规则有限，未找到现行独立指南；关键员工详细材料、工资或身份限制以正式申请包为尚待补齐项。",
+    "BC地域专属联邦社区试点共核对3 RCIP+1 FCIP，未将社区、stream、工作许可重复算作同层项目。",
+    "EE CEC/FSW/FST等跨省联邦经济项目可在BC适用，但本子任务未逐项重新审计；不可称这4社区加3企业stream等于BC全部移民选择。",
+    "未复制完整指定雇主名录作为职位库；designation仅资格状态，实际招聘/推荐容量必须单独查证。",
+    "历史RNIP不与现RCIP合并为仍开放的同一项目。",
+    "本文件未建立特定家庭预算或判断任何个人符合资格；最低投资额不代表生活/教育/经商总成本。"
+  ],
+  "evidence_manifest": "business-evidence/manifest.json",
+  "evidence_note": "34个来源均经官方网页/指南或社区执行机构页面核对。28份原始HTML/PDF快照已存档并校验SHA256；6个网页直接下载失败但web读取成功，下载缺口在manifest明确标记。下载文件可能含动态页面外壳，不能单凭HTTP200声称表格内容已逐条读取。"
+}
