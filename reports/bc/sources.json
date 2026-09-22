@@ -1,0 +1,1763 @@
+[
+  {
+    "id": "overview",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:44:42.780208+00:00",
+    "status": 200,
+    "final_url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program",
+    "file": "overview.html.txt",
+    "sha256": "50b8f237e9d8c19b72004726f7717a5a5078957fb1fff9bc623abd7bb28e5a8d",
+    "bytes": 85229,
+    "method": "official HTML download",
+    "title": "WelcomeBC - Immigrate to BC - WelcomeBC",
+    "links": [
+      {
+        "text": "Home",
+        "url": "/home"
+      },
+      {
+        "text": "Immigrate to B.C.",
+        "url": "/immigrate-to-b-c"
+      },
+      {
+        "text": "About the BC Provincial Nominee Program",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program"
+      },
+      {
+        "text": "The BC Provincial Nominee Program",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program"
+      },
+      {
+        "text": "workers",
+        "url": "/immigrate-to-b-c/skills-immigration"
+      },
+      {
+        "text": "entrepreneurs and businesses",
+        "url": "/immigrate-to-b-c/entrepreneur-immigration"
+      },
+      {
+        "text": "promotes economic growth in communities and industry sectors across the province",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/regional-immigration"
+      },
+      {
+        "text": "selection of workers list",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers"
+      },
+      {
+        "text": "selection of workers list",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers"
+      },
+      {
+        "text": "Statistical Report.",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/archives#Statistical_reports"
+      },
+      {
+        "text": "National Occupational Classification (NOC)",
+        "url": "https://noc.esdc.gc.ca/"
+      },
+      {
+        "text": "Skills Immigration Program Guide",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents"
+      },
+      {
+        "text": "BC Care Aide & Community Health Worker Registry",
+        "url": "https://www.cachwr.bc.ca/"
+      },
+      {
+        "text": "ECE Registry",
+        "url": "https://www2.gov.bc.ca/gov/content/education-training/early-learning/teach/training-and-professional-development/become-an-early-childhood-educator"
+      },
+      {
+        "text": "National Occupational Classification",
+        "url": "https://noc.esdc.gc.ca/"
+      }
+    ],
+    "text_file": "overview.txt",
+    "screenshot": "overview.png",
+    "capture_method": "Live official website screenshot using Chrome",
+    "captured": "2026-09-22"
+  },
+  {
+    "id": "workers",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/for-workers",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:44:42.780574+00:00",
+    "status": 200,
+    "final_url": "https://www.welcomebc.ca/immigrate-to-b-c/for-workers",
+    "file": "workers.html.txt",
+    "sha256": "500f91f25e4913791780225b06467c5441c737e3ed7d48a73df26bf2b35abe85",
+    "bytes": 90103,
+    "method": "official HTML download",
+    "title": "WelcomeBC - Immigrate to BC - WelcomeBC",
+    "links": [
+      {
+        "text": "Home",
+        "url": "/home"
+      },
+      {
+        "text": "Immigrate to B.C.",
+        "url": "/immigrate-to-b-c"
+      },
+      {
+        "text": "For workers",
+        "url": "/immigrate-to-b-c/for-workers"
+      },
+      {
+        "text": "Skills Immigration Program Guide",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_workers"
+      },
+      {
+        "text": "selection of workers list",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers "
+      },
+      {
+        "text": "NOC TEER",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/find-national-occupation-code.html"
+      },
+      {
+        "text": "Health Authority-eligible occupation",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program-4374589fc5bd099f34c82a0e2623f93d/about-the-bc-provincial-nominee-program"
+      },
+      {
+        "text": "Employer Declaration Form",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_employers"
+      },
+      {
+        "text": "Employer Declaration Form",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_employers"
+      },
+      {
+        "text": "Skills Immigration Program Guide.",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_workers"
+      },
+      {
+        "text": "BC PNP Online User Portal",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/bc-pnp-online-user-portal"
+      },
+      {
+        "text": "PNP.fraud.tips@gov.bc.ca",
+        "url": "mailto:PNP.Fraud.Tips@gov.bc.ca"
+      },
+      {
+        "text": "fraud awareness page.",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program-4374589fc5bd099f34c82a0e2623f93d/fraud-awareness"
+      },
+      {
+        "text": "IRCC’s fees page",
+        "url": "https://www.cic.gc.ca/english/information/fees/fees.asp"
+      },
+      {
+        "text": "Skills Immigration Program Guide",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_workers"
+      },
+      {
+        "text": "BC PNP Online User Portal",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/bc-pnp-online-user-portal"
+      },
+      {
+        "text": "Skills Immigration Application Guide",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_workers"
+      },
+      {
+        "text": "Skills Immigration Program Guide",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_workers"
+      },
+      {
+        "text": "BC PNP Online User Portal",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/bc-pnp-online-user-portal"
+      },
+      {
+        "text": "Skills Immigration Program Guide",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_workers"
+      },
+      {
+        "text": "invitations to apply",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program-4374589fc5bd099f34c82a0e2623f93d/invitations-to-apply"
+      },
+      {
+        "text": "online profile",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/bc-pnp-online-user-portal"
+      },
+      {
+        "text": "Provincial Immigration Programs Act, the Provincial Immigration Programs Regulation",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program-4374589fc5bd099f34c82a0e2623f93d/fraud-awareness#Understanding_misrepresentation"
+      },
+      {
+        "text": "Skills Immigration Application Guide",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_workers"
+      },
+      {
+        "text": "nominees page",
+        "url": "/immigrate-to-b-c/nominees"
+      },
+      {
+        "text": "PNPInfo@gov.bc.ca",
+        "url": "mailto:PNPInfo@gov.bc.ca"
+      },
+      {
+        "text": "Be fraud aware",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/fraud-awareness"
+      }
+    ],
+    "text_file": "workers.txt",
+    "screenshot": "workers.png",
+    "capture_method": "Live official website screenshot using Chrome",
+    "captured": "2026-09-22"
+  },
+  {
+    "id": "news",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:44:42.780647+00:00",
+    "status": 200,
+    "final_url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news",
+    "file": "news.html.txt",
+    "sha256": "006c46896fbc15d1bdb609ceb9b324426ce0328ff73a7b819ab09bd57772aaf2",
+    "bytes": 83380,
+    "method": "official HTML download",
+    "title": "WelcomeBC - Immigrate to BC - WelcomeBC",
+    "links": [
+      {
+        "text": "Home",
+        "url": "/home"
+      },
+      {
+        "text": "Immigrate to B.C.",
+        "url": "/immigrate-to-b-c"
+      },
+      {
+        "text": "About the BC Provincial Nominee Program",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program"
+      },
+      {
+        "text": "News",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news"
+      },
+      {
+        "text": "Archives",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program-4374589fc5bd099f34c82a0e2623f93d/bc-pnp-archive"
+      },
+      {
+        "text": "April 23, 2026",
+        "url": "#april232026"
+      },
+      {
+        "text": "Documents",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents"
+      },
+      {
+        "text": "WelcomeBC.ca",
+        "url": "/start-your-life-in-b-c/bc-newcomers-guide"
+      },
+      {
+        "text": "Information Bulletin",
+        "url": "http://news.gov.bc.ca/releases/2026PSFS0030-000721"
+      },
+      {
+        "text": "Documents",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents"
+      },
+      {
+        "text": "Documents",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents"
+      },
+      {
+        "text": "Sign up for the webinar",
+        "url": "http://events.teams.microsoft.com/event/5b6593e6-ded3-42b6-8f48-2273ea2eec79@6fdb5200-3d0d-4a8a-b036-d3685e359adc"
+      },
+      {
+        "text": "Look West strategy",
+        "url": "http://www2.gov.bc.ca/gov/content/employment-business/look-west-strategy/introduction"
+      },
+      {
+        "text": "36 in-demand occupations",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers"
+      },
+      {
+        "text": "additional federal allocations that are available to support francophone recruitment",
+        "url": "http://www.canada.ca/en/immigration-refugees-citizenship/news/2026/01/canada-exceeded-its-francophone-immigration-target-for-2025.html"
+      },
+      {
+        "text": "9 key in-demand skilled trades",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers"
+      },
+      {
+        "text": "Documents page",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents"
+      },
+      {
+        "text": "fraud awareness page",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/fraud-awareness"
+      },
+      {
+        "text": "visit the BC PNP For Workers",
+        "url": "/immigrate-to-b-c/for-workers#Fees"
+      },
+      {
+        "text": "Archives",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/archives#News"
+      },
+      {
+        "text": "Sign up for email updates",
+        "url": "https://e1.envoke.com/ext/pages/e38c736db10e738ba235a85cfda081bf"
+      }
+    ],
+    "text_file": "news.txt",
+    "screenshot": "news.png",
+    "capture_method": "Live official website screenshot using Chrome",
+    "captured": "2026-09-22"
+  },
+  {
+    "id": "invitations",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:44:42.780759+00:00",
+    "status": 200,
+    "final_url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
+    "file": "invitations.html.txt",
+    "sha256": "9ddd53a4d744a91b7a8789e96b1e1eb04a1089209caf444043875616d6523f1a",
+    "bytes": 106247,
+    "method": "official HTML download",
+    "title": "WelcomeBC - Immigrate to BC - WelcomeBC",
+    "links": [
+      {
+        "text": "Home",
+        "url": "/home"
+      },
+      {
+        "text": "Immigrate to B.C.",
+        "url": "/immigrate-to-b-c"
+      },
+      {
+        "text": "About the BC Provincial Nominee Program",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program"
+      },
+      {
+        "text": "Invitations to apply",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply"
+      },
+      {
+        "text": "BC PNP Online User Profile",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/bc-pnp-online-user-portal"
+      },
+      {
+        "text": "Temporary Rural/Remote Health Support Initiative",
+        "url": "/immigrate-to-b-c/for-workers"
+      },
+      {
+        "text": "Care: Childcare",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Health",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Veterinary Care",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Build: Construction Trades",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Innovate: High Economic Impact",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Innovate: High Economic Impact",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Childcare",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Health",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Education",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Veterinary Care",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Build: Construction Trades",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Temporary Rural/Remote Health Support Initiative",
+        "url": "/immigrate-to-b-c/for-workers"
+      },
+      {
+        "text": "Innovate: High Economic Impact",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Innovate: High Economic Impact",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Childcare",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Health",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Veterinary Care",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Build: Construction Trades",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Innovate: High Economic Impact",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Innovate: High Economic Impact",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Childcare",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Health",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Veterinary Care",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Build: Construction Trades",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Innovate: High Economic Impact",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Innovate: High Economic Impact",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Childcare",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Health",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Care: Veterinary Care",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Build: Construction Trades",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "selection of workers",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers"
+      },
+      {
+        "text": "Skills Immigration Program Guide.",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_workers"
+      },
+      {
+        "text": "Skills Immigration Program Guide.",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_workers"
+      },
+      {
+        "text": "Skills Immigration Program Guide.",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_workers"
+      },
+      {
+        "text": "",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/archives"
+      },
+      {
+        "text": "Archives",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/archives#Invitations_to_apply"
+      },
+      {
+        "text": "Archives",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/archives#Invitations_to_apply"
+      }
+    ],
+    "text_file": "invitations.txt",
+    "screenshot": "invitations.png",
+    "capture_method": "Live official website screenshot using Chrome",
+    "captured": "2026-09-22"
+  },
+  {
+    "id": "documents",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:44:42.780820+00:00",
+    "status": 200,
+    "final_url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents",
+    "file": "documents.html.txt",
+    "sha256": "65d0947318b0c4ee4e10ae0e1fe200ecf0200470aef28c6f38423faff55d630e",
+    "bytes": 74904,
+    "method": "official HTML download",
+    "title": "WelcomeBC - Immigrate to BC - WelcomeBC",
+    "links": [
+      {
+        "text": "Home",
+        "url": "/home"
+      },
+      {
+        "text": "Immigrate to B.C.",
+        "url": "/immigrate-to-b-c"
+      },
+      {
+        "text": "About the BC Provincial Nominee Program",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program"
+      },
+      {
+        "text": "Documents",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents"
+      },
+      {
+        "text": "Archives",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program-4374589fc5bd099f34c82a0e2623f93d/bc-pnp-archive"
+      },
+      {
+        "text": "Skills Immigration Program Guide (PDF, 1MB)",
+        "url": "/immigrate-to-b-c/bc-pnp-si-program-guide-pdf"
+      },
+      {
+        "text": "Skills Immigration Application Guide (PDF, 1MB)",
+        "url": "/immigrate-to-b-c/bc-pnp-si-technical-guide-pdf"
+      },
+      {
+        "text": "Use of a Representative Form - Applicant (PDF, <1MB)",
+        "url": "/immigrate-to-b-c/use-of-a-representative-form-applicant-pdf"
+      },
+      {
+        "text": "Entrepreneur Immigration Program Guide - Base Stream (PDF, 1MB)",
+        "url": "/immigrate-to-b-c/bc-pnp-ei-program-guide-pdf"
+      },
+      {
+        "text": "Entrepreneur Immigration Program Guide - Regional Stream (PDF, 1MB)",
+        "url": "/immigrate-to-b-c/bc-pnp-ei-regional-pilot-program-guide-pdf"
+      },
+      {
+        "text": "Entrepreneur Immigration Application Guide (PDF, 1MB)",
+        "url": "/immigrate-to-b-c/bc-pnp-ei-application-guide-pdf"
+      },
+      {
+        "text": "Entrepreneur Immigration Post-Arrival Guide (PDF, 1MB)",
+        "url": "/immigrate-to-b-c/bc-pnp-ei-post-arrival-guide-pdf"
+      },
+      {
+        "text": "Use of a Representative Form - Applicant (PDF, <1MB)",
+        "url": "/immigrate-to-b-c/use-of-a-representative-form-applicant-pdf"
+      },
+      {
+        "text": "Use of an Interpreter Form (PDF, <1MB)",
+        "url": "/immigrate-to-b-c/bc-pnp-ei-use-of-an-interpreter-form-pdf"
+      },
+      {
+        "text": "Employer Declaration Form (PDF, <1MB)",
+        "url": "/immigrate-to-b-c/bc-pnp-si-employer-declaration-form-pdf"
+      },
+      {
+        "text": "Use of a Representative Form - Employer (PDF, <1MB)",
+        "url": "/immigrate-to-b-c/bc-pnp-si-use-of-a-representative-form-employer-pdf"
+      },
+      {
+        "text": "Skills Immigration Post-Nomination Guide (PDF, 1MB)",
+        "url": "/immigrate-to-b-c/bc-pnp-si-post-nomination-guide-pdf"
+      },
+      {
+        "text": "Entrepreneur Immigration Post-Nomination Guide (PDF, 1MB)",
+        "url": "/immigrate-to-b-c/bc-pnp-ei-post-nomination-guide-pdf"
+      }
+    ],
+    "text_file": "documents.txt"
+  },
+  {
+    "id": "si-guide",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-program-guide-pdf",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:44:44.521658+00:00",
+    "status": 200,
+    "final_url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-program-guide-pdf",
+    "file": "si-guide.pdf",
+    "sha256": "6b9305645f5d393897513df3de6d39453e566acdf738257785cf25e137cfa993",
+    "bytes": 717906,
+    "method": "official PDF download",
+    "pages": 63,
+    "title": "si-guide",
+    "text_file": "si-guide.txt"
+  },
+  {
+    "id": "si-application",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-technical-guide-pdf",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:44:44.522671+00:00",
+    "status": 200,
+    "final_url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-technical-guide-pdf",
+    "file": "si-application.pdf",
+    "sha256": "f50daeb278523fba2dfce2289b1e97d9917fa75b33e5d47b875936bd739a1593",
+    "bytes": 1326129,
+    "method": "official PDF download",
+    "pages": 68,
+    "title": "si-application",
+    "text_file": "si-application.txt"
+  },
+  {
+    "id": "si-nominee",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-post-nomination-guide-pdf",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:44:44.534531+00:00",
+    "status": 200,
+    "final_url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-post-nomination-guide-pdf",
+    "file": "si-nominee.pdf",
+    "sha256": "50a5f96520e6df7c220a101420237baa14f57b670378d120e2089dd63c08c760",
+    "bytes": 718177,
+    "method": "official PDF download",
+    "pages": 28,
+    "title": "si-nominee",
+    "text_file": "si-nominee.txt"
+  },
+  {
+    "id": "employers",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/for-employers",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:44:44.537850+00:00",
+    "status": 200,
+    "final_url": "https://www.welcomebc.ca/immigrate-to-b-c/for-employers",
+    "file": "employers.html.txt",
+    "sha256": "cea9b90e6da8f04bf6bd4920769de093c132fbeffb9b512ab8f77a59e8f09437",
+    "bytes": 76098,
+    "method": "official HTML download",
+    "title": "WelcomeBC - Immigrate to BC - WelcomeBC",
+    "links": [
+      {
+        "text": "Home",
+        "url": "/home"
+      },
+      {
+        "text": "Immigrate to B.C.",
+        "url": "/immigrate-to-b-c"
+      },
+      {
+        "text": "For employers",
+        "url": "/immigrate-to-b-c/for-employers"
+      },
+      {
+        "text": "Employer Declaration Form",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents#For_employers"
+      },
+      {
+        "text": "National Safety Code Program",
+        "url": "https://www.cvse.ca/national_safety_code.htm#:~:text=About&text=The%20National%20Safety%20Code%20(NSC,for%20commercial%20vehicles%20and%20drivers."
+      },
+      {
+        "text": "selection of workers list",
+        "url": "/immigrate-to-b-c/about-the-bc-provincial-nominee-program-4374589fc5bd099f34c82a0e2623f93d/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers"
+      },
+      {
+        "text": "Skills Immigration Program Guide",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/guides-forms-reports-documents#For_workers"
+      },
+      {
+        "text": "PNPInfo@gov.bc.ca",
+        "url": "mailto:PNPInfo@gov.bc.ca"
+      },
+      {
+        "text": "Sign up for email updates",
+        "url": "https://e1.envoke.com/ext/pages/e38c736db10e738ba235a85cfda081bf"
+      },
+      {
+        "text": "Be fraud aware",
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/fraud-awareness"
+      }
+    ],
+    "text_file": "employers.txt"
+  },
+  {
+    "id": "employer-form",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-employer-declaration-form-pdf",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:47:30.718574+00:00",
+    "status": 200,
+    "final_url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-employer-declaration-form-pdf",
+    "file": "employer-form.pdf",
+    "sha256": "c93c377a3681a6107ddd50faacfa884e12745d3dcb660cc4b55c6d43f51b0331",
+    "bytes": 278718,
+    "method": "official PDF downloaded; automated text extraction failed; inspect original form",
+    "error": "Invalid padding bytes."
+  },
+  {
+    "id": "trades-international",
+    "url": "https://skilledtradesbc.ca/get-certified/newcomers-international-tradespersons",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:47:30.718769+00:00",
+    "status": "failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "id": "trades-compulsory",
+    "url": "https://skilledtradesbc.ca/skilledtradescertification",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:47:30.718857+00:00",
+    "status": "failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "id": "ece-registry",
+    "url": "https://www2.gov.bc.ca/gov/content/education-training/early-learning/teach/training-and-professional-development/become-an-early-childhood-educator",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:47:30.718883+00:00",
+    "status": "failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "id": "hca-registry",
+    "url": "https://www.cachwr.bc.ca/about-the-registry/",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:47:30.718927+00:00",
+    "status": "failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "id": "health-colleges",
+    "url": "https://www2.gov.bc.ca/gov/content/health/about-bc-s-health-care-system/partners/colleges-boards-and-commissions",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:47:32.821923+00:00",
+    "status": 200,
+    "final_url": "https://www2.gov.bc.ca/gov/content/health/about-bc-s-health-care-system/partners/colleges-boards-and-commissions",
+    "file": "health-colleges.html.txt",
+    "sha256": "944586c635fc572c92e0f7843c5e467ce4f886d6f8d2e150b0f51ec1c4e64270",
+    "bytes": 252145,
+    "method": "official HTML download",
+    "title": "Colleges, Boards and Commissions - Province of British Columbia",
+    "links": [
+      {
+        "text": "Home",
+        "url": "/gov/content/home"
+      },
+      {
+        "text": "Health",
+        "url": "/gov/content/health"
+      },
+      {
+        "text": "About B.C.'s health care system",
+        "url": "/gov/content/health/about-bc-s-health-care-system"
+      },
+      {
+        "text": "Partners",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners"
+      },
+      {
+        "text": "Partners",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners"
+      },
+      {
+        "text": "Health Authorities",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/health-authorities"
+      },
+      {
+        "text": "Colleges, Boards and Commissions",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/colleges-boards-and-commissions"
+      },
+      {
+        "text": "Medical Services Commission",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/colleges-boards-and-commissions/medical-services-commission"
+      },
+      {
+        "text": "Emergency Medical Assistants Licensing Board",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/colleges-boards-and-commissions/emergency-medical-assistants-licensing-board"
+      },
+      {
+        "text": "Mental Health Review Board",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/colleges-boards-and-commissions/mental-health-review-board"
+      },
+      {
+        "text": "Health Sector Agencies, Boards & Commissions Appointee Remuneration",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/health-sector-agencies-boards-commissions-appointee-remuneration"
+      },
+      {
+        "text": "Vendors",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/vendors"
+      },
+      {
+        "text": "Health Insurance BC",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/health-insurance-bc"
+      },
+      {
+        "text": "A Picture of Health - Ministry of Health Newsletter",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/a-picture-of-health"
+      },
+      {
+        "text": "Patients as Partners",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/patients"
+      },
+      {
+        "text": "British Columbia College of Nurses and Midwives",
+        "url": "https://www.bccnm.ca/"
+      },
+      {
+        "text": "British Columbia College of Oral Health Professionals",
+        "url": "https://oralhealthbc.ca/"
+      },
+      {
+        "text": "College of Complementary Health Professionals of British Columbia",
+        "url": "https://www.cchpbc.ca"
+      },
+      {
+        "text": "College of Health and Care Professionals of British Columbia",
+        "url": "https://www.chcpbc.org"
+      },
+      {
+        "text": "College of Pharmacists of British Columbia",
+        "url": "http://www.bcpharmacists.org/"
+      },
+      {
+        "text": "College of Physicians and Surgeons of British Columbia",
+        "url": "https://www.cpsbc.ca/"
+      },
+      {
+        "text": "Community Care and Assisted Living Act",
+        "url": "http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/00_02075_01"
+      },
+      {
+        "text": "Community Care and Assisted Living Appeal Board",
+        "url": "http://www.ccalab.gov.bc.ca/"
+      },
+      {
+        "text": "Emergency Health Services Act",
+        "url": "http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/00_96182_01"
+      },
+      {
+        "text": "Emergency Medical Assistants Licensing Board",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/colleges-boards-and-commissions/emergency-medical-assistants-licensing-board"
+      },
+      {
+        "text": "Health Professions Act",
+        "url": "http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/00_96183_01"
+      },
+      {
+        "text": "Health Professions Review Board",
+        "url": "http://www.hprb.gov.bc.ca/"
+      },
+      {
+        "text": "Hospital Act",
+        "url": "http://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/00_96200_01#section46"
+      },
+      {
+        "text": "Hospital Appeal Board",
+        "url": "http://www.hab.gov.bc.ca/"
+      },
+      {
+        "text": "Medicare Protection Act and Regulations",
+        "url": "/gov/content/health/about-bc-s-health-care-system/legislation/medicare-protection-act-and-regulations"
+      },
+      {
+        "text": "Medical Services Commission",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/colleges-boards-and-commissions/medical-services-commission"
+      },
+      {
+        "text": "Mental Health Act",
+        "url": "http://www.bclaws.ca/civix/document/id/complete/statreg/96288_01"
+      },
+      {
+        "text": "Mental Health Review Board",
+        "url": "/gov/content/health/about-bc-s-health-care-system/partners/colleges-boards-and-commissions/mental-health-review-board"
+      },
+      {
+        "text": "Patient Care Quality Review Board Act",
+        "url": "http://www.bclaws.ca/civix/document/id/complete/statreg/08035_01"
+      },
+      {
+        "text": "Patient Care Quality Review Boards",
+        "url": "https://www.patientcarequalityreviewboard.ca/"
+      },
+      {
+        "text": "BC Health Regulators",
+        "url": "http://www.bchealthregulators.ca/"
+      }
+    ],
+    "text_file": "health-colleges.txt"
+  },
+  {
+    "id": "ee-nomination",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/express-entry/get-confirm-nomination.html",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:47:36.631407+00:00",
+    "status": "failed",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "base-pnp",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/non-express-entry.html",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:48:30.864976+00:00",
+    "status": "failed",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "bc-law",
+    "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/15037",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:48:30.866354+00:00",
+    "status": "failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "id": "bc-regulation",
+    "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/20_2017",
+    "checked": "2026-09-22",
+    "retrieved_at": "2026-09-22T05:48:31.417349+00:00",
+    "status": 200,
+    "final_url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/20_2017",
+    "file": "bc-regulation.html.txt",
+    "sha256": "dedfa9bde6a53135614e77c836f25400f75896e7862fe0790d4e7db2cbe979ab",
+    "bytes": 16227,
+    "method": "official HTML download",
+    "title": "Provincial Immigration Programs Regulation",
+    "links": [
+      {
+        "text": "Search Results",
+        "url": "#"
+      },
+      {
+        "text": "Clear Search",
+        "url": "#"
+      },
+      {
+        "text": "Previous (in doc)",
+        "url": "#"
+      },
+      {
+        "text": "Next (in doc)",
+        "url": "#"
+      },
+      {
+        "text": "Prev Doc",
+        "url": "#"
+      },
+      {
+        "text": "Next Doc",
+        "url": "#"
+      },
+      {
+        "text": "Licence",
+        "url": "/standards/Licence.html"
+      },
+      {
+        "text": "Disclaimer",
+        "url": "/standards/Disclaimer.html"
+      },
+      {
+        "text": "Link to consolidated regulation (PDF)",
+        "url": "/civix/content/crbc/crbc/1922970521/15037act/20_2017_dir/?xsl=/templates/browse.xsl"
+      },
+      {
+        "text": "Link to Point in Time",
+        "url": "/civix/document/id/complete/statreg/20_2017_pit"
+      },
+      {
+        "text": "1",
+        "url": "#section1"
+      },
+      {
+        "text": "Definitions",
+        "url": "#section1"
+      },
+      {
+        "text": "2",
+        "url": "#section2"
+      },
+      {
+        "text": "Agreement",
+        "url": "#section2"
+      },
+      {
+        "text": "3",
+        "url": "#section3"
+      },
+      {
+        "text": "Fees",
+        "url": "#section3"
+      },
+      {
+        "text": "4",
+        "url": "#section4"
+      },
+      {
+        "text": "Representatives",
+        "url": "#section4"
+      },
+      {
+        "text": "5",
+        "url": "#section5"
+      },
+      {
+        "text": "Application requirements",
+        "url": "#section5"
+      },
+      {
+        "text": "6",
+        "url": "#section6"
+      },
+      {
+        "text": "Approvals",
+        "url": "#section6"
+      },
+      {
+        "text": "7",
+        "url": "#section7"
+      },
+      {
+        "text": "Obligations of approved person",
+        "url": "#section7"
+      },
+      {
+        "text": "8",
+        "url": "#section8"
+      },
+      {
+        "text": "Purpose for information-sharing agreement",
+        "url": "#section8"
+      },
+      {
+        "text": "Provincial Immigration Programs Act",
+        "url": "/civix/document/id/complete/statreg/15037"
+      },
+      {
+        "text": "Immigration and Refugee Protection Act",
+        "url": "http://laws-lois.justice.gc.ca/eng/acts/I-2.5/index.html"
+      },
+      {
+        "text": "Property Transfer Tax Act",
+        "url": "/civix/document/id/complete/statreg/96378_01"
+      },
+      {
+        "text": "Provincial Immigration Programs Act",
+        "url": "/civix/document/id/complete/statreg/15037"
+      }
+    ],
+    "text_file": "bc-regulation.txt"
+  },
+  {
+    "id": "B1",
+    "title": "EI Base Program Guide，2024-05-27，当前 Documents 页面仍链接此版",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-program-guide-pdf",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/base.pdf",
+    "sha256": "db92d5e04769066864bcef66f2f0889e68221b6b794f1abaecf98861cb09ea78"
+  },
+  {
+    "id": "B2",
+    "title": "EI Regional Program Guide，2024-05-27，当前 Documents 页面仍链接此版",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-regional-pilot-program-guide-pdf",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/regional.pdf",
+    "sha256": "eac9ba58dd13d8d485506daeac77df3714e2975f0252f5d42dcbe9115b34cafb"
+  },
+  {
+    "id": "B3",
+    "title": "EI Application Guide，2022-11-16",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-application-guide-pdf",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/application.pdf",
+    "sha256": "f8c2dca95efa1ba997dcb486da009e38f58fcf088f8fef0c4ce7704eab9bf84e"
+  },
+  {
+    "id": "B4",
+    "title": "WelcomeBC 企业家与企业现行总页",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/for-entrepreneurs-and-businesses",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/overview.html.txt",
+    "sha256": "e7b3e8e7d820242b3aaef8431fd458cef986e61f9660c0451a9be5bf5ae9bd74"
+  },
+  {
+    "id": "B5",
+    "title": "WelcomeBC Invitations，更新2026-09-17",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/b5.html.txt",
+    "sha256": "9ddd53a4d744a91b7a8789e96b1e1eb04a1089209caf444043875616d6523f1a"
+  },
+  {
+    "id": "B6",
+    "title": "WelcomeBC 参与社区及经济优先事项",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/regional-immigration",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/b6.html.txt",
+    "sha256": "3a1ffb271ab752810072b9219106d307bff99e8cfd73cd5cc2441d26b5b7298f"
+  },
+  {
+    "id": "B7",
+    "title": "WelcomeBC Documents 当前指南入口",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/b7.html.txt",
+    "sha256": "65d0947318b0c4ee4e10ae0e1fe200ecf0200470aef28c6f38423faff55d630e"
+  },
+  {
+    "id": "F1",
+    "title": "IRCC RCIP/FCIP 官方社区目录",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/f1.html.txt",
+    "sha256": "6a454c605d49baf63084760f5dbae5aa2755ddeb53599ff3e761882213a06d94"
+  },
+  {
+    "id": "F2",
+    "title": "RCIP 联邦资格",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/f2.html.txt",
+    "sha256": "5ac45b2643b2096fa6dbef0b6f24ad857ed68e250da1a87f8b947dcd1ba5073d"
+  },
+  {
+    "id": "F3",
+    "title": "RCIP 语言",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/language-test.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/f3.html.txt",
+    "sha256": "d1f26f8e3e75f42d0a99bcd09e0b9e8aeefb28cb1547c7190a81e441cab7bd93"
+  },
+  {
+    "id": "F4",
+    "title": "FCIP 联邦资格",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/f4.html.txt",
+    "sha256": "7056e754cb137ecf59599d0149cdb3690a99d594197d5b91d38738ecd57d0ec9"
+  },
+  {
+    "id": "F5",
+    "title": "FCIP 法语",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility/language-test.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/f5.html.txt",
+    "sha256": "1e958cd9964f57ffb2466a930640218b15e015cc257b0cea98bb8aec51583c6c"
+  },
+  {
+    "id": "F6",
+    "title": "RCIP 可选工作许可",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/work-permit.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/f6.html.txt",
+    "sha256": "e9d96e519a99d13d2b2d1541e277944cd87ebcc1fb0e4d9db3d601fe691efe36"
+  },
+  {
+    "id": "F7",
+    "title": "IRCC 雇主指定",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/hire/designation.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/f7.html.txt",
+    "sha256": "766a21dcea29850ef65e00b708c0005a8d2de34b2e1289bf630cb98ddfc40eae"
+  },
+  {
+    "id": "W1",
+    "title": "West Kootenay 2026-09-15/16最新收件公告",
+    "url": "https://westkootenayimmigration.ca/september-intake-whats-next/",
+    "checked": "2026-09-22",
+    "status": "extract-only",
+    "method": "official webpage read; raw download unavailable"
+  },
+  {
+    "id": "W2",
+    "title": "West Kootenay 优先职业",
+    "url": "https://westkootenayimmigration.ca/priorities/",
+    "checked": "2026-09-22",
+    "status": "extract-only",
+    "method": "official webpage read; raw download unavailable"
+  },
+  {
+    "id": "W3",
+    "title": "West Kootenay 指定雇主名单",
+    "url": "https://westkootenayimmigration.ca/designated-employers/",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/w3.html.txt",
+    "sha256": "26190c156860e6aad24d3163b81d289b1b7532789225a2b2bc23f6519f74a4bf"
+  },
+  {
+    "id": "W4",
+    "title": "West Kootenay 雇主指定要求",
+    "url": "https://westkootenayimmigration.ca/employer-designation/",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/w4.html.txt",
+    "sha256": "efb88b0c1e6d2870ea719e491af46b691e505cb6ece6bba85c6201609adcee6b"
+  },
+  {
+    "id": "N1",
+    "title": "North Okanagan Shuswap 2026收件日历",
+    "url": "https://rcipnorthokanaganshuswap.com/",
+    "checked": "2026-09-22",
+    "status": "extract-only",
+    "method": "official webpage read; raw download unavailable"
+  },
+  {
+    "id": "N2",
+    "title": "North Okanagan Shuswap 2026优先行业职业及限制",
+    "url": "https://rcipnorthokanaganshuswap.com/priority-sectors-nocs/",
+    "checked": "2026-09-22",
+    "status": "extract-only",
+    "method": "official webpage read; raw download unavailable"
+  },
+  {
+    "id": "N3",
+    "title": "North Okanagan Shuswap 资料与雇主清单入口；2026-08-31版",
+    "url": "https://rcipnorthokanaganshuswap.com/resources-and-policies/",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/n3.html.txt",
+    "sha256": "08a5d0bbe0ebf332957508ba05253d59e4f1b6c95b6375ee4f901c27f598f465"
+  },
+  {
+    "id": "N4",
+    "title": "North Okanagan Shuswap FAQ",
+    "url": "https://rcipnorthokanaganshuswap.com/faqs/",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/n4.html.txt",
+    "sha256": "7a975a3d791b411d1673f140f9cc54f54f1f019b5b190955a59a59247844a6d3"
+  },
+  {
+    "id": "P1",
+    "title": "Peace Liard 最新2026-06-25收件更新",
+    "url": "https://www.nebcimmigration.ca/post/rcip-2026-candidate-intake-update-june-2026",
+    "checked": "2026-09-22",
+    "status": "extract-only",
+    "method": "official webpage read; raw download unavailable"
+  },
+  {
+    "id": "P2",
+    "title": "Peace Liard 候选人规则",
+    "url": "https://www.nebcimmigration.ca/candidates",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/p2.html.txt",
+    "sha256": "5dbc7da3bf95caba78d19359184d15459ba0bd23fcb4fe21bec0086963a0ab98"
+  },
+  {
+    "id": "P3",
+    "title": "Peace Liard 2026职业入口",
+    "url": "https://www.nebcimmigration.ca/priority-occupations",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/p3.html.txt",
+    "sha256": "97cf6d7c5fe5cbe6cf9009f30e35e84f1008e35bdd63b5550b02bfdef2d597da"
+  },
+  {
+    "id": "P4",
+    "title": "Peace Liard 现链接指定雇主PDF",
+    "url": "https://www.nebcimmigration.ca/_files/ugd/c6258b_049cc44adc8b452f82bbb0a2f5f20019.pdf",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/p4.pdf",
+    "sha256": "ec19c8137227eb0d46f5665b12ac4bda674385514d382fb2373e77e8fa0c9c4e"
+  },
+  {
+    "id": "K1",
+    "title": "Kelowna SDÉCB FCIP 官方执行机构及雇主名单",
+    "url": "https://www.sdecb.com/en/pilot-program/",
+    "checked": "2026-09-22",
+    "status": "extract-only",
+    "method": "official webpage read; raw download unavailable"
+  },
+  {
+    "id": "K2",
+    "title": "Kelowna 官方链接2026职业及招聘文件",
+    "url": "https://docs.google.com/document/d/1z5oaVk7P8Eat5acl5ydVUpcZhPvZ0iJQPFPdQJm9fqY/edit?usp=sharing",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/k2.html.txt",
+    "sha256": "c1eddf0308b4adb4355e49d14269c9af90b5d36f8b7e7812f3a15e4a77513703"
+  },
+  {
+    "id": "T1",
+    "title": "IRCC Bridging open work permit",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/pr-work-permits/bridging.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/t1.html.txt",
+    "sha256": "eefc14b7d9b2b26c0bf73800f7a2fb23ff29ad6ddf7f2aab8a38b329f6eac63b"
+  },
+  {
+    "id": "T2",
+    "title": "IRCC Employer Portal user guide",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal/user-guide.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/t2.html.txt",
+    "sha256": "8f9f39eaae43e4d9f3bb6ab958821e6ca6a900a820422abcc87213b3657be6d1"
+  },
+  {
+    "id": "T3",
+    "title": "IRCC Employer-specific work permit",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employer-specific.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/t3.html.txt",
+    "sha256": "cbe3931676edf2ff85f1d577b52f988d0fb6a5e3b2326715a9798c134eb7e8e2"
+  },
+  {
+    "id": "T4",
+    "title": "IRCC 境外工签材料",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit-outside/forms-documents.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/t4.html.txt",
+    "sha256": "91dab1bafdac9828f0e50d257996630885ea112a14a025fecd00a3b2bcee800d"
+  },
+  {
+    "id": "T5",
+    "title": "IRCC 境内续签维持身份说明",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/apply.html",
+    "checked": "2026-09-22",
+    "status": 200,
+    "method": "official download",
+    "file": "business/t5.html.txt",
+    "sha256": "680193102313450670536f162257b37ccb9e1114c28980e16556cf76dcf0b8c3"
+  },
+  {
+    "id": "B8",
+    "title": "BC Skills Immigration Post-Nomination Guide，2022-08-29，当前仍链接",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-post-nomination-guide-pdf",
+    "checked": "2026-09-22",
+    "evidence_file": "evidence/si-nominee.pdf",
+    "status": 200,
+    "method": "official download",
+    "file": "business/b8.pdf",
+    "sha256": "50a5f96520e6df7c220a101420237baa14f57b670378d120e2089dd63c08c760"
+  },
+  {
+    "url": "https://www.vcc.ca/international/programs/programs-ie/health-care-assistant/",
+    "title": "VCC Health Care Assistant Diploma",
+    "checked": "2026-09-22",
+    "id": "school-1",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/programs-a.json",
+        "sha256": "0aee80ae9f3120d872b59460378eab69897c5e50c43dad87a1599578ee46b056"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vcc.ca/applying/registration-services/english-language-proficiency-requirements/health-sciences/health-care-assistant/",
+    "title": "VCC HCA English requirements",
+    "checked": "2026-09-22",
+    "id": "school-2",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/pgwp-school.json",
+        "sha256": "8451022da76d957bec06e117522d9adf2b82854eabf254a27a8d600fb6ce977c"
+      },
+      {
+        "file": "schools/requirements.json",
+        "sha256": "cfbd7c939f9dfdbf1b8b1bd94857163bec8c51a1aebd254450e3831aa5113add"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/",
+    "title": "VCC PGWP eligible programs",
+    "checked": "2026-09-22",
+    "id": "school-3",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/cip.json",
+        "sha256": "1711d6e7e3387e3915f6c7df3c3563107f89e26a049925b352a24ac8ead20ef7"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vcc.ca/programs/practical-nursing/",
+    "title": "VCC Practical Nursing",
+    "checked": "2026-09-22",
+    "id": "school-6",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/admissions-final.json",
+        "sha256": "73465e43fe13f8ed31db3c2df50676789a3a6e912603693aad47b91e84bee905"
+      },
+      {
+        "file": "schools/details.json",
+        "sha256": "077d098649919f0fd39aa678e89e505d82fbe284a393b5ea1979f29279ba3b4c"
+      },
+      {
+        "file": "schools/programs-a.json",
+        "sha256": "0aee80ae9f3120d872b59460378eab69897c5e50c43dad87a1599578ee46b056"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bccnm.ca/LPN/applications_registration/how_to_apply/Pages/BC_grad.aspx",
+    "title": "BCCNM practical nursing graduates",
+    "checked": "2026-09-22",
+    "id": "school-7",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": []
+  },
+  {
+    "url": "https://www.bcit.ca/programs/nursing-bachelor-of-science-in-nursing-full-time-8875bsn/",
+    "title": "BCIT Bachelor of Science in Nursing",
+    "checked": "2026-09-22",
+    "id": "school-8",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/admissions-final.json",
+        "sha256": "73465e43fe13f8ed31db3c2df50676789a3a6e912603693aad47b91e84bee905"
+      },
+      {
+        "file": "schools/programs-a.json",
+        "sha256": "0aee80ae9f3120d872b59460378eab69897c5e50c43dad87a1599578ee46b056"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bccnm.ca/RN/applications_registration/Pages/Default.aspx",
+    "title": "BCCNM RN registration",
+    "checked": "2026-09-22",
+    "id": "school-9",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": []
+  },
+  {
+    "url": "https://www.douglascollege.ca/program/dpeces",
+    "title": "Douglas Early Childhood Education Diploma",
+    "checked": "2026-09-22",
+    "id": "school-10",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/programs-a.json",
+        "sha256": "0aee80ae9f3120d872b59460378eab69897c5e50c43dad87a1599578ee46b056"
+      }
+    ]
+  },
+  {
+    "url": "https://www.douglascollege.ca/admissions/requirements-and-assessment-testing/international-students-admission-requirements",
+    "title": "Douglas international admission requirements",
+    "checked": "2026-09-22",
+    "id": "school-11",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": []
+  },
+  {
+    "url": "https://www.douglascollege.ca/fees-and-finances/tuition-and-fee-estimator/tuition-and-fees-international-students",
+    "title": "Douglas international tuition and fees",
+    "checked": "2026-09-22",
+    "id": "school-12",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/programs-c.json",
+        "sha256": "82232953e7dfd5d0b5f8ac7c8edaa4f521a1138a19df48b8349f3930011c65cb"
+      }
+    ]
+  },
+  {
+    "url": "https://www.douglascollege.ca/programs-and-courses/international-student-programs",
+    "title": "Douglas international programs and CIP codes",
+    "checked": "2026-09-22",
+    "id": "school-13",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/cip.json",
+        "sha256": "1711d6e7e3387e3915f6c7df3c3563107f89e26a049925b352a24ac8ead20ef7"
+      }
+    ]
+  },
+  {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html",
+    "title": "IRCC eligible fields of study",
+    "checked": "2026-09-22",
+    "id": "school-14",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/cip.json",
+        "sha256": "1711d6e7e3387e3915f6c7df3c3563107f89e26a049925b352a24ac8ead20ef7"
+      },
+      {
+        "file": "schools/federal.json",
+        "sha256": "5341a9a8e7838c9cce89a0c1052583294b6a121467d9ab2acaeeb4a6d4073c00"
+      }
+    ]
+  },
+  {
+    "url": "https://www.nlc.bc.ca/programs/welder-foundation-certificate/",
+    "title": "NLC Welder Foundation Certificate",
+    "checked": "2026-09-22",
+    "id": "school-15",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/details.json",
+        "sha256": "077d098649919f0fd39aa678e89e505d82fbe284a393b5ea1979f29279ba3b4c"
+      },
+      {
+        "file": "schools/programs-b.json",
+        "sha256": "d2b2d08ae3336206f88d16efa0d7b3123707873ff0979e565d861671dec32d11"
+      }
+    ]
+  },
+  {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+    "title": "IRCC PGWP duration",
+    "checked": "2026-09-22",
+    "id": "school-16",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/federal.json",
+        "sha256": "5341a9a8e7838c9cce89a0c1052583294b6a121467d9ab2acaeeb4a6d4073c00"
+      }
+    ]
+  },
+  {
+    "url": "https://www.nic.bc.ca/programs/programs/trades-and-technical/electrician-foundation-certificate-special-cohort.html",
+    "title": "NIC Electrician Technical Readiness Pathway",
+    "checked": "2026-09-22",
+    "id": "school-17",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/details.json",
+        "sha256": "077d098649919f0fd39aa678e89e505d82fbe284a393b5ea1979f29279ba3b4c"
+      },
+      {
+        "file": "schools/programs-b.json",
+        "sha256": "d2b2d08ae3336206f88d16efa0d7b3123707873ff0979e565d861671dec32d11"
+      }
+    ]
+  },
+  {
+    "url": "https://www.nic.bc.ca/admissions/international-students/programs.html",
+    "title": "NIC international programs and PGWP",
+    "checked": "2026-09-22",
+    "id": "school-18",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": []
+  },
+  {
+    "url": "https://www.vcc.ca/international/programs/programs-ie/heavy-mechanical-trades--international/",
+    "title": "VCC Heavy Mechanical Technology",
+    "checked": "2026-09-22",
+    "id": "school-19",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/programs-b.json",
+        "sha256": "d2b2d08ae3336206f88d16efa0d7b3123707873ff0979e565d861671dec32d11"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vcc.ca/international/future-students/apply/english-requirements/",
+    "title": "VCC English entrance requirements",
+    "checked": "2026-09-22",
+    "id": "school-20",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/vcc-final.json",
+        "sha256": "ba9c8da6717994b6900f530869450320d41d3439aea64682a4dfa0734d5c226e"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/",
+    "title": "BCIT Computer Systems Technology",
+    "checked": "2026-09-22",
+    "id": "school-21",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/admissions-final.json",
+        "sha256": "73465e43fe13f8ed31db3c2df50676789a3a6e912603693aad47b91e84bee905"
+      },
+      {
+        "file": "schools/details.json",
+        "sha256": "077d098649919f0fd39aa678e89e505d82fbe284a393b5ea1979f29279ba3b4c"
+      },
+      {
+        "file": "schools/programs-b.json",
+        "sha256": "d2b2d08ae3336206f88d16efa0d7b3123707873ff0979e565d861671dec32d11"
+      },
+      {
+        "file": "schools/requirements.json",
+        "sha256": "cfbd7c939f9dfdbf1b8b1bd94857163bec8c51a1aebd254450e3831aa5113add"
+      }
+    ]
+  },
+  {
+    "url": "https://www.bcit.ca/international-applicants/regular-credential-programs/",
+    "title": "BCIT international cohort programs",
+    "checked": "2026-09-22",
+    "id": "school-22",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/cip.json",
+        "sha256": "1711d6e7e3387e3915f6c7df3c3563107f89e26a049925b352a24ac8ead20ef7"
+      },
+      {
+        "file": "schools/pgwp-school.json",
+        "sha256": "8451022da76d957bec06e117522d9adf2b82854eabf254a27a8d600fb6ce977c"
+      }
+    ]
+  },
+  {
+    "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-electrical-computer-engineering",
+    "title": "UBC ECE MASc",
+    "checked": "2026-09-22",
+    "id": "school-24",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/programs-c.json",
+        "sha256": "82232953e7dfd5d0b5f8ac7c8edaa4f521a1138a19df48b8349f3930011c65cb"
+      }
+    ]
+  },
+  {
+    "url": "https://engineering.ubc.ca/programs/graduate-programs",
+    "title": "UBC Engineering graduate program comparison",
+    "checked": "2026-09-22",
+    "id": "school-25",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/programs-c.json",
+        "sha256": "82232953e7dfd5d0b5f8ac7c8edaa4f521a1138a19df48b8349f3930011c65cb"
+      }
+    ]
+  },
+  {
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+    "title": "IRCC PGWP eligibility",
+    "checked": "2026-09-22",
+    "id": "school-26",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/details.json",
+        "sha256": "077d098649919f0fd39aa678e89e505d82fbe284a393b5ea1979f29279ba3b4c"
+      },
+      {
+        "file": "schools/federal.json",
+        "sha256": "5341a9a8e7838c9cce89a0c1052583294b6a121467d9ab2acaeeb4a6d4073c00"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vcc.ca/international/programs/program-areas/technology/computer-systems-technology/",
+    "title": "VCC Computer Systems Technology",
+    "checked": "2026-09-22",
+    "id": "school-27",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/vcc-final.json",
+        "sha256": "ba9c8da6717994b6900f530869450320d41d3439aea64682a4dfa0734d5c226e"
+      }
+    ]
+  },
+  {
+    "id": "school-28",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+    "title": "IRCC · financial-support.html",
+    "checked": "2026-09-22",
+    "status": "extract-only",
+    "method": "official webpage extract via research tool; not original HTML",
+    "extracts": [
+      {
+        "file": "schools/federal.json",
+        "sha256": "5341a9a8e7838c9cce89a0c1052583294b6a121467d9ab2acaeeb4a6d4073c00"
+      }
+    ]
+  }
+]
