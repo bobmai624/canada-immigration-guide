@@ -1,0 +1,142 @@
+{
+  "note": "Direct curl unsuccessful. These are web-tool official-page extracts, not raw HTML/PDF downloads. Some excerpts truncated. Reopen authoritative URL before application.",
+  "files": [
+    {
+      "file": "admissions-final.json",
+      "sha256": "73465e43fe13f8ed31db3c2df50676789a3a6e912603693aad47b91e84bee905",
+      "bytes": 36658,
+      "checked": "2026-09-22",
+      "type": "web_tool_extracted_text_not_raw_HTML_or_PDF",
+      "urls": [
+        "https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/",
+        "https://www.bcit.ca/programs/nursing-bachelor-of-science-in-nursing-full-time-8875bsn/",
+        "https://www.vcc.ca/programs/practical-nursing/",
+        "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news",
+        "https://www.welcomebc.ca/immigrate-to-b-c/for-workers;",
+        "https://www.welcomebc.ca/immigrate-to-b-c/skills-immigration"
+      ]
+    },
+    {
+      "file": "cip.json",
+      "sha256": "1711d6e7e3387e3915f6c7df3c3563107f89e26a049925b352a24ac8ead20ef7",
+      "bytes": 60450,
+      "checked": "2026-09-22",
+      "type": "web_tool_extracted_text_not_raw_HTML_or_PDF",
+      "urls": [
+        "https://www.bcit.ca/international-applicants/regular-credential-programs/",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html",
+        "https://www.douglascollege.ca/programs-and-courses/international-student-programs",
+        "https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/"
+      ]
+    },
+    {
+      "file": "details.json",
+      "sha256": "077d098649919f0fd39aa678e89e505d82fbe284a393b5ea1979f29279ba3b4c",
+      "bytes": 33031,
+      "checked": "2026-09-22",
+      "type": "web_tool_extracted_text_not_raw_HTML_or_PDF",
+      "urls": [
+        "https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+        "https://www.nic.bc.ca/programs/programs/trades-and-technical/electrician-foundation-certificate-special-cohort.html",
+        "https://www.nlc.bc.ca/programs/welder-foundation-certificate/",
+        "https://www.vcc.ca/programs/practical-nursing/",
+        "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news"
+      ]
+    },
+    {
+      "file": "federal.json",
+      "sha256": "5341a9a8e7838c9cce89a0c1052583294b6a121467d9ab2acaeeb4a6d4073c00",
+      "bytes": 32021,
+      "checked": "2026-09-22",
+      "type": "web_tool_extracted_text_not_raw_HTML_or_PDF",
+      "urls": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html"
+      ]
+    },
+    {
+      "file": "pgwp-school.json",
+      "sha256": "8451022da76d957bec06e117522d9adf2b82854eabf254a27a8d600fb6ce977c",
+      "bytes": 34285,
+      "checked": "2026-09-22",
+      "type": "web_tool_extracted_text_not_raw_HTML_or_PDF",
+      "urls": [
+        "https://www.bcit.ca/international-applicants/regular-credential-programs/",
+        "https://www.vcc.ca/applying/registration-services/english-language-proficiency-requirements/health-sciences/health-care-assistant/",
+        "https://www.vcc.ca/international/current-students/immigration/post-graduation-work-permit/",
+        "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program",
+        "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news",
+        "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program;"
+      ]
+    },
+    {
+      "file": "programs-a.json",
+      "sha256": "0aee80ae9f3120d872b59460378eab69897c5e50c43dad87a1599578ee46b056",
+      "bytes": 33086,
+      "checked": "2026-09-22",
+      "type": "web_tool_extracted_text_not_raw_HTML_or_PDF",
+      "urls": [
+        "https://www.bcit.ca/programs/nursing-bachelor-of-science-in-nursing-full-time-8875bsn/",
+        "https://www.douglascollege.ca/program/dpeces",
+        "https://www.vcc.ca/international/programs/programs-ie/health-care-assistant/",
+        "https://www.vcc.ca/programs/practical-nursing/"
+      ]
+    },
+    {
+      "file": "programs-b.json",
+      "sha256": "d2b2d08ae3336206f88d16efa0d7b3123707873ff0979e565d861671dec32d11",
+      "bytes": 31698,
+      "checked": "2026-09-22",
+      "type": "web_tool_extracted_text_not_raw_HTML_or_PDF",
+      "urls": [
+        "https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/",
+        "https://www.nic.bc.ca/programs/programs/trades-and-technical/electrician-foundation-certificate-special-cohort.html",
+        "https://www.nlc.bc.ca/programs/welder-foundation-certificate/",
+        "https://www.vcc.ca/international/programs/programs-ie/heavy-mechanical-trades--international/"
+      ]
+    },
+    {
+      "file": "programs-c.json",
+      "sha256": "82232953e7dfd5d0b5f8ac7c8edaa4f521a1138a19df48b8349f3930011c65cb",
+      "bytes": 36556,
+      "checked": "2026-09-22",
+      "type": "web_tool_extracted_text_not_raw_HTML_or_PDF",
+      "urls": [
+        "https://ece.ubc.ca/graduate/programs/†ece.ubc.ca",
+        "https://ece.ubc.ca/research/",
+        "https://engineering.ubc.ca/programs/graduate-programs",
+        "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/electrical-and-computer-engineering†vancouver.calendar.ubc.ca",
+        "https://www.douglascollege.ca/fees-and-finances/tuition-and-fee-estimator/tuition-and-fees-international-students",
+        "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-electrical-computer-engineering"
+      ]
+    },
+    {
+      "file": "requirements.json",
+      "sha256": "cfbd7c939f9dfdbf1b8b1bd94857163bec8c51a1aebd254450e3831aa5113add",
+      "bytes": 35124,
+      "checked": "2026-09-22",
+      "type": "web_tool_extracted_text_not_raw_HTML_or_PDF",
+      "urls": [
+        "https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/",
+        "https://www.vcc.ca/applying/registration-services/english-language-proficiency-requirements/health-sciences-programs/practical-nursing/",
+        "https://www.vcc.ca/applying/registration-services/english-language-proficiency-requirements/health-sciences/health-care-assistant/",
+        "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program",
+        "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program;"
+      ]
+    },
+    {
+      "file": "vcc-final.json",
+      "sha256": "ba9c8da6717994b6900f530869450320d41d3439aea64682a4dfa0734d5c226e",
+      "bytes": 31375,
+      "checked": "2026-09-22",
+      "type": "web_tool_extracted_text_not_raw_HTML_or_PDF",
+      "urls": [
+        "https://www.vcc.ca/international/future-students/apply/english-requirements/",
+        "https://www.vcc.ca/international/programs/program-areas/technology/computer-systems-technology/"
+      ]
+    }
+  ]
+}
