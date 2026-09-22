@@ -1,0 +1,1724 @@
+<!doctype html>
+
+
+<html class="no-js" dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head prefix="og: http://ogp.me/ns#">
+    
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta charset="utf-8"/>
+<title>Employer Portal user guide - Canada.ca</title>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+
+
+	<meta name="content-page-ref" content="qDXvbDLVz6dqE3VkUsNuO8Ay6l5vjzJtQjuI4UVANUROjw4lU63fgtIIXQrI_LWGW7Zn-00NF4zesHGv5JjOtlqMBZwYHA3kFhMLttk2ll-_FX2qmRmnHpOX3IfudkNpuQ_si262ekim-6-FKPAdmTq408hnHOFI33sO2ThurmbUxPHUqivsv1n-v85clZFc">
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/"/>
+	<link rel="canonical" href="https://www.canada.ca/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal/user-guide.html"/>
+    <link rel="alternate" hreflang="en" href="https://www.canada.ca/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal/user-guide.html"/>
+	
+        <link rel="alternate" hreflang="fr" href="https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/partenaires-fournisseurs-services/portail-employeurs/guide-utilisation.html"/>
+	
+	
+		<meta name="description" content="Employer Portal user guide"/>
+	
+	
+		<meta name="keywords" content="Government On-Line; Applications; Work permits"/>
+	
+	
+		<meta name="author" content="Immigration, Refugees and Citizenship Canada"/>
+	
+	
+		<meta name="dcterms.title" content="Employer Portal user guide"/>
+	
+	
+		<meta name="dcterms.description" content="Employer Portal user guide"/>
+	
+	
+		<meta name="dcterms.creator" content="Immigration, Refugees and Citizenship Canada"/>
+	
+	
+	
+		<meta name="dcterms.language" title="ISO639-2/T" content="eng"/>
+	
+	
+		<meta name="dcterms.subject" title="gccore" content="Government On-Line; Applications; Work permits"/>
+	
+	
+		<meta name="dcterms.issued" title="W3CDTF" content="2016-01-14"/>
+	
+	
+		<meta name="dcterms.modified" title="W3CDTF" content="2025-08-20"/>
+	
+	
+		<meta name="dcterms.audience" content="general public"/>
+	
+	
+		<meta name="dcterms.spatial" content="Canada"/>
+	
+	
+		<meta name="dcterms.type" content="not available"/>
+	
+	
+	
+	
+	
+		<meta name="dcterms.identifier" content="Immigration _Refugees_and_Citizenship_Canada"/>
+	
+	
+	
+        
+
+
+
+	<meta prefix="fb: https://www.facebook.com/2008/fbml" property="fb:pages" content="378967748836213, 160339344047502, 184605778338568, 237796269600506, 10860597051, 14498271095, 209857686718, 160504807323251, 111156792247197, 113429762015861, 502566449790031, 312292485564363, 1471831713076413, 22724568071, 17294463927, 1442463402719857, 247990812241506, 730097607131117, 1142481292546228, 1765602380419601, 131514060764735, 307780276294187, 427238637642566, 525934210910141, 1016214671785090, 192657607776229, 586856208161152, 1146080748799944, 408143085978521, 490290084411688, 163828286987751, 565688503775086, 460123390028, 318424514044, 632493333805962, 370233926766473, 173004244677, 1562729973959056, 362400293941960, 769857139754987, 167891083224996, 466882737009651, 126404198009505, 135409166525475, 664638680273646, 169011506491295, 217171551640146, 182842831756930, 1464645710444681, 218822426028, 218740415905, 123326971154939, 125058490980757, 1062292210514762, 1768389106741505, 310939332270090, 285960408117397, 985916134909087, 655533774808209, 1522633664630497, 686814348097821, 230798677012118, 320520588000085, 103201203106202, 273375356172196, 61263506236, 353102841161, 1061339807224729, 1090791104267764, 395867780593657, 1597876400459657, 388427768185631, 937815283021844, 207409132619743, 1952090675003143, 206529629372368, 218566908564369, 175257766291975, 118472908172897, 767088219985590, 478573952173735, 465264530180856, 317418191615817, 428040827230778, 222493134493922, 196833853688656, 194633827256676, 252002641498535, 398018420213195, 265626156847421, 202442683196210, 384350631577399, 385499078129720, 178433945604162, 398240836869162, 326182960762584, 354672164565195, 375081249171867, 333050716732105, 118996871563050, 240349086055056, 119579301504003, 185184131584797, 333647780005544, 306255172770146, 369589566399283, 117461228379000, 349774478396157, 201995959908210, 307017162692056, 145928592172074, 122656527842056">
+
+
+	
+
+
+    
+
+
+	<script src="//assets.adobedtm.com/be5dfd287373/abb618326704/launch-3eac5e076135.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous"/>
+<script blocking="render" src="/etc/designs/canada/wet-boew/js/gcdsloader.min.js"></script>
+<link rel="stylesheet" href="/etc/designs/canada/wet-boew/css/theme.min.css"/>
+<link href="/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon"/>
+<noscript><link rel="stylesheet" href="/etc/designs/canada/wet-boew/css/noscript.min.css"/></noscript>
+
+
+
+
+
+
+
+                                <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="KBFUZ-C9D7G-RB8SX-GRGEN-HGMC9",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"KBFUZ-C9D7G-RB8SX-GRGEN-HGMC9",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="qd5abwvydqecw2vsc42a-f-a9404c9f7-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"41","ak.cp":"653406","ak.ai":parseInt("231651",10),"ak.ol":"0","ak.cr":5,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"2442d7c1","ak.r":49461,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.cport":8099,"ak.gh":"23.62.36.184","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1790056244","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==AB9B+T+okXd2yumDF1KI27mXuXKg1i3iXP7bUQ/efskws//7AeK9opLI4aqObFLLMlbGqtpSB7cWFtmGxACFwMPkhFVkmcCEmfWIm8s8NNEmvAt0lq+NZpmzeGTHElkDeLa2jxsUjvjGGNASOf81sXv2FImxPe/NKVQvC9/5410GDlF8T2cX4LTNrb+ulxBUWEsP8EswGvJBSpJGtUUesRjfYPYFMtRnn8/281a4AtzpwZNEFitUXxxQtQuvYFIXDTlKJ3g25gvg/OcG13iyXXSB4bXJQI2UScqls0NkC7GOY3YT1FsAkGvZCymyCxQ20N9bfSneY8J+9IacMXmBme7RokXvuGxXjcUtXGOdxr7l8aCQNxjXA9QD2fbDA3OOy2uruDfcZBi+AA0eedQldFvmOmR0J/COzV0xYEBbbLM=","ak.pv":"846","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body vocab="http://schema.org/" typeof="WebPage" resource="#wb-webpage">
+
+    
+
+
+
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+        
+        
+        <div class="global-header"><nav><ul id="wb-tphp">
+	<li class="wb-slc"><a class="wb-sl" href="#wb-cont">Skip to main content</a></li>
+	<li class="wb-slc"><a class="wb-sl" href="#wb-info">Skip to &#34;About government&#34;</a></li>
+	
+</ul></nav>
+
+<header>
+	<div id="wb-bnr" class="container">
+		<div class="row">
+			
+			<section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">
+    <h2 class="wb-inv">Language selection</h2>
+    <div class="row">
+        <div class="col-md-12">
+            <ul class="list-inline mrgn-bttm-0">
+                <li>
+                    <a lang="fr" href="/fr/immigration-refugies-citoyennete/organisation/partenaires-fournisseurs-services/portail-employeurs/guide-utilisation.html">
+                        
+                            <span class="hidden-xs" translate="no">Fran&ccedil;ais</span>
+                            <abbr title="Fran&ccedil;ais" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase" translate="no">fr</abbr>
+                        
+                        
+                    </a>
+                </li>
+                
+                
+            </ul>
+        </div>
+    </div>
+</section>
+				<div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher" resource="#wb-publisher" typeof="GovernmentOrganization">
+					
+                    
+					
+						
+						<a href="/en.html" property="url">
+							<img src="/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="Government of Canada" property="logo"/>
+							<span class="wb-inv"> /
+								
+								<span lang="fr">Gouvernement du Canada</span>
+							</span>
+						</a>
+					
+					<meta property="name" content="Government of Canada"/>
+					<meta property="areaServed" typeof="Country" content="Canada"/>
+					<link property="logo" href="/etc/designs/canada/wet-boew/assets/wmms-blk.svg"/>
+				</div>
+				<section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
+					<h2>Search</h2>
+					
+<form action="/en/services/immigration-citizenship/search.html" method="get" name="cse-search-box" role="search">
+	<div class="form-group wb-srch-qry">
+		    
+		
+		    <label for="wb-srch-q" class="wb-inv">Search IRCC</label>
+			<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Search IRCC"/>
+		
+
+		<datalist id="wb-srch-q-ac">
+		</datalist>
+	</div>
+	<div class="form-group submit">
+	<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+	</div>
+</form>
+
+				</section>
+		</div>
+	</div>
+	<hr/>
+	
+	<div class="container"><div class="row">
+		
+        <div class="col-md-8">
+        <nav class="gcweb-menu" typeof="SiteNavigationElement">
+		<h2 class="wb-inv">Menu</h2>
+		<button type="button" aria-haspopup="true" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+<ul role="menu" aria-orientation="vertical" data-ajax-replace="/content/dam/canada/sitemenu/sitemenu-v2-en.html">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://travel.gc.ca/">Travel and tourism</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/health.html">Health</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/science.html">Science and innovation</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/life-events.html">Manage life events</a></li>
+</ul>
+
+		
+        </nav>   
+        </div>
+		
+		
+		
+    </div></div>
+	
+		<nav id="wb-bc" property="breadcrumb"><h2 class="wb-inv">You are here:</h2><div class="container"><ol class="breadcrumb">
+<li><a href='/en.html'>Canada.ca</a></li>
+<li><a href='/en/immigration-refugees-citizenship.html'>Immigration, Refugees and Citizenship Canada</a></li>
+<li><a href='/en/immigration-refugees-citizenship/corporate.html'>Corporate information</a></li>
+<li><a href='/en/immigration-refugees-citizenship/corporate/partners-service-providers.html'>Partners and service providers</a></li>
+<li><a href='/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal.html'>Employer Portal</a></li>
+</ol></div></nav>
+
+
+	
+
+  
+</header>
+</div>
+
+    
+
+</div>
+
+    
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <main property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement" class="container">
+        
+
+    <h1 property="name" id="wb-cont" dir="ltr">Employer Portal user guide</h1>
+	
+        
+			<div><div class="mwsgeneric-base-html parbase section">
+
+
+
+    <h2>On this page</h2>
+<ul>
+  <li><a href="#s01">Introduction</a></li>
+  <li><a href="#s02">Sign in</a></li>
+  <li><a href="#s03">Review or update your business and primary contact details</a></li>
+  <li><a href="#s033">Before you create an offer of employment</a></li>
+  <li><a href="#s04">Create an offer of employment</a></li>
+  <li><a href="#s05">Submit an offer of employment</a></li>
+  <li><a href="#s06">Access your offer of employment queue</a></li>
+  <li><a href="#s07">Make changes to your account or get help</a></li>
+</ul>
+
+<h2 id="s01">Introduction</h2>
+<p>If your company or organization wants to bring a foreign national to Canada to work in a position that's exempt from
+  requiring a labour market impact assessment (LMIA), you must provide us with the employment details and pay the
+  employer compliance fee (if required) before we can approve the work permit application.</p>
+
+<p>You must submit offers of employment and employer compliance fees through the <strong>Employer Portal</strong>. This
+  guide provides instructions on how to</p>
+<ul>
+  <li>create and submit offers of employment</li>
+  <li>pay the employer compliance fee</li>
+</ul>
+
+<p>If you don't pay the fee or submit an offer of employment <strong>before</strong> the foreign national submits their
+  application, we'll refuse the work permit.</p>
+
+<div class="well">
+  <p><strong>Open work permits</strong></p>
+  <p>If a foreign national is eligible and applying for an <a href="/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/eligibility/open.html">open
+      work permit</a>, you don't need to submit an offer of employment. An open work permit allows foreign nationals to
+    work for any employer.</p>
+</div>
+
+<h3>Enrol in the Employer Portal</h3>
+<p>If you don't have an account, find out how to enrol in the <a href="/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal/enrolment-guide.html">Employer
+    Portal enrolment guide</a>.</p>
+
+<h2 id="s02">Sign in</h2>
+<p>To sign in to the Employer Portal</p>
+<ol>
+  <li>go to the <a href="/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal.html">Employer
+      Portal sign-in page</a></li>
+  <li>choose the secure credential you used to create your portal account (<a href="http://www.ircc.canada.ca/english/helpcentre/answer.asp?q=576&amp;t=23">Sign-In Partner</a> or <a href="http://www.ircc.canada.ca/english/helpcentre/answer.asp?q=794&amp;t=23">GCKey</a>)</li>
+  <li>sign in using your username and password</li>
+</ol>
+
+<p>You may receive an error message that says "Your account is not authorized to access this IRCC portal. Please ensure
+  you have chosen the correct link to log in to." If you receive this message, make sure you</p>
+<ul>
+  <li>clicked the right link on the <a href="/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal.html">Employer
+      Portal sign-in page</a> and</li>
+  <li>enrolled in the right portal</li>
+</ul>
+
+<p>Once you're signed in, you'll see the Employer Portal welcome page.</p>
+
+<div class="well">
+  <p><strong>Employer Portal tips</strong></p>
+  <ul>
+    <li>Don't use your browser navigation buttons (forward and back buttons) when in the portal. Use the portal's
+      navigation buttons (previous, next, exit, etc.) to move between sections.</li>
+    <li>After 15 minutes of inactivity, the system will time you out. If it times out while you're in the application,
+      clear your cache and sign in again.</li>
+  </ul>
+</div>
+
+<h2 id="s03">Review or update your business and primary contact details</h2>
+<p>Once you sign in to your account, you'll see your company's information in the <strong>Business details</strong> and
+  <strong>Business primary contact information</strong> fields. You, as the <a class="wb-lbx lbx-modal" title="PrimaryUser" href="#primaryuser" aria-controls="primaryuser">primary user</a>, provided this information when
+  you enrolled the business in the portal. Until the primary user submits the first offer of employment, the
+  <strong>IRCC employer number</strong> field and all the fields under <strong>View address details</strong> will stay
+  blank.
+</p>
+
+<section id="primaryuser" class="mfp-hide modal-dialog modal-content overlay-def">
+  <header class="modal-header">
+    <h3 class="modal-title">Primary User</h3>
+  </header>
+  <div class="modal-body">
+    <p>A <strong>primary user</strong> is the first person to enrol an employer or branch in the portal. The employer
+      primary user is the only user to have full access to the portal. They're responsible for assigning access by
+      providing PINs to branches and secondary users.</p>
+  </div>
+</section>
+
+<div class="alert alert-info">
+  <h4>The primary user must first submit an offer before other users can submit offers</h4>
+  <p>The primary user can create secondary users or branches within the account, but other users can't submit any offers
+    until the primary user submits the first one.</p>
+</div>
+
+<p>If you want to change the primary user, there must already be at least one secondary user. Once there's a secondary
+  user, <a href="mailto:CIC.EmployerPortal-Portaildelemployeur.CIC@cic.gc.ca">email us</a> to make a secondary user
+  become the primary user.</p>
+
+<p>After the primary user submits the first offer of employment in the Employer Portal, all the other business details
+  will be listed. You'll then be able to update the</p>
+<ul>
+  <li>business address</li>
+  <li>mailing address</li>
+  <li>telephone number</li>
+  <li>email</li>
+</ul>
+
+<p>To change this information</p>
+<ul>
+  <li>click on <strong>View</strong> and update your contact information
+    <ul>
+      <li>You'll be directed to the <strong>Business details</strong> page.</li>
+    </ul>
+  </li>
+  <li>click on the <strong>Update</strong> button for each field to change your business information</li>
+</ul>
+
+<h2 id="s033">Before you create an offer of employment</h2>
+<p>Make sure that</p>
+<ul>
+  <li>the temporary foreign worker hasn't been charged any recruitment fees</li>
+  <li>the temporary foreign worker hasn't been charged any recruitment fees by anyone acting on your behalf</li>
+  <li>you give the temporary foreign worker a copy of an employment agreement in their preferred official language
+    (English or French) that
+    <ul>
+      <li>is signed by both you and the temporary foreign worker</li>
+      <li>includes information on their occupation, wages and working conditions</li>
+    </ul>
+  </li>
+  <li>the temporary foreign worker is aware of <a href="/en/immigration-refugees-citizenship/corporate/publications-manuals/know-your-rights-worker-international-mobility-program.html">their
+      rights as a worker in Canada</a></li>
+</ul>
+
+<h2 id="s04">Create an offer of employment</h2>
+<p>To create an offer of employment under "What would you like to do today?"</p>
+<ul>
+  <li>click on <strong>Submit an offer of employment</strong> to start creating a new offer <strong>or</strong></li>
+  <li>click on <strong>Access the offer of employment queue</strong> to continue an offer you have already started, but
+    haven't submitted</li>
+</ul>
+
+<p>Next, you'll see 4 forms that need to be completed:</p>
+<ul>
+  <li><a href="#s04.1">Business information</a></li>
+  <li><a href="#s04.2">Foreign worker</a></li>
+  <li><a href="#s04.3">Job details</a></li>
+  <li><a href="#s04.4">Wage and benefits</a></li>
+</ul>
+
+<h3>Make sure the offer is complete and accurate</h3>
+<p>The information required in these 4 forms must be typed in fully and accurately.</p>
+
+<p><span class="glyphicon glyphicon-remove"></span> <strong>Don't</strong> copy and paste information into any of the
+  fields.</p>
+
+<p><span class="glyphicon glyphicon-remove"></span> <strong>Don't</strong> enter messages such as "see attached" in any
+  of the fields to refer to documents that might be attached to the work permit application. Only information in the
+  offer will be assessed in the event of a <a href="/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/international-mobility-program.html">compliance
+    inspection</a>.</p>
+
+<p><strong>You'll be able to upload one of the following documents before submitting your offer:</strong></p>
+<ul>
+  <li>proof that you're eligible for a fee exemption
+    <ul>
+      <li><strong>Get help with <a href="#s05">the compliance fee</a></strong>.</li>
+    </ul>
+  </li>
+  <li>an explanation of how you meet the LMIA exemption (optional)
+    <ul>
+      <li>if you didn't enter the explanation under the <strong>Job details</strong> section or</li>
+      <li>if you wish to add additional information to your explanation</li>
+    </ul>
+  </li>
+</ul>
+
+<p>If your offer isn't complete, we may ask you to resubmit it. Otherwise, the work permit application may be refused.
+</p>
+
+<p>If you make a mistake, and the submitted offer <strong>is matched to</strong> the work permit application in the
+  system, you won't be able to change it. In this case, you'll have to resubmit the offer.</p>
+
+<p>If the submitted offer <strong>isn't matched</strong> to the work permit application, you can withdraw it and start a
+  new one.</p>
+
+<p>To save time when creating a new offer of employment, you can use the <a href="#s06.6">Create Duplicate</a> button to
+  copy the offer that you've withdrawn. Then, correct the mistake, or add the information that was missing from the
+  first offer.</p>
+
+<p>Find out more about <a href="#s06.5">making changes to offers</a> you've submitted.</p>
+
+<div class="alert alert-info">
+  <h4>Add verifiable information</h4>
+  <p>The information you provide in the offer of employment should be easily verifiable if we do a compliance
+    inspection.</p>
+</div>
+
+<p>During an inspection, we'll</p>
+<ul>
+  <li>ask you for <a href="/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/work-without-permit/employer-compliance-inspections.html#employer-compliance">relevant
+      documents</a> to verify the information provided in your offer</li>
+  <li>confirm that you've complied with the conditions required for hiring a temporary foreign worker</li>
+</ul>
+
+<h3 id="s04.1">Business information form</h3>
+<ul>
+  <li>Click on <strong>Start form</strong> or <strong>Continue form</strong>.</li>
+</ul>
+
+<p>You need to enter your business information only when you submit your first offer of employment. The information you
+  enter will be saved in the form for all your future offers.</p>
+
+<p>For future offers, you'll be able to change most of the fields in this form yourself, except your</p>
+<ul>
+  <li>Canada Revenue Agency business number</li>
+  <li>business legal name</li>
+  <li>business operating name</li>
+</ul>
+
+<p><a href="#s07">Find out how to make changes to your business information</a>.</p>
+
+<h4>Telephone number</h4>
+<p>Enter the telephone number of the company or organization and click on <strong>Next</strong>.</p>
+
+<div class="alert alert-info">
+  <h5>Make sure the telephone number is valid</h5>
+  <p>If we need to do a compliance investigation, we'll be able to contact you about the employment of your foreign
+    worker, and you won't risk being found <a href="/en/immigration-refugees-citizenship/services/work-canada/employers-non-compliant.html">non-compliant</a>.
+  </p>
+</div>
+
+<h4>Business address</h4>
+<p>This is the physical address and mailing address (if applicable) of the main business or headquarters. Indicate the
+  work location(s) for the foreign worker in the <strong>Job details</strong> form.</p>
+
+<p>If you're a portal user who works at a branch of your company, use your branch location and not the address of the
+  business headquarters.</p>
+
+<h4>Type of business</h4>
+<p>Choose your type of business from the available list.</p>
+
+<p>If the business is a registered franchise</p>
+<ul>
+  <li>choose <strong>Yes</strong></li>
+  <li>provide the name of the franchise's head corporation</li>
+</ul>
+
+<h4>Business details</h4>
+<p>Enter the following information:</p>
+<ul>
+  <li>web address or URL of your business website</li>
+  <li>date the company or organization started</li>
+  <li>description of the principal activity of the company or organization</li>
+  <li>number of employees and gross revenue for the company or organization
+    <ul>
+      <li>If this is a branch account, the information you enter will pertain only to the branch (not the entire company
+        or organization).</li>
+    </ul>
+  </li>
+</ul>
+
+<h4>User contact information</h4>
+<p>Enter the name, job title and contact information of the person who will</p>
+<ul>
+  <li>answer questions and provide information about the company or organization</li>
+  <li>be the primary contact when a compliance inspection is initiated</li>
+</ul>
+
+<h4 id="validate">Validate, save and exit</h4>
+<p>When you've completed the form, follow these steps:</p>
+<ul>
+  <li>Select <strong>Validate</strong> to make sure all required fields are complete.
+    <ul>
+      <li>If required information is missing, you'll see an error message.</li>
+      <li>This message will be at the top of the page and will tell you which fields have been left blank.</li>
+      <li>Fill in these fields, and click on <strong>Validate</strong> again.</li>
+      <li>If all the required information has now been included, you'll see a message at the top of the page that says
+        the form is valid.</li>
+    </ul>
+  </li>
+  <li>Once you confirm your form is valid, select <strong>Save and exit</strong>. Your information will be saved, and
+    you'll return to the main "offer of employment" page.</li>
+</ul>
+
+<h3 id="s04.2">Foreign worker form</h3>
+<p>Click on <strong>Start form</strong> or <strong>Continue form</strong>.</p>
+
+<p>Enter the information for the temporary foreign worker you want to hire. Make sure it's accurate and <strong>matches
+    the information in the temporary foreign worker's passport (or other travel document) exactly</strong>. This
+  includes</p>
+<ul>
+  <li>spelling</li>
+  <li>hyphens</li>
+  <li>accents</li>
+  <li>spaces</li>
+  <li>capitalization</li>
+</ul>
+
+<p>If the information you provide doesn't match the information in the temporary foreign worker's passport or travel
+  document</p>
+<ul>
+  <li>there will be a delay in processing your offer</li>
+  <li>you'll have to withdraw the offer and submit a new one with the correct information
+    <ul>
+      <li>Try using the <a href="#s06.6">Create Duplicate</a> feature after you've withdrawn the incorrect one.</li>
+    </ul>
+  </li>
+  <li>you'll receive a refund for the offer you withdrew</li>
+</ul>
+
+<h4>Family name and given name(s)</h4>
+<p>Enter the temporary foreign worker's family (last) name and given (first) name <strong>exactly</strong> as listed in
+  their passport.</p>
+
+<div class="alert alert-info">
+  <p><strong>Single names</strong><br>
+    If the temporary foreign worker goes by only one name, enter that name in the <strong>Last name</strong> field, and
+    check the box affirming there's no first name.</p>
+</div>
+
+<h4>Gender and date of birth</h4>
+<p>Use the drop-down menu to choose the information that's in the passport.</p>
+
+<h4>Country of birth, country of residence and citizenship</h4>
+<p>Use the drop-down menu to choose the information that's in the passport.</p>
+
+<h4>Passport number</h4>
+<p>Enter the temporary foreign worker's passport number <strong>exactly</strong> as it's listed in their passport.</p>
+<p><strong><a href="#validate">Validate, save and exit</a></strong> when you've completed the form.</p>
+
+<div class="well">
+  <h4>If the passport number contains letters only</h4>
+  <p>The system will prevent you from completing this section and submitting the offer of employment. In this case, <a href="mailto:IRCC.EmployerPortal-Portailemployeur.IRCC@cic.gc.ca">email us</a>. In your email, include the
+    following:</p>
+  <ul>
+    <li>name</li>
+    <li>date of birth</li>
+    <li>citizenship</li>
+    <li>country of birth</li>
+    <li>gender</li>
+    <li>a message stating that you're unable to submit an offer of employment through the Employer Portal because the
+      foreign worker's passport number contains letters only</li>
+  </ul>
+</div>
+
+<h3 id="s04.3">Job details form</h3>
+<p>Click on <strong>Start form</strong> or <strong>Continue form</strong>.</p>
+
+<h4>Business legal name, business operating name and business number</h4>
+<p>These fields</p>
+<ul>
+  <li>will already be filled in with the information the employer or branch primary user entered when they enrolled in
+    the portal</li>
+  <li>can't be edited in the form</li>
+</ul>
+
+<p><a href="#s07">Find out how to make changes to this information if needed</a>.</p>
+
+<h4>LMIA exemption title</h4>
+<p>Choose the exemption title <strong>that applies to the job position</strong> from the drop-down menu. The LMIA
+  exemption code will automatically appear in the field below.</p>
+
+<p>To avoid delays in processing, make sure the LMIA exemption you choose matches the</p>
+<ul>
+  <li>job description</li>
+  <li>duties</li>
+</ul>
+
+<p>Review the <a href="/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes.html">LMIA
+    exemption codes</a> table if you aren't sure which one applies to the job position.</p>
+
+<div class="well">
+  <p><strong>If no LMIA exemption applies to the job position</strong></p>
+  <p>The International Mobility Program <strong>doesn't</strong> apply to you. The Employer Portal is used only if the
+    job position is exempt from requiring an LMIA.</p>
+  <p>In that case, you may need to get an LMIA from Service Canada. If an LMIA is required, the worker attaches it to
+    their work permit application. <a href="/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/find-need-labour-market-impact-assessment.html">Find
+      out how to get an LMIA</a>.</p>
+</div>
+
+<p><i class="fa fa-question-circle"></i>&nbsp;<strong>Get help</strong></p>
+<p>If you want an opinion on whether an LMIA or work permit exemption applies to your situation, <a href="/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/international-mobility-workers-unit.html">contact
+            the International Mobility Workers Unit</a>.</p>
+
+<h4>Explanation of how the job meets the requirements of the exemption being requested</h4>
+<p>Explain how the job being offered meets the LMIA exemption you chose.</p>
+
+<p>For example, your explanation must include</p>
+<ul>
+  <li>the name of the international agreement the job position qualifies under
+    <ul>
+      <li>for example, the Canada-United States-Mexico Agreement (CUSMA)</li>
+    </ul>
+  </li>
+  <li>a description of how the job position meets the eligibility requirements of the exemption and how it supports
+    Canadian interests, for example:
+    <ul>
+      <li>The language the foreign worker uses the most daily is French (LMIA exemption C16)</li>
+      <li>The job position provides a significant benefit to Canada (LMIA exemption C10)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Make sure the information you provide is truthful and complete. We'll use it to decide if the exemption eligibility
+  requirements are met.</p>
+
+<p>You'll have the option to</p>
+<ul>
+  <li>upload a document to provide the explanation of how the job meets the requirements of the LMIA exemption</li>
+  <li>add to an explanation already submitted under the <strong>Job details</strong> section</li>
+</ul>
+
+<h4>Job title</h4>
+<p>Enter the temporary foreign worker's job title. The job title must align with the National Occupational
+  Classification.</p>
+
+<h4>National Occupation Code</h4>
+<p>Choose the National Occupation Code (NOC) code that describes the occupation and lists the main duties of your
+  temporary foreign worker. If you aren't sure which code to use, <a href="/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html">review
+    all the available codes</a> and find the one that applies to your situation.</p>
+
+<h4>Physical job location</h4>
+<p>Enter the location where the temporary foreign worker will be working. If there are 2 locations, answer
+  <strong>Yes</strong> to "Will the worker perform duties at more than 1 job location?" and complete the second job
+  location section.
+</p>
+
+<p><strong>If there are more than 2 locations</strong>, you can complete the first job location section and list all the
+  other locations in the <strong>Main duties of the job</strong> field. This information, if provided, will be
+  considered during a compliance inspection—even if the work permit document failed to indicate the multiple job
+  locations.</p>
+
+<h4>Main duties of the job</h4>
+<p>Please provide</p>
+<ul>
+  <li>a list of duties that the foreign worker will be expected to perform for this specific position (especially those
+    that are not covered by the NOC description)</li>
+  <li>information about whether the position you're filling requires variable work hours or a work schedule</li>
+  <li>information about multiple work locations (if applicable)</li>
+  <li>other information that you can't clarify in the <strong><a href="#alternate">Alternate compensation scheme</a></strong> field due to
+    character limitations</li>
+  <li>any additional information about the duties the foreign worker will be performing that you could not include in
+    the <strong>Alternate compensation scheme</strong> field</li>
+</ul>
+
+<h4>Expected start date of employment</h4>
+<p>Select the date (year, month and day) that the foreign worker will start to work for you.</p>
+
+<p>If you put your foreign worker's expected date of <strong>arrival</strong> to Canada in the <strong>Expected start
+    date</strong> area of the form, put the date you expect the foreign worker to start work in the <strong>Alternate
+    compensation scheme</strong> (Wage and benefits section) box. This will clarify when the foreign worker's wages will
+  begin.</p>
+
+<div class="alert alert-info">
+    <p>The actual start date of employment may differ from the date of issuance of the work permit or
+        the date of arrival. Make sure you keep all supporting documents when hiring a foreign worker in case we request
+        them
+        during a compliance inspection.</p>
+</div>
+
+<div class="well">
+  <p><strong>An offer of employment's expected start date of employment can't be retroactive</strong>.<br>
+    If the foreign worker is already working for your business under another work permit, the offer of employment should
+    be made only for the period of time they'll be working after their current work permit expires.</p>
+
+  <p>The time they worked in the past shouldn't be included in the new offer of employment. Only the duration of
+    employment for which a new work permit needs to be issued is required.</p>
+</div>
+
+<h4>Expected duration of employment</h4>
+<p>Indicate the total duration of employment in days, months or years.</p>
+
+<div class="alert alert-warning">
+  <p><strong>Permanent resident programs and work permits</strong><br>
+    Under certain permanent resident programs, candidates may be eligible to apply for a work permit. In these
+    cases—even though the job may be "permanent" or "indeterminate," or have no end date—you should still
+    indicate
+    the duration of the work permit when you submit an offer of employment.</p>
+
+  <p>For example, under the Atlantic Immigration Program, candidates may be eligible to apply for a work permit that's
+    valid for 2 years. Because the work permit will be issued for only 2 years, this duration should be reflected in the
+    offer of employment that's submitted for this type of work permit.</p>
+</div>
+
+<h4>Minimum education requirements of the job and other training required</h4>
+<p>Select the education requirements of the job from the drop-down list.</p>
+
+<p>Indicate any other training required or additional certifications necessary for the job in the text box provided.
+  Examples of other certifications needed would be first aid certificates, workplace safety certificates and specialty
+  training.</p>
+
+<h4>Experience and skills required to complete the job duties</h4>
+<p>Use the text box provided to indicate the experience (such as years and type) and skills required to do the job.</p>
+
+<div class="alert alert-warning">
+  <p><strong>Provincial or federal certifications, licences or registration requirements</strong><br>
+    If the job has provincial or federal certifications, licences or registration requirements (for example, BC Air
+    Brake Endorsement or Ontario nursing licence), you can enter this information in the text box provided when you
+    answer <strong>yes</strong> to the <strong>experience and skills</strong> question.</p>
+</div>
+
+<h4>Employer compliance fee exemption question</h4>
+<p>Generally, an employer compliance fee of $230 is required. Certain employers are exempt from paying the compliance
+  fee if the foreign worker is exempt from paying the work permit processing fee.</p>
+<p><a href="/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/find-need-labour-market-impact-assessment/employer-compliance-exemptions.html">Find out if you need to pay the employer compliance fee</a> before you answer this question.</p>
+
+<p>Answer either:</p>
+<ul>
+    <li>"Yes, I will be paying the employer compliance fee for this offer of employment." or</li>
+    <li>"No, I am exempt from paying employer compliance fees for this offer of employment."
+        <ul>
+            <li><strong>If you select No</strong>, you won't be able to modify your answer later on, which may result in
+                the
+                refusal of the application.</li>
+            <li>The <strong>No</strong> response will trigger the system either to expect the fee payment (after all the
+                forms have
+                been completed) or to provide a text box for you to upload any documents that support the compliance fee
+                exemption.
+            </li>
+        </ul>
+    </li>
+</ul>
+
+<ul>
+  <li>Click on <strong>Next</strong>.</li>
+</ul>
+
+<h4>Employer primary contact information</h4>
+<p>Enter the contact information for the person who submitted the offer of employment if it's different from the user
+  contact you provided earlier.</p>
+
+<p>The employer contact should be someone who</p>
+<ul>
+  <li>is familiar with the day-to-day employment activities of the foreign worker</li>
+  <li>can answer questions or provide information about this foreign worker's wages, occupation and working conditions
+  </li>
+  <li>is available 24/7 in case the work permit processing officer has any questions about the offer of employment
+    before finalizing the work permit</li>
+</ul>
+
+<p><strong><a href="#validate">Validate, save and exit</a></strong> when you've completed the form.</p>
+
+<h3 id="s04.4">Wage and benefits form</h3>
+<p>In this section, disclose all the information related to</p>
+<ul>
+  <li>wages</li>
+  <li>hours of work</li>
+  <li>variable work schedules</li>
+  <li>employer-sponsored benefits that the temporary foreign worker will receive while in Canada
+    <ul>
+      <li>for example, living allowance, bonuses, commissions, employer-matched RRSPs</li>
+    </ul>
+  </li>
+</ul>
+
+<p>This information will be used during the work permit application assessment to</p>
+<ul>
+  <li>ensure that the offer of employment is genuine (for example, the employer provided the wages, occupation and
+    working conditions offered to previous foreign workers)</li>
+  <li>confirm that the employer is eligible to hire foreign workers</li>
+  <li>confirm that the foreign national meets the requirements of the offer of employment</li>
+  <li>confirm that the employer is complying with federal and provincial labour laws</li>
+</ul>
+
+<p>This information will also be assessed if we do a compliance inspection. We'll use it to verify the information you
+  provided in your offer and confirm that you've <a href="/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/international-mobility-program/after-hiring.html">complied
+    with the conditions required for hiring a temporary worker</a>.</p>
+
+<p>Click on <strong>Start form</strong> or <strong>Continue form</strong>.</p>
+
+<p>The information you enter in this form will show that you're complying with federal and provincial labour laws.</p>
+
+<div class="alert alert-info">
+  <p><strong>What counts as an employer-sponsored benefit</strong></p>
+  <p>In this form, the term "employer-sponsored benefits" <strong>doesn't</strong> include</p>
+  <ul>
+    <li>the Canada Pension Plan</li>
+    <li>RRSPs that don't include employer contributions</li>
+    <li>Workplace Safety and Insurance Board coverage</li>
+  </ul>
+</div>
+
+<h4>Wages and benefits</h4>
+<p>If you're paying the temporary foreign worker directly, select <strong>Yes</strong> and enter the details about the
+  worker's wage and working hours.</p>
+
+<p>Use the <strong>Additional information</strong> text box to</p>
+<ul>
+  <li>provide more details</li>
+  <li>explain working conditions related to
+    <ul>
+      <li>wages</li>
+      <li>schedule</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="alert alert-warning">
+  <p><strong>Seasonal work and wages</strong></p>
+  <p>Currently, when <strong>Yes</strong> is selected for <strong>Wage and benefits</strong>, the question "Is this
+    employment seasonal?" doesn't display.</p>
+  <p>The question "Is this employment seasonal?" displays only when <strong>No</strong> is selected in response to
+    <strong>Wage and benefits</strong>. If you're paying the temporary foreign worker directly, and the employment is
+    seasonal, you can indicate this in the <strong>Additional information</strong> text box.
+  </p>
+</div>
+
+<h4>Innovation Stream</h4>
+<p>If you're hiring a worker under the Innovation Stream, you must meet the following wage requirements to qualify:</p>
+<ul>
+  <li>The wage you're offering must be at or above the <a href="/en/employment-social-development/services/foreign-workers/median-wage.html">median
+      hourly wage by province or territory</a>.</li>
+  <li>If the position is under a collective bargaining agreement (CBA), the wage you're offering must meet the
+    requirements of the CBA.
+    <ul>
+      <li>Use the <strong>Additional information</strong> text box to provide more detail and to upload a copy of the
+        CBA with the offer of employment.</li>
+    </ul>
+  </li>
+  <li>If the position is not under a CBA, the wage you're offering must be at or above the prevailing wage.
+    <ul>
+      <li>Use the <strong>Additional information</strong> text box to provide more details about meeting the prevailing
+        wage requirement.</li>
+    </ul>
+  </li>
+</ul>
+
+<details>
+  <summary>Prevailing wage definition</summary>
+  <p>Under the International Mobility Program, you must pay the prevailing wage, which is defined as the highest of
+    either</p>
+  <ul>
+    <li>the median wage on <a href="https://www.jobbank.gc.ca/trend-analysis/search-wages">Job Bank</a> or</li>
+    <li>the wage that's within the wage range that you're paying your current employees hired for the same job and work
+      location who have the same skills and years of experience</li>
+  </ul>
+
+  <p>To determine the median wage on Job Bank</p>
+  <ul>
+    <li>go to <a href="https://www.jobbank.gc.ca/trend-analysis/search-wages">Compare wages on Job Bank</a></li>
+    <li>in the <strong>Job search</strong> field, enter the job title or the <a href="https://noc.esdc.gc.ca/?GoCTemplateCulture=en-CA">NOC code</a> (2021 version) that best describes the
+      duties and requirements of the position
+      <ul>
+        <li>The hourly median wage will be listed in the middle column by community or area.
+          <ul>
+            <li>If the median wage is listed as "n/a," consult the provincial or territorial wage.</li>
+            <li>If the provincial or territorial wage isn't available, consult the national wage.</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+
+  <p>If the position requires more skills and years of experience than the applicable NOC description, the wages offered
+    should reflect these additional requirements.</p>
+
+  <p>To determine the wage rate being offered, we'll consider only <strong>guaranteed wages, which exclude</strong></p>
+  <ul>
+    <li>overtime hours</li>
+    <li>tips</li>
+    <li>benefits</li>
+    <li>profit sharing</li>
+    <li>bonuses</li>
+    <li>commissions</li>
+    <li>other forms of compensation, for example, piece work (work paid at a fixed rate based on the amount of work done
+      rather than the time required to do the work)</li>
+  </ul>
+</details>
+
+<div class="well">
+  <h4>Prevailing wage review</h4>
+  <p>If you're hiring a worker under the Innovation Stream, you'll need to make sure that the worker is paid the
+    prevailing wage throughout the employment period. To show this, you'll need to review wages</p>
+  <ul>
+    <li>on the first day of work and</li>
+    <li>annually by January 1</li>
+  </ul>
+
+  <p>In the <strong>Additional information</strong> text box in the Employer Portal, paste the following text exactly as
+    shown:</p>
+
+  <p>On the first day of work and then annually thereafter, I, the employer, will</p>
+  <ul>
+    <li>review and increase, if required, the wages offered for alignment with the prevailing wages as defined on IRCC's
+      website</li>
+    <li>review the wage for alignment with Job Bank updates or any increases to wages offered to current employees hired
+      for the same job, work location, skills and years of experience</li>
+  </ul>
+</div>
+
+<h4 id="alternate">Alternate compensation scheme</h4>
+<p>Use this field if</p>
+<ul>
+  <li>there's any variance in wage
+    <ul>
+      <li>for example, bi-monthly union dues or fringe deductions</li>
+    </ul>
+  </li>
+  <li>you wish to name a source, other than your organization, that's paying the temporary foreign worker's wages, such
+    as
+    <ul>
+      <li>a foreign-contracted company</li>
+      <li>an educational institution employing researchers or providing internships at off-site locations</li>
+      <li>other employers in a tripartite agreement</li>
+      <li>another source</li>
+    </ul>
+  </li>
+  <li>the temporary foreign worker will be working intermittently in Canada over a span of time
+    <ul>
+      <li>for example, 2 days every 3 months</li>
+    </ul>
+  </li>
+  <li>the working hours are intermittent or variable, or they vary from the amount stipulated in the <strong>Hours of
+      work</strong> field
+    <ul>
+      <li>for example, 40 hours a week, but sometimes 60 hours a week</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Provide the specific range of hours that the temporary foreign worker will be working in Canada instead of stating
+  <strong>Variable</strong>. For example, the foreign national will work between 40 and 100 hours a week, depending on
+  the harvest season or weather.
+</p>
+
+<p>If you can't get this information from the organization paying the wages, let us know in this same field.</p>
+
+<p>If you don't have enough space in that field, you can use the <strong>Additional information</strong> text box.</p>
+
+<p>Select <strong>Next</strong>.</p>
+
+<h4>Benefits</h4>
+
+<div class="alert alert-warning">
+  <p><strong>Benefits for temporary foreign worker</strong></p>
+  <p>Currently, the form doesn't let you indicate "not applicable" (n/a) regarding benefits provided to the temporary
+    foreign worker. Even if you're not providing benefits to the temporary foreign worker, you should select one of the
+    benefits and then provide information, in the <strong>Additional information</strong> text box, about the benefits
+    arrangement in effect for this worker.</p>
+</div>
+
+<p>Enter the details about the temporary foreign worker's benefits if they'll have any.</p>
+
+<h4>Type of vacation</h4>
+<p>Select whether the vacation will be given in days or whether the temporary foreign worker will be paid a percentage
+  for vacation pay.</p>
+
+<p>If you select <strong>Days</strong>, you must be sure to distinguish between weeks and days. For example, if the
+  worker will be given 2 weeks' vacation, indicate exactly how many working days will be given (for example, 10 working
+  days).</p>
+
+<h4>Other benefits</h4>
+<p>Any employer-sponsored benefits that the temporary foreign worker receives must be for the entire time period listed
+  on the work permit. If the benefits won't start on the first day of the work permit—or if no benefits will be
+  provided in the job offer—include this information in either</p>
+<ul>
+  <li>the <strong>Other benefits</strong> (if applicable) field in the <strong>Benefits</strong> section or</li>
+  <li>the <strong>Additional information</strong> text box</li>
+</ul>
+
+<p><strong><a href="#validate">Validate, save, and exit</a></strong> when you've completed the form.</p>
+
+<h2 id="s05">Submit an offer of employment</h2>
+<p>When you've completed and validated all 4 forms, submit the offer of employment by following these steps:</p>
+
+<ol>
+  <li>Select <strong>Continue</strong>, located on the main offer of employment page, to go to the document checklist.
+  </li>
+
+  <li>If you're exempt from paying the employer compliance fee, upload your proof of fee exemption and include your
+    proof in the <strong>Supporting documents</strong> section.
+    <ul>
+      <li>If you said you would be paying the employer compliance fee, you won't need to upload any documents.</li>
+    </ul>
+  </li>
+
+  <li>You have the option to upload a document explaining how the job meets the requirements of the LMIA exemption if
+    this explanation was not previously provided under the <strong>Job details</strong> section.</li>
+
+  <li>Select <strong>Next</strong>.</li>
+
+  <li>Read the <strong>Statement of privacy</strong> and the <strong>Declaration of employer</strong> on the
+    <strong>Your declaration and electronic signature</strong> page.
+    <details>
+        <summary><strong>Complete the 3 attestations as part of the employer declaration:</strong></summary>
+        <ol type="a">
+            <li>Before providing us with your offer of employment in the portal, you need to attest that you've
+                <strong>already
+                    provided</strong> the temporary foreign worker with a signed copy of the employment agreement. You can
+                prove
+                this with a document that
+                <ul>
+                    <li>has the same occupation, wages and working conditions as you entered in the Employer Portal</li>
+                    <li>is drafted in the temporary foreign worker's chosen official language of Canada</li>
+                    <li>is signed and dated by both you and the temporary foreign worker</li>
+                </ul>
+                <p>The agreement needs to be signed and completed before you enter the information in the Employer Portal.
+                    This is
+                    to ensure that the employer, the temporary foreign worker and the Government of Canada have the same
+                    understanding of the wages, occupation and working conditions for the job.</p>
+            </li>
+    
+            <li>You need to attest that you haven't charged your temporary foreign worker <strong>any</strong> fees except
+                for
+                those that cover
+                <ul>
+                    <li>electronic travel authorizations</li>
+                    <li>temporary resident visas</li>
+                    <li>temporary resident permits</li>
+                    <li>work permits</li>
+                </ul>
+                <p>Temporary foreign workers are expected to pay these fees.</p>
+            </li>
+    
+            <li><strong>Anyone acting on your behalf</strong> <strong>can't charge recruitment fees to the temporary foreign
+                    worker</strong>. If you use a recruiter
+                <ul>
+                    <li>make sure the recruiter is
+                        <ul>
+                            <li>in good standing</li>
+                            <li>registered with the recruiter registry in your province if one exists</li>
+                        </ul>
+                    </li>
+                    <li>sign a contract with the recruiter highlighting that recruitment fees can't be charged</li>
+                    <li>clearly communicate to temporary foreign workers that recruiters shouldn't charge fees</li>
+                    <li>verify with the temporary foreign workers that the recruiter hasn't charged fees</li>
+                </ul>
+            </li>
+        </ol>
+    </details>
+  </li>
+</ol>
+
+
+
+<ol start="6">
+  <li>Select <strong>I agree</strong>.</li>
+
+  <li>Type your name in the signature panel, and answer the security question.
+    <ul>
+      <li><strong>The name in the signature panel must match the name of the user who is submitting the offer of
+          employment.</strong> This person does not have to be the primary business contact.</li>
+    </ul>
+  </li>
+
+  <li>Select <strong>Sign</strong>.</li>
+
+  <li>Pay the employer compliance fee if you're not exempt.</li>
+
+  <li>Select <strong>Transmit and pay</strong>.
+    <ul>
+      <li>If you're exempt from this fee, select <strong>Transmit</strong>.</li>
+    </ul>
+  </li>
+
+  <li>Read the fees summary page, and select <strong>Transmit and pay</strong> again.
+    <ul>
+      <li>You'll be directed to the Receiver General's online payment website.</li>
+    </ul>
+  </li>
+  <li>Complete the online payment form.
+    <ul>
+      <li>Select <strong>Process Transaction</strong>.</li>
+      <li>Review and print the transaction receipt. You may need this receipt in the future.</li>
+    </ul>
+  </li>
+
+  <li>Select <strong>Return</strong>.
+    <ul>
+      <li>You'll be redirected back to the Employer Portal.</li>
+    </ul>
+  </li>
+</ol>
+
+<div class="well">
+  <p><strong>Keep proof of payment</strong></p>
+  <p>Print or screenshot the payment confirmation on the Moneris page. We won't issue any other receipt.</p>
+</div>
+
+<h3>If you work for a Canadian federal government department</h3>
+<p>You may need to use the Interdepartmental Settlements procedures to pay the employer compliance fee instead of using
+  a credit card. In this case, the hiring division or appropriate financial or contracting officer in the department
+  must <a href="mailto:IRCC.FINIS-RIFIN.IRCC@cic.gc.ca">send us an email</a> instead.</p>
+
+<p>The email must include the</p>
+<ul>
+  <li>department number: XXXX</li>
+  <li>IS organization code: XXXXX</li>
+  <li>reference code: XXXX</li>
+  <li>contact: name, telephone number and email address</li>
+  <li>temporary foreign worker's name (last name, first name)</li>
+  <li>amount: $230</li>
+</ul>
+
+<p>You'll receive a receipt number once the settlement is processed. Choose <strong>No, I am exempt from paying employer
+    compliance fees</strong>, and upload a copy of the receipt in the <strong>Proof of fee exemption</strong> field at
+  the end of the offer.</p>
+
+<p>Select <strong>Exit questionnaire</strong> to return to the portal welcome page.</p>
+
+<h3>After you submit an offer of employment</h3>
+
+<div class="well">
+  <p>The employment queue status now says "matched" after your offer of employment is matched with a work permit
+    application.</p>
+</div>
+
+<p>Once you submit an offer of employment, it will be listed in your <a href="#s06">employment queue</a>.</p>
+
+<p>There's a processing delay of a few minutes in the Employer Portal.</p>
+
+<p>The <strong>Details</strong> column shows you the status of each offer of employment. Right after you submit an
+  offer, you may see <strong>Processing submission</strong> in this column. You will know the offer has been
+  successfully submitted when the status is updated to <strong>Submitted</strong>, and you see an offer of employment
+  number.</p>
+
+<p>How to <strong><a href="#s06.5">make changes to an offer</a></strong>.</p>
+
+<h3>Give the offer of employment number to your temporary foreign worker</h3>
+<p>The offer of employment number consists of the letter <strong>A</strong> followed by a 7-digit number. It will appear
+  in your <strong>employment queue</strong> shortly after you submit your offer.</p>
+
+<p>If you don't see the employer number, wait 24 hours, then check again.</p>
+
+<p>You <strong>won't</strong> receive an email or approval letter to give to the temporary foreign worker. Instead, you
+  must give the offer of employment number to the temporary foreign worker. They need this number to submit their work
+  permit application.</p>
+
+<p>Once you provide the temporary foreign worker with the offer of employment number, you have completed your part of
+  the work permit process for your employee.</p>
+
+<p>Make sure any other hiring or employment documentation you give the temporary foreign worker matches the terms and
+  conditions of employment that are stated in the offer. Relevant documentation includes the employment contract and
+  letter of offer, and the details within these documents.</p>
+
+<p><a href="/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/international-mobility-program/after-hiring.html">What
+    to do after you hire a temporary worker</a>.</p>
+
+<h2 id="s06">Access your offer of employment queue</h2>
+<p>To view your existing offers of employment</p>
+<ul>
+  <li>sign in to the Employer Portal and</li>
+  <li>select <strong>Access the offer of employment queue</strong></li>
+</ul>
+
+<p>From your queue, you can</p>
+<ul>
+  <li>look at offers of employment that you haven't submitted</li>
+  <li>complete unfinished offers</li>
+  <li>delete unfinished offers</li>
+  <li>withdraw offers you have already submitted (that haven't been matched to a work permit)</li>
+  <li>update offers that have not been matched to the associated work permit application in the system</li>
+  <li>duplicate offers</li>
+  <li>use the search tool to find offers of employment you've already submitted</li>
+</ul>
+
+<p>All users who have access to your employer or branch account will be able to see any offers that are in progress or
+  that have been submitted. They will also be able to edit offers created by another user until the offer is submitted.
+</p>
+
+<p>To access employment offers that haven't been matched in the system, you can use the offer of employment number.</p>
+
+<h3>Complete an offer you started</h3>
+<p>Select <strong>Continue application</strong> next to the offer you want to complete.</p>
+
+<p>All users who have access to the same queue can complete offers that have been started. Complete and submit the
+  offer.</p>
+
+<p><strong>Submit the offer within 60 days</strong>, or it will automatically be deleted from your queue.</p>
+
+<h3>Delete an offer you started</h3>
+<p>Select <strong>Delete application</strong> next to the offer you want to delete.</p>
+
+<p>You'll be asked to confirm that you want to delete this offer.</p>
+<ul>
+  <li>If you delete an offer by mistake, you can't get it back. You'll need to start a new offer to replace it.</li>
+</ul>
+
+<h3 id="s06.4">Withdraw an offer you submitted</h3>
+<p>You can withdraw the offer of employment and get a refund of the compliance fee if you no longer want to hire the
+  temporary foreign worker.</p>
+
+<p>You can withdraw an offer at any time before we issue the temporary foreign worker's work permit. The steps you need
+  to follow to withdraw an offer depend on whether</p>
+<ul>
+  <li>the offer has been matched to the associated work permit application in the system</li>
+  <li>we authorized you to submit the paper IMM 5802 form outside of the portal</li>
+</ul>
+
+<h4>If the "Withdraw application" option is available</h4>
+<p>If you see <strong>Withdraw application</strong> next to your offer, the offer has not been matched to the work
+  permit application.</p>
+
+<ol>
+  <li>Select <strong>Withdraw application</strong>.</li>
+  <li>Select <strong>Continue</strong> to confirm that you want to withdraw the offer.</li>
+  <li>Read the confirmation message, and select <strong>Continue</strong> again to return to the <strong>Employment
+      queue</strong>.</li>
+</ol>
+
+<p>Your offer's status will change to <strong>Withdraw pending</strong>.</p>
+
+<p>It can take up to 24 hours for the offer to be withdrawn.</p>
+
+<p>Once completed, the status will change to <strong>Withdrawn</strong>.</p>
+
+<h4>If the "Withdraw application" option isn't available</h4>
+<p>If you don't see <strong>Withdraw application</strong> next to your offer, the offer has most likely already been
+  matched to the temporary foreign worker's work permit application. The work permit application is in progress or has
+  already been finalized. In this case, you won't be able to withdraw your offer using the portal.</p>
+
+<p>If you still want to withdraw the offer, <a href="mailto:IRCC.EmployerPortal-Portailemployeur.IRCC@cic.gc.ca">email
+    us</a>. In your email message, explain that you want to withdraw the offer, and include</p>
+<ul>
+  <li>the offer of employment number</li>
+  <li>the reason you want to withdraw the offer</li>
+</ul>
+
+<div class="alert alert-info">
+  <p><strong>Don't withdraw matched offers</strong><br>
+    If you withdraw an offer that has already been matched, the work permit application will be refused.</p>
+</div>
+
+<h4>You received authorization to submit your offer outside of the portal</h4>
+<p>If we authorized you to submit your offer using the paper IMM5802 form, <a href="mailto:IRCC.EmployerPortal-Portailemployeur.IRCC@cic.gc.ca">email us</a> to withdraw your offer. In your email
+</p>
+<ul>
+  <li>ensure the subject line follows this format: <strong>Cancel offer submitted on (date) by (employer name) for
+      (employee name)</strong></li>
+  <li>attach the original offer of employment</li>
+  <li>attach the payment receipt</li>
+</ul>
+
+<h3 id="s06.5">Make changes to an offer of employment</h3>
+<p>The steps you need to follow to change an offer of employment depend on where we are in the approval process.</p>
+
+<p><strong>If we've approved the temporary foreign worker's work permit application</strong></p>
+<ol>
+  <li>Submit a new offer of employment in the Employer Portal.</li>
+  <li>Pay the employer compliance fee again.</li>
+  <li>Let the temporary foreign worker know that they must apply for a new work permit.</li>
+</ol>
+
+<p><strong>If we haven't yet approved the temporary foreign worker's work permit application</strong>, but the
+  application has been received and linked to the offer, you can't make changes to that offer. You must do the
+  following:</p>
+<ol>
+  <li>Request that the work permit processing office withdraw your offer of employment and refund the compliance fee.
+  </li>
+  <li>Create and submit a new offer with the new information.
+    <ul>
+      <li>You might find the new <strong>Create Duplicate</strong> function quicker when creating a new offer.</li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>If the temporary foreign worker submitted a work permit application to us</strong></p>
+<ol>
+  <li>The temporary foreign worker must withdraw their work permit application using our <a href="/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html">web form</a>.
+    <ul>
+      <li>They must include the reason for the withdrawal request.</li>
+    </ul>
+  </li>
+  <li>The temporary foreign worker needs to refer to the new offer of employment number when applying for a new work
+    permit.</li>
+</ol>
+
+<p><strong>If you submitted the offer, and the work permit application hasn't been received or linked to the
+    offer</strong></p>
+<ol>
+  <li>In your queue, find the offer you want to edit.</li>
+  <li>Select the <strong>Update submitted offer</strong> button.</li>
+  <li>Select <strong>Update form</strong> to make field changes in the desired web form.</li>
+  <li>Once the changes are made, the <strong>Form name</strong> status will change from <strong>Transmitted</strong> to
+    <strong>Updated</strong>.
+  </li>
+  <li>Resubmit the updated offer by selecting the <strong>Continue</strong> button and following the <a href="#s06.5">steps to change an
+    offer</a>. You'll automatically bypass the payment page.
+    <ul>
+        <li>You can change information in the job offer’s fields, including the employee’s name.</li>
+    </ul>    
+</li>
+</ol>
+
+<h3 id="s06.6">Make a duplicate of an offer of employment</h3>
+<p>To create multiple offers of employment that contain the same details except for the foreign worker's information,
+  you can duplicate an offer.</p>
+
+<ol>
+  <li>In your queue, locate the offer (<strong>Submitted</strong> or <strong>Not submitted</strong>) that you want to
+    duplicate.</li>
+  <li>Select the <strong>Create duplicate</strong> button.</li>
+</ol>
+
+<p>The new offer (or duplicate) will copy the <strong>Business information</strong> and <strong>Wage and
+    benefits</strong> web forms of the selected offer.</p>
+
+<p>The <strong>Foreign worker</strong> web form and the information about the LMIA-exempt offer of employment in the
+  <strong>Job details</strong> web form will have to be re-entered.
+</p>
+
+<h3>Use the search tool</h3>
+<p>To look at the offers of employment that you've submitted, do the following:</p>
+
+<ol>
+  <li>Select <strong>Access the submitted offers of employment</strong> from the <strong>Employment queue</strong>
+    screen.</li>
+  <li>Fill in the fields as needed.</li>
+  <li>Select <strong>Search all offers</strong>.</li>
+  <li>Select the correct action next to the offer.</li>
+</ol>
+
+<p>Depending on the status of the offer of employment, you may also be able to</p>
+<ul>
+  <li>duplicate the offer</li>
+  <li>withdraw the offer</li>
+  <li>update the submitted offer</li>
+</ul>
+
+<div class="alert alert-info">
+  <p><strong>Be careful with your search criteria</strong><br>
+    You'll be able to see only the submitted offers of employment that meet your search criteria.</p>
+</div>
+
+<h2 id="s07">Make changes to your account or get help</h2>
+
+<h3>Create a secondary user or a branch account</h3>
+<p>To create a secondary user or branch account, follow these steps:</p>
+
+<ol>
+  <li>Sign into your <a href="/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal.html">Employer
+      Portal</a>.</li>
+
+  <li>Under the <strong>Manage access</strong> heading, select either <strong>Create a branch</strong> or <strong>Create
+      a secondary user for this account</strong>.
+    <ul>
+      <li>Both options will generate a PIN.</li>
+    </ul>
+  </li>
+
+  <li>Provide the PIN to the new user.</li>
+
+  <li>The new user must then <a href="/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal/enrolment-guide.html#register">register
+      for a GCKey or a Sign-in Partner</a> to enrol in the Employer Portal using the PIN you provided.</li>
+</ol>
+
+<h3>Fix a mistake in your business information</h3>
+<p>You can change information only in these fields: <strong>Contact email address</strong> and <strong>Preferred
+    language of notification</strong>. If you need to change your business name, your business number or the primary
+  contact, <a href="mailto:IRCC.EmployerPortal-Portailemployeur.IRCC@cic.gc.ca">email us</a> with <strong>Business
+    Information Change</strong> in the subject line. In the email, include</p>
+
+<ul>
+  <li>the current incorrect business information</li>
+  <li>the updated, correct business information</li>
+  <li>your organization's primary contact name and email address</li>
+</ul>
+
+<h3>Reset your PIN (if you're using GCKey)</h3>
+<p>Before you start, <a href="http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=315&amp;top=23">clear your browser's
+    cache and cookies</a>. If you don't, you may encounter errors. Follow these steps to reset your PIN:</p>
+
+<ol>
+  <li>Open the <a href="/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal.html">Employer
+      Portal</a> page.</li>
+  <li>Click on <strong>Continue to GCKey</strong>.</li>
+  <li>Click on <strong>Sign Up</strong>.</li>
+  <li>Accept the Terms and Conditions of Use.</li>
+  <li>Create a new username and click on <strong>Continue</strong>.</li>
+  <li>Create a new password and click on <strong>Continue</strong>.</li>
+  <li>Create new recovery questions and click on <strong>Continue</strong>.</li>
+  <li>Add an optional account recovery email, or <strong>Skip</strong> to the next step.</li>
+  <li>A message will confirm you've created your new GCKey. Click on <strong>Continue</strong>.</li>
+  <li>Choose a method of <a href="/en/immigration-refugees-citizenship/services/application/multi-factor-authentication.html#method">2-factor
+      authentication</a>.</li>
+  <li>Accept the Terms and Conditions.</li>
+  <li>Set up your method of 2-factor authentication.</li>
+  <li>Click on <strong>Next</strong> on the <strong>Welcome to the IRCC Portal</strong> page.</li>
+  <li>When asked if you received a PIN, click on <strong>Yes</strong>.</li>
+  <li>Enter the exact name (<strong>name of the primary user</strong>) you used in your previous account (before
+    resetting your PIN). Your new PIN is <strong>XXXXXXXX</strong>.</li>
+</ol>
+
+<h3>Reset your PIN (if you're using Sign-In Partner)</h3>
+<p>If you want to reset your PIN and you use Sign-In Partner, <a href="mailto:IRCC.EmployerPortal-Portailemployeur.IRCC@cic.gc.ca">email us</a> to request a new PIN. Include the
+  following information in the body of your email:</p>
+
+<ul>
+  <li>your full name</li>
+  <li>the business operating name</li>
+  <li>the Canada Revenue Agency business number</li>
+</ul>
+
+<p>We'll email you a new PIN, which will be valid for 45 days.</p>
+
+<p>After you receive your new PIN, follow these steps to recover your account.</p>
+
+<ol>
+  <li>Visit the <a href="/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal.html">Employer
+      Portal</a> page.</li>
+  <li>Click on <strong>Continue to Sign-In Partner</strong>.</li>
+  <li>Choose your financial institution. Enter your banking log-in information and click on <strong>Continue</strong>.
+  </li>
+  <li>Read the IRCC Portal Terms and Conditions. Click on <strong>I Accept</strong>.</li>
+  <li>On the <strong>Welcome to the IRCC Portal</strong> page, click on <strong>Next</strong>.</li>
+  <li>When asked if you received a PIN, click on <strong>Yes</strong>.</li>
+  <li>After confirming that you have a PIN, provide the exact name you originally entered in your account (before
+    resetting your PIN) and the new PIN you received by email.</li>
+</ol>
+
+<p>After you follow these steps, your account will be recovered and will include a complete list of your previous offers
+  of employment and users.</p>
+
+<h3>Get help and support</h3>
+<p>If you need help completing a field in the Employer Portal, click on the blue question mark icon next to that field.
+</p>
+
+<p>If you're having technical problems, <a href="mailto:IRCC.EmployerPortal-Portailemployeur.IRCC@cic.gc.ca">email
+    us</a>. In your email, include the following:</p>
+
+<ul>
+  <li>your information, including
+    <ul>
+      <li>your full name</li>
+      <li>the Canada Revenue Agency business number</li>
+      <li>the business operating name</li>
+    </ul>
+  </li>
+  <li>a description of the issue</li>
+  <li>a screenshot (or several screenshots) showing the full browser window of
+    <ul>
+      <li>the page on which you're having difficulties</li>
+      <li>any error messages you've received</li>
+    </ul>
+  </li>
+</ul>
+
+<p>You can expect a response from us within 5 business days. If the problem can't be fixed in that time, we'll let you
+  know what to do next.</p>
+
+<div class="well">
+    <h2><img src="/content/dam/ircc/migration/ircc/english/helpcentre/images/Icon.png" alt="Help Centre icon">&nbsp;Top
+        questions about using the Employer Portal</h2>
+    <ul>
+        <li><a href="https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1264&amp;top=17">Will I get a receipt for an
+                offer of employment I submit through the Employer Portal?</a></li>
+        <li><a href="https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1270&amp;top=17">Can I change or fix a
+                mistake in
+                my business information in the Employer Portal?</a></li>
+        <li><a href="https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1268&amp;top=17">What is my Personal
+                Identification Number (PIN) for the Employer Portal and where do I find it?</a></li>
+        <li><a href="https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1265&amp;top=17">I can't create an account in
+                the
+                Employer Portal because the information I entered already exists. What do I do?</a></li>
+        <li><a href="https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1263&amp;top=17">I can log in to my account
+                in
+                the Employer Portal, but I can't submit an offer of employment. What is the problem?</a></li>
+    </ul>
+    <p><a href="https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=17.4.4" class="btn btn-primary">See
+            all
+            questions</a></p>
+</div>
+
+
+</div>
+
+</div>
+        
+        <section class="pagedetails">
+    <h2 class="wb-inv">Page details</h2>
+
+    
+
+    
+    
+<gcds-date-modified>
+	2025-08-20
+</gcds-date-modified>
+
+
+</section>
+    </main>
+
+
+
+    
+
+
+
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+
+</div>
+
+    
+
+
+
+
+    
+
+
+
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+        
+        
+        <div class="global-footer">
+    <footer id="wb-info">
+	    <h2 class="wb-inv">About this site</h2>
+    	<div class="gc-contextual"><div class="container">
+    <nav>
+        <h3>Immigration and citizenship</h3>
+        <ul class="list-col-xs-1 list-col-sm-2 list-col-md-3">
+            <li><a href="https://ircc.canada.ca/english/helpcentre/index-featured-can.asp">Help Centre</a></li>
+        
+            <li><a href="/en/immigration-refugees-citizenship/corporate/contact-ircc.html">Contact us</a></li>
+        
+            <li><a href="/en/immigration-refugees-citizenship/services/application/check-status.html">Check your application status</a></li>
+        </ul>
+    </nav>
+</div></div>	
+        <div class="gc-main-footer">
+			<div class="container">
+	<nav>
+	<h3 class="toc-ignore">Government of Canada</h3>
+	<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3">
+		<li><a href="/en/contact.html">All contacts</a></li>
+		<li><a href="/en/government/dept.html">Departments and agencies</a></li>
+		<li><a href="/en/government/system.html">About government</a></li>
+	</ul>
+	<h4 class="toc-ignore"><span class="wb-inv">Themes and topics</span></h4>
+	<ul class="list-unstyled colcount-sm-2 colcount-md-3">			
+		<li><a href="/en/services/jobs.html">Jobs</a></li>
+		<li><a href="/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+		<li><a href="https://travel.gc.ca/">Travel and tourism</a></li>
+		<li><a href="/en/services/business.html">Business</a></li>
+		<li><a href="/en/services/benefits.html">Benefits</a></li>
+		<li><a href="/en/services/health.html">Health</a></li>
+		<li><a href="/en/services/taxes.html">Taxes</a></li>
+		<li><a href="/en/services/environment.html">Environment and natural resources</a></li>
+		<li><a href="/en/services/defence.html">National security and defence</a></li>
+		<li><a href="/en/services/culture.html">Culture, history and sport</a></li>
+		<li><a href="/en/services/policing.html">Policing, justice and emergencies</a></li>
+		<li><a href="/en/services/transport.html">Transport and infrastructure</a></li>
+		<li><a href="https://www.international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+		<li><a href="/en/services/finance.html">Money and finances</a></li>
+		<li><a href="/en/services/science.html">Science and innovation</a></li>
+		<li><a href="/en/services/indigenous-peoples.html">Indigenous Peoples</a></li>
+		<li><a href="/en/services/veterans-military.html">Veterans and military</a></li>
+		<li><a href="/en/services/youth.html">Youth</a></li>
+		<li><a href="/en/services/life-events.html">Manage life events</a></li>		
+	</ul>
+	</nav>
+</div>
+	
+        </div>
+        <div class="gc-sub-footer">
+            <div class="container d-flex align-items-center">
+            <nav>
+                <h3 class="wb-inv">Government of Canada Corporate</h3>
+                <ul>
+                
+                    		<li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+		<li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+		<li><a href="https://www.canada.ca/en/government/about-canada-ca.html">About Canada.ca</a></li>
+                
+                <li><a href="/en/transparency/terms.html">Terms and conditions</a></li>
+                <li><a href="/en/transparency/privacy.html">Privacy</a></li>
+                </ul>
+            </nav>
+                <div class="wtrmrk align-self-end">
+                    <img src="/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbol of the Government of Canada"/>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</div>
+
+    
+
+</div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+    <script type="text/javascript">_satellite.pageBottom();</script>
+
+
+
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="/etc/designs/canada/wet-boew/js/ep-pp.min.js"></script>
+<script src="/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
+<script src="/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+
+
+
+
+</body>
+</html>

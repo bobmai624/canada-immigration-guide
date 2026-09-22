@@ -1,0 +1,1051 @@
+<!doctype html>
+
+
+<html class="no-js" dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head prefix="og: http://ogp.me/ns#">
+    
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta charset="utf-8"/>
+<title>Extend or change the conditions on your work permit: How to apply - Canada.ca</title>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+
+
+	<meta name="content-page-ref" content="qDXvbDLVz6dqE3VkUsNuO8Ay6l5vjzJtQjuI4UVANUROjw4lU63fgtIIXQrI_LWGovj9UWJ3taHhNPFDUQCb48G3DB7QxHSx9RP_Wl9L7twfJbohMn0XMOE4qGVlmhhvt7TwYTs8nDQDpKl7PpN2rg">
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/"/>
+	<link rel="canonical" href="https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/apply.html"/>
+    <link rel="alternate" hreflang="en" href="https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/apply.html"/>
+	
+        <link rel="alternate" hreflang="fr" href="https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/prolongez-modifiez/presenter-demande.html"/>
+	
+	
+		<meta name="description" content="How to extend a work permit"/>
+	
+	
+		<meta name="keywords" content="work permit extension, extend your work permit, how to apply, change your work permit"/>
+	
+	
+		<meta name="author" content="Immigration, Refugees and Citizenship Canada"/>
+	
+	
+		<meta name="dcterms.title" content="Extend or change the conditions on your work permit: How to apply"/>
+	
+	
+		<meta name="dcterms.description" content="How to extend a work permit"/>
+	
+	
+		<meta name="dcterms.creator" content="Immigration, Refugees and Citizenship Canada"/>
+	
+	
+	
+		<meta name="dcterms.language" title="ISO639-2/T" content="eng"/>
+	
+	
+		<meta name="dcterms.subject" title="gccore" content="Government and Politics;Policy;Immigration policy"/>
+	
+	
+		<meta name="dcterms.issued" title="W3CDTF" content="2020-09-17"/>
+	
+	
+		<meta name="dcterms.modified" title="W3CDTF" content="2026-08-21"/>
+	
+	
+	
+		<meta name="dcterms.spatial" content="Canada"/>
+	
+	
+	
+	
+	
+	
+		<meta name="dcterms.identifier" content="Immigration _Refugees_and_Citizenship_Canada"/>
+	
+	
+	
+        
+
+
+
+	<meta prefix="fb: https://www.facebook.com/2008/fbml" property="fb:pages" content="378967748836213, 160339344047502, 184605778338568, 237796269600506, 10860597051, 14498271095, 209857686718, 160504807323251, 111156792247197, 113429762015861, 502566449790031, 312292485564363, 1471831713076413, 22724568071, 17294463927, 1442463402719857, 247990812241506, 730097607131117, 1142481292546228, 1765602380419601, 131514060764735, 307780276294187, 427238637642566, 525934210910141, 1016214671785090, 192657607776229, 586856208161152, 1146080748799944, 408143085978521, 490290084411688, 163828286987751, 565688503775086, 460123390028, 318424514044, 632493333805962, 370233926766473, 173004244677, 1562729973959056, 362400293941960, 769857139754987, 167891083224996, 466882737009651, 126404198009505, 135409166525475, 664638680273646, 169011506491295, 217171551640146, 182842831756930, 1464645710444681, 218822426028, 218740415905, 123326971154939, 125058490980757, 1062292210514762, 1768389106741505, 310939332270090, 285960408117397, 985916134909087, 655533774808209, 1522633664630497, 686814348097821, 230798677012118, 320520588000085, 103201203106202, 273375356172196, 61263506236, 353102841161, 1061339807224729, 1090791104267764, 395867780593657, 1597876400459657, 388427768185631, 937815283021844, 207409132619743, 1952090675003143, 206529629372368, 218566908564369, 175257766291975, 118472908172897, 767088219985590, 478573952173735, 465264530180856, 317418191615817, 428040827230778, 222493134493922, 196833853688656, 194633827256676, 252002641498535, 398018420213195, 265626156847421, 202442683196210, 384350631577399, 385499078129720, 178433945604162, 398240836869162, 326182960762584, 354672164565195, 375081249171867, 333050716732105, 118996871563050, 240349086055056, 119579301504003, 185184131584797, 333647780005544, 306255172770146, 369589566399283, 117461228379000, 349774478396157, 201995959908210, 307017162692056, 145928592172074, 122656527842056">
+
+
+	
+
+
+    
+
+
+	<script src="//assets.adobedtm.com/be5dfd287373/abb618326704/launch-3eac5e076135.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous"/>
+<script blocking="render" src="/etc/designs/canada/wet-boew/js/gcdsloader.min.js"></script>
+<link rel="stylesheet" href="/etc/designs/canada/wet-boew/css/theme.min.css"/>
+<link href="/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon"/>
+<noscript><link rel="stylesheet" href="/etc/designs/canada/wet-boew/css/noscript.min.css"/></noscript>
+
+
+
+
+
+
+
+                                <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="KBFUZ-C9D7G-RB8SX-GRGEN-HGMC9",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"KBFUZ-C9D7G-RB8SX-GRGEN-HGMC9",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="qd5abwvydqecw2vsc43q-f-7648edcff-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"41","ak.cp":"653406","ak.ai":parseInt("231651",10),"ak.ol":"0","ak.cr":7,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"2442dcd9","ak.r":49461,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.cport":12462,"ak.gh":"23.62.36.184","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1790056247","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==mQgkA+Zg27xusV6capIo+nW1Rw6m4LX+h37PVBg0nUhn/r7Z8z3DWQHiLqKDCJVA29O7bOmamZ5bEiRANnpUNe4YpPVfPCIuhyH8cPTK5ttNUXzKTMo+LDZoFvyJfmFJk4D0U+Bte4nNAyCElG8mLx2ikffVN+lnA1HeZ1XGhuF7LGzH3F9z2rwlQOa0HCboppnBFZ4lJw2kGvTvAXr35VwJBRL2+qPBR/UIUjdbhPxwL9IPdUn2Dn+f+Sjgtg9jNu/C2BWegMrVf+BvPVJN+QbKnwH6jVetNkFKoka+EU6lx5RxblbZgv7/9VSfrafQgcyzTZXnncR3Iyw9JsdnmiouBMJMsJdALe+pUHYK7X+2wNAa+Ss1ZkPc9iK/rqNJGdWocC9QTwkcA/5/b+7dSsfKedKUHaZBEhyzUFefTRg=","ak.pv":"846","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body vocab="http://schema.org/" typeof="WebPage" resource="#wb-webpage" class=" cnt-wdth-lmtd">
+
+    
+
+
+
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+        
+        
+        <div class="global-header"><nav><ul id="wb-tphp">
+	<li class="wb-slc"><a class="wb-sl" href="#wb-cont">Skip to main content</a></li>
+	<li class="wb-slc"><a class="wb-sl" href="#wb-info">Skip to &#34;About government&#34;</a></li>
+	
+</ul></nav>
+
+<header>
+	<div id="wb-bnr" class="container">
+		<div class="row">
+			
+			<section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">
+    <h2 class="wb-inv">Language selection</h2>
+    <div class="row">
+        <div class="col-md-12">
+            <ul class="list-inline mrgn-bttm-0">
+                <li>
+                    <a lang="fr" href="/fr/immigration-refugies-citoyennete/services/travailler-canada/prolongez-modifiez/presenter-demande.html">
+                        
+                            <span class="hidden-xs" translate="no">Fran&ccedil;ais</span>
+                            <abbr title="Fran&ccedil;ais" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase" translate="no">fr</abbr>
+                        
+                        
+                    </a>
+                </li>
+                
+                
+            </ul>
+        </div>
+    </div>
+</section>
+				<div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher" resource="#wb-publisher" typeof="GovernmentOrganization">
+					
+                    
+					
+						
+						<a href="/en.html" property="url">
+							<img src="/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="Government of Canada" property="logo"/>
+							<span class="wb-inv"> /
+								
+								<span lang="fr">Gouvernement du Canada</span>
+							</span>
+						</a>
+					
+					<meta property="name" content="Government of Canada"/>
+					<meta property="areaServed" typeof="Country" content="Canada"/>
+					<link property="logo" href="/etc/designs/canada/wet-boew/assets/wmms-blk.svg"/>
+				</div>
+				<section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
+					<h2>Search</h2>
+					
+<form action="/en/services/immigration-citizenship/search.html" method="get" name="cse-search-box" role="search">
+	<div class="form-group wb-srch-qry">
+		    
+		
+		    <label for="wb-srch-q" class="wb-inv">Search IRCC</label>
+			<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Search IRCC"/>
+		
+
+		<datalist id="wb-srch-q-ac">
+		</datalist>
+	</div>
+	<div class="form-group submit">
+	<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+	</div>
+</form>
+
+				</section>
+		</div>
+	</div>
+	<hr/>
+	
+	<div class="container"><div class="row">
+		
+        <div class="col-md-8">
+        <nav class="gcweb-menu" typeof="SiteNavigationElement">
+		<h2 class="wb-inv">Menu</h2>
+		<button type="button" aria-haspopup="true" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+<ul role="menu" aria-orientation="vertical" data-ajax-replace="/content/dam/canada/sitemenu/sitemenu-v2-en.html">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://travel.gc.ca/">Travel and tourism</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/health.html">Health</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/science.html">Science and innovation</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/life-events.html">Manage life events</a></li>
+</ul>
+
+		
+        </nav>   
+        </div>
+		
+		
+		<div class="col-xs-offset-6 col-xs-6 col-md-offset-0 col-md-4">
+		<section id="wb-so">
+	    <h2 class="wb-inv">Sign in</h2>
+        <a class="btn btn-primary" href="/en/immigration-refugees-citizenship/services/application/account.html"><span class="visible-xs">IRCC sign in</span><span class="hidden-xs">IRCC sign in</span></a>
+        </section>
+        </div>
+		
+		
+    </div></div>
+	
+		<nav id="wb-bc" property="breadcrumb"><h2 class="wb-inv">You are here:</h2><div class="container"><ol class="breadcrumb">
+<li><a href='/en.html'>Canada.ca</a></li>
+<li><a href='/en/services/immigration-citizenship.html'>Immigration and citizenship</a></li>
+<li><a href='/en/immigration-refugees-citizenship/services/work-canada.html'>Work in Canada</a></li>
+<li><a href='/en/immigration-refugees-citizenship/services/work-canada/extend.html'>Extend your work permit</a></li>
+</ol></div></nav>
+
+
+	
+
+  
+</header>
+</div>
+
+    
+
+</div>
+
+    
+
+
+
+
+	
+
+
+
+    
+    
+
+    
+    
+        <main property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement" class="container">
+            
+            <div class="mwsgeneric-base-html parbase section">
+
+
+
+    <nav class="provisional gc-subway">
+	<h1 id="gc-document-nav">Extend or change the conditions of your work permit</h1>
+	<ul>
+		<li>
+			<a href="/en/immigration-refugees-citizenship/services/work-canada/extend/eligibility.html">Who can extend</a> 
+		</li>
+		<li>
+			<a href="#" class="active" aria-current="page">How to extend</a>
+		</li>
+		<li>
+			<a href="/en/immigration-refugees-citizenship/services/work-canada/extend/after-apply.html">After you extend</a>
+		</li>
+		<li>
+			<a href="/en/immigration-refugees-citizenship/services/work-canada/extend/expired-permit.html">What to do if your work permit expired</a>
+		</li>
+		<li>
+			<a href="/en/immigration-refugees-citizenship/services/work-canada/extend/change-jobs-employers.html">Changing jobs or employers</a>
+		</li>
+		<li>
+			<a href="/en/immigration-refugees-citizenship/services/work-canada/extend/travel-outside-canada.html">If you want to travel outside Canada</a>
+		</li>
+	</ul>
+</nav>
+<h1 property="name" id="wb-cont" class="gc-thickline">How to extend</h1>
+
+
+</div>
+<div class="mwscolumns section">
+
+    <div class="row ">
+        
+            <div class="col-md-8">
+                <div class="reference parbase section"><div class="cq-dd-paragraph"><div class="mwsgeneric_base_html_1343205986 mwsgeneric-base-html parbase">
+
+
+
+     <span data-incl-name="canadapost-citimmtr-eng"></span>
+<!--<section id="canadapost-citimmtr-eng-id1">
+<div class="alert alert-warning">
+
+   <p class="h4">The Canada Post labour disruption will cause delays in mail delivery</p>
+    <p class="mrgn-tp-md">We’re still processing applications normally. However, there will be delays in</p>
+    <ul>
+        <li>sending applications mailed within or to Canada</li>
+        <li>getting mail from us</li>
+    </ul>
+    <p>We encourage you to <strong>apply online if possible</strong>. If you need to apply on paper, use another courier to send us your application.</p>
+</div> 
+</section> -->
+
+
+</div>
+</div>
+</div>
+<div class="mwsgeneric-base-html parbase section">
+
+
+
+    <h2>On this page</h2>
+<ul>
+  <li><a href="#maintain">Maintain your status</a></li>
+	<li><a href="#before-extend">Before you extend or change the conditions of your work permit</a></li>
+  <li><a href="#how-extend">How to extend or change the conditions of your work permit</a></li>
+</ul>
+<h2 id="maintain">Maintain your status</h2>
+<p>If you apply to extend or change the conditions of your work permit before it expires, you’re legally allowed to stay in Canada while we process your application.</p>
+<p>If your work permit expires while we process your application, <a href="/en/immigration-refugees-citizenship/services/work-canada/extend/expired-permit.html">find out if you can keep working</a>.</p>
+
+
+
+</div>
+<div class="reference parbase section"><div class="cq-dd-paragraph"><div class="mwsgeneric_base_html mwsgeneric-base-html parbase">
+
+
+
+    <span data-incl-name="trp-maintained-status-eng"></span>
+<details><summary><strong>Temporary resident permit applicants do not benefit from maintained status</strong></summary>
+<p>Temporary resident permit (TRP) applicants <strong>can’t maintain temporary resident status while their application is being processed</strong>. This applies to both</p>
+<ul>
+<li>initial TRP applications, and</li>
+<li>any other TRP applications</li>
+</ul>
+</details>
+
+
+</div>
+</div>
+</div>
+<div class="mwsgeneric-base-html parbase section">
+
+
+
+    <h3>Date and time we receive your application</h3>
+<p>To <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#maintained-status">maintain your status</a>, we must receive your application <strong>before</strong> your work permit expires. We determine the date and time an application is received 2&nbsp;ways:</p>
+<ul>
+  <li><strong>If you apply online:</strong> You must submit your application before midnight <a href="https://time.is/UTC" rel="external">Coordinated Universal Time (UTC)</a> on the day your work permit expires.
+    <ul>
+      <li>Our online application system uses&nbsp;UTC.</li>
+      <li>Make sure you know the difference between your local time and UTC.</li>
+    </ul>
+  </li>
+  <li><strong>If you apply on paper:</strong> We stamp paper applications the day we receive them at the case processing centre.
+    <ul>
+      <li>If we receive an application after your work permit expires, we’ll count back 7&nbsp;days and use that as the date received.</li>
+    </ul>
+  </li>
+</ul>
+<h2 id="before-extend">Before you extend or change the conditions of your work permit</h2>
+<p>Before you apply, make sure <strong>your employer</strong> has <a href="/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/extend-permit.html">completed all the required steps</a>.</p>
+<h3>Labour market impact assessment–required work permits</h3>
+<p>Some jobs require a labour market impact assessment (LMIA). Your employer is responsible for submitting the application for an LMIA. In most cases, you should wait to apply for a work permit extension until your employer gives you a positive LMIA decision letter.</p>
+<p><a href="/en/employment-social-development/services/foreign-workers/labour-market-impact-assessment-processing-times.html" class="btn btn-default mrgn-bttm-md mrgn-tp-md">Check the processing times for LMIA applications.</a></p>
+<details>
+  <summary id="no-lmia-caq">
+    If you don’t have your positive LMIA or CAQ decision letter
+  </summary>
+	<p>You may be able to submit your work permit extension application while your employer’s application for an LMIA or <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#certificat_acceptation_du_quebec">Quebec Acceptance Certificate (CAQ)</a> is being processed.</p>
+	<p>You must meet the following criteria if you want to extend your work permit before you receive your positive LMIA or CAQ decision letter:</p>
+	<ul>
+		<li>Your work permit expires in two weeks or less.</li>
+		<li>Your employer submitted a complete application for an LMIA or CAQ.</li>
+		<li>You submit all required documents within <strong>90 days</strong> of when you submit your application.</li>
+	</ul>
+	<p>If you don’t submit your LMIA or CAQ within 90 days, <strong>your application may be refused</strong> for being incomplete.</p>
+	<h3>What to include when you apply for your work permit extension</h3>
+	<p>If you don’t have your new LMIA or CAQ, you must include <a href="#proof-CAQ-LMIA">additional documents</a> when you submit your application.</p>
+</details>
+<h3>Check the expiry date on your passport</h3>
+<p>You can’t extend your work permit <a href="https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1504&amp;top=15">beyond the expiry date of your passport</a>. Make sure your passport won’t expire before the requested end date of your permit.</p>
+
+
+</div>
+<div class="mwsgeneric-base-html parbase section">
+
+
+
+    <h2 id="how-extend">How to extend or change the conditions of your work permit</h2>
+<p>In most cases, you must apply online to extend or change the conditions of your work permit.</p>
+<details>
+  <summary>
+    How applying to extend your work permit online helps you
+  </summary>
+  <ul>
+    <li>You can make sure your <a href="http://ircc.canada.ca/english/helpcentre/answer.asp?qnum=072&amp;top=3">application is complete</a> before you submit it.</li>
+    <li>Unless you’re a post-graduation work permit (PGWP) holder, you’ll get a <a href="#centred-popup3" class="wb-lbx lbx-inline" aria-controls="centred-popup3">work permit extension letter (WP-EXT) that proves you can keep working</a> under the <strong>same conditions as your current work permit</strong>.
+      <ul>
+        <li>You won’t get this letter if you apply on paper, because we won’t know if your application is complete until we review it.</li>
+      </ul>
+    </li>
+    <li>There are no courier fees or mail delivery time—we get your application instantly.</li>
+    <li>You can quickly submit more documents online (if we ask you to).</li>
+    <li>You get updates on the status of your application directly in your online account.</li>
+    <li>As of June&nbsp;21, 2024, you can no longer apply for a PGWP at a port of entry (airport, land or marine border) when entering Canada. </li>
+  </ul>
+</details>
+
+
+<h3>Compare your work permit expiration date with our processing time</h3>
+
+<p>To avoid delays, you should consider the processing time <strong>for in-Canada work permit applications</strong>. This can help you decide when to apply and increases the chance that we’ll process your application before, or shortly after, your current permit expires.</p>
+
+<div id="jsonmanagernoncountry" data-wb-jsonmanager="{
+    &quot;url&quot;: &quot;/content/dam/ircc/documents/json/data-ptime-non-country-en.json&quot;,
+    &quot;name&quot;: &quot;ptime&quot;
+}"></div>
+
+<p><strong>Processing time:</strong> <span data-json-replace="#[ptime]/work_extension/work_extension">We couldn’t load the data. Try again</span></p>
+
+<p>Send your work permit extension application once you have all your documents ready.</p>
+
+
+<details>
+  <summary><strong>Renew your provincial or territorial and federal identity documents before your current work permit expires </strong></summary>
+  <p>If you applied to extend your work permit and then your permit expires, you have</p>
+  <ul>
+    <li><a href="/en/services/immigration-citizenship/helpcentre/glossary.html#maintained-status">maintained your status</a>, and</li>
+    <li>authorization to work without a permit until we make a decision on your application</li>
+  </ul>
+  <p>You can keep working under the <strong>same conditions</strong> of your current work permit. If you have an employer-specific work permit, this means having the same</p>
+  <ul>
+    <li>employer</li>
+    <li>job</li>
+    <li>work location</li>
+  </ul>
+  <p>Open work permit holders can still change employers and jobs.</p>
+  <h4>Renewing provincial or territorial documents</h4>
+  <p>While you’re on <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#maintained-status">maintained status</a>, you won’t be able to renew documents issued by your province or territory, such as your</p>
+  <ul>
+    <li>driver’s licence</li>
+    <li>health card</li>
+  </ul>
+  <p>Make sure your documents are valid before your work permit expires.</p>
+  <h4>Applying for or updating the expiry of your social insurance number (SIN) card</h4>
+  <p>While on <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#maintained-status">maintained status</a> (while your work permit is expired), you can’t apply for a SIN card <strong>or</strong> update the expiry date of your current SIN. You can, however, keep working under the same conditions as those on your initial work permit. </p>
+  <p>Find out what you need and how to <a href="/en/employment-social-development/services/sin/apply.html">apply for or renew your SIN card</a>.</p>
+</details>
+<h3>Step&nbsp;1: Make sure you have what you need</h3>
+<p>Sign in or create an IRCC secure account to start your application.</p>
+<p><a href="/en/immigration-refugees-citizenship/services/application/account.html" class="btn btn-call-to-action">Sign in to start your application</a></p>
+<p>To apply online, you’ll need</p>
+<ul>
+  <li>a scanner or camera to create electronic copies of your documents</li>
+  <li>a valid <a href="#centred-popup1" class="wb-lbx" aria-controls="centred-popup1">credit</a> or <a href="#centred-popup2" class="wb-lbx" aria-controls="centred-popup2">debit</a> card</li>
+</ul>
+<details>
+  <summary>If you can’t apply online</summary>
+  <p>You can submit a paper application if either</p>
+  <ul>
+    <li>you can’t apply online because of a disability</li>
+    <li>there’s a problem with the online application
+      <ul>
+        <li>In some cases, you may be able to apply online if you follow special instructions.</li>
+      </ul>
+    </li>
+  </ul>
+  <p><a href="/en/immigration-refugees-citizenship/services/work-canada/extend/alternate-format.html">What to do if you have problems applying online</a></p>
+</details>
+
+<h3>Step&nbsp;2: Upload forms and documents</h3>
+<p>After you answer the questionnaire in your IRCC secure account, you’ll get a personalized document checklist.</p>
+<p>You need to complete the following application form:</p>
+<ul>
+	<li><a href="/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5710.html">Application to Change Conditions, Extend my Stay or Remain in Canada as a Worker (IMM&nbsp;5710)</a></li>
+</ul>
+
+
+</div>
+<div class="reference parbase section"><div class="cq-dd-paragraph"><div class="mwsgeneric_base_html mwsgeneric-base-html parbase">
+
+
+
+    <section id="tr-venezuela-passport-eng-id"><span data-incl-name="tr-venezuela-passport-eng"></span>
+
+<div class="alert alert-info mrgn-tp-lg">
+  <p class="h4">Venezuelan passport holders</p>
+  <p>You may need to <a href="#tr-venezuela-popup" aria-controls="tr-venezuela-popup" class="wb-lbx" role="button">complete extra steps when you fill out your application</a>.</p>
+</div>
+<section id="tr-venezuela-popup" class="mfp-hide modal-dialog modal-content overlay-def">
+  <header class="modal-header">
+    <p class="h5 modal-title mrgn-tp-0">If the printed expiry date on your Venezuelan passport has passed</p>
+  </header>
+  <div class="modal-body">
+    <p>If the printed expiry date has passed and you’re applying for a visitor visa, study permit, work permit or to extend your stay as a temporary resident in Canada, follow these steps: </p>
+    <ol>
+      <li><strong>Add 5 years</strong> to the printed expiry date shown on your passport and enter it in the expiry date field of the application form.</li>
+      <li>Include <strong>a letter of explanation </strong>with your application stating: “I am a Venezuelan national with a Venezuelan passport, which has been extended for 5 years”.</li>
+    </ol>
+    <p><img src="/content/dam/ircc/migration/ircc/english/information/applications/guides/images/exclamation_sm.gif" class="pull-left mrgn-rght-sm img-responsive" alt="Important information"> <strong>Warning:</strong> If your passport is still expired after adding 5 years to the printed expiry date, your passport is considered expired. You’re <strong>not</strong> eligible to submit an application with that passport.</p>
+  </div>
+</section></section>
+
+
+</div>
+</div>
+</div>
+<div class="mwsgeneric-base-html parbase section">
+
+
+
+    <p>Even if you apply online, you should <a href="/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5553-applying-change-conditions-extend-your-stay-canada-worker.html">read the instruction guide</a> <strong>before</strong> you complete your application. The guide will explain how to complete each field on the form.</p>
+
+<details>
+  <summary id="proof-CAQ-LMIA">If you apply without an LMIA or CAQ</summary>
+  <p>If you're <a href="#no-lmia-caq">eligible to apply without an LMIA or CAQ</a>, follow these instructions when you complete your application:</p>
+  <ul>
+    <li>Type the code <strong>CPTS2026</strong> in the <strong>Job Title</strong> field of the IMM&nbsp;5710 form.</li>
+    <li>Include proof that you have a valid job offer.</li>
+	<li>Provide either of the following documents depending on how your employer applied:
+		<ul>
+			<li>a copy of the LMIA receipt confirmation number <span class="label label-info">online applications</span></li>
+			<li>a copy of the application sent to Service Canada or the <span lang="fr">Ministère de l’Immigration, de la Francisation et de l’Intégration</span> <span class="label label-info">paper applications</span></li>
+		</ul>
+	  </li>
+	  <li>Indicate all of the following in the Details of intended work in Canada section of your work permit application:
+	  <ul>
+	  	<li>the date the LMIA or CAQ request was sent</li>
+		<li>the office it was sent to</li>
+		<li>the employer’s name</li>
+		<li>the confirmation number for the submission, if available</li>
+	  </ul>
+	  </li>
+  </ul>
+</details>
+
+<!-- Modals Start -->
+
+<section id="centred-popup1" class="mfp-hide modal-dialog modal-content overlay-def">
+  <header class="modal-header">
+    <h4 class="modal-title">Credit cards and prepaid cards</h4>
+  </header>
+  <div class="modal-body">
+    <p>We accept credit cards and prepaid cards from:</p>
+    <ul>
+      <li>Visa<sup>®</sup></li>
+      <li>MasterCard<sup>®</sup></li>
+      <li>American Express<sup>®</sup></li>
+      <li>JCB<sup>®</sup></li>
+      <li>UnionPay<sup>®</sup>&nbsp;(for online applications only; debit cards not accepted)</li>
+    </ul>
+    <p>If you use a prepaid credit card, keep it for&nbsp;<strong>at least</strong>&nbsp;18&nbsp;months after you pay to make refunds easier.&nbsp;<a href="http://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1215&amp;top=4">Find more on prepaid cards</a>.</p>
+    <p>We also accept all Visa Debit cards.</p>
+    <p>The card you use doesn't have to be in your name. The cardholder’s name will appear on the receipt but it does not need to match your application.</p>
+  </div>
+</section>
+<section id="centred-popup2" class="mfp-hide modal-dialog modal-content overlay-def">
+  <header class="modal-header">
+    <h4 class="modal-title">Debit cards</h4>
+  </header>
+  <div class="modal-body">
+    <p>It must:</p>
+    <ul>
+      <li>be from a Canadian bank using&nbsp;<a href="http://www.interac.ca/en/interac-online-consumer.html" rel="external">INTERAC<sup>®</sup>&nbsp;Online</a>, and</li>
+      <li>be registered for online banking through your bank’s website.</li>
+    </ul>
+    <p>We also accept all Debit MasterCard<sup>®</sup>&nbsp;and Visa<sup>®</sup>&nbsp;Debit cards. If your card has the Visa Debit logo on it, alone or with the INTERAC<sup>®</sup>&nbsp;Online logo, select Visa Debit as your payment method.</p>
+    <p>The card you use does not have to be in your name. The cardholder’s name will appear on the receipt but it does not need to match your application.</p>
+  </div>
+</section>
+<section id="centred-popup3" class="mfp-hide modal-dialog modal-content overlay-def">
+  <header class="modal-header">
+    <h4 class="modal-title">Letter that proves you’re authorized to work (WP-EXT except PGWP)</h4>
+  </header>
+  <div class="modal-body">
+    <p>After you apply online, we’ll send you a letter (in your online account) that you can use as proof that you’re authorized to keep working.</p>
+    <p>You can print it and attach it to your current work permit, or show it to your employer. It’s proof that you’re authorized to keep working under the <strong>same conditions as your original work permit</strong> until we process your application.</p>
+  </div>
+</section>
+
+<!-- Modals End --> 
+
+
+</div>
+<div class="reference parbase section"><div class="cq-dd-paragraph"><div class="mwsgeneric_base_html mwsgeneric-base-html parbase">
+
+
+
+    <span data-incl-name="wp-priority-processing-en"></span>
+<h2 class="h3">Priority processing for work permit applicants</h2>
+<p>We’re prioritizing certain work permit applications.</p>
+
+<details>
+  <summary>Provincial nominees in certain specialized health care occupations</summary>
+  <p>You may be eligible for faster processing for an employer-specific work permit if you</p>
+  <ul>
+    <li>have a full-time and non-seasonal job offer in one of the three eligible NOCs
+      <ul>
+        <li>NOC 31100 – Specialist in clinical laboratory medicine</li>
+        <li>NOC 31101 – Specialists in surgery</li>
+        <li>NOC 31102 – General practitioners and family physicians</li>
+      </ul>
+    </li>
+    <li>have a support letter from a Canadian province or territory
+      <ul>
+        <li>The letter nominates you as a permanent residence applicant through the Provincial Nominee Program. </li>
+      </ul>
+    </li>
+    <li><a href="/en/immigration-refugees-citizenship/services/work-canada.html#location" target="_blank">meet the general eligibility requirements</a> <span class="wb-inv">(opens in a new tab)</span><span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> to apply for a work permit, depending on where you apply from</li>
+  </ul>
+  <p><a href="/en/immigration-refugees-citizenship/services/work-canada/special-instructions/faster-processing-doctors.html">Get faster processing</a></p>
+</details>
+<details>
+  <summary>Other eligible occupations that perform or support essential services</summary>
+  <p>We’re prioritizing the applications of people who&nbsp;<strong>perform or support essential services</strong>.</p>
+  <p><strong>When you fill out the work permit application form</strong></p>
+  <p>To get priority processing, follow these steps:</p>
+  <ol>
+    <li>Get the National Occupational Classification (NOC)&nbsp;<strong>number</strong>&nbsp;your employer entered on the
+      <ul>
+        <li>offer of employment&nbsp;<strong>or</strong></li>
+        <li>labour market impact assessment (LMIA)</li>
+      </ul>
+    </li>
+    <li>Enter that number in the&nbsp;<strong>Job title</strong>&nbsp;box.
+      <ul>
+        <li>This is box 4 in the&nbsp;<strong>Details of intended work in Canada</strong>&nbsp;section.</li>
+        <li><strong>You must enter only the number</strong>.</li>
+      </ul>
+    </li>
+  </ol>
+  <h3 class="h4">NOC 2021</h3>
+  <p>On November 16, 2022, we switched to the 2021 version of the NOC system.</p>
+  <p>If you apply for a work permit on or after November&nbsp;16, 2022,&nbsp;<a href="/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html">make sure you use the NOC 2021 codes</a>.</p>
+  <details>
+    <summary>Agriculture and agri-food occupations</summary>
+    <p><strong>NOC 2021 codes</strong></p>
+    <ul>
+      <li>Butchers – retail and wholesale (NOC 63201)</li>
+      <li>Meat cutters and fishmongers – retail and wholesale (NOC 65202)</li>
+      <li>Agricultural service contractors and farm supervisors (NOC 82030)</li>
+      <li>Livestock labourers (NOC 85100)</li>
+      <li>Specialized livestock workers and farm machinery operators (NOC 84120)</li>
+      <li>Harvesting labourers (NOC 85101)</li>
+      <li>Nursery and greenhouse labourers (NOC 85103)</li>
+      <li>Fish and seafood plant workers (NOC 94142)</li>
+      <li>Labourers in food and beverage processing (NOC 95106)</li>
+      <li>Labourers in fish and seafood processing (NOC 95107)</li>
+      <li>Industrial butchers and meat cutters, poultry preparers and related workers (NOC 94141)</li>
+    </ul>
+  </details>
+  <details>
+    <summary>Health-care occupations</summary>
+    <p><strong>NOC 2021 codes</strong></p>
+    <ul>
+      <li>Nursing coordinators and supervisors (NOC 31300)</li>
+      <li>Registered nurses and registered psychiatric nurses (NOC 31301)</li>
+      <li>Specialists in clinical and laboratory medicine (NOC 31100)</li>
+      <li>Specialists in surgery (NOC 31101)</li>
+      <li>Police investigators and other investigative occupations (NOC 41310)</li>
+      <li>General practitioners and family physicians (NOC 31102)</li>
+      <li>Nurse practitioners (NOC 31302)</li>
+      <li>Physician assistants, midwives and allied health professionals (NOC 31303)</li>
+      <li>Respiratory therapists, clinical perfusionists and cardiopulmonary technologists (NOC 32103)</li>
+      <li>Other professional occupations in health diagnosing and treating (NOC 31209)</li>
+      <li>Pharmacists (NOC 31120)</li>
+      <li>Medical laboratory technologists (NOC 32120)</li>
+      <li>Medical laboratory assistants and related technical occupations (NOC 33101)</li>
+      <li>Medical radiation technologists (NOC 32121)</li>
+      <li>Cardiology technologists and electrophysiological diagnostic technologists (NOC 32123)</li>
+      <li>Licensed practical nurses (NOC 32101)</li>
+      <li>Paramedical occupations (NOC 32102)</li>
+      <li>Nurse aides, orderlies and patient service associates (NOC 33102)</li>
+      <li>Home child care providers (LMIA-required in-Canada applicants) (NOC 44100)</li>
+      <li>Home support workers, caregivers and related occupations (LMIA-required in-Canada applicants) (NOC 44101)</li>
+    </ul>
+    <p>You may be eligible for even faster processing if you</p>
+    <ul>
+      <li>have a full-time and non-seasonal job offer in one of the three eligible NOCs
+        <ul>
+          <li>NOC 31100 – Specialist in clinical laboratory medicine</li>
+          <li>NOC 31101 – Specialists in surgery</li>
+          <li>NOC 31102 – General practitioners and family physicians</li>
+        </ul>
+      </li>
+      <li>have a support letter from a Canadian province or territory
+        <ul>
+          <li>The letter nominates you as a permanent residence applicant through the Provincial Nominee Program. </li>
+        </ul>
+      </li>
+      <li><a href="/en/immigration-refugees-citizenship/services/work-canada.html#location">meet the general eligibility requirements&nbsp;</a> to apply for a work permit, depending on where you apply from</li>
+    </ul>
+    <p><a href="/en/immigration-refugees-citizenship/services/work-canada/special-instructions/faster-processing-doctors.html">Get faster processing</a></p>
+  </details>
+</details>
+
+
+
+</div>
+</div>
+</div>
+<div class="mwsgeneric-base-html parbase section">
+
+
+
+    <h3>Step&nbsp;3: Pay the fees</h3>
+<p>We’ll ask you to pay your fees at the end of your application.</p>
+<p>In most cases, <a href="https://ircc.canada.ca/english/information/fees/fees.asp">your fees</a> will include processing fees for you and anyone you include on your application.</p>
+<p>Some applicants <a href="/en/immigration-refugees-citizenship/services/work-canada/fee-exemptions.html">may be exempt</a> from paying some or all work permit application fees.</p>
+<p><strong>Total fees</strong></p>
+<div class="table-responsive">
+  <table class="table">
+    <thead>
+      <tr class="active">
+        <th scope="col">Type of fee</th>
+        <th scope="col">Amount</th>
+	<th scope="col">Who needs to pay this fee</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Work permit processing</td>
+        <td>$155</td>
+		<td>All applicants</td>
+      </tr>
+	  <tr>
+        <td>Open work permit fee</td>
+        <td>$100</td>
+		<td>Open work permit applicants</td>
+      </tr>
+		<tr>
+        <td>Biometrics fee</td>
+        <td>Individual: $85<br>Family: up to $170 (<a href="/en/immigration-refugees-citizenship/services/biometrics.html">if you’re eligible</a>)</td>
+		<td><a href="https://ircc.canada.ca/english/visit/biometrics.asp">Check if you need to give biometrics</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<h3>Step&nbsp;4: Submit a complete application</h3>
+<p>Make sure you submit a complete application in your IRCC secure account. Your application may be refused if you’re missing documents or other required information.</p>
+
+<h4>If you need to leave Canada and plan to return</h4>
+<p>If you applied to renew your work permit before it expired, you can leave Canada and come back, but there are <a href="/en/immigration-refugees-citizenship/services/work-canada/extend/travel-outside-canada.html">some things you need to know</a>.</p>
+
+
+<h3>Step&nbsp;5: Give your biometrics again after you apply <span class="label label-info">If applicable</span></h3>
+<p>Even if you already have valid biometrics, you may want to give them again.</p>
+<p>You might want to give your biometrics again before they expire if</p>
+<ul>
+	<li>your biometrics will expire soon
+	<ul>
+		<li>We can’t issue you a work permit that’s valid for longer than your biometrics.</li>
+	</ul>
+	</li>
+	<li>you applied for permanent residence and your application was refused</li>
+	<li>you only gave partial biometrics with your application (fingerprints <strong>or</strong> photo)</li>
+</ul>
+<p>To give your biometrics</p>
+<ol>
+	<li>Pay the biometrics fee when you apply.</li>
+	<li>Wait for your biometrics instruction letter and then book your biometrics collection appointment as soon as you can to avoid processing delays.</li>
+</ol>
+<p><a href="/en/immigration-refugees-citizenship/services/biometrics/how-to-give.html" class="btn btn-primary">Give your biometrics</a></p>
+
+
+</div>
+<div class="reference parbase section"><div class="cq-dd-paragraph"><div class="mwsgeneric_base_html mwsgeneric-base-html parbase">
+
+
+
+    <span data-incl-name="problem-application-worker-eng"></span>
+<section id="centred-popup" class="mfp-hide modal-dialog modal-content overlay-def">
+  <header class="modal-header">
+    <h2 class="modal-title">Problem with the online application</h2>
+  </header>
+  <div class="modal-body">
+    <p>If you’re trying to apply for a work permit online in one of the categories below, you may have problems getting the right result. If you’re not sure if this applies to you, ask your employer.</p>
+    <h3>LMIA-exempt applicants</h3>
+    <ul>
+      <li>Permanent residence applicants in Canada who
+        <ul>
+          <li>used Express Entry to submit their permanent residence application, <strong>and</strong></li>
+          <li>have received an acknowledgment of receipt letter (A75)</li>
+        </ul>
+      </li>
+      <li>Open work permit pilot program for permanent residence applicants in the spouse or common-law partner in Canada class (A70)</li>
+      <li>Foreign physicians coming to work in Quebec (C10)</li>
+      <li>Refugee claimants (S61)</li>
+      <li>Failed refugee claimants waiting for removal who need to support themselves (S62)</li>
+      <li>Persons under an unenforceable removal order (S62)</li>
+      <li>Live-in caregivers who have submitted their permanent residence application (A71)</li>
+      <li>In-Canada applicants under the Home Child-Care Provider Pilot or the Home Support Worker Pilot (C90) and their family members (C91)</li>
+      <li>Post-graduation work permit extension (C43)</li>
+      <li>Destitute students (H81)</li>
+      <li>Holders of a temporary resident permit that’s valid for a minimum of 6 months (H82)</li>
+      <li>Start-up visa workers (A75)</li>
+      <li><a href="/en/immigration-refugees-citizenship/services/work-canada/iec/extend-change.html">International Experience Canada: Extend your participation or change conditions on your work permit (C21)</a></li>
+    </ul>
+    <h3>LMIA-required applicants</h3>
+    <ul>
+      <li>Seafood-processing workers</li>
+      <li>Agricultural workers who are not part of the Seasonal Agricultural Worker Program</li>
+    </ul>
+    <h3>Visitors to Canada</h3>
+    <ul>
+      <li>Visitors in Canada applying for an initial study permit, work permit or both who are accompanying a spouse holding a low-skilled work permit</li>
+    </ul>
+  </div>
+</section>
+
+
+
+</div>
+</div>
+</div>
+<div class="mwspagination section">
+
+    <nav class="gc-subway-pagination">
+<h2 class="wb-inv">Document navigation</h2>
+<ul class="pager">
+<li class="next"><a href="/en/immigration-refugees-citizenship/services/work-canada/extend/after-apply.html" rel="next"><span class="wb-inv">Next: </span>After you extend</a></li>
+</ul>
+</nav>
+
+
+
+
+    
+</div>
+
+
+            </div>
+        
+            <div>
+                
+
+            </div>
+        
+    </div>
+
+
+</div>
+
+
+            <section class="pagedetails">
+    <h2 class="wb-inv">Page details</h2>
+
+    
+
+    <div class="row">
+        <div class="col-sm-8 col-md-9 col-lg-9">
+            <div class="wb-disable-allow" data-ajax-replace="/etc/designs/canada/wet-boew/assets/feedback/page-feedback-en.html">
+            </div>
+        </div>
+	</div>
+    
+<gcds-date-modified>
+	2026-08-21
+</gcds-date-modified>
+
+
+</section>
+        </main>
+    
+
+
+
+    
+
+
+
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+
+</div>
+
+    
+
+
+
+
+    
+
+
+
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+        
+        
+        <div class="global-footer">
+    <footer id="wb-info">
+	    <h2 class="wb-inv">About this site</h2>
+    	<div class="gc-contextual"><div class="container">
+    <nav>
+        <h3>Immigration and citizenship</h3>
+        <ul class="list-col-xs-1 list-col-sm-2 list-col-md-3">
+            <li><a href="https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?top=17">Help Centre</a></li>
+        
+            <li><a href="/en/immigration-refugees-citizenship/corporate/contact-ircc.html"> Contact us</a></li>
+        
+            <li><a href="/en/immigration-refugees-citizenship/services/application/check-status.html">Check your application status</a></li>
+        </ul>
+    </nav>
+</div></div>	
+        <div class="gc-main-footer">
+			<div class="container">
+	<nav>
+	<h3 class="toc-ignore">Government of Canada</h3>
+	<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3">
+		<li><a href="/en/contact.html">All contacts</a></li>
+		<li><a href="/en/government/dept.html">Departments and agencies</a></li>
+		<li><a href="/en/government/system.html">About government</a></li>
+	</ul>
+	<h4 class="toc-ignore"><span class="wb-inv">Themes and topics</span></h4>
+	<ul class="list-unstyled colcount-sm-2 colcount-md-3">			
+		<li><a href="/en/services/jobs.html">Jobs</a></li>
+		<li><a href="/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+		<li><a href="https://travel.gc.ca/">Travel and tourism</a></li>
+		<li><a href="/en/services/business.html">Business</a></li>
+		<li><a href="/en/services/benefits.html">Benefits</a></li>
+		<li><a href="/en/services/health.html">Health</a></li>
+		<li><a href="/en/services/taxes.html">Taxes</a></li>
+		<li><a href="/en/services/environment.html">Environment and natural resources</a></li>
+		<li><a href="/en/services/defence.html">National security and defence</a></li>
+		<li><a href="/en/services/culture.html">Culture, history and sport</a></li>
+		<li><a href="/en/services/policing.html">Policing, justice and emergencies</a></li>
+		<li><a href="/en/services/transport.html">Transport and infrastructure</a></li>
+		<li><a href="https://www.international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+		<li><a href="/en/services/finance.html">Money and finances</a></li>
+		<li><a href="/en/services/science.html">Science and innovation</a></li>
+		<li><a href="/en/services/indigenous-peoples.html">Indigenous Peoples</a></li>
+		<li><a href="/en/services/veterans-military.html">Veterans and military</a></li>
+		<li><a href="/en/services/youth.html">Youth</a></li>
+		<li><a href="/en/services/life-events.html">Manage life events</a></li>		
+	</ul>
+	</nav>
+</div>
+	
+        </div>
+        <div class="gc-sub-footer">
+            <div class="container d-flex align-items-center">
+            <nav>
+                <h3 class="wb-inv">Government of Canada Corporate</h3>
+                <ul>
+                
+                    		<li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+		<li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+		<li><a href="https://www.canada.ca/en/government/about-canada-ca.html">About Canada.ca</a></li>
+                
+                <li><a href="/en/transparency/terms.html">Terms and conditions</a></li>
+                <li><a href="/en/transparency/privacy.html">Privacy</a></li>
+                </ul>
+            </nav>
+                <div class="wtrmrk align-self-end">
+                    <img src="/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbol of the Government of Canada"/>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</div>
+
+    
+
+</div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+    <script type="text/javascript">_satellite.pageBottom();</script>
+
+
+
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="/etc/designs/canada/wet-boew/js/ep-pp.min.js"></script>
+<script src="/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
+<script src="/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+
+
+
+
+</body>
+</html>

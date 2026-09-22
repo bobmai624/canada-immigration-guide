@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Designated Employers &#8211; Rural Community Immigration Pilot</title>
+<meta name='robots' content='max-image-preview:large' />
+
+            <script data-no-defer="1" data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer data-cookieconsent="ignore">
+                var ctPublicFunctions = {"_ajax_nonce":"1ab37009a4","_rest_nonce":"5a19f82298","_ajax_url":"\/wp-admin\/admin-ajax.php","_rest_url":"https:\/\/westkootenayimmigration.ca\/wp-json\/","data__cookies_type":"native","data__ajax_type":"admin_ajax","data__bot_detector_enabled":0,"data__frontend_data_log_enabled":1,"cookiePrefix":"","wprocket_detected":false,"host_url":"westkootenayimmigration.ca","text__ee_click_to_select":"Click to select the whole data","text__ee_original_email":"The complete one is","text__ee_got_it":"Got it","text__ee_blocked":"Blocked","text__ee_cannot_connect":"Cannot connect","text__ee_cannot_decode":"Can not decode email. Unknown reason","text__ee_email_decoder":"CleanTalk email decoder","text__ee_wait_for_decoding":"The magic is on the way!","text__ee_decoding_process":"Please wait a few seconds while we decode the contact data."}
+            </script>
+        
+            <script data-no-defer="1" data-ezscrex="false" data-cfasync="false" data-pagespeed-no-defer data-cookieconsent="ignore">
+                var ctPublic = {"_ajax_nonce":"1ab37009a4","settings__forms__check_internal":"0","settings__forms__check_external":"0","settings__forms__force_protection":0,"settings__forms__search_test":"1","settings__data__bot_detector_enabled":0,"settings__sfw__anti_crawler":0,"blog_home":"https:\/\/westkootenayimmigration.ca\/","pixel__setting":"3","pixel__enabled":true,"pixel__url":"https:\/\/moderate15-v4.cleantalk.org\/pixel\/b8416b1107429bff47c4286b56a18076.gif","data__email_check_before_post":"1","data__email_check_exist_post":1,"data__cookies_type":"native","data__key_is_ok":true,"data__visible_fields_required":true,"wl_brandname":"Anti-Spam by CleanTalk","wl_brandname_short":"CleanTalk","ct_checkjs_key":"2f63c9dee3f92be11f82df2ab48338c00ac1ae5295553cdf01c6362114ab3c5b","emailEncoderPassKey":"7a5be0ed1fbeec83fb07dd1b7f2939a7","bot_detector_forms_excluded":"W10=","advancedCacheExists":false,"varnishCacheExists":true,"wc_ajax_add_to_cart":false}
+            </script>
+        <meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//stats.wp.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link href='https://fonts.googleapis.com' crossorigin rel='preconnect' />
+<link rel='preconnect' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Rural Community Immigration Pilot &raquo; Feed" href="https://westkootenayimmigration.ca/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Rural Community Immigration Pilot &raquo; Comments Feed" href="https://westkootenayimmigration.ca/comments/feed/" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165581032-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165581032-1');
+</script>
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://westkootenayimmigration.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwestkootenayimmigration.ca%2Fdesignated-employers%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://westkootenayimmigration.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwestkootenayimmigration.ca%2Fdesignated-employers%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='atomic-blocks-fontawesome-css' href='https://westkootenayimmigration.ca/wp-content/plugins/atomic-blocks/dist/assets/fontawesome/css/all.min.css?ver=1603925274' media='all' />
+<link rel='stylesheet' id='generate-fonts-css' href='//fonts.googleapis.com/css?family=Hind:300,regular,500,700|Asap:regular,italic,500,500italic,700,700italic' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-list-inline-css">
+ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em 2.375em}
+/*# sourceURL=https://c0.wp.com/c/7.1.1/wp-includes/blocks/list/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://c0.wp.com/c/7.1.1/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-spacer-inline-css">
+.wp-block-spacer{clear:both}
+/*# sourceURL=https://c0.wp.com/c/7.1.1/wp-includes/blocks/spacer/style.min.css */
+</style>
+<style id="wp-block-table-inline-css">
+.wp-block-table{overflow-x:auto}.wp-block-table table{border-collapse:collapse;width:100%}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{border:1px solid;padding:.5em}.wp-block-table .has-fixed-layout{table-layout:fixed;width:100%}.wp-block-table .has-fixed-layout td,.wp-block-table .has-fixed-layout th{word-break:break-word}.wp-block-table.aligncenter,.wp-block-table.alignleft,.wp-block-table.alignright{display:table;width:auto}.wp-block-table.aligncenter td,.wp-block-table.aligncenter th,.wp-block-table.alignleft td,.wp-block-table.alignleft th,.wp-block-table.alignright td,.wp-block-table.alignright th{word-break:break-word}.wp-block-table .has-subtle-light-gray-background-color{background-color:#f3f4f5}.wp-block-table .has-subtle-pale-green-background-color{background-color:#e9fbe5}.wp-block-table .has-subtle-pale-blue-background-color{background-color:#e7f5fe}.wp-block-table .has-subtle-pale-pink-background-color{background-color:#fcf0ef}.wp-block-table.is-style-stripes{background-color:transparent;border-collapse:inherit;border-spacing:0}.wp-block-table.is-style-stripes tbody tr:nth-child(odd){background-color:#f0f0f0}.wp-block-table.is-style-stripes.has-subtle-light-gray-background-color tbody tr:nth-child(odd){background-color:#f3f4f5}.wp-block-table.is-style-stripes.has-subtle-pale-green-background-color tbody tr:nth-child(odd){background-color:#e9fbe5}.wp-block-table.is-style-stripes.has-subtle-pale-blue-background-color tbody tr:nth-child(odd){background-color:#e7f5fe}.wp-block-table.is-style-stripes.has-subtle-pale-pink-background-color tbody tr:nth-child(odd){background-color:#fcf0ef}.wp-block-table.is-style-stripes td,.wp-block-table.is-style-stripes th{border-color:transparent}.wp-block-table.is-style-stripes{border-bottom:1px solid #f0f0f0}.wp-block-table .has-border-color td,.wp-block-table .has-border-color th,.wp-block-table .has-border-color tr,.wp-block-table .has-border-color>*{border-color:inherit}.wp-block-table table[style*=border-top-color] tr:first-child,.wp-block-table table[style*=border-top-color] tr:first-child td,.wp-block-table table[style*=border-top-color] tr:first-child th,.wp-block-table table[style*=border-top-color]>*,.wp-block-table table[style*=border-top-color]>* td,.wp-block-table table[style*=border-top-color]>* th{border-top-color:inherit}.wp-block-table table[style*=border-top-color] tr:not(:first-child){border-top-color:currentColor}.wp-block-table table[style*=border-right-color] td:last-child,.wp-block-table table[style*=border-right-color] th,.wp-block-table table[style*=border-right-color] tr,.wp-block-table table[style*=border-right-color]>*{border-right-color:inherit}.wp-block-table table[style*=border-bottom-color] tr:last-child,.wp-block-table table[style*=border-bottom-color] tr:last-child td,.wp-block-table table[style*=border-bottom-color] tr:last-child th,.wp-block-table table[style*=border-bottom-color]>*,.wp-block-table table[style*=border-bottom-color]>* td,.wp-block-table table[style*=border-bottom-color]>* th{border-bottom-color:inherit}.wp-block-table table[style*=border-bottom-color] tr:not(:last-child){border-bottom-color:currentColor}.wp-block-table table[style*=border-left-color] td:first-child,.wp-block-table table[style*=border-left-color] th,.wp-block-table table[style*=border-left-color] tr,.wp-block-table table[style*=border-left-color]>*{border-left-color:inherit}.wp-block-table table[style*=border-style] td,.wp-block-table table[style*=border-style] th,.wp-block-table table[style*=border-style] tr,.wp-block-table table[style*=border-style]>*{border-style:inherit}.wp-block-table table[style*=border-width] td,.wp-block-table table[style*=border-width] th,.wp-block-table table[style*=border-width] tr,.wp-block-table table[style*=border-width]>*{border-style:inherit;border-width:inherit}
+/*# sourceURL=https://c0.wp.com/c/7.1.1/wp-includes/blocks/table/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--base-3: var(--base-3);--wp--preset--color--accent: var(--accent);--wp--preset--color--global-color-8: var(--global-color-8);--wp--preset--color--global-color-9: var(--global-color-9);--wp--preset--color--global-color-10: var(--global-color-10);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-contrast-color{color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-color{color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-color{color: var(--wp--preset--color--contrast-3) !important;}.has-base-color{color: var(--wp--preset--color--base) !important;}.has-base-2-color{color: var(--wp--preset--color--base-2) !important;}.has-base-3-color{color: var(--wp--preset--color--base-3) !important;}.has-accent-color{color: var(--wp--preset--color--accent) !important;}.has-global-color-8-color{color: var(--wp--preset--color--global-color-8) !important;}.has-global-color-9-color{color: var(--wp--preset--color--global-color-9) !important;}.has-global-color-10-color{color: var(--wp--preset--color--global-color-10) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-contrast-background-color{background-color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-background-color{background-color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-background-color{background-color: var(--wp--preset--color--contrast-3) !important;}.has-base-background-color{background-color: var(--wp--preset--color--base) !important;}.has-base-2-background-color{background-color: var(--wp--preset--color--base-2) !important;}.has-base-3-background-color{background-color: var(--wp--preset--color--base-3) !important;}.has-accent-background-color{background-color: var(--wp--preset--color--accent) !important;}.has-global-color-8-background-color{background-color: var(--wp--preset--color--global-color-8) !important;}.has-global-color-9-background-color{background-color: var(--wp--preset--color--global-color-9) !important;}.has-global-color-10-background-color{background-color: var(--wp--preset--color--global-color-10) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-contrast-border-color{border-color: var(--wp--preset--color--contrast) !important;}.has-contrast-2-border-color{border-color: var(--wp--preset--color--contrast-2) !important;}.has-contrast-3-border-color{border-color: var(--wp--preset--color--contrast-3) !important;}.has-base-border-color{border-color: var(--wp--preset--color--base) !important;}.has-base-2-border-color{border-color: var(--wp--preset--color--base-2) !important;}.has-base-3-border-color{border-color: var(--wp--preset--color--base-3) !important;}.has-accent-border-color{border-color: var(--wp--preset--color--accent) !important;}.has-global-color-8-border-color{border-color: var(--wp--preset--color--global-color-8) !important;}.has-global-color-9-border-color{border-color: var(--wp--preset--color--global-color-9) !important;}.has-global-color-10-border-color{border-color: var(--wp--preset--color--global-color-10) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='pb-accordion-blocks-style-css' href='https://westkootenayimmigration.ca/wp-content/plugins/accordion-blocks/build/index.css?ver=1.5.0' media='all' />
+<link rel='stylesheet' id='cleantalk-public-css-css' href='https://westkootenayimmigration.ca/wp-content/plugins/cleantalk-spam-protect/css/cleantalk-public.min.css?ver=6.68_1763502118' media='all' />
+<link rel='stylesheet' id='cleantalk-email-decoder-css-css' href='https://westkootenayimmigration.ca/wp-content/plugins/cleantalk-spam-protect/css/cleantalk-email-decoder.min.css?ver=6.68_1763502118' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='https://westkootenayimmigration.ca/wp-content/themes/generatepress/assets/css/all.min.css?ver=3.6.0' media='all' />
+<style id="generate-style-inline-css">
+body{background-color:#f7f9fb;color:#3a3a3a;}a{color:#1b9b9b;}a:hover, a:focus, a:active{color:#000000;}body .grid-container{max-width:1100px;}.wp-block-group__inner-container{max-width:1100px;margin-left:auto;margin-right:auto;}.generate-back-to-top{font-size:20px;border-radius:3px;position:fixed;bottom:30px;right:30px;line-height:40px;width:40px;text-align:center;z-index:10;transition:opacity 300ms ease-in-out;opacity:0.1;transform:translateY(1000px);}.generate-back-to-top__show{opacity:1;transform:translateY(0);}.navigation-search{position:absolute;left:-99999px;pointer-events:none;visibility:hidden;z-index:20;width:100%;top:0;transition:opacity 100ms ease-in-out;opacity:0;}.navigation-search.nav-search-active{left:0;right:0;pointer-events:auto;visibility:visible;opacity:1;}.navigation-search input[type="search"]{outline:0;border:0;vertical-align:bottom;line-height:1;opacity:0.9;width:100%;z-index:20;border-radius:0;-webkit-appearance:none;height:60px;}.navigation-search input::-ms-clear{display:none;width:0;height:0;}.navigation-search input::-ms-reveal{display:none;width:0;height:0;}.navigation-search input::-webkit-search-decoration, .navigation-search input::-webkit-search-cancel-button, .navigation-search input::-webkit-search-results-button, .navigation-search input::-webkit-search-results-decoration{display:none;}.main-navigation li.search-item{z-index:21;}li.search-item.active{transition:opacity 100ms ease-in-out;}.nav-left-sidebar .main-navigation li.search-item.active,.nav-right-sidebar .main-navigation li.search-item.active{width:auto;display:inline-block;float:right;}.gen-sidebar-nav .navigation-search{top:auto;bottom:0;}:root{--contrast:#222222;--contrast-2:#575760;--contrast-3:#b2b2be;--base:#f0f0f0;--base-2:#f7f8f9;--base-3:#ffffff;--accent:#1e73be;--global-color-8:#116979;--global-color-9:#18B0B0;--global-color-10:#DE7119;}:root .has-contrast-color{color:var(--contrast);}:root .has-contrast-background-color{background-color:var(--contrast);}:root .has-contrast-2-color{color:var(--contrast-2);}:root .has-contrast-2-background-color{background-color:var(--contrast-2);}:root .has-contrast-3-color{color:var(--contrast-3);}:root .has-contrast-3-background-color{background-color:var(--contrast-3);}:root .has-base-color{color:var(--base);}:root .has-base-background-color{background-color:var(--base);}:root .has-base-2-color{color:var(--base-2);}:root .has-base-2-background-color{background-color:var(--base-2);}:root .has-base-3-color{color:var(--base-3);}:root .has-base-3-background-color{background-color:var(--base-3);}:root .has-accent-color{color:var(--accent);}:root .has-accent-background-color{background-color:var(--accent);}:root .has-global-color-8-color{color:var(--global-color-8);}:root .has-global-color-8-background-color{background-color:var(--global-color-8);}:root .has-global-color-9-color{color:var(--global-color-9);}:root .has-global-color-9-background-color{background-color:var(--global-color-9);}:root .has-global-color-10-color{color:var(--global-color-10);}:root .has-global-color-10-background-color{background-color:var(--global-color-10);}body, button, input, select, textarea{font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";}body{line-height:1.5;}.entry-content > [class*="wp-block-"]:not(:last-child):not(.wp-block-heading){margin-bottom:1.5em;}.main-title{font-family:"Hind", sans-serif;font-size:50px;}.site-description{font-size:16px;}.main-navigation a, .menu-toggle{font-family:"Hind", sans-serif;font-weight:500;text-transform:uppercase;}.main-navigation .main-nav ul ul li a{font-size:14px;}.sidebar .widget, .footer-widgets .widget{font-size:17px;}button:not(.menu-toggle),html input[type="button"],input[type="reset"],input[type="submit"],.button,.wp-block-button .wp-block-button__link{font-family:"Asap", sans-serif;}h1{font-family:"Hind", sans-serif;font-weight:600;text-transform:capitalize;font-size:50px;}h2{font-family:"Hind", sans-serif;font-weight:500;font-size:30px;}h3{font-family:"Hind", sans-serif;font-weight:500;font-size:26px;}h4{font-size:inherit;}h5{font-size:inherit;}@media (max-width:768px){.main-title{font-size:26px;}h1{font-size:30px;}h2{font-size:25px;}}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:#116979;color:#f7f9fb;}.site-header a{color:#3a3a3a;}.main-title a,.main-title a:hover{color:#ffffff;}.site-description{color:#f7f9fb;}.main-navigation,.main-navigation ul ul{background-color:#18b0b0;}.main-navigation .main-nav ul li a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{color:#ffffff;}.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:#ffffff;background-color:#de7119;}button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus{color:#ffffff;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#de7119;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:#ffffff;background-color:#de7119;}.main-navigation ul ul{background-color:#3f3f3f;}.main-navigation .main-nav ul ul li a{color:#ffffff;}.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover > a,.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"]) > a{color:#ffffff;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#4f4f4f;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{background-color:#f7f9fb;}.inside-article a,.paging-navigation a,.comments-area a,.page-header a{color:#1b9b9b;}.inside-article a:hover,.paging-navigation a:hover,.comments-area a:hover,.page-header a:hover{color:#de7119;}.entry-meta{color:#595959;}.entry-meta a{color:#18b0b0;}.entry-meta a:hover{color:#de7119;}h2{color:#116979;}h3{color:#116979;}h4{color:#de7119;}h5{color:#de7119;}.sidebar .widget{background-color:#ffffff;}.sidebar .widget .widget-title{color:#000000;}.footer-widgets{background-color:#f7f9fb;}.footer-widgets .widget-title{color:#000000;}.site-info{color:#ffffff;background-color:#de7119;}.site-info a{color:#ffffff;}.site-info a:hover{color:#333333;}.footer-bar .widget_nav_menu .current-menu-item a{color:#333333;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#666666;background-color:#fafafa;border-color:#cccccc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#666666;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#18b0b0;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ffffff;background-color:#116979;}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}:root{--gp-search-modal-bg-color:var(--base-3);--gp-search-modal-text-color:var(--contrast);--gp-search-modal-overlay-bg-color:rgba(0,0,0,0.2);}@media (max-width: 1110px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:#ffffff;}}.inside-top-bar{padding:10px;}.inside-header{padding:40px 40px 40px 60px;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:60px 40px 60px 40px;}.site-main .wp-block-group__inner-container{padding:60px 40px 60px 40px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-40px;width:calc(100% + 80px);max-width:calc(100% + 80px);}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .mobile-bar-items a{padding-left:16px;padding-right:16px;line-height:44px;}.main-navigation .main-nav ul ul li a{padding:10px 16px 10px 16px;}.navigation-search input[type="search"]{height:44px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:16px;}.menu-item-has-children .dropdown-menu-toggle{padding-right:16px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:16px;}.site-info{padding:20px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:30px;}.site-main .wp-block-group__inner-container{padding:30px;}.site-info{padding-right:10px;padding-left:10px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}}/* End cached CSS */@media (max-width: 1110px){.main-navigation .menu-toggle,.main-navigation .mobile-bar-items,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav{display:none;}[class*="nav-float-"] .site-header .inside-header > *{float:none;clear:both;}}
+.dynamic-author-image-rounded{border-radius:100%;}.dynamic-featured-image, .dynamic-author-image{vertical-align:middle;}.one-container.blog .dynamic-content-template:not(:last-child), .one-container.archive .dynamic-content-template:not(:last-child){padding-bottom:0px;}.dynamic-entry-excerpt > p:last-child{margin-bottom:0px;}
+.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .mobile-bar-items a{transition: line-height 300ms ease}.main-navigation.toggled .main-nav > ul{background-color: #18b0b0}
+@media (max-width: 1024px){.main-title, .navigation-branding .main-title{font-size:40px;}}
+.page-hero{background-color:rgba(0,0,0,0.15);background-image:url(https://westkootenayimmigration.ca/wp-content/uploads/2020/04/DS-IK-KL2.jpg);background-size:cover;background-image:linear-gradient(0deg, rgba(0,0,0,0.15),rgba(0,0,0,0.15)), url(https://westkootenayimmigration.ca/wp-content/uploads/2020/04/DS-IK-KL2.jpg);background-position:center center;background-repeat:no-repeat;color:#ffffff;padding-top:200px;padding-bottom:120px;box-sizing:border-box;}.page-hero h1, .page-hero h2, .page-hero h3, .page-hero h4, .page-hero h5, .page-hero h6{color:#ffffff;}.inside-page-hero > *:last-child{margin-bottom:0px;}.page-hero time.updated{display:none;}@media (max-width:768px){.page-hero{padding-top:120px;padding-right:50px;padding-bottom:80px;padding-left:50px;}}
+/*# sourceURL=generate-style-inline-css */
+</style>
+<link rel='stylesheet' id='generate-font-icons-css' href='https://westkootenayimmigration.ca/wp-content/themes/generatepress/assets/css/components/font-icons.min.css?ver=3.6.0' media='all' />
+<link rel='stylesheet' id='generate-child-css' href='https://westkootenayimmigration.ca/wp-content/themes/generatepress_child/style.css?ver=1586896770' media='all' />
+<style id="generateblocks-inline-css">
+h3.gb-headline-4482a1b7{color:var(--base-3);}:root{--gb-container-width:1100px;}.gb-container .wp-block-image img{vertical-align:middle;}.gb-grid-wrapper .wp-block-image{margin-bottom:0;}.gb-highlight{background:none;}.gb-shape{line-height:0;}
+/*# sourceURL=generateblocks-inline-css */
+</style>
+<link rel='stylesheet' id='generate-sticky-css' href='https://westkootenayimmigration.ca/wp-content/plugins/gp-premium/menu-plus/functions/css/sticky.min.css?ver=2.5.5' media='all' />
+<script id="jquery-core-js" src="https://c0.wp.com/c/7.1.1/wp-includes/js/jquery/jquery.min.js"></script>
+<script id="jquery-migrate-js" src="https://c0.wp.com/c/7.1.1/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script id="apbct-public-bundle_gathering.min-js-js" src="https://westkootenayimmigration.ca/wp-content/plugins/cleantalk-spam-protect/js/apbct-public-bundle_gathering.min.js?ver=6.68_1763502118"></script>
+<link rel="https://api.w.org/" href="https://westkootenayimmigration.ca/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://westkootenayimmigration.ca/wp-json/wp/v2/pages/6632" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://westkootenayimmigration.ca/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.1" />
+<link rel="canonical" href="https://westkootenayimmigration.ca/designated-employers/" />
+<link rel='shortlink' href='https://westkootenayimmigration.ca/?p=6632' />
+	<style>img#wpstats{display:none}</style>
+		<style id="wp-custom-css">
+
+.entry-content a {
+	font-weight: 600;
+	border-bottom: 1px dotted #1b9b9b;
+}
+
+.wp-block-group__inner-container {
+	padding: 40px 0 0 0 !important;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+/***** Fix horizontal scroll *****/
+body {
+    overflow-x: hidden;
+}
+
+/***** Grouped Blocks *****/
+.wp-block-group {
+    margin-bottom: .5em !important;
+}
+
+/***** Accordion *****/
+h4.c-accordion__title {
+    background: #f2f2f2;
+    color: #116979;
+	  border: 1px dotted #f2f2f2;
+	  padding: 10px;
+    font-weight: 500;
+}
+
+.c-accordion__title:after {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    color: #777;
+    font-weight: 600;
+    transform: translateY(-50%);
+    padding-right: 10px;
+}
+
+
+.c-accordion__title:hover {
+	  background-color: #f2f2f2;
+	  color: #1b9b9b;	
+    font-weight: 700;
+    border: 1px solid #18B0B0;	
+}
+
+.is-open .c-accordion__title {
+	  background-color: #f2f2f2;
+	  color: #1b9b9b;	
+    font-weight: 700;
+    border: 1px solid #18B0B0;	
+}
+
+.c-accordion__content {
+    padding: 10px 1% !important;
+    font-size: 95%;	
+}
+
+.c-accordion__content li {
+    padding-bottom: 12px;	
+}
+
+/***** Accordion AB *****/
+.ab-block-accordion .ab-accordion-title {
+    background: #f2f2f2;
+    color: #116979;
+	  border: 1px dotted #f2f2f2;
+}
+
+.ab-accordion-text {
+    padding: 10px 3% !important;
+    font-size: 95%;
+}
+
+.ab-block-accordion .ab-accordion-title:hover {
+    /* color: #8FC1E2; */
+	  background-color: #f2f2f2;
+	  color: #1b9b9b;
+}
+
+.ab-accordion-title:hover {
+    border: 1px solid #18B0B0;
+}
+
+.ab-accordion-text ol>li {
+    line-height: 2;
+}
+
+.ab-accordion-text ul>li {
+    line-height: 1.5;
+}
+
+
+details[open] .ab-accordion-title {
+  font-weight: 700;
+	border:1px solid #18B0B0;
+}
+
+
+@keyframes open {
+  0% {opacity: 0; margin-left: -20px}
+  100% {opacity: 1; margin-left: 0px}
+}
+
+details[open] summary ~ * {
+  animation: open .5s ease-in-out;
+}
+
+
+
+/***** Main Nav *****/
+.main-navigation li {
+    letter-spacing: .05em;
+}
+
+.navigation-search input[type="search"], .navigation-search input[type="search"]:focus {
+    color: #ffffff;
+    background-color: #ff811b;
+}
+
+/***** Page Hero *****/
+.page-hero h1 {
+    color: #ffffff;
+    letter-spacing: 0.025em;
+    text-shadow: 0px 0px 14px #222;
+}
+
+/***** Atomic Blocks *****/
+.wp-block-atomic-blocks-ab-container.alignfull.no-margin.ab-block-container {
+    margin-bottom: 0px;
+}
+
+.ab-container-content {
+    padding: 0 20px;
+}
+
+/*  fix margin between 2 container blocks*/
+.wp-block-atomic-blocks-ab-container.alignfull {
+    margin-bottom: 0 !important;
+}
+
+/***** Forms Block *****/
+.wp-block-button__link {
+    border-radius: 0 !important;
+	  color: #ffffff;
+}
+
+.wp-block-button__link:hover {
+    border-radius: 0 !important;
+	  color: #ffffff;
+	  background-color: #116979 !important;
+}
+
+/***** Tables Block *****/
+th.has-text-align-left {
+    font-weight: 500;
+	  color: #116979;
+}
+
+th {
+	padding: 15px
+}
+
+td {
+	padding: 15px 25px
+}
+
+
+/***** Footer Widget *****/
+.widget-title {
+    margin-bottom: 15px;
+    font-size: 14px;
+
+}
+
+.footer-widgets .widget-title {
+    color: #1f1f1f;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: -0.025em;
+    margin-bottom: 15px;
+}
+
+.webcred {
+	font-size: .75em;
+}
+
+.webcred a:hover{
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+/***** Maximizer Web Form *****/
+.webformlabel {
+    font-family: Arial;
+    width: 100% !important;
+    float: left;
+    padding-top: 8px;
+}
+
+input#SubmitButton {
+    padding-bottom: 34px;
+}
+
+
+/***** Success Stories ******/
+
+/*
+li.wp-block-post.success_story {
+    padding: 10px;
+}
+*/
+
+.single-success_story h1.entry-title {
+	text-transform: none;
+  font-size: 30px;
+	color: #116979;
+}
+
+h2.wp-block-post-title a, .wp-block-post-featured-image a {
+	border-bottom: none !important;
+}
+
+a.read-more {
+    visibility: hidden;
+}
+
+.isDisabled {
+    cursor: default;
+    pointer-events: none;        
+    text-decoration: none;
+}
+
+
+.isDisabled a {
+    border-bottom: none !important;
+}
+
+p.wp-block-post-excerpt__excerpt {
+    margin-bottom: 0.5em;
+}
+
+
+/** Pass Protected Pages **/
+form.post-password-form {
+    width: 1160px;
+    margin: 40px auto;
+}
+</style>
+<style id="core-block-supports-inline-css">
+.wp-elements-1 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--base-3);}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+
+<body class="wp-singular page-template-default page page-id-6632 wp-embed-responsive wp-theme-generatepress wp-child-theme-generatepress_child cookies-not-set sticky-menu-fade sticky-enabled both-sticky-menu no-sidebar nav-below-header one-container fluid-header active-footer-widgets-3 nav-search-enabled nav-aligned-left header-aligned-left dropdown-hover" itemtype="https://schema.org/WebPage" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>		<header class="site-header" id="masthead" aria-label="Site"  itemtype="https://schema.org/WPHeader" itemscope>
+			<div class="inside-header grid-container grid-parent">
+				<div class="site-branding">
+						<p class="main-title" itemprop="headline">
+					<a href="https://westkootenayimmigration.ca/" rel="home">Rural Community Immigration Pilot</a>
+				</p>
+						<p class="site-description" itemprop="description">West Kootenay Region, British Columbia</p>
+					</div>			</div>
+		</header>
+				<nav class="main-navigation sub-menu-right" id="site-navigation" aria-label="Primary"  itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation grid-container grid-parent">
+				<form method="get" class="search-form navigation-search" action="https://westkootenayimmigration.ca/">
+					<input type="search" class="search-field" value="" name="s" title="Search" />
+				</form>		<div class="mobile-bar-items">
+						<span class="search-item">
+				<a aria-label="Open Search Bar" href="#">
+									</a>
+			</span>
+		</div>
+						<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+					<span class="mobile-menu">Menu</span>				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-main-menu" class=" menu sf-menu"><li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="https://wk-rnip.ca/">Home</a></li>
+<li id="menu-item-6116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6116"><a href="https://westkootenayimmigration.ca/requirements/">Eligibility<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-8405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8405"><a href="https://westkootenayimmigration.ca/work-experience/">Work Experience Requirements</a></li>
+</ul>
+</li>
+<li id="menu-item-6115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6115"><a href="https://westkootenayimmigration.ca/priorities/">Priorities</a></li>
+<li id="menu-item-6543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6543"><a href="https://westkootenayimmigration.ca/process/">RCIP Process<span role="presentation" class="dropdown-menu-toggle"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-6114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6114"><a href="https://westkootenayimmigration.ca/employer-designation/">Employer Designation</a></li>
+	<li id="menu-item-6333" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6333"><a href="https://westkootenayimmigration.ca/applicant-information/">Guide for Applicants</a></li>
+	<li id="menu-item-6516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6516"><a href="https://westkootenayimmigration.ca/apply/">Apply for Community Recommendation</a></li>
+	<li id="menu-item-6851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6851"><a href="https://westkootenayimmigration.ca/guides-checklists-forms/">Guides, Checklists &amp; Forms</a></li>
+</ul>
+</li>
+<li id="menu-item-7717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7717"><a href="https://westkootenayimmigration.ca/find-a-job/">Find a Job</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://westkootenayimmigration.ca/faqs/">Questions</a></li>
+<li id="menu-item-5972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5972"><a href="https://westkootenayimmigration.ca/updates/">Updates</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://westkootenayimmigration.ca/contact/">Contact</a></li>
+<li class="search-item menu-item-align-right"><a aria-label="Open Search Bar" href="#"></a></li></ul></div>			</div>
+		</nav>
+		<div class="page-hero  hero-header">
+					<div class="inside-page-hero grid-container grid-parent">
+						<h1 style="text-align:center">Designated Employers</h1>
+					</div>
+				</div>
+	<div class="site grid-container container hfeed grid-parent" id="page">
+				<div class="site-content" id="content">
+			
+	<div class="content-area grid-parent mobile-grid-100 grid-100 tablet-grid-100" id="primary">
+		<main class="site-main" id="main">
+			
+<article id="post-6632" class="post-6632 page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+		
+		<div class="entry-content" itemprop="text">
+			
+<p class="wp-block-paragraph">The following employers have been formally designated to participate in the West Kootenay Rural Community Immigration Pilot (RCIP). This list is published in accordance with Immigration, Refugees and Citizenship Canada (IRCC) requirements and will be updated regularly as new employers receive designation or are de-designated.</p>
+
+
+
+<p class="wp-block-paragraph">Being designated means that these employers:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Have been reviewed and approved to participate in the the West Kootenay RCIP</li>
+
+
+
+<li>Have committed to supporting newcomer settlement and integration.</li>
+</ul>
+
+
+
+<div style="background-color:var(--global-color-8);padding-left:4%;padding-right:5.5%" class="wp-block-atomic-blocks-ab-container ab-block-container"><div class="ab-container-inside"><div class="ab-container-content">
+<div style="height:28px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 class="gb-headline gb-headline-4482a1b7 gb-headline-text"><strong>Important Notice for RCIP Candidates and Immigration Representatives:</strong></h3>
+
+
+
+<p class="has-base-3-color has-text-color has-link-color wp-elements-1 wp-block-paragraph"><strong>Do not contact these employers directly to request a job offer</strong> unless a position has been publicly advertised. Designation does not guarantee that an employer is currently hiring or that a job offer is available. </p>
+
+
+
+<div style="height:28px" aria-hidden="true" class="wp-block-spacer"></div>
+</div></div></div>
+
+
+
+<h2 class="gb-headline gb-headline-8353300a gb-headline-text">West Kootenay RCIP Designated Employer List</h2>
+
+
+
+<p class="wp-block-paragraph"><em>Last updated: September 16, 2026</em></p>
+
+
+
+<div class="wp-block-pb-accordion-item c-accordion__item js-accordion-item no-js" data-initially-open="false" data-click-to-close="true" data-auto-close="true" data-scroll="false" data-scroll-offset="0"><h4 id="at-66320" class="c-accordion__title js-accordion-controller" role="button">Business, Administration &amp; Finance</h4><div id="ac-66320" class="c-accordion__content">
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Employer Name</strong></td></tr><tr><td>Agilion Accounting &amp; Advisory, Nelson</td></tr><tr><td>Doane Grant Thornton LLP, Castlegar, Nelson &amp; Trail offices</td></tr><tr><td>StellarVista Credit Union, Trail</td></tr></tbody></table></figure>
+</div></div>
+
+
+
+<div class="wp-block-pb-accordion-item c-accordion__item js-accordion-item no-js" data-initially-open="false" data-click-to-close="true" data-auto-close="true" data-scroll="false" data-scroll-offset="0"><h4 id="at-66321" class="c-accordion__title js-accordion-controller" role="button">Health Sector</h4><div id="ac-66321" class="c-accordion__content">
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Employer Name</strong></td></tr><tr><td>Golden Life Management, Castlegar, Creston, Fruitvale, Grand Forks, Nelson &amp; Trail</td></tr><tr><td>Interior Health, Castlegar, Creston, Grand Forks, Greenwood, Kaslo, KBRH (Trail), Midway, Nakusp, Nelson, New Denver, Rock Creek</td></tr><tr><td>Kootenay Integrated Health, Castlegar</td></tr><tr><td>Kootenay Lake Medical Clinic, Nelson</td></tr><tr><td>Mountain Lake Village (CareCorp), Nelson</td></tr><tr><td>Castlegar Medical, Castlegar</td></tr><tr><td>Castleview Care Centre (Chantelle Management Group), Castlegar</td></tr><tr><td>Dentalcorp Health Services, Nelson</td></tr><tr><td>Nelson Family Dental, Nelson</td></tr><tr><td>Misha Zibin Society, Grand Forks</td></tr><tr><td>Pharmasave Creston</td></tr><tr><td>Storzuk Morris and Szucs Okanagan Physiotherapist Corp., Grand Forks</td></tr><tr><td>Trail Association for Community Living</td></tr></tbody></table></figure>
+</div></div>
+
+
+
+<div class="wp-block-pb-accordion-item c-accordion__item js-accordion-item no-js" data-initially-open="false" data-click-to-close="true" data-auto-close="true" data-scroll="false" data-scroll-offset="0"><h4 id="at-66322" class="c-accordion__title js-accordion-controller" role="button">Education, Law, Social, Community &amp; Government Services</h4><div id="ac-66322" class="c-accordion__content">
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Employer Name</strong></td></tr><tr><td>Axis Family Resources Ltd, Castlegar, Creston, Montrose, Trail</td></tr><tr><td>Blueberry Creek Community School, Castlegar</td></tr><tr><td>Brent Kennedy Learning Centre, South Slocan</td></tr><tr><td>Castlegar Community Services</td></tr><tr><td>Children and Family Society, Trail</td></tr><tr><td>City of Grand Forks, Grand Forks</td></tr><tr><td>Circle of Indigenous Nations, Castlegar</td></tr><tr><td>Community Connections Support Services, Trail/ Nelson</td></tr><tr><td>Cornerstone Children&#8217;s Centre, Nelson</td></tr><tr><td>Eclipse Foundation, Trail</td></tr><tr><td>Four Winds Daycare</td></tr><tr><td>Freedom Quest Youth Services Society, Castlegar</td></tr><tr><td>Goat Mountain Kids, New Denver</td></tr><tr><td>Golden Bears Children&#8217;s Centre, Rossland</td></tr><tr><td>Growing Steps Academy, Trail</td></tr><tr><td>Habitat for Humanity, Castlegar</td></tr><tr><td>Kimsis Art School, Castlegar</td></tr><tr><td>Kootenai Community Centre Society, Creston</td></tr><tr><td>Kootenay Career Development Society, Nelson, Castlegar &amp; Trail</td></tr><tr><td>Kootenay Employment Services, Creston office only</td></tr><tr><td>Kootenay Family Place, Castlegar</td></tr><tr><td>Kootenay Kids Society, Nelson</td></tr><tr><td>Kootenay Society for Community Living, Castlegar</td></tr><tr><td>Nelson CARES Society, Nelson</td></tr><tr><td>Nelson Christian School Society, Nelson</td></tr><tr><td>Nelson Waldorf School Association, Nelson</td></tr><tr><td>Pacific Coast Community Resources, Grand Forks</td></tr><tr><td>Rosling Real Estate, Nelson</td></tr><tr><td>Silly Monkeys Childcare, Castlegar</td></tr><tr><td>Songbird Early Learning Centre, Nelson</td></tr><tr><td>Sunningdale Childcare Centre, Trail</td></tr><tr><td>The Schoolhouse ECLC, Nelson</td></tr><tr><td>Trail &amp; District Public Library, Trail</td></tr><tr><td>Yasodhara Ashram, Riondel</td></tr></tbody></table></figure>
+</div></div>
+
+
+
+<div class="wp-block-pb-accordion-item c-accordion__item js-accordion-item no-js" data-initially-open="false" data-click-to-close="true" data-auto-close="true" data-scroll="false" data-scroll-offset="0"><h4 id="at-66323" class="c-accordion__title js-accordion-controller" role="button">Sales &amp; Service</h4><div id="ac-66323" class="c-accordion__content">
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Employer Name</strong></td></tr><tr><td>0807658 BC Ltd</td></tr><tr><td>0081392 BC Ltd</td></tr><tr><td>1342104 BC Ltd, Nakusp</td></tr><tr><td>The Adventure Hotel, Nelson</td></tr><tr><td>Ainsworth Hot Springs Resort, Ainsworth</td></tr><tr><td>Alpine Inn &amp; Suites, Nelson</td></tr><tr><td>Amanda&#8217;s Restaurant, Nelson</td></tr><tr><td>Aria Art of Hair, Trail</td></tr><tr><td>Ashley Furniture, Trail</td></tr><tr><td>Ashman&#8217;s Burgers, Nelson</td></tr><tr><td>Baker Street Inn Best Western (Martin Hospitality Group), Nelson</td></tr><tr><td>Basasak, Creston</td></tr><tr><td>Bayleaf Indian Fusion, Creston</td></tr><tr><td>BCAA, Nelson</td></tr><tr><td>Bear Country Kitchen Store, Rossland</td></tr><tr><td>Beauties Pizza, Nelson</td></tr><tr><td>Bella Soriah/ Chanterelle, Nakusp</td></tr><tr><td>Best Value Inn &amp; Suites, Castlegar</td></tr><tr><td>Bhasin Building Maintenance, Castlegar</td></tr><tr><td>Biggest Little Fruitstand, Castlegar</td></tr><tr><td>The Black Cauldron</td></tr><tr><td>Black Fin Sushi, Trail</td></tr><tr><td>Blue Barn Pet and Hobby Farm, Castlegar</td></tr><tr><td>Bluebelle Bistro, Kaslo</td></tr><tr><td>Boaz Enterprises Ltd., Trail</td></tr><tr><td>Boundary Home Building Centre, Grand Forks</td></tr><tr><td>Broken Hill, Nelson</td></tr><tr><td>Buffalo Trails Coffee House, Creston</td></tr><tr><td>Busaba Thai Cafe, Nelson &amp; Creston</td></tr><tr><td>Canadian Tire, Castlegar</td></tr><tr><td>Canadian Tire, Trail</td></tr><tr><td>Cantina Del Centro, Nelson</td></tr><tr><td>Casey&#8217;s Community House, Creston</td></tr><tr><td>Castlegar Hyundai, Castlegar</td></tr><tr><td>Centex Store &amp; Gas (grocery store only), Rock Creek</td></tr><tr><td>Chahko Mika Mall, Nelson</td></tr><tr><td>Chances, Castlegar</td></tr><tr><td>Chopsticks, Castlegar</td></tr><tr><td>Christina Lake Motel &amp; RV Park</td></tr><tr><td>City Furniture, Castlegar</td></tr><tr><td>Cleaning Genies, Nelson</td></tr><tr><td>Cloudside Inn, Nelson</td></tr><tr><td>The Colander, Trail</td></tr><tr><td>Columbia River Hotel Best Western, Trail</td></tr><tr><td>Connects Wireless, Castlegar &amp; Nelson</td></tr><tr><td>Cowan Office Supplies, Nelson</td></tr><tr><td>Creston Hotel/ Jimmy&#8217;s Pub, Creston</td></tr><tr><td>Creston Liquor Store, Creston</td></tr><tr><td>Cube Climbing, Nelson</td></tr><tr><td>Cuisine of India, Castlegar</td></tr><tr><td>Cut Rite Meats and Deli, Nakusp</td></tr><tr><td>Dam Restaurant, South Slocan</td></tr><tr><td>Deadwood Junction, Greenwood</td></tr><tr><td>The Dragonfly Cafe, Salmo</td></tr><tr><td>Eclipse Stores, Nelson</td></tr><tr><td>Edgewood General Store, Edgewood</td></tr><tr><td>El Taco, Nelson</td></tr><tr><td>Epiphany Cakes, Nelson</td></tr><tr><td>Ferraro Foods, Trail &amp; Rossland</td></tr><tr><td>Finley&#8217;s Bar &amp; Grill, Nelson</td></tr><tr><td>Focused Life-Force Energy, Nelson</td></tr><tr><td>Fruitvale Kitchen, Fruitvale</td></tr><tr><td>Full Circle Cafe, Nelson</td></tr><tr><td>Gabriella&#8217;s Restaurant, Rossland</td></tr><tr><td>Gilbert Auto Parts, Nelson</td></tr><tr><td>Gina&#8217;s Gelato, Nelson</td></tr><tr><td>Golden Chopsticks II, Grand Forks</td></tr><tr><td>Grand Forks Inn, Grand Forks</td></tr><tr><td>Grand Forks Renovation Centre, Grand Forks</td></tr><tr><td>The Handy Store, Trail</td></tr><tr><td>HG Insurance Agencies, Castlegar</td></tr><tr><td>Hooper&#8217;s Bakery, Rossland</td></tr><tr><td>Hume Hotel (Martin Hospitality Group), Nelson</td></tr><tr><td>Iconic Gift Shop, Nelson</td></tr><tr><td>Jackson&#8217;s Hole, Nelson</td></tr><tr><td>JMJ Building Maintenance, Castlegar</td></tr><tr><td>The Josie Hotel, Rossland</td></tr><tr><td>Julio&#8217;s Lounge &amp; Romano&#8217;s Runways, Creston</td></tr><tr><td>Kaslo Hotel, Kaslo</td></tr><tr><td>KC Restaurant, Nelson</td></tr><tr><td>Kokanee Glacier Resort, Nelson</td></tr><tr><td>Kootenay Bakery Cafe Coop, Nelson</td></tr><tr><td>Kootenay Cleaning Solutions, Fruitvale</td></tr><tr><td>Kootenay Columbia Home Medical Equipment, Castlegar</td></tr><tr><td>Kootenay Co-op Grocery Store, Nelson</td></tr><tr><td>Kootenay Insurance Services, Trail</td></tr><tr><td>Kootenay Natural Cleaners, Nelson</td></tr><tr><td>Kootenay Tamil Kitchen Food &amp; Beverage, Nelson</td></tr><tr><td>Kootenay Tamil Kitchen Ethnic Foods, Creston</td></tr><tr><td>Kootenay Tamil Kitchen Masala Shop, Nelson</td></tr><tr><td>Kurama Sushi Japanese Restaurant, Nelson</td></tr><tr><td>Kurtis&#8217; No Frills, Trail</td></tr><tr><td>L&amp;C Bakery, Nelson</td></tr><tr><td>La Ruelle Bakery, Nelson</td></tr><tr><td>Magnuson Hotel, Creston</td></tr><tr><td>Mainstreet Diner, Nelson</td></tr><tr><td>MapleMirch Foods Ltd, Castlegar</td></tr><tr><td>Milano Pizza, Fruitvale</td></tr><tr><td>Nelson Fine Art Printing, Nelson</td></tr><tr><td>Nelson Fuel Inc., Nelson</td></tr><tr><td>Nelson Olive Oil, Nelson</td></tr><tr><td>New Market Foods, New Denver</td></tr><tr><td>Night Inn Hotel, Grand Forks</td></tr><tr><td>The Nineteenth (RFV Holdings), Castlegar</td></tr><tr><td>Omega Restaurant, Grand Forks</td></tr><tr><td>Oso Negro Coffee, Nelson</td></tr><tr><td>Outer Clove Restaurant, Nelson</td></tr><tr><td>Pealow&#8217;s Independent Grocer, Creston</td></tr><tr><td>Peerless Building Maintenance, Fruitvale</td></tr><tr><td>Pino&#8217;s Authentic Italian Cuisine, Trail</td></tr><tr><td>Port 701, Nelson</td></tr><tr><td>Prestige Inn, Nelson</td></tr><tr><td>Prestige Lakeside Resort, Nelson</td></tr><tr><td>Prestige Resort, Rossland</td></tr><tr><td>Red Fin Sushi, Castlegar</td></tr><tr><td>Red Light Ramen, Nelson</td></tr><tr><td>Refresh Eco Cleaning, Nelson</td></tr><tr><td>Rel-Ish Bistro, Nelson</td></tr><tr><td>RDM Janitorial, Castlegar</td></tr><tr><td>Rock Island Tape Centre, Trail</td></tr><tr><td>Rockcut Pub, Rossland</td></tr><tr><td>Rona, Trail</td></tr><tr><td>Rossland Lumber, Rossland</td></tr><tr><td>The Royal, Nelson</td></tr><tr><td>Safety Net Security, Trail</td></tr><tr><td>Safeway, Castlegar</td></tr><tr><td>Safeway, Nelson</td></tr><tr><td>Safeway, Trail</td></tr><tr><td>Sakura Sushi, Nelson</td></tr><tr><td>Sandman Inn, Castlegar</td></tr><tr><td>Savoy Hotel, Nelson</td></tr><tr><td>Seasons Maintenance Sports, Grand Forks</td></tr><tr><td>Serendipity Nail Studio, Nelson</td></tr><tr><td>Shambhala Music Festival, Nelson</td></tr><tr><td>Shatti Esthetics Studio, Trail/Rossland</td></tr><tr><td>Simran&#8217;s No Frills, Grand Forks</td></tr><tr><td>Slocan Gas Bar (grocery store only), Slocan Park</td></tr><tr><td>Snowwater Heli Skiing, South Slocan</td></tr><tr><td>Sprout Eatery, Nelson</td></tr><tr><td>Steve&#8217;s No Frills, Castlegar</td></tr><tr><td>Sunner Barber Shop Ltd, Trail/ Castlegar</td></tr><tr><td>Super 8 Hotel, Castlegar</td></tr><tr><td>Sushiwood, Nelson</td></tr><tr><td>SureStay Hotel Rossland</td></tr><tr><td>SureStay Best Western, Castlegar</td></tr><tr><td>Tahnam Thai, Castlegar</td></tr><tr><td>Tandoori Grill, Nelson</td></tr><tr><td>Taste of India, Trail</td></tr><tr><td>Tea Garden Salon &amp; Spa, Nelson</td></tr><tr><td>Thor&#8217;s Pizza, Nelson</td></tr><tr><td>The Uphill Market, Nelson</td></tr><tr><td>Uptown Liquor Store, Castlegar</td></tr><tr><td>Trail Coffee Co., Trail</td></tr><tr><td>Ticca Tikka, Trail</td></tr><tr><td>Valhalla Inn, Creston</td></tr><tr><td>Vance Home Furnishing, Creston</td></tr><tr><td>Vienna Cafe, Nelson</td></tr><tr><td>Villa Motel, Nelson</td></tr><tr><td>Village Ski Hut, Nelson</td></tr><tr><td>Western Traveler Motel, Grand Forks</td></tr><tr><td>Westland Insurance Group, Grand Forks</td></tr><tr><td>West&#8217;s Department Store, Castlegar</td></tr><tr><td>Woodbury Resort, Kaslo</td></tr><tr><td>Working Ventures Insurance Solutions, Trail</td></tr><tr><td>Yum Son, Nelson</td></tr></tbody></table></figure>
+</div></div>
+
+
+
+<div class="wp-block-pb-accordion-item c-accordion__item js-accordion-item no-js" data-initially-open="false" data-click-to-close="true" data-auto-close="true" data-scroll="false" data-scroll-offset="0"><h4 id="at-66324" class="c-accordion__title js-accordion-controller" role="button">Trades, Transport, &amp; Equipment Operators</h4><div id="ac-66324" class="c-accordion__content">
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Employer Name</strong></td></tr><tr><td>A&amp;A Painting, Nelson</td></tr><tr><td>A3 Plumbing, Nelson</td></tr><tr><td>Ace Couriers, Castlegar/ Grand Forks</td></tr><tr><td>AGBH Logistics</td></tr><tr><td>Avail Custom Contracting, Nelson</td></tr><tr><td>Babe&#8217;s Automotive, Slocan</td></tr><tr><td>BC ECO Industrial Services, Nelson</td></tr><tr><td>Beau Painting, Creston</td></tr><tr><td>Boundary Electric, Grand Forks</td></tr><tr><td>Bright Workz Ultimate Autocare, Trail</td></tr><tr><td>Castle Fuels, Grand Forks</td></tr><tr><td>Castlegar Warehousing, Castlegar</td></tr><tr><td>Chinook Scaffold Systems, Castlegar</td></tr><tr><td>Columbia Drywall, Nelson</td></tr><tr><td>CPS Development, Kaslo</td></tr><tr><td>D.R. Drywall, Nelson</td></tr><tr><td>Four Lakes Mechanical, Nelson</td></tr><tr><td>GFL Environmental, Trail</td></tr><tr><td>Glendale Tires, Nelson</td></tr><tr><td>Heritage Roofing, Nelson</td></tr><tr><td>Hil-Tech Contracting, Trail</td></tr><tr><td>Integra Tire/ E&amp;A Tire, Castlegar</td></tr><tr><td>Integrity Subaru, Trail</td></tr><tr><td>J Brand Painting, Nelson</td></tr><tr><td>Kalawsky Chevrolet Buick GMC 1989, Castlegar</td></tr><tr><td>Kootenay Custom Tile, Fruitvale</td></tr><tr><td>Markin Contracting, Castlegar</td></tr><tr><td>Martech Electrical Systems, Castlegar</td></tr><tr><td>Martech Motor Winding, Castlegar</td></tr><tr><td>Marwest Industries Ltd., Castlegar</td></tr><tr><td>Mercer Forestry Services</td></tr><tr><td>Morrison Insulation, Castlegar</td></tr><tr><td>Mountain City Painting, Trail</td></tr><tr><td>Mountain Transport Institute</td></tr><tr><td>MS Johal Logistics, Castlegar/ Trail</td></tr><tr><td>Nelson Toyota, Nelson</td></tr><tr><td>Nolan&#8217;s Contracting, Nelson</td></tr><tr><td>North Mountain Construction, Nelson</td></tr><tr><td>OK Tire/ Practicar, Trail</td></tr><tr><td>Paradise Painters, Nelson</td></tr><tr><td>Pulpit Plumbing &amp; Heating, Nelson</td></tr><tr><td>Roalin Coal Transportation, Creston</td></tr><tr><td>Rokform Solutions, Castlegar</td></tr><tr><td>Rossland Collision, Rossland</td></tr><tr><td>RSD Holdings, Castlegar</td></tr><tr><td>Selkirk Beverages (OZ Holdings), Castlegar</td></tr><tr><td>Steinegg Cabinets</td></tr><tr><td>Stellar Painting, Nelson</td></tr><tr><td>The Sutherland Group, Salmo</td></tr><tr><td>Trail Roofing, Trail</td></tr><tr><td>Trowelex Rentals &amp; Sales, Castlegar</td></tr><tr><td>Valet Restorations, Castlegar</td></tr><tr><td>Valor Painting, Nelson</td></tr><tr><td>Venture Mechanical Systems, Castlegar</td></tr><tr><td>Wild West Drilling, Creston</td></tr><tr><td>Winmar Nelson</td></tr></tbody></table></figure>
+</div></div>
+
+
+
+<div class="wp-block-pb-accordion-item c-accordion__item js-accordion-item no-js" data-initially-open="false" data-click-to-close="true" data-auto-close="true" data-scroll="false" data-scroll-offset="0"><h4 id="at-66325" class="c-accordion__title js-accordion-controller" role="button">Manufacturing &amp; Utilities</h4><div id="ac-66325" class="c-accordion__content">
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Employer Name</strong></td></tr><tr><td>Accurasee Instruments, Trail</td></tr><tr><td>ATCO Wood Products, Fruitvale</td></tr><tr><td>Cirba Solutions, Trail</td></tr><tr><td>DHC Communications, Nelson</td></tr><tr><td>Drop Sprockets, South Slocan</td></tr><tr><td>Ernie&#8217;s Used Auto Parts, Castlegar</td></tr><tr><td>Grand Forks Bottle Depot, Grand Forks</td></tr><tr><td>Interfor, Castlegar</td></tr><tr><td>Interfor, Grand Forks</td></tr><tr><td>Kalesnikoff Lumber, Thrums</td></tr><tr><td>Kalesnikoff Mass Timber, Castlegar</td></tr><tr><td>KC Recycling, Trail</td></tr><tr><td>Kootenay Beds, Genelle</td></tr><tr><td>Mercer Celgar, Robson (Castlegar)</td></tr><tr><td>Nelson Leafs Recycling, Nelson</td></tr><tr><td>Nelson Naturals, Nelson</td></tr><tr><td>Popov Leather, Nelson</td></tr><tr><td>Silverking Soya, Nelson</td></tr><tr><td>Spearhead, Nelson</td></tr><tr><td>Sphere Environmental, Nelson</td></tr><tr><td>Trail Bottle Depot, Trail</td></tr><tr><td>TRC Timberworks, Nelson</td></tr><tr><td>Treasure Life Flour Mills, Creston</td></tr><tr><td>Valid Manufacturing, Nelson</td></tr><tr><td>Woody Nelson, RDCK Area F</td></tr></tbody></table></figure>
+</div></div>
+
+
+
+<h2 class="gb-headline gb-headline-d1e0c2d5 gb-headline-text">De-designated Employers</h2>
+
+
+
+<p class="wp-block-paragraph">An employer may be de-designated for a number of reasons. In some cases, this is administrative. For example, an employer may choose to voluntarily withdraw from the Pilot, the business may close, or the business may be sold. If a business is sold, the new ownership must meet the requirement of being in continuous, active operation under the same management for at least two years in the community before being eligible for designation.</p>
+
+
+
+<p class="wp-block-paragraph">An employer may also be de-designated if required program conditions are no longer met. This can include situations where the staff member who completed the mandatory trainings leaves the organization and a new authorized representative has not yet completed the required training.</p>
+
+
+
+<p class="wp-block-paragraph">More serious reasons for de-designation can include non-compliance with federal or provincial employment laws, violations of the Immigration and Refugee Protection Act (IRPA) or Regulations (IRPR), fraud or misrepresentation, charging fees to a candidate, or failing to meet program commitments.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Ancron Medical Clinic, Nelson</li>
+
+
+
+<li>Alkeme Bakery, Rossland</li>
+
+
+
+<li>Kootenay Columbia Wealth Management, Trail</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Please note: in 2026, gas stations are no longer eligible to be designated employers, therefore all gas stations will be de-designated.</p>
+
+
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"></p>
+		</div>
+
+			</div>
+</article>
+		</main>
+	</div>
+
+	
+	</div>
+</div>
+
+
+<div class="site-footer">
+				<div id="footer-widgets" class="site footer-widgets">
+				<div class="footer-widgets-container grid-container grid-parent">
+					<div class="inside-footer-widgets">
+							<div class="footer-widget-1 grid-parent grid-33 tablet-grid-50 mobile-grid-100">
+		<aside id="block-3" class="widget inner-padding widget_block widget_text">
+<p class="wp-block-paragraph"><sup>Funded by</sup></p>
+</aside><aside id="media_image-3" class="widget inner-padding widget_media_image"><a href="https://selkirk.ca/"><img width="1080" height="290" src="https://westkootenayimmigration.ca/wp-content/uploads/2025/09/Selkirk-College-2025-logo.png" class="image wp-image-7672  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://westkootenayimmigration.ca/wp-content/uploads/2025/09/Selkirk-College-2025-logo.png 1080w, https://westkootenayimmigration.ca/wp-content/uploads/2025/09/Selkirk-College-2025-logo-300x81.png 300w, https://westkootenayimmigration.ca/wp-content/uploads/2025/09/Selkirk-College-2025-logo-1024x275.png 1024w, https://westkootenayimmigration.ca/wp-content/uploads/2025/09/Selkirk-College-2025-logo-768x206.png 768w" sizes="auto, (max-width: 1080px) 100vw, 1080px" /></a></aside><aside id="media_image-9" class="widget inner-padding widget_media_image"><a href="https://www.sdecb.com/en/home/"><img width="300" height="115" src="https://westkootenayimmigration.ca/wp-content/uploads/2025/03/SDE-BC-Societe-de-developpement-economique-de-Colombie-Britannique.png" class="image wp-image-5789  attachment-full size-full" alt="Logo for Société de développement économique de la Colombie-Britannique" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" /></a></aside>	</div>
+		<div class="footer-widget-2 grid-parent grid-33 tablet-grid-50 mobile-grid-100">
+		<aside id="media_image-8" class="widget inner-padding widget_media_image"><h2 class="widget-title">Also funded by</h2><img width="1080" height="1098" src="https://westkootenayimmigration.ca/wp-content/uploads/2025/06/Logos-RDKB-RDCK.png" class="image wp-image-6112  attachment-full size-full" alt="Logos for Regional District of Kootenay Boundary and Regional District of Central Kootenay" style="max-width: 100%; height: auto;" title="Also funded by Selkirk College" decoding="async" loading="lazy" srcset="https://westkootenayimmigration.ca/wp-content/uploads/2025/06/Logos-RDKB-RDCK.png 1080w, https://westkootenayimmigration.ca/wp-content/uploads/2025/06/Logos-RDKB-RDCK-295x300.png 295w, https://westkootenayimmigration.ca/wp-content/uploads/2025/06/Logos-RDKB-RDCK-1007x1024.png 1007w, https://westkootenayimmigration.ca/wp-content/uploads/2025/06/Logos-RDKB-RDCK-768x781.png 768w" sizes="auto, (max-width: 1080px) 100vw, 1080px" /></aside>	</div>
+		<div class="footer-widget-3 grid-parent grid-33 tablet-grid-50 mobile-grid-100">
+		<aside id="media_image-7" class="widget inner-padding widget_media_image"><h2 class="widget-title">Deliverd by Community Futures Central Kootenay</h2><a href="http://futures.bc.ca"><img width="300" height="122" src="https://westkootenayimmigration.ca/wp-content/uploads/2025/03/CF_CentKoot-300x122.png" class="image wp-image-5795  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" title="Deliverd by Community Futures Central Kootenay" decoding="async" loading="lazy" srcset="https://westkootenayimmigration.ca/wp-content/uploads/2025/03/CF_CentKoot-300x122.png 300w, https://westkootenayimmigration.ca/wp-content/uploads/2025/03/CF_CentKoot-1024x415.png 1024w, https://westkootenayimmigration.ca/wp-content/uploads/2025/03/CF_CentKoot-768x311.png 768w, https://westkootenayimmigration.ca/wp-content/uploads/2025/03/CF_CentKoot-1536x623.png 1536w, https://westkootenayimmigration.ca/wp-content/uploads/2025/03/CF_CentKoot.png 1800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a></aside>	</div>
+						</div>
+				</div>
+			</div>
+					<footer class="site-info" aria-label="Site"  itemtype="https://schema.org/WPFooter" itemscope>
+			<div class="inside-site-info grid-container grid-parent">
+								<div class="copyright-bar">
+					<p class="has-text-align-left">&copy; 2026 Rural Community Immigration Pilot - West Kootenays   |   <a href="https://wk-rnip.ca/privacy-policy/">PRIVACY POLICY</a></p>
+<p class='webcred , has-text-align-right'>Website by <a href="https://bigbrowneyes.ca/" target="_blank">Maverick Design</a></p>				</div>
+			</div>
+		</footer>
+		</div>
+
+<a title="Scroll back to top" aria-label="Scroll back to top" rel="nofollow" href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300" role="button">
+					
+				</a><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/generatepress_child/*","/wp-content/themes/generatepress/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<script type="text/javascript">
+		function atomicBlocksShare( url, title, w, h ){
+			var left = ( window.innerWidth / 2 )-( w / 2 );
+			var top  = ( window.innerHeight / 2 )-( h / 2 );
+			return window.open(url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=600, height=600, top='+top+', left='+left);
+		}
+	</script>
+	<script id="generate-a11y">
+!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("pointerdown",(function(){e.classList.add("using-mouse")}),{passive:!0}),e.addEventListener("keydown",(function(){e.classList.remove("using-mouse")}),{passive:!0})}}();
+</script>
+<script id="generate-sticky-js" src="https://westkootenayimmigration.ca/wp-content/plugins/gp-premium/menu-plus/functions/js/sticky.min.js?ver=2.5.5"></script>
+<script id="pb-accordion-blocks-frontend-script-js" src="https://westkootenayimmigration.ca/wp-content/plugins/accordion-blocks/js/accordion-blocks.min.js?ver=1.5.0"></script>
+<script id="atomic-blocks-dismiss-js-js" src="https://westkootenayimmigration.ca/wp-content/plugins/atomic-blocks/dist/assets/js/dismiss.js?ver=1603925274"></script>
+<script id="generate-menu-js-before">
+var generatepressMenu = {"toggleOpenedSubMenus":true,"openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+//# sourceURL=generate-menu-js-before
+</script>
+<script id="generate-menu-js" src="https://westkootenayimmigration.ca/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.0"></script>
+<script id="generate-navigation-search-js-before">
+var generatepressNavSearch = {"open":"Open Search Bar","close":"Close Search Bar"};
+//# sourceURL=generate-navigation-search-js-before
+</script>
+<script id="generate-navigation-search-js" src="https://westkootenayimmigration.ca/wp-content/themes/generatepress/assets/js/navigation-search.min.js?ver=3.6.0"></script>
+<script id="generate-back-to-top-js-before">
+var generatepressBackToTop = {"smooth":true};
+//# sourceURL=generate-back-to-top-js-before
+</script>
+<script id="generate-back-to-top-js" src="https://westkootenayimmigration.ca/wp-content/themes/generatepress/assets/js/back-to-top.min.js?ver=3.6.0"></script>
+<script id="jetpack-stats-js-before">
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"175888319\",\"post\":\"6632\",\"tz\":\"-7\",\"srv\":\"westkootenayimmigration.ca\",\"j\":\"1:15.2\"}") ]);
+_stq.push([ "clickTrackerInit", "175888319", "6632" ]);
+//# sourceURL=jetpack-stats-js-before
+</script>
+<script data-wp-strategy="defer" defer id="jetpack-stats-js" src="https://stats.wp.com/e-202639.js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://westkootenayimmigration.ca/wp-includes/js/wp-emoji-release.min.js?ver=7.1.1"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://westkootenayimmigration.ca/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html>
