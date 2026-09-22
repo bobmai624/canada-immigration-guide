@@ -1,0 +1,387 @@
+[
+  {
+    "id": "vcc-hca",
+    "name": "医疗护理助理 HCA：国际生两年制",
+    "school": "Vancouver Community College（公立）",
+    "program": "Health Care Assistant Diploma (International Cohort)",
+    "length": "2年，4学期；64学分",
+    "international": "有独立国际生班；May/Sep intake；实时余位须另查",
+    "admission": "高中毕业、至少18岁。无3年英语授课证明者可用IELTS总分6.0、听说6.0、读写5.5（2年内）；另交英语声明及原居国警方证明。",
+    "tuition": "CAD47,789项目学费估算；另有保险、交通、学生费等；可每年涨至5%。不可当作一年学费。",
+    "pgwp": "学校逐项目名单列CIP51.3902及2年学制；可能符合PGWP，仍须CLB5、全日制和申请时限等个人条件。不是DLI整校保证。",
+    "noc": "33102（实际职责匹配后确认；居家支持岗位可能属于不同NOC）",
+    "pathway": "Care；取得Registry注册及合格工作。Health Authority要求卫生局直接雇佣和支持；私人养老院不能自动使用该stream。",
+    "licensing": "BC Care Aide & Community Health Worker Registry注册；实习前CRC、First Aid/CPR-C、FOODSAFE、TB、疫苗记录和N95；实习有早晚班。",
+    "risk": "适合愿做贴身照护、体力与英语沟通达标者；不是护士课程。实习不能完成会影响毕业；不保证卫生局offer。",
+    "sources": [
+      {
+        "url": "https://www.vcc.ca/international/programs/programs-ie/health-care-assistant/",
+        "title": "VCC Health Care Assistant Diploma",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.vcc.ca/applying/registration-services/english-language-proficiency-requirements/health-sciences/health-care-assistant/",
+        "title": "VCC HCA English requirements",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/",
+        "title": "VCC PGWP eligible programs",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program",
+        "title": "WelcomeBC selection of workers",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/for-workers",
+        "title": "WelcomeBC worker eligibility",
+        "checked": "2026-09-22"
+      }
+    ],
+    "evidence_scope": "官方项目全文与官方PGWP逐项名单核验；未核验具体班次空位。"
+  },
+  {
+    "id": "vcc-practical-nursing",
+    "name": "实用护理 LPN：国际申请排除案例",
+    "school": "Vancouver Community College（公立）",
+    "program": "Practical Nursing Diploma",
+    "length": "16个月，全日制，4个level；3年内完成",
+    "international": "项目明确限Canadian citizens/permanent residents；不能作为中国境外国际生可申请项目推荐。",
+    "admission": "高中毕业；English Studies12 B；Foundations Math11 C；3年内BIOL1602/同等人体解剖生理68%。另有PN专项英语要求，本次链接未返回数值，不用普通学院英语代替。",
+    "tuition": "网页CAD17,092为本地生估算，非国际学费；2027年9月课程/费用将调整。",
+    "pgwp": "本案例不构成国际生PGWP路线；不能由学校公立/DLI推导。",
+    "noc": "32101 Licensed practical nurses",
+    "pathway": "就业层面属于Care；入学身份门槛先排除。已有PR/公民身份者可作职业培训比较。",
+    "licensing": "毕业后须BCCNM申请与REx-PN等注册条件；CRC、CPR-BLS、TB、疫苗、N95影响临床安排。",
+    "risk": "不能把internationally trained nurses学历评估段落误读为接受international students。",
+    "sources": [
+      {
+        "url": "https://www.vcc.ca/programs/practical-nursing/",
+        "title": "VCC Practical Nursing",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.bccnm.ca/LPN/applications_registration/how_to_apply/Pages/BC_grad.aspx",
+        "title": "BCCNM practical nursing graduates",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program",
+        "title": "WelcomeBC selection of workers",
+        "checked": "2026-09-22"
+      }
+    ],
+    "evidence_scope": "官方网页明确国籍/PR限制；PN英文测试细项未完整取得。"
+  },
+  {
+    "id": "bcit-bsn",
+    "name": "注册护士 RN：国际申请排除案例",
+    "school": "British Columbia Institute of Technology（公立）",
+    "program": "Bachelor of Science in Nursing (BSN), Full-time",
+    "length": "3年；每年3学期（加速制）",
+    "international": "官方明确不接受international students。",
+    "admission": "竞争录取；英语Category2（English12 67%或同等）；数学及Chemistry11 73%；18学分先修各67%含英语、解剖生理、心理及通识；解剖生理须3年内；须已出最终成绩。",
+    "tuition": "本次未取得适用学费数字；不填国际学费。",
+    "pgwp": "本项目不作为境外国际生留学路线。",
+    "noc": "31301 Registered nurses and registered psychiatric nurses",
+    "pathway": "Care职业，但学校不开放国际生是先决排除条件。已有合法入学身份者另评估。",
+    "licensing": "毕业还须BCCNM RN注册及适用考试；CRC、疫苗和临床能力要求独立存在。",
+    "risk": "高中毕业并不等于可直接进此BSN；18学分先修、竞争成绩与身份都需满足。",
+    "sources": [
+      {
+        "url": "https://www.bcit.ca/programs/nursing-bachelor-of-science-in-nursing-full-time-8875bsn/",
+        "title": "BCIT Bachelor of Science in Nursing",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.bccnm.ca/RN/applications_registration/Pages/Default.aspx",
+        "title": "BCCNM RN registration",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program",
+        "title": "WelcomeBC selection of workers",
+        "checked": "2026-09-22"
+      }
+    ],
+    "evidence_scope": "官方国际生限制、学制与入学段落直接核验；费用未取得。"
+  },
+  {
+    "id": "douglas-ece",
+    "name": "幼教 ECE：教育与沟通型转行",
+    "school": "Douglas College（公立）",
+    "program": "Early Childhood Education Diploma (DPECES)",
+    "length": "2年／4学期，60学分",
+    "international": "国际项目清单明确列出，Fall/Winter；具体intake开放状况另查。",
+    "admission": "高中毕业；普通国际录取英语IELTS Academic6.5；一般Math11 60%须由学校确认该专业适用性。入学年12月31日前18岁、2推荐信、CRC及健康声明；实习前须20小时幼教场所工作/志愿证明。",
+    "tuition": "现行CAD682.40/学分；60学分机械计算CAD40,944（未含未来涨价及杂费）。30学分年学费CAD20,472。",
+    "pgwp": "学校指定CIP13.1015，与IRCC当前合格清单核对一致；仍受CLB5、全日制及其他个人条件限制。",
+    "noc": "42202中的Early childhood educator；不可与ECE assistant混同。",
+    "pathway": "Care定向资格须ECE Registry一年或五年证书，再评估雇主、offer、经验与邀请；课程录取不产生提名。",
+    "licensing": "毕业须申请ECE Registry资格；实习不是自动取得五年执照所需500小时毕业后工作经验。",
+    "risk": "适合接受幼儿日常照护、家长沟通与实习安排者。不能用短期assistant资格代替ECE定向条件。",
+    "sources": [
+      {
+        "url": "https://www.douglascollege.ca/program/dpeces",
+        "title": "Douglas Early Childhood Education Diploma",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.douglascollege.ca/admissions/requirements-and-assessment-testing/international-students-admission-requirements",
+        "title": "Douglas international admission requirements",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.douglascollege.ca/fees-and-finances/tuition-and-fee-estimator/tuition-and-fees-international-students",
+        "title": "Douglas international tuition and fees",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.douglascollege.ca/programs-and-courses/international-student-programs",
+        "title": "Douglas international programs and CIP codes",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html",
+        "title": "IRCC eligible fields of study",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program",
+        "title": "WelcomeBC selection of workers",
+        "checked": "2026-09-22"
+      }
+    ],
+    "evidence_scope": "项目、国际招生、学费、CIP均官方核验；学费总数是明示计算非学校套餐报价。"
+  },
+  {
+    "id": "nlc-welder",
+    "name": "焊接基础：较低语言门槛但工签时长风险",
+    "school": "Northern Lights College（公立）",
+    "program": "Welder Foundation Certificate",
+    "length": "840小时，约32周；Dawson Creek，September cohort",
+    "international": "网页公布International Fees；具体国际招生余位和LOA资格仍须学校确认。",
+    "admission": "IELTS5.5总分且单项5.0或指定英语课程；Math10 C+／Math11 C／Math12 C等替代；亦有ESTR037 67%或POWER替代路线。",
+    "tuition": "国际学费CAD12,987；网页费用合计CAD14,113.16，医疗保险注明每4个月计收，书本/PPE等另计。",
+    "pgwp": "CIP48.0508学校明列并在IRCC合格领域名单；32周不能自行换算为官方8个月。付款前要求学校书面确认正常学制、项目PGWP资格与预计可申请时长。",
+    "noc": "72106 Welders and related machine operators",
+    "pathway": "Build需要匹配offer及SkilledTradesBC有效trade certificate或registered apprenticeship；毕业证本身不足。",
+    "licensing": "Foundation仅为技术训练起点；后续雇主、工时、考试与SkilledTradesBC学徒/认证须分别解决。",
+    "risk": "适合动手能力与车间适应能力较强者；短课程的毕业后工作窗口不能覆盖或保证完整学徒认证。",
+    "sources": [
+      {
+        "url": "https://www.nlc.bc.ca/programs/welder-foundation-certificate/",
+        "title": "NLC Welder Foundation Certificate",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html",
+        "title": "IRCC eligible fields of study",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+        "title": "IRCC PGWP duration",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program",
+        "title": "WelcomeBC selection of workers",
+        "checked": "2026-09-22"
+      }
+    ],
+    "evidence_scope": "学制、费用、入学和CIP官方核验；国际余位及32周对应PGWP正常学制未确认。"
+  },
+  {
+    "id": "nic-electrician",
+    "name": "电工基础国际班：有PGWP标签但当前停止申请",
+    "school": "North Island College（公立）",
+    "program": "Electrician Foundation Harmonized Certificate – Technical Readiness Pathway",
+    "length": "32周，全日制面授；含8周基础模块；Comox Valley",
+    "international": "International applicants only；核验日页面标Applications closed，不能写成当前可递交。",
+    "admission": "项目页Requirements and courses动态区域未返回具体英语/数学成绩；需学校提供当前该special cohort录取要求。不能借用24周本地班门槛。",
+    "tuition": "国际学费CAD12,660；公布合计CAD14,080；工具、PPE、教材等另计。",
+    "pgwp": "NIC明确逐项目标PGWP eligible、CIP46.0301；IRCC领域清单有该代码。仍须个人资格、学校正式学制与实际获批时长审查。",
+    "noc": "72200/72201（依实际建筑或工业电工职责）",
+    "pathway": "Build；需匹配工作及SkilledTradesBC有效证书或registered apprenticeship。",
+    "licensing": "提供Level1技术训练基础；不等于Red Seal或独立持证电工。其后学徒雇主、工作训练和考试另计。",
+    "risk": "适合技术动手与基础数学较强者；当前关闭和入学要求证据缺口使其只能列观察清单。",
+    "sources": [
+      {
+        "url": "https://www.nic.bc.ca/programs/programs/trades-and-technical/electrician-foundation-certificate-special-cohort.html",
+        "title": "NIC Electrician Technical Readiness Pathway",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.nic.bc.ca/admissions/international-students/programs.html",
+        "title": "NIC international programs and PGWP",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/field-of-study.html",
+        "title": "IRCC eligible fields of study",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program",
+        "title": "WelcomeBC selection of workers",
+        "checked": "2026-09-22"
+      }
+    ],
+    "evidence_scope": "学制、国际专班、关闭状态、费用与CIP已核；动态录取要求未取得，明示待核。"
+  },
+  {
+    "id": "vcc-heavy",
+    "name": "重型机械维修：机械经验型转行",
+    "school": "Vancouver Community College（公立）",
+    "program": "Heavy Mechanical Technology Diploma (International Cohort)",
+    "length": "2年／4学期，60学分；5年内完成",
+    "international": "国际生专班；Jan/May/Sep，实际余位另查。",
+    "admission": "Composition/English10及WorkplaceMath10同等；英语可用IELTS Academic5.5、单项不低于5.0（完整申请时2年内有效）；普通国际申请年龄/学历要求。",
+    "tuition": "项目国际学费CAD40,369；另有工服、洗衣、保险及学生费等；年度可能上调。",
+    "pgwp": "VCC逐项名单CIP47.0302、2年；可能符合PGWP，仍须CLB5、全日制等条件。",
+    "noc": "72401重型设备机械师；课程也涉及卡车等，不是每份毕业工作都属于72401。",
+    "pathway": "Build72401方向；须核真实职责、雇主及SkilledTradesBC证书/注册学徒。",
+    "licensing": "学校描述训练至一学年学徒能力；毕业不是完整技工认证。没有本项目PLAR。",
+    "risk": "适合已有机械兴趣/经验、能搬运重件并适应噪音与体力工作者；不能把设备维修与设备操作员混同。",
+    "sources": [
+      {
+        "url": "https://www.vcc.ca/international/programs/programs-ie/heavy-mechanical-trades--international/",
+        "title": "VCC Heavy Mechanical Technology",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/",
+        "title": "VCC PGWP eligible programs",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/the-bc-provincial-nominee-program",
+        "title": "WelcomeBC selection of workers",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.vcc.ca/international/future-students/apply/english-requirements/",
+        "title": "VCC English entrance requirements",
+        "checked": "2026-09-22"
+      }
+    ],
+    "evidence_scope": "学制、学科门槛、国际学费、当前英语等值表和CIP官方核验；具体余位未确认。"
+  },
+  {
+    "id": "bcit-cst",
+    "name": "计算机系统技术：高强度软件训练",
+    "school": "British Columbia Institute of Technology（公立）",
+    "program": "Computer Systems Technology Diploma (Full-time)",
+    "length": "2年，全日制；Burnaby/Downtown Vancouver",
+    "international": "官方国际名单明确列出；项目页称January2027接受申请，September2026已关。",
+    "admission": "当前官方页面入口未返回首年英语/数学分数，不能以第三方67%等数字冒充已核；须取得BCIT本期录取要求。转学分规则不等于首次录取门槛。",
+    "tuition": "官方国际学费估算CAD52,000；非生活费总预算。",
+    "pgwp": "BCIT国际目录对此具体CST项目标PGWP；本次未取得BCIT自身六位CIP，需offer前确认；不得借用VCC同名CST的CIP。",
+    "noc": "潜在软件开发相关NOC，需按毕业后的真实职责核定，学历不能决定NOC。",
+    "pathway": "Innovate/High Economic Impact只是可能的就业后评估；旧Tech专属抽选不能作毕业保证。",
+    "licensing": "Co-op竞争录取，不保证岗位；学校明确工作负担重并建议学期内不工作。",
+    "risk": "适合有逻辑、编程兴趣和足够资金的申请人；依靠兼职支付全部成本与课程安排冲突。",
+    "sources": [
+      {
+        "url": "https://www.bcit.ca/programs/computer-systems-technology-diploma-full-time-5500dipma/",
+        "title": "BCIT Computer Systems Technology",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.bcit.ca/international-applicants/regular-credential-programs/",
+        "title": "BCIT international cohort programs",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news",
+        "title": "WelcomeBC news",
+        "checked": "2026-09-22"
+      }
+    ],
+    "evidence_scope": "学制、国际学费、PGWP目录标签核验；英语/数学首年门槛与具体CIP保留证据缺口。"
+  },
+  {
+    "id": "ubc-masc-ece",
+    "name": "电子与计算机工程研究硕士：专业本科与科研型",
+    "school": "University of British Columbia（公立）",
+    "program": "Master of Applied Science in Electrical and Computer Engineering",
+    "length": "学院标准24个月；项目实际2021–2024毕业统计平均2.7年，并非保证2年完成。",
+    "international": "国际申请开放；September2027一轮将于2026-10-15开放，申请截止2027-01-15（当前页面）。",
+    "admission": "认可四年制电子/计算机工程或紧密相关本科；通常至少B+（UBC76%）；偏好一等成绩及科研能力。IELTS7.0总分、各项6.0；无待英语培训条件录取。",
+    "tuition": "国际第一年CAD10,081.65；另学生费约CAD1,203.20及生活费。资助统计不是个人保证，必须看正式funding offer。",
+    "pgwp": "硕士学位无field-of-study限制；须CLB7及其他资格。至少8个月合格硕士可申请最高3年PGWP；不是专业或学校自动授权。",
+    "noc": "未来电子/计算机工程、软件、研究等岗位须按职责逐项核定。",
+    "pathway": "Innovate/现有worker路径；2026-04-23明确不启动新student streams，不能销售为旧BC硕博毕业直通。",
+    "licensing": "研究硕士不是自动P.Eng资格；研究完成与受监管工程执业资格分别评估。",
+    "risk": "适合专业基础与研究准备充分者；不适合普通低学历或零基础转行；导师匹配、研究延期和资助合同影响总成本。",
+    "sources": [
+      {
+        "url": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-applied-science-electrical-computer-engineering",
+        "title": "UBC ECE MASc",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://engineering.ubc.ca/programs/graduate-programs",
+        "title": "UBC Engineering graduate program comparison",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html",
+        "title": "IRCC PGWP eligibility",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html",
+        "title": "IRCC PGWP duration",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news",
+        "title": "WelcomeBC news",
+        "checked": "2026-09-22"
+      }
+    ],
+    "evidence_scope": "官方项目招生/学费与学院标准时长核验；没有任何个体录取、资助或毕业保证。"
+  },
+  {
+    "id": "vcc-cst",
+    "name": "计算机系统技术：明确学科门槛的软件转行备选",
+    "school": "Vancouver Community College（公立）",
+    "program": "Computer Systems Technology Diploma",
+    "length": "2年／4学期，60学分；5年内完成",
+    "international": "有国际招生项目页；September intake；实际余位另查。",
+    "admission": "高中毕业；English Studies12 C或同等（IELTS Academic6.5、各项6.0）；Foundation of Mathematics11 C+或同等。",
+    "tuition": "国际项目学费CAD37,950，杂费、教材、笔记本电脑等另计；学费可能逐年增加。",
+    "pgwp": "VCC逐项目清单CIP11.0501、2年制；学校称可能合格，须同时满足联邦CLB5、全日制及其他要求。",
+    "noc": "毕业后的软件开发/计算机岗位需按实际职责核NOC，课程名称不确定职业代码。",
+    "pathway": "现有Skilled Worker或其他适用渠道按真实工作审查；不能依靠旧Tech或未推出student streams。",
+    "licensing": "部分课程可PLAR，最多50%总学分来自PLAR/转学分；国际生须先确认对移民身份和PGWP的影响。",
+    "risk": "适合具备数学与英语基础、愿投入软件项目训练者。学费低于本清单BCIT CST，但未进行教学质量或个人录取竞争比较，不构成优劣排名。",
+    "sources": [
+      {
+        "url": "https://www.vcc.ca/international/programs/program-areas/technology/computer-systems-technology/",
+        "title": "VCC Computer Systems Technology",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.vcc.ca/international/future-students/apply/english-requirements/",
+        "title": "VCC English entrance requirements",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/",
+        "title": "VCC PGWP eligible programs",
+        "checked": "2026-09-22"
+      },
+      {
+        "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/news",
+        "title": "BC PNP News",
+        "checked": "2026-09-22"
+      }
+    ],
+    "evidence_scope": "具体学制、国际学费、学科与英语要求及学校CIP清单直接核验；未确认个人申请结果及具体班次余位。"
+  }
+]
