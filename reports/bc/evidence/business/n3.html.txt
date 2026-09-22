@@ -1,0 +1,494 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-CA"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-CA"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-CA"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-CA"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://rcipnorthokanaganshuswap.com/xmlrpc.php" />
+
+	<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v25.3.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Resources and Policies - RCIP North Okanagan-Shuswap</title>
+	<link rel="canonical" href="https://rcipnorthokanaganshuswap.com/resources-and-policies/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Resources and Policies - RCIP North Okanagan-Shuswap" />
+	<meta property="og:description" content="Note: When downloading the PDFs below, ensure you use the correct Adobe Reader. If you do not, you may receive an error message. RCIP Policies PIP25 &#8211; Program Integrity Policy and Procedures EDAP25 &#8211; Designation Application Policy ACRP25 &#8211; Application for Recommendation Policy IRP25 &#8211; Issue Resolution Policy RCIP Forms RCIP NOS Employer Designation Application&hellip;Continue reading &rarr;" />
+	<meta property="og:url" content="https://rcipnorthokanaganshuswap.com/resources-and-policies/" />
+	<meta property="og:site_name" content="RCIP North Okanagan-Shuswap" />
+	<meta property="article:modified_time" content="2026-09-10T16:34:33+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://rcipnorthokanaganshuswap.com/resources-and-policies/","url":"https://rcipnorthokanaganshuswap.com/resources-and-policies/","name":"Resources and Policies - RCIP North Okanagan-Shuswap","isPartOf":{"@id":"https://rcipnorthokanaganshuswap.com/#website"},"datePublished":"2025-04-22T16:49:08+00:00","dateModified":"2026-09-10T16:34:33+00:00","breadcrumb":{"@id":"https://rcipnorthokanaganshuswap.com/resources-and-policies/#breadcrumb"},"inLanguage":"en-CA","potentialAction":[{"@type":"ReadAction","target":["https://rcipnorthokanaganshuswap.com/resources-and-policies/"]}]},{"@type":"BreadcrumbList","@id":"https://rcipnorthokanaganshuswap.com/resources-and-policies/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://rcipnorthokanaganshuswap.com/"},{"@type":"ListItem","position":2,"name":"Resources and Policies"}]},{"@type":"WebSite","@id":"https://rcipnorthokanaganshuswap.com/#website","url":"https://rcipnorthokanaganshuswap.com/","name":"RCIP North Okanagan-Shuswap","description":"Rural Community Immigration Pilot","publisher":{"@id":"https://rcipnorthokanaganshuswap.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://rcipnorthokanaganshuswap.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-CA"},{"@type":"Organization","@id":"https://rcipnorthokanaganshuswap.com/#organization","name":"RCIP North Okanagan-Shuswap","url":"https://rcipnorthokanaganshuswap.com/","logo":{"@type":"ImageObject","inLanguage":"en-CA","@id":"https://rcipnorthokanaganshuswap.com/#/schema/logo/image/","url":"https://rcipnorthokanaganshuswap.com/wp-content/uploads/2025/02/RCIP-logo-white-300px.png","contentUrl":"https://rcipnorthokanaganshuswap.com/wp-content/uploads/2025/02/RCIP-logo-white-300px.png","width":300,"height":151,"caption":"RCIP North Okanagan-Shuswap"},"image":{"@id":"https://rcipnorthokanaganshuswap.com/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts.bunny.net' />
+<link rel='preconnect' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="RCIP North Okanagan-Shuswap &raquo; Feed" href="https://rcipnorthokanaganshuswap.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="RCIP North Okanagan-Shuswap &raquo; Comments Feed" href="https://rcipnorthokanaganshuswap.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://rcipnorthokanaganshuswap.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frcipnorthokanaganshuswap.com%2Fresources-and-policies%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://rcipnorthokanaganshuswap.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frcipnorthokanaganshuswap.com%2Fresources-and-policies%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/7.1.1/wp-includes/css/dist/block-library/style.min.css' media='all' />
+<style id="wp-block-library-theme-inline-css">
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote :where(cite),.wp-block-pullquote :where(footer),.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:hsla(0,0%,100%,.65)}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+/*# sourceURL=/wp-includes/css/dist/block-library/theme.min.css */
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/7.1.1/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/7.1.1/wp-includes/js/mediaelement/wp-mediaelement.min.css' media='all' />
+<style id="jetpack-sharing-buttons-style-inline-css">
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+/*# sourceURL=https://rcipnorthokanaganshuswap.com/wp-content/plugins/jetpack/_inc/blocks/sharing-buttons/view.css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--eclipse: #3a3a3a;--wp--preset--color--san-juan: #334861;--wp--preset--color--denim: #2979c7;--wp--preset--color--electric-violet: #8309e7;--wp--preset--color--cerise: #df49b8;--wp--preset--color--alizarin: #df312c;--wp--preset--color--pumpkin: #FF8228;--wp--preset--color--titanium-yellow: #eef000;--wp--preset--color--atlantis: #7ed934;--wp--preset--color--white-smoke: #eee;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 16px;--wp--preset--font-size--huge: 48px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:root { --wp--style--global--content-size: inherit;--wp--style--global--wide-size: inherit; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-eclipse-color{color: var(--wp--preset--color--eclipse) !important;}.has-san-juan-color{color: var(--wp--preset--color--san-juan) !important;}.has-denim-color{color: var(--wp--preset--color--denim) !important;}.has-electric-violet-color{color: var(--wp--preset--color--electric-violet) !important;}.has-cerise-color{color: var(--wp--preset--color--cerise) !important;}.has-alizarin-color{color: var(--wp--preset--color--alizarin) !important;}.has-pumpkin-color{color: var(--wp--preset--color--pumpkin) !important;}.has-titanium-yellow-color{color: var(--wp--preset--color--titanium-yellow) !important;}.has-atlantis-color{color: var(--wp--preset--color--atlantis) !important;}.has-white-smoke-color{color: var(--wp--preset--color--white-smoke) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-eclipse-background-color{background-color: var(--wp--preset--color--eclipse) !important;}.has-san-juan-background-color{background-color: var(--wp--preset--color--san-juan) !important;}.has-denim-background-color{background-color: var(--wp--preset--color--denim) !important;}.has-electric-violet-background-color{background-color: var(--wp--preset--color--electric-violet) !important;}.has-cerise-background-color{background-color: var(--wp--preset--color--cerise) !important;}.has-alizarin-background-color{background-color: var(--wp--preset--color--alizarin) !important;}.has-pumpkin-background-color{background-color: var(--wp--preset--color--pumpkin) !important;}.has-titanium-yellow-background-color{background-color: var(--wp--preset--color--titanium-yellow) !important;}.has-atlantis-background-color{background-color: var(--wp--preset--color--atlantis) !important;}.has-white-smoke-background-color{background-color: var(--wp--preset--color--white-smoke) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-eclipse-border-color{border-color: var(--wp--preset--color--eclipse) !important;}.has-san-juan-border-color{border-color: var(--wp--preset--color--san-juan) !important;}.has-denim-border-color{border-color: var(--wp--preset--color--denim) !important;}.has-electric-violet-border-color{border-color: var(--wp--preset--color--electric-violet) !important;}.has-cerise-border-color{border-color: var(--wp--preset--color--cerise) !important;}.has-alizarin-border-color{border-color: var(--wp--preset--color--alizarin) !important;}.has-pumpkin-border-color{border-color: var(--wp--preset--color--pumpkin) !important;}.has-titanium-yellow-border-color{border-color: var(--wp--preset--color--titanium-yellow) !important;}.has-atlantis-border-color{border-color: var(--wp--preset--color--atlantis) !important;}.has-white-smoke-border-color{border-color: var(--wp--preset--color--white-smoke) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-normal-font-size{font-size: var(--wp--preset--font-size--normal) !important;}.has-huge-font-size{font-size: var(--wp--preset--font-size--huge) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:where(.wp-block-gallery.is-layout-flex){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}:where(.wp-block-gallery.is-layout-grid){gap: var( --wp--style--gallery-gap-default, var( --gallery-block--gutter-size, var( --wp--style--block-gap, 0.5em ) ) );}
+:where(.wp-block-latest-posts.is-layout-flex){gap: 1.25em;}:where(.wp-block-latest-posts.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='normalize-css' href='https://rcipnorthokanaganshuswap.com/wp-content/themes/ephemeris/css/normalize.css?ver=8.0.1' media='all' />
+<link rel='stylesheet' id='font-awesome-6-css' href='https://rcipnorthokanaganshuswap.com/wp-content/themes/ephemeris/css/fontawesome-all.min.css?ver=6.6.0' media='all' />
+<link rel='stylesheet' id='unsemantic-grid-css' href='https://rcipnorthokanaganshuswap.com/wp-content/themes/ephemeris/css/unsemantic.css?ver=1.2.3' media='all' />
+<link rel='stylesheet' id='ephemeris-fonts-css' href='https://fonts.bunny.net/css?family=Open+Sans%3A400%2C400i%2C700%2C700i%7CDosis%3A700&#038;subset=latin&#038;display=fallback' media='all' />
+<link rel='stylesheet' id='ephemeris-style-css' href='https://rcipnorthokanaganshuswap.com/wp-content/themes/ephemeris/style.css?ver=7.1.1' media='all' />
+<style id="akismet-widget-style-inline-css">
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+/*# sourceURL=akismet-widget-style-inline-css */
+</style>
+<script id="jquery-core-js" src="https://c0.wp.com/c/7.1.1/wp-includes/js/jquery/jquery.min.js"></script>
+<script id="jquery-migrate-js" src="https://c0.wp.com/c/7.1.1/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script id="wk-tag-manager-script-js-after">
+function shouldTrack(){
+var trackLoggedIn = false;
+var loggedIn = false;
+if(!loggedIn){
+return true;
+} else if( trackLoggedIn ) {
+return true;
+}
+return false;
+}
+function hasWKGoogleAnalyticsCookie() {
+return (new RegExp('wp_wk_ga_untrack_' + document.location.hostname)).test(document.cookie);
+}
+if (!hasWKGoogleAnalyticsCookie() && shouldTrack()) {
+//Google Tag Manager
+(function (w, d, s, l, i) {
+w[l] = w[l] || [];
+w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+});
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true;
+j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'G-1KNPMV4BQY');
+}
+
+//# sourceURL=wk-tag-manager-script-js-after
+</script>
+<link rel="https://api.w.org/" href="https://rcipnorthokanaganshuswap.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://rcipnorthokanaganshuswap.com/wp-json/wp/v2/pages/4560" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rcipnorthokanaganshuswap.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.1" />
+<link rel='shortlink' href='https://rcipnorthokanaganshuswap.com/?p=4560' />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L2WJ1270VL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L2WJ1270VL');
+</script><style id="mystickymenu" type="text/css">#mysticky-nav { width:100%; position: static; height: auto !important; }#mysticky-nav.wrapfixed { position:fixed; left: 0px; margin-top:0px;  z-index: 99990; -webkit-transition: 0.3s; -moz-transition: 0.3s; -o-transition: 0.3s; transition: 0.3s; -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)"; filter: alpha(opacity=90); opacity:0.9; background-color: #f7f5e7;}#mysticky-nav.wrapfixed .myfixed{ background-color: #f7f5e7; position: relative;top: auto;left: auto;right: auto;}#mysticky-nav .myfixed { margin:0 auto; float:none; border:0px; background:none; max-width:100%; }</style>			<style type="text/css">
+																															</style>
+				<style>img#wpstats{display:none}</style>
+		<style type="text/css">@media only screen and (max-width: 1955px) {.site-content .grid-100 .alignwide {margin-left: 0;margin-right: 0;}.site-content .grid-100 .wp-block-table.alignwide {width: 100%;}.site-content .grid-100 figure.alignwide.wp-block-embed.is-type-video {width: 100%;}}.wp-block-group.alignwide.is-layout-constrained {max-width: 1915px;}.wp-block-group.alignfull.is-layout-constrained {max-width: none;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)) {max-width: 1515px;}.wp-block-cover .wp-block-cover__inner-container {max-width: 1515px;}.wp-block-cover.is-style-extended-inner-container .wp-block-cover__inner-container {max-width: 1915px;}</style><style type="text/css">.grid-container { max-width: 1555px; }.entry-header h1 { color: #3a3a3a; }.entry-header h1 a { color: #3a3a3a; }.entry-header h1 a:visited { color: #3a3a3a; }.entry-header h1 a:hover, .entry-header h1 a:active { color: #2c7dbe; }h1, h2, h3, h4, h5, h6 { color: #3a3a3a; }h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #2c7dbe; }h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited { color: #2c7dbe; }h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active, h6 a:active { color: #344860; }.site-content, .more-link { color: #3a3a3a; }a, .more-link { color: #2c7dbe; }a:visited, .more-link:visited { color: #2c7dbe; }a:hover, a:active, .more-link:hover, .more-link:active { color: #344860; }#footercontainer { background-color: #ffffff; }#footercreditscontainer { background-color: #ffffff; }.site-credits { color: #0b5e0a; }</style><meta name="generator" content="Elementor 4.0.6; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<style id="wp-custom-css">
+
+
+#bannercontainer {margin-top:170px;}
+
+.menu-item {max-width: 160px; text-align:center;}
+
+#masthead {
+  background:#ffff;
+  height:170px;
+  z-index:999;
+  margin:0 auto;
+  width:100%;
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+}
+</style>
+</head>
+
+<body itemscope="itemscope" itemtype="http://schema.org/CreativeWork" class="wp-singular page-template-default page page-id-4560 wp-custom-logo wp-embed-responsive wp-theme-ephemeris optn elementor-default elementor-kit-4">
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=G-1KNPMV4BQY" height="0" width="0"
+        style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+<main class="hfeed site" role="main">
+
+	<div class="visuallyhidden skip-link"><a href="#content" title="Skip to main content">Skip to main content</a></div>
+
+				<div class="top-header">
+			<div class="announcement-bar grid-container">
+				<div class="grid-100 tablet-grid-100 social-header"></div> <!-- /.grid-100.social-header -->			</div>
+		</div>
+
+		<div id="headercontainer">
+			
+			<header id="masthead" class="grid-container site-header" role="banner">
+				<div class="grid-40 tablet-grid-40 mobile-grid-100 site-title"><a href="https://rcipnorthokanaganshuswap.com/" class="custom-logo-link" rel="home"><img width="300" height="151" src="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2025/02/RCIP-logo-white-300px.png" class="custom-logo" alt="RCIP North Okanagan-Shuswap" decoding="async" /></a></div> <!-- /.grid-40.site-title --><div class="grid-60 tablet-grid-60 mobile-grid-100"><nav id="site-navigation" class="main-navigation" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div><div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu"><li id="menu-item-322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-322"><a href="https://rcipnorthokanaganshuswap.com/">Home</a></li>
+<li id="menu-item-4650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4650"><a href="https://rcipnorthokanaganshuswap.com/eligibility-requirements/">Eligibility Requirements</a></li>
+<li id="menu-item-4437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4437"><a href="https://rcipnorthokanaganshuswap.com/priority-sectors-nocs/">Priority Sectors and NOCs</a></li>
+<li id="menu-item-4460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4460"><a href="https://rcipnorthokanaganshuswap.com/employer-designation/">Employer Designation</a></li>
+<li id="menu-item-4651" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4560 current_page_item menu-item-4651"><a href="https://rcipnorthokanaganshuswap.com/resources-and-policies/" aria-current="page">Resources and Policies</a></li>
+<li id="menu-item-4652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4652"><a href="https://rcipnorthokanaganshuswap.com/faqs/">FAQs</a></li>
+</ul></div></nav> <!-- /.site-navigation.main-navigation --></div> <!-- /.grid-60 -->			</header> <!-- /#masthead.grid-container.site-header -->
+
+					</div> <!-- /#headercontainer -->
+		<div id="bannercontainer"><div class="banner grid-container"><div class="header-image grid-100"><a href="https://rcipnorthokanaganshuswap.com/" rel="home"><img src="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2023/01/cropped-Rural-and-Northern-Immigration-Pilot-4.png" srcset="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2023/01/cropped-Rural-and-Northern-Immigration-Pilot-4-300x72.png 300w, https://rcipnorthokanaganshuswap.com/wp-content/uploads/2023/01/cropped-Rural-and-Northern-Immigration-Pilot-4-1024x247.png 1024w, https://rcipnorthokanaganshuswap.com/wp-content/uploads/2023/01/cropped-Rural-and-Northern-Immigration-Pilot-4-768x185.png 768w, https://rcipnorthokanaganshuswap.com/wp-content/uploads/2023/01/cropped-Rural-and-Northern-Immigration-Pilot-4.png 1500w" width="1500" height="362" alt="RCIP North Okanagan-Shuswap"></a></div> <!-- .header-image.grid-100 --></div> <!-- /.banner.grid-container --></div> <!-- /#bannercontainer -->	
+<div id="maincontentcontainer">
+	<div id="content" class="grid-container site-content" role="main">
+
+				<div class="grid-75 tablet-grid-75 mobile-grid-100">
+
+			
+<article itemscope="itemscope" itemtype="http://schema.org/WebPage" id="post-4560" class="post-4560 page type-page status-publish hentry">
+					<header class="entry-header">
+			<h1 class="entry-title">Resources and Policies</h1>
+					</header>
+		
+	<div class="entry-content">
+		<p><strong>Note: When downloading the PDFs below, ensure you use the correct Adobe Reader. If you do not, you may receive an error message.</strong></p><p><strong>RCIP Policies</strong></p>
+<ul>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2025/04/PIP25-Program-Integrity-Policy-and-Procedures-1-1.pdf">PIP25 &#8211; Program Integrity Policy and Procedures</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2025/06/EDAP25-Designation-Application-Policy-002.pdf">EDAP25 &#8211; Designation Application Policy</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2025/04/ACRP25-Application-for-Recommendation-Policy.pdf">ACRP25 &#8211; Application for Recommendation Policy</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2025/08/IRP25-Issue-Resolution-Policy.pdf">IRP25 &#8211; Issue Resolution Policy</a></li>
+</ul><p><strong>RCIP Forms</strong></p>
+<ul>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/03/RCIP-NOS-Employer-Designation-Application-Form-2026-1.pdf">RCIP NOS Employer Designation Application Form 2026</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/06/RCIP-NOS-Employer-Designation-Guidelines-2026.pdf">RCIP NOS Employer Designation Guidelines -2026</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/01/IMM0247e-Offer-of-Employment.pdf">IMM0247e -Offer of Employment</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/03/IMM0248e-Schedule-1-2025.pdf">IMM0248e- Schedule 1 (2025)</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/03/RCIP-NOS-Recommendation-Application-Form-2026.pdf">RCIP NOS Recommendation Application Form 2026</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/07/RCIP-North-Okanagan-Shuswap-Additional-Information-Form-July-2026-1.pdf">RCIP North Okanagan Shuswap &#8211; Additional Information Form &#8211; July 2026</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/04/RCIP-North-Okanagan-Shuswap-Intent-to-Reside-Form-2026.pdf">RCIP North Okanagan-Shuswap &#8211; Intent to Reside Form 2026</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/02/RCIP-North-Okanagan-Shuswap-Secondary-NOC-Code-Request-Form-2026-1.pdf">RCIP North Okanagan Shuswap &#8211; Secondary NOC Code Request Form 2026</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/04/RCIP-North-Okanagan-Shuswap-Request-for-Reconsideration-Form.pdf">RCIP North Okanagan-Shuswap &#8211; Request for Reconsideration Form</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/04/RCIP-North-Okanagan-Shuswap-Employer-Recruitment-Record-2026.pdf">RCIP North Okanagan Shuswap &#8211; Employer Recruitment Record 2026</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/03/RCIP-North-Okanagan-Shuswap-Self-Scoring-Sheet-2026-1.xlsx">RCIP North Okanagan Shuswap &#8211; Self Scoring Sheet (2026)</a></li>
+</ul>
+<p> </p><p><strong>RCIP Resources</strong></p>
+<ul>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2025/05/RCIP-Glossary-April-2025.pdf">RCIP Glossary (April 2025)</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/01/Applicant-Step-by-Step-Guide-April-2025.pdf">Applicant Step by Step Guide (April 2025)</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/06/Employer-Step-by-Step-Guide-Feb-2026.pdf">Employer Step by Step Guide (Feb 2026)</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2025/04/Boundary-Map.pdf">Boundary Map</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2025/04/IRCC-Employer-Training-Links.pdf">IRCC Employer Training Links</a></li>
+<li><a href="https://rcip.northstarats.com/">RCIP Employer Platform</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/09/RCIP-North-Okanagan-Shuswap-Designated-Employers-List-Aug-31-2026.pdf">RCIP North Okanagan-Shuswap &#8211; Designated Employers List Aug 31, 2026</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/04/RCIP-North-Okanagan-Shuswap-Defining-Acceptable-Signatures.pdf">RCIP North Okanagan Shuswap-Defining Acceptable Signatures</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/04/RCIP-North-Okanagan-Shuswap-Post-Secondary-Education-Checklist.pdf">RCIP North Okanagan Shuswap &#8211; Post Secondary Education Checklist</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/04/RCIP-North-Okanagan-Shuswap-Volunteering-Professional-Networking.pdf">RCIP North Okanagan Shuswap &#8211; Volunteering &amp; Professional Networking</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/02/RCIP-North-Okanagan-Shuswap-2026-Priorities.pdf">RCIP North Okanagan-Shuswap 2026 Priorities</a></li>
+<li><a href="https://rcipnorthokanaganshuswap.com/wp-content/uploads/2026/05/RCIP-North-Okanagan-Shuswap-Document-Checklist-for-Recommendation-2026.pdf">RCIP North Okanagan Shuswap &#8211; Document Checklist for Recommendation 2026</a></li>
+</ul><ul>
+<li style="list-style-type: none;"> </li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="list-style-type: none;"> </li>
+</ul>
+</li>
+</ul>
+<h3>Recorded RCIP Information Sessions</h3>
+<p><iframe title="RCIP Employer Information Session 1" src="https://player.vimeo.com/video/1088823633?dnt=1&amp;app_id=122963" width="1131" height="636" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+<p></p>
+<p class="wp-block-paragraph"></p>			</div><!-- /.entry-content -->
+	<footer class="entry-meta">
+			</footer><!-- /.entry-meta -->
+	</article><!-- /#post -->
+
+		</div>
+		<div class="grid-25 tablet-grid-25 mobile-grid-100">
+
+	
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="block-34" class="widget widget_block">
+<div style="height:23px" aria-hidden="true" class="wp-block-spacer"></div>
+</aside>
+</div> <!-- /#secondary.widget-area -->
+
+</div>
+		
+	</div> <!-- /#content.grid-container.site-content -->
+</div> <!-- /#maincontentcontainer -->
+
+
+					<div id="footercontainer">
+						
+	<footer class="site-footer grid-container" role="contentinfo">
+						<div class="grid-33 tablet-grid-33 mobile-grid-100">
+					<div class="widget-area" role="complementary">
+						<aside id="block-32" class="widget widget_block">
+<div style="height:13px" aria-hidden="true" class="wp-block-spacer"></div>
+</aside>					</div>
+				</div> <!-- /.grid-33 tablet-grid-33 mobile-grid-100 -->
+							<div class="grid-33 tablet-grid-33 mobile-grid-100">
+					<div class="widget-area" role="complementary">
+						<aside id="block-18" class="widget widget_block">
+<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+</aside>					</div>
+				</div> <!-- /.grid-33 tablet-grid-33 mobile-grid-100 -->
+							<div class="grid-33 tablet-grid-33 mobile-grid-100">
+					<div class="widget-area" role="complementary">
+						<aside id="block-19" class="widget widget_block">
+<div style="height:73px" aria-hidden="true" class="wp-block-spacer"></div>
+</aside>					</div>
+				</div> <!-- /.grid-33 tablet-grid-33 mobile-grid-100 -->
+				</footer> <!-- /.site-footer.grid-container -->
+					</div> <!-- /.footercontainer -->
+		<div id="footercreditscontainer">
+						<div class="grid-container site-credits">
+				<div class="grid-100 footer-credits">
+					<p style="text-align: center">
+<p style="text-align: center"><a href="http://rcipnorthokanaganshuswap.com/?page_id=320">privacy policy</a></p>
+<p style="text-align: center">&copy; 2026  Community Futures North Okanagan</p>
+				</div> <!-- /.grid-100 -->
+			</div> <!-- /.grid-container.site-credits -->
+					</div> <!-- /.footercontainer -->
+	
+</main> <!-- /.hfeed.site -->
+
+	<a id="mobile-site-navigation" href="#cd-nav" class="mobile-navigation mobile-nav-trigger">
+		<div class="menu-hamburger">
+			<span class="line"></span>
+			<span class="line"></span>
+			<span class="line"></span>
+			<span class="mobile-nav-title">MENU</span>
+		</div>
+	</a>
+
+	<div id="cd-nav" class="grid-container cd-nav hide_on_load">
+		<div class="grid-100">
+			<div class="cd-navigation-wrapper">
+				<h2>Navigation</h2>
+
+				<nav role="navigation">
+					<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="mobile-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-322"><a href="https://rcipnorthokanaganshuswap.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4650"><a href="https://rcipnorthokanaganshuswap.com/eligibility-requirements/">Eligibility Requirements</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4437"><a href="https://rcipnorthokanaganshuswap.com/priority-sectors-nocs/">Priority Sectors and NOCs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4460"><a href="https://rcipnorthokanaganshuswap.com/employer-designation/">Employer Designation</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4560 current_page_item menu-item-4651"><a href="https://rcipnorthokanaganshuswap.com/resources-and-policies/" aria-current="page">Resources and Policies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4652"><a href="https://rcipnorthokanaganshuswap.com/faqs/">FAQs</a></li>
+</ul></div>				</nav>
+			</div><!-- .cd-navigation-wrapper -->
+		</div> <!-- .grid-100 -->
+	</div> <!-- .cd-nav -->
+
+	<div class="search-overlay">
+		<button type="button" class="search-close"><i class="far fa-times-circle"></i></button>
+		<form role="search" method="get" class="search-form" action="https://rcipnorthokanaganshuswap.com">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search&hellip;" value="" name="s"/>
+	</label>
+	<button type="submit" class="search-submit"><i class="fas fa-search"></i></button>
+<input type='hidden' name='lang' value='en' /></form>
+	</div>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/ephemeris/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script data-wp-strategy="defer" defer id="morphext-js-js" src="https://rcipnorthokanaganshuswap.com/wp-content/plugins/mystickymenu/js/morphext/morphext.min.js?ver=2.8.2"></script>
+<script id="welcomebar-frontjs-js-extra">
+var welcomebar_frontjs = {"ajaxurl":"https://rcipnorthokanaganshuswap.com/wp-admin/admin-ajax.php","days":"Days","hours":"Hours","minutes":"Minutes","seconds":"Seconds","ajax_nonce":"4d2c8e2cbc"};
+//# sourceURL=welcomebar-frontjs-js-extra
+</script>
+<script data-wp-strategy="defer" defer id="welcomebar-frontjs-js" src="https://rcipnorthokanaganshuswap.com/wp-content/plugins/mystickymenu/js/welcomebar-front.js?ver=2.8.2"></script>
+<script id="wp-hooks-js" src="https://c0.wp.com/c/7.1.1/wp-includes/js/dist/hooks.min.js"></script>
+<script id="wp-i18n-js" src="https://c0.wp.com/c/7.1.1/wp-includes/js/dist/i18n.min.js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="wp-private-apis-js" src="https://c0.wp.com/c/7.1.1/wp-includes/js/dist/private-apis.min.js"></script>
+<script id="wp-url-js" src="https://c0.wp.com/c/7.1.1/wp-includes/js/dist/url.min.js"></script>
+<script id="wp-api-fetch-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2026-08-13 22:25:14+0000","generator":"GlotPress\/4.1.0","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_CA"},"Could not get a valid response from the server.":["Could not get a valid response from the server."],"Unable to connect. Please check your Internet connection.":["Unable to connect. Please check your Internet connection."],"Media upload failed. If this is a photo or a large image, please scale it down and try again.":["Media upload failed. If this is a photo or a large image, please scale it down and try again."],"The response is not a valid JSON response.":["The response is not a valid JSON response."]}},"comment":{"reference":"wp-includes\/js\/dist\/api-fetch.js"}} );
+//# sourceURL=wp-api-fetch-js-translations
+</script>
+<script id="wp-api-fetch-js" src="https://c0.wp.com/c/7.1.1/wp-includes/js/dist/api-fetch.min.js"></script>
+<script id="wp-api-fetch-js-after">
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://rcipnorthokanaganshuswap.com/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "23e2d87b3c" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://rcipnorthokanaganshuswap.com/wp-admin/admin-ajax.php?action=rest-nonce";
+//# sourceURL=wp-api-fetch-js-after
+</script>
+<script id="ephemeris-common-js-js" src="https://rcipnorthokanaganshuswap.com/wp-content/themes/ephemeris/js/common.js?ver=0.1.1"></script>
+<script id="jetpack-stats-js-before">
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"184683866\",\"post\":\"4560\",\"tz\":\"0\",\"srv\":\"rcipnorthokanaganshuswap.com\",\"j\":\"1:14.7.1\"}") ]);
+_stq.push([ "clickTrackerInit", "184683866", "4560" ]);
+//# sourceURL=jetpack-stats-js-before
+</script>
+<script data-wp-strategy="defer" defer id="jetpack-stats-js" src="https://stats.wp.com/e-202639.js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://rcipnorthokanaganshuswap.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.1"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://rcipnorthokanaganshuswap.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+</body>
+
+</html>

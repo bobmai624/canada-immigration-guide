@@ -1,0 +1,320 @@
+[
+  {
+    "id": "base",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-program-guide-pdf",
+    "resolved_url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-program-guide-pdf",
+    "accessed_at": "2026-09-22T05:44:03.444379+00:00",
+    "sha256": "db92d5e04769066864bcef66f2f0889e68221b6b794f1abaecf98861cb09ea78",
+    "file": "business-evidence/base.pdf",
+    "status": "downloaded"
+  },
+  {
+    "id": "regional",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-regional-pilot-program-guide-pdf",
+    "resolved_url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-regional-pilot-program-guide-pdf",
+    "accessed_at": "2026-09-22T05:44:07.780043+00:00",
+    "sha256": "eac9ba58dd13d8d485506daeac77df3714e2975f0252f5d42dcbe9115b34cafb",
+    "file": "business-evidence/regional.pdf",
+    "status": "downloaded"
+  },
+  {
+    "id": "application",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-application-guide-pdf",
+    "resolved_url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-ei-application-guide-pdf",
+    "accessed_at": "2026-09-22T05:44:10.602273+00:00",
+    "sha256": "f8c2dca95efa1ba997dcb486da009e38f58fcf088f8fef0c4ce7704eab9bf84e",
+    "file": "business-evidence/application.pdf",
+    "status": "downloaded"
+  },
+  {
+    "id": "overview",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/for-entrepreneurs-and-businesses",
+    "resolved_url": "https://www.welcomebc.ca/immigrate-to-b-c/for-entrepreneurs-and-businesses",
+    "accessed_at": "2026-09-22T05:44:17.415192+00:00",
+    "sha256": "e7b3e8e7d820242b3aaef8431fd458cef986e61f9660c0451a9be5bf5ae9bd74",
+    "file": "business-evidence/overview.html",
+    "status": "downloaded"
+  },
+  {
+    "id": "B5",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
+    "accessed_at": "2026-09-22T05:50:02.528344+00:00",
+    "resolved_url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/invitations-to-apply",
+    "sha256": "9ddd53a4d744a91b7a8789e96b1e1eb04a1089209caf444043875616d6523f1a",
+    "file": "business-evidence/b5.html",
+    "bytes": 106247,
+    "status": "downloaded"
+  },
+  {
+    "id": "B6",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/regional-immigration",
+    "accessed_at": "2026-09-22T05:50:02.528523+00:00",
+    "resolved_url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/regional-immigration",
+    "sha256": "3a1ffb271ab752810072b9219106d307bff99e8cfd73cd5cc2441d26b5b7298f",
+    "file": "business-evidence/b6.html",
+    "bytes": 152912,
+    "status": "downloaded"
+  },
+  {
+    "id": "B7",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents",
+    "accessed_at": "2026-09-22T05:50:02.528571+00:00",
+    "resolved_url": "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/documents",
+    "sha256": "65d0947318b0c4ee4e10ae0e1fe200ecf0200470aef28c6f38423faff55d630e",
+    "file": "business-evidence/b7.html",
+    "bytes": 74904,
+    "status": "downloaded"
+  },
+  {
+    "id": "F1",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots.html",
+    "accessed_at": "2026-09-22T05:50:02.528606+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots.html",
+    "sha256": "6a454c605d49baf63084760f5dbae5aa2755ddeb53599ff3e761882213a06d94",
+    "file": "business-evidence/f1.html",
+    "bytes": 31854,
+    "status": "downloaded"
+  },
+  {
+    "id": "F2",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility.html",
+    "accessed_at": "2026-09-22T05:50:02.528639+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility.html",
+    "sha256": "5ac45b2643b2096fa6dbef0b6f24ad857ed68e250da1a87f8b947dcd1ba5073d",
+    "file": "business-evidence/f2.html",
+    "bytes": 26904,
+    "status": "downloaded"
+  },
+  {
+    "id": "F3",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/language-test.html",
+    "accessed_at": "2026-09-22T05:50:03.777957+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/language-test.html",
+    "sha256": "d1f26f8e3e75f42d0a99bcd09e0b9e8aeefb28cb1547c7190a81e441cab7bd93",
+    "file": "business-evidence/f3.html",
+    "bytes": 43382,
+    "status": "downloaded"
+  },
+  {
+    "id": "F4",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility.html",
+    "accessed_at": "2026-09-22T05:50:04.812788+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility.html",
+    "sha256": "7056e754cb137ecf59599d0149cdb3690a99d594197d5b91d38738ecd57d0ec9",
+    "file": "business-evidence/f4.html",
+    "bytes": 26951,
+    "status": "downloaded"
+  },
+  {
+    "id": "F5",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility/language-test.html",
+    "accessed_at": "2026-09-22T05:50:05.344539+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility/language-test.html",
+    "sha256": "1e958cd9964f57ffb2466a930640218b15e015cc257b0cea98bb8aec51583c6c",
+    "file": "business-evidence/f5.html",
+    "bytes": 39730,
+    "status": "downloaded"
+  },
+  {
+    "id": "F6",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/work-permit.html",
+    "accessed_at": "2026-09-22T05:50:05.345677+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/work-permit.html",
+    "sha256": "e9d96e519a99d13d2b2d1541e277944cd87ebcc1fb0e4d9db3d601fe691efe36",
+    "file": "business-evidence/f6.html",
+    "bytes": 290339,
+    "status": "downloaded"
+  },
+  {
+    "id": "F7",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/hire/designation.html",
+    "accessed_at": "2026-09-22T05:50:05.658186+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/hire/designation.html",
+    "sha256": "766a21dcea29850ef65e00b708c0005a8d2de34b2e1289bf630cb98ddfc40eae",
+    "file": "business-evidence/f7.html",
+    "bytes": 37849,
+    "status": "downloaded"
+  },
+  {
+    "id": "W1",
+    "url": "https://westkootenayimmigration.ca/september-intake-whats-next/",
+    "accessed_at": "2026-09-22T05:50:06.052555+00:00",
+    "status": "download_failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "id": "W2",
+    "url": "https://westkootenayimmigration.ca/priorities/",
+    "accessed_at": "2026-09-22T05:50:06.072385+00:00",
+    "status": "download_failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "id": "W3",
+    "url": "https://westkootenayimmigration.ca/designated-employers/",
+    "accessed_at": "2026-09-22T05:50:06.579603+00:00",
+    "resolved_url": "https://westkootenayimmigration.ca/designated-employers/",
+    "sha256": "26190c156860e6aad24d3163b81d289b1b7532789225a2b2bc23f6519f74a4bf",
+    "file": "business-evidence/w3.html",
+    "bytes": 83719,
+    "status": "downloaded"
+  },
+  {
+    "id": "W4",
+    "url": "https://westkootenayimmigration.ca/employer-designation/",
+    "accessed_at": "2026-09-22T05:50:07.750946+00:00",
+    "resolved_url": "https://westkootenayimmigration.ca/employer-designation/",
+    "sha256": "efb88b0c1e6d2870ea719e491af46b691e505cb6ece6bba85c6201609adcee6b",
+    "file": "business-evidence/w4.html",
+    "bytes": 74353,
+    "status": "downloaded"
+  },
+  {
+    "id": "N1",
+    "url": "https://rcipnorthokanaganshuswap.com/",
+    "accessed_at": "2026-09-22T05:50:07.959254+00:00",
+    "status": "download_failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "id": "N2",
+    "url": "https://rcipnorthokanaganshuswap.com/priority-sectors-nocs/",
+    "accessed_at": "2026-09-22T05:50:09.760338+00:00",
+    "status": "download_failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "id": "N3",
+    "url": "https://rcipnorthokanaganshuswap.com/resources-and-policies/",
+    "accessed_at": "2026-09-22T05:50:09.828161+00:00",
+    "resolved_url": "https://rcipnorthokanaganshuswap.com/resources-and-policies/",
+    "sha256": "08a5d0bbe0ebf332957508ba05253d59e4f1b6c95b6375ee4f901c27f598f465",
+    "file": "business-evidence/n3.html",
+    "bytes": 56045,
+    "status": "downloaded"
+  },
+  {
+    "id": "N4",
+    "url": "https://rcipnorthokanaganshuswap.com/faqs/",
+    "accessed_at": "2026-09-22T05:50:12.328961+00:00",
+    "resolved_url": "https://rcipnorthokanaganshuswap.com/faqs/",
+    "sha256": "7a975a3d791b411d1673f140f9cc54f54f1f019b5b190955a59a59247844a6d3",
+    "file": "business-evidence/n4.html",
+    "bytes": 58824,
+    "status": "downloaded"
+  },
+  {
+    "id": "P1",
+    "url": "https://www.nebcimmigration.ca/post/rcip-2026-candidate-intake-update-june-2026",
+    "accessed_at": "2026-09-22T05:50:14.144128+00:00",
+    "status": "download_failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "id": "P2",
+    "url": "https://www.nebcimmigration.ca/candidates",
+    "accessed_at": "2026-09-22T05:50:41.146633+00:00",
+    "resolved_url": "https://www.nebcimmigration.ca/candidates",
+    "sha256": "5dbc7da3bf95caba78d19359184d15459ba0bd23fcb4fe21bec0086963a0ab98",
+    "file": "business-evidence/p2.html",
+    "bytes": 922854,
+    "status": "downloaded"
+  },
+  {
+    "id": "P3",
+    "url": "https://www.nebcimmigration.ca/priority-occupations",
+    "accessed_at": "2026-09-22T05:50:41.147083+00:00",
+    "resolved_url": "https://www.nebcimmigration.ca/priority-occupations",
+    "sha256": "97cf6d7c5fe5cbe6cf9009f30e35e84f1008e35bdd63b5550b02bfdef2d597da",
+    "file": "business-evidence/p3.html",
+    "bytes": 484016,
+    "status": "downloaded"
+  },
+  {
+    "id": "P4",
+    "url": "https://www.nebcimmigration.ca/_files/ugd/c6258b_049cc44adc8b452f82bbb0a2f5f20019.pdf",
+    "accessed_at": "2026-09-22T05:50:43.339438+00:00",
+    "resolved_url": "https://www.nebcimmigration.ca/_files/ugd/c6258b_049cc44adc8b452f82bbb0a2f5f20019.pdf",
+    "sha256": "ec19c8137227eb0d46f5665b12ac4bda674385514d382fb2373e77e8fa0c9c4e",
+    "file": "business-evidence/p4.pdf",
+    "bytes": 48935,
+    "status": "downloaded"
+  },
+  {
+    "id": "K1",
+    "url": "https://www.sdecb.com/en/pilot-program/",
+    "accessed_at": "2026-09-22T05:50:43.350893+00:00",
+    "status": "download_failed",
+    "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+  },
+  {
+    "id": "K2",
+    "url": "https://docs.google.com/document/d/1z5oaVk7P8Eat5acl5ydVUpcZhPvZ0iJQPFPdQJm9fqY/edit?usp=sharing",
+    "accessed_at": "2026-09-22T05:50:43.635471+00:00",
+    "resolved_url": "https://docs.google.com/document/d/1z5oaVk7P8Eat5acl5ydVUpcZhPvZ0iJQPFPdQJm9fqY/edit?usp=sharing",
+    "sha256": "c1eddf0308b4adb4355e49d14269c9af90b5d36f8b7e7812f3a15e4a77513703",
+    "file": "business-evidence/k2.html",
+    "bytes": 620645,
+    "status": "downloaded"
+  },
+  {
+    "id": "T1",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/pr-work-permits/bridging.html",
+    "accessed_at": "2026-09-22T05:50:44.715806+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/pr-work-permits/bridging.html",
+    "sha256": "eefc14b7d9b2b26c0bf73800f7a2fb23ff29ad6ddf7f2aab8a38b329f6eac63b",
+    "file": "business-evidence/t1.html",
+    "bytes": 52392,
+    "status": "downloaded"
+  },
+  {
+    "id": "T2",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal/user-guide.html",
+    "accessed_at": "2026-09-22T05:50:44.889206+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal/user-guide.html",
+    "sha256": "8f9f39eaae43e4d9f3bb6ab958821e6ca6a900a820422abcc87213b3657be6d1",
+    "file": "business-evidence/t2.html",
+    "bytes": 82370,
+    "status": "downloaded"
+  },
+  {
+    "id": "T3",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employer-specific.html",
+    "accessed_at": "2026-09-22T05:50:44.946271+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employer-specific.html",
+    "sha256": "cbe3931676edf2ff85f1d577b52f988d0fb6a5e3b2326715a9798c134eb7e8e2",
+    "file": "business-evidence/t3.html",
+    "bytes": 31593,
+    "status": "downloaded"
+  },
+  {
+    "id": "T4",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit-outside/forms-documents.html",
+    "accessed_at": "2026-09-22T05:50:46.274245+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit-outside/forms-documents.html",
+    "sha256": "91dab1bafdac9828f0e50d257996630885ea112a14a025fecd00a3b2bcee800d",
+    "file": "business-evidence/t4.html",
+    "bytes": 95649,
+    "status": "downloaded"
+  },
+  {
+    "id": "T5",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/apply.html",
+    "accessed_at": "2026-09-22T05:50:47.030143+00:00",
+    "resolved_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/apply.html",
+    "sha256": "680193102313450670536f162257b37ccb9e1114c28980e16556cf76dcf0b8c3",
+    "file": "business-evidence/t5.html",
+    "bytes": 51844,
+    "status": "downloaded"
+  },
+  {
+    "id": "B8",
+    "url": "https://www.welcomebc.ca/immigrate-to-b-c/bc-pnp-si-post-nomination-guide-pdf",
+    "checked": "2026-09-22",
+    "status": "downloaded",
+    "method": "copy of same-session official snapshot from main research evidence",
+    "file": "business-evidence/b8.pdf",
+    "sha256": "50a5f96520e6df7c220a101420237baa14f57b670378d120e2089dd63c08c760",
+    "bytes": 718177
+  }
+]
