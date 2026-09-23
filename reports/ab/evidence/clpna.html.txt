@@ -1,0 +1,1152 @@
+<!doctype html>
+<html lang="en-CA">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="icon" href="https://www.clha.com/wp-content/themes/CLPNA/assets/images/CLHA-Icon.png" sizes="32x32" />
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap"
+		rel="stylesheet">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>College of LPNs and HCAs of Alberta - CLHA</title>
+	<meta name="description" content="The CLHA is the regulatory college for Alberta&#039;s Licensed Practical Nurses and Health Care Aides. Our first responsibility is to the public." />
+	<link rel="canonical" href="https://www.clha.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="College of LPNs and HCAs of Alberta - CLHA" />
+	<meta property="og:description" content="The CLHA is the regulatory college for Alberta&#039;s Licensed Practical Nurses and Health Care Aides. Our first responsibility is to the public." />
+	<meta property="og:url" content="https://www.clha.com/" />
+	<meta property="og:site_name" content="CLHA" />
+	<meta property="article:publisher" content="https://www.facebook.com/CLPNA/" />
+	<meta property="article:modified_time" content="2026-09-08T17:20:39+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@clpna" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.clha.com/","url":"https://www.clha.com/","name":"College of LPNs and HCAs of Alberta - CLHA","isPartOf":{"@id":"https://www.clha.com/#website"},"about":{"@id":"https://www.clha.com/#organization"},"datePublished":"2023-07-10T21:57:22+00:00","dateModified":"2026-09-08T17:20:39+00:00","description":"The CLHA is the regulatory college for Alberta's Licensed Practical Nurses and Health Care Aides. Our first responsibility is to the public.","breadcrumb":{"@id":"https://www.clha.com/#breadcrumb"},"inLanguage":"en-CA","potentialAction":[{"@type":"ReadAction","target":["https://www.clha.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.clha.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.clha.com/#website","url":"https://www.clha.com/","name":"CLHA","description":"","publisher":{"@id":"https://www.clha.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.clha.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-CA"},{"@type":"Organization","@id":"https://www.clha.com/#organization","name":"College of Licensed Practical Nurses of Alberta","url":"https://www.clha.com/","logo":{"@type":"ImageObject","inLanguage":"en-CA","@id":"https://www.clha.com/#/schema/logo/image/","url":"https://www.clha.com/wp-content/uploads/2023/07/Logo-CLPNA.svg","contentUrl":"https://www.clha.com/wp-content/uploads/2023/07/Logo-CLPNA.svg","width":1,"height":1,"caption":"College of Licensed Practical Nurses of Alberta"},"image":{"@id":"https://www.clha.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/CLPNA/","https://x.com/clpna","https://www.youtube.com/user/CLPNA","https://www.linkedin.com/company-beta/406488/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.clha.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.clha.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.clha.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.clha.com%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='theme_css-css' href='https://www.clha.com/wp-content/themes/CLPNA/dist/app.css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://www.clha.com/wp-content/plugins/add-to-any/addtoany.min.css' media='all' />
+<script id="addtoany-core-js-before">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Share",
+	Save: "Save",
+	Subscribe: "Subscribe",
+	Email: "Email",
+	Bookmark: "Bookmark",
+	ShowAll: "Show All",
+	ShowLess: "Show less",
+	FindServices: "Find service(s)",
+	FindAnyServiceToAddTo: "Instantly find any service to add to",
+	PoweredBy: "Powered by",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Bookmark in your browser",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Add to your favourites",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;",
+	ThanksForSharing: "Thanks for sharing!",
+	ThanksForFollowing: "Thanks for following!"
+};
+
+
+//# sourceURL=addtoany-core-js-before
+</script>
+<script id="addtoany-core-js" defer src="https://static.addtoany.com/menu/page.js"></script>
+<script id="jquery-core-js-extra">
+var clpnadata = {"ajaxurl":"https://www.clha.com/wp-admin/admin-ajax.php"};
+//# sourceURL=jquery-core-js-extra
+</script>
+<script id="jquery-core-js" src="https://www.clha.com/wp-includes/js/jquery/jquery.min.js"></script>
+<script id="jquery-migrate-js" src="https://www.clha.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script id="addtoany-jquery-js" defer src="https://www.clha.com/wp-content/plugins/add-to-any/addtoany.min.js"></script>
+<link rel="https://api.w.org/" href="https://www.clha.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.clha.com/wp-json/wp/v2/pages/187" /><script type="text/javascript" src="https://www.bugherd.com/sidebarv2.js?apikey=yztejcovyngcgq9xrjlyiw" async="true"></script><link rel="icon" href="https://www.clha.com/wp-content/uploads/2026/01/CLHA-Icon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://www.clha.com/wp-content/uploads/2026/01/CLHA-Icon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.clha.com/wp-content/uploads/2026/01/CLHA-Icon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://www.clha.com/wp-content/uploads/2026/01/CLHA-Icon-300x300.png" />
+<style id="wp-custom-css">
+.alert-banner-hca p {
+    margin: 0;
+}
+.alert-banner-hca {
+    padding: 15px 0;
+}
+</style>
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-JDR10GPT7R"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+	gtag('config', 'G-JDR10GPT7R');
+	</script>
+</head>
+
+<body class="home wp-singular page-template page-template-templates page-template-template-flexible_layout_other page-template-templatestemplate-flexible_layout_other-php page page-id-187 wp-theme-CLPNA unknown">
+		<div class="wrapper pt-[69px] md:pt-[125px]">
+
+		<!-- -->
+		<nav
+			class="lg:hidden mobileNavWrapper ">
+
+			<div class="text-sm h-auto grow mobileNav nav relative z-30 w-full">
+				<span class="hamburgerclose cursor-pointer absolute right-5 top-0 z-10"><svg width="20" height="20"
+						viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<path fill-rule="evenodd" clip-rule="evenodd"
+							d="M10 8.59824L16.3079 2.29031C16.695 1.90323 17.3226 1.90323 17.7097 2.29031C18.0968 2.6774 18.0968 3.30499 17.7097 3.69208L11.4018 10L17.7097 16.3079C18.0968 16.695 18.0968 17.3226 17.7097 17.7097C17.3226 18.0968 16.695 18.0968 16.3079 17.7097L10 11.4018L3.69208 17.7097C3.30499 18.0968 2.6774 18.0968 2.29031 17.7097C1.90323 17.3226 1.90323 16.695 2.29031 16.3079L8.59824 10L2.29031 3.69208C1.90323 3.30499 1.90323 2.6774 2.29031 2.29031C2.6774 1.90323 3.30499 1.90323 3.69208 2.29031L10 8.59824Z"
+							fill=" #662D91 " />
+					</svg> </span>
+				<div class="flex justify-between bg-white pb-5 mobileMenuHeader">
+					<span class="h-5">Menu</span>
+				</div>
+				<div class="nav relative h-full" data-menu="main">
+					<div class=" pb-[27px] flex">
+
+						
+						
+						<div class="primaryItem navItem flex opacity-100 flex-row !w-1/3 py-3 ">
+														<button data-gotomenu="0" class="menuDown justify-between !ml-0 !px-0 w-full"><a
+									class="text-sm !text-black block text-center">
+									For the Public								</a>
+								<!--<img src="https://www.clha.com/wp-content/themes/CLPNA/assets/images/icon-arrow-right-grey.svg" alt="sub menu">--><span
+									class="sr-only">Sub Menu</span>
+							</button>
+													</div>
+
+						<div class="nav z-40 absolute top-0 w-full flex flex-col text-sm translate-x-full bg-white"
+							data-menu="0">
+
+							<div class="flex flex-row h-auto cursor-pointer navItemBack pb-4">
+								<button data-gotomenu="main" class="menuUp flex justify-end items-center"><svg
+										width="20" height="20" viewBox="0 0 20 20" fill="none"
+										xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" clip-rule="evenodd"
+											d="M18 11L18 10L7 10L7 7L3 10.5L7 14L7 11L18 11Z"
+											fill=" #662D91 " />
+									</svg>
+									<div class="w-full font-bold ml-1.5">Back to menu</div>
+								</button>
+
+							</div>
+
+							<div>
+																<a class="text-sm !text-black font-bold mb-3 block"
+									href="https://www.clha.com/for-the-public/"
+									target="_self">
+									For the Public Overview								</a>
+																
+								<ul class="secondaryItem navItem border-t-[3px] border-white">
+									<li>
+										<a class="!text-black" href="https://www.clha.com/for-the-public/public-registry-employer-verification/"
+											target="_self">Public Register &amp; Employer Verification</a>
+
+																			</li>
+								</ul>
+
+																
+								<ul class="secondaryItem navItem border-t-[3px] border-white">
+									<li>
+										<a class="!text-black" href="https://www.clha.com/for-the-public/complaints/"
+											target="_self">Complaints</a>
+
+																				<ul>
+																						<li><a class="!text-black" href="https://www.clha.com/for-the-public/complaints/make-a-complaint/"
+													target="_self">Make a Complaint</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/for-the-public/complaints/complaints-process/"
+													target="_self">Complaints Process</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/for-the-public/complaints/hearings-process/"
+													target="_self">Hearings</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/for-the-public/complaints/sexual-abuse-and-misconduct/"
+													target="_self">Sexual Abuse and Misconduct</a>
+											</li>
+																																											</ul>
+																			</li>
+								</ul>
+
+																
+								<ul class="secondaryItem navItem border-t-[3px] border-white">
+									<li>
+										<a class="!text-black" href="https://www.clha.com/for-the-public/education/"
+											target="_self">Education</a>
+
+																				<ul>
+																						<li><a class="!text-black" href="https://www.clha.com/for-the-public/practical-nurse-education/approved-pn-programs/"
+													target="_self">Approved PN Programs</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/for-the-public/education/cpnre-statistics/"
+													target="_self">CPNRE Statistics</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/for-the-public/health-care-aide-education/approved-health-care-aide-programs/"
+													target="_self">Approved HCA Programs</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/for-the-public/education/ahre-statistics/"
+													target="_self">AHRE Statistics</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/for-the-public/practical-nurse-education/program-review-information/"
+													target="_self">Program Review Information</a>
+											</li>
+																																</ul>
+																			</li>
+								</ul>
+
+								
+															</div>
+						</div>
+
+						
+						<div class="primaryItem navItem flex opacity-100 flex-row !w-1/3 py-3 ">
+														<button data-gotomenu="1" class="menuDown justify-between !ml-0 !px-0 w-full"><a
+									class="text-sm !text-black block text-center">
+									About CLHA								</a>
+								<!--<img src="https://www.clha.com/wp-content/themes/CLPNA/assets/images/icon-arrow-right-grey.svg" alt="sub menu">--><span
+									class="sr-only">Sub Menu</span>
+							</button>
+													</div>
+
+						<div class="nav z-40 absolute top-0 w-full flex flex-col text-sm translate-x-full bg-white"
+							data-menu="1">
+
+							<div class="flex flex-row h-auto cursor-pointer navItemBack pb-4">
+								<button data-gotomenu="main" class="menuUp flex justify-end items-center"><svg
+										width="20" height="20" viewBox="0 0 20 20" fill="none"
+										xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" clip-rule="evenodd"
+											d="M18 11L18 10L7 10L7 7L3 10.5L7 14L7 11L18 11Z"
+											fill=" #662D91 " />
+									</svg>
+									<div class="w-full font-bold ml-1.5">Back to menu</div>
+								</button>
+
+							</div>
+
+							<div>
+																<a class="text-sm !text-black font-bold mb-3 block"
+									href="https://www.clha.com/about-the-clpna/"
+									target="_self">
+									About CLHA Overview								</a>
+																
+								<ul class="secondaryItem navItem border-t-[3px] border-white">
+									<li>
+										<a class="!text-black" href="https://www.clha.com/about-the-clpna/council-governance/"
+											target="_self">Council &amp; Governance</a>
+
+																				<ul>
+																						<li><a class="!text-black" href="https://www.clha.com/about-the-clpna/council-governance/council-members/"
+													target="_self">Council</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/about-the-clpna/council-governance/committees/"
+													target="_self">Committees</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/about-the-clpna/legislation-bylaws/"
+													target="_self">Legislation &amp; Bylaws</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/about-the-clpna/council-governance/annual-report-strategic-plan/"
+													target="_self">Annual Report &amp; Strategic Plan</a>
+											</li>
+																																</ul>
+																			</li>
+								</ul>
+
+																
+								<ul class="secondaryItem navItem border-t-[3px] border-white">
+									<li>
+										<a class="!text-black" href="https://www.clha.com/about-the-clpna/research/"
+											target="_self">Research</a>
+
+																				<ul>
+																																											</ul>
+																			</li>
+								</ul>
+
+																
+								<ul class="secondaryItem navItem border-t-[3px] border-white">
+									<li>
+										<a class="!text-black" href="https://www.clha.com/about-the-clpna/about-lpns/"
+											target="_self">About LPNs</a>
+
+																				<ul>
+																						<li><a class="!text-black" href="https://www.clha.com/about-the-clpna/about-lpns/lpns-in-alberta/"
+													target="_self">LPNs in Alberta</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/about-the-clpna/about-lpns/alberta-lpn-statistics/"
+													target="_self">LPN Statistics</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/about-the-clpna/about-lpns/history-of-alberta-lpns/"
+													target="_self">History of Alberta LPNs</a>
+											</li>
+																																</ul>
+																			</li>
+								</ul>
+
+																
+								<ul class="secondaryItem navItem border-t-[3px] border-white">
+									<li>
+										<a class="!text-black" href="https://www.clha.com/about-the-clpna/about-hcas/"
+											target="_self">About HCAs</a>
+
+																				<ul>
+																						<li><a class="!text-black" href="https://www.clha.com/about-the-clpna/hca-regulation/"
+													target="_self">HCA Regulation</a>
+											</li>
+																																	<li><a class="!text-black" href="https://www.clha.com/about-the-clha/about-hcas/hca-statistics/"
+													target="_self">HCA Statistics</a>
+											</li>
+																																											</ul>
+																			</li>
+								</ul>
+
+								
+															</div>
+						</div>
+
+						
+						<div class="primaryItem navItem flex opacity-100 flex-row !w-1/3 py-3 ">
+														<button data-gotomenu="2" class="menuDown justify-between !ml-0 !px-0 w-full"><a
+									class="text-sm !text-black block text-center">
+									Contact								</a>
+								<!--<img src="https://www.clha.com/wp-content/themes/CLPNA/assets/images/icon-arrow-right-grey.svg" alt="sub menu">--><span
+									class="sr-only">Sub Menu</span>
+							</button>
+													</div>
+
+						<div class="nav z-40 absolute top-0 w-full flex flex-col text-sm translate-x-full bg-white"
+							data-menu="2">
+
+							<div class="flex flex-row h-auto cursor-pointer navItemBack pb-4">
+								<button data-gotomenu="main" class="menuUp flex justify-end items-center"><svg
+										width="20" height="20" viewBox="0 0 20 20" fill="none"
+										xmlns="http://www.w3.org/2000/svg">
+										<path fill-rule="evenodd" clip-rule="evenodd"
+											d="M18 11L18 10L7 10L7 7L3 10.5L7 14L7 11L18 11Z"
+											fill=" #662D91 " />
+									</svg>
+									<div class="w-full font-bold ml-1.5">Back to menu</div>
+								</button>
+
+							</div>
+
+							<div>
+																<a class="text-sm !text-black font-bold mb-3 block"
+									href="https://www.clha.com/contact/"
+									target="_self">
+									Contact Us								</a>
+																
+								<ul class="secondaryItem navItem border-t-[3px] border-white">
+									<li>
+										<a class="!text-black" href="https://www.clha.com/contact/ask-clpna/"
+											target="_self">Ask CLHA</a>
+
+																			</li>
+								</ul>
+
+																
+								<ul class="secondaryItem navItem border-t-[3px] border-white">
+									<li>
+										<a class="!text-black" href="https://www.clha.com/contact/employment/"
+											target="_self">Employment</a>
+
+																			</li>
+								</ul>
+
+																
+								<ul class="secondaryItem navItem border-t-[3px] border-white">
+									<li>
+										<a class="!text-black" href="https://www.clha.com/contact/media-relations/"
+											target="_self">Media Relations</a>
+
+																			</li>
+								</ul>
+
+																
+								<ul class="secondaryItem navItem border-t-[3px] border-white">
+									<li>
+										<a class="!text-black" href="https://www.clha.com/contact/other-licensing-authorities/"
+											target="_self">Other Licensing Authorities</a>
+
+																			</li>
+								</ul>
+
+								
+															</div>
+						</div>
+
+																	</div>
+
+
+
+									</div>
+
+								<div class="menu-buttons flex h-[34px] bg-white mb-5 px-1">
+															<a style="filter: drop-shadow(0 1px 4px rgba(71, 109, 148, 0.39));"
+						class="0 flex items-center text-black-text text-sm font-bold px-1.5 bg-white"
+						href="https://www.clha.com/lpn/lpns/"
+						target="_self">						<img class="mr-1 menu-buttons-icon-normal"
+							src="https://www.clha.com/wp-content/uploads/2025/09/icon-lpn.svg"
+							alt="">						<img class="mr-1 menu-buttons-icon-hover"
+							src="https://www.clha.com/wp-content/uploads/2025/09/icon-lpn-hca-hover.svg"
+							alt="">LPNs</a>
+																				<a style="filter: drop-shadow(0 1px 4px rgba(71, 109, 148, 0.39));"
+						class="1 flex items-center text-black-text text-sm font-bold px-1.5 bg-white"
+						href="https://www.clha.com/hca/hcas/"
+						target="_self">						<img class="mr-1 menu-buttons-icon-normal"
+							src="https://www.clha.com/wp-content/uploads/2025/09/icon-hca.svg"
+							alt="">						<img class="mr-1 menu-buttons-icon-hover"
+							src="https://www.clha.com/wp-content/uploads/2025/09/icon-lpn-hca-hover.svg"
+							alt="">HCAs</a>
+																				<div class="btn-mycl"><a
+							class="flex itmes-center font-medium text-sm text-white bg-yellow border border-yellow-50 shadow-[0px_5px_15px_0px_rgba(38,45,51,0.08)] lg:rounded-[0px_0px_6px_6px] border-solid px-1 pt-1 pb-[3px]"
+							style="filter: drop-shadow(0 1px 4px rgba(71, 109, 148, 0.39));"
+							href="https://myclha.com/" target="_blank"><img
+								src="https://www.clha.com/wp-content/themes/CLPNA/assets/images/icon-man.svg" alt="icon man"
+								class="mr-1">MyCLHA</a></div>
+									</div>
+				
+				<div class="mobileBottomLinks relative h-[50px] flex items-center flex-wrap mt-5 hidden">
+					<a href="javascript:void(0)" id="desktop-search-close"
+						class="desktop-search-close invisible absolute right-[66px]  z-10 h-10 top-[10px]">
+						<span class="sr-only">Close search</span>
+						<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<path fill-rule="evenodd" clip-rule="evenodd"
+								d="M10 8.59824L16.3079 2.29031C16.695 1.90323 17.3226 1.90323 17.7097 2.29031C18.0968 2.6774 18.0968 3.30499 17.7097 3.69208L11.4018 10L17.7097 16.3079C18.0968 16.695 18.0968 17.3226 17.7097 17.7097C17.3226 18.0968 16.695 18.0968 16.3079 17.7097L10 11.4018L3.69208 17.7097C3.30499 18.0968 2.6774 18.0968 2.29031 17.7097C1.90323 17.3226 1.90323 16.695 2.29031 16.3079L8.59824 10L2.29031 3.69208C1.90323 3.30499 1.90323 2.6774 2.29031 2.29031C2.6774 1.90323 3.30499 1.90323 3.69208 2.29031L10 8.59824Z"
+								fill=" #662D91 " />
+						</svg>
+					</a>
+
+					<a class="  flex lg:hidden mt-6  search-mobile-btn lg:ml-6" href="javascript:void(0)">
+						<!-- LPN Search Form -->
+<form role="search" method="GET" class="search-form" action="https://www.clha.com/lpn-search-results">
+    <div class="w-full rounded-[23px] flex justify-between pl-4 bg-white">
+
+        <label for="Lpn search"
+            class="border-none border-grey-15 search-field rounded-none py-2.5 lg:py-0 px-5  lg:px-0 w-full text-sm placeholder:text-grey-80 flex bg-white lg:bg-transparent"><span
+                class="hidden">Search</span><input type="search" id="Lpn search"
+                placeholder="Enter search term e.g. Scope of Practice" class="w-full " name="lpnsearch"
+                value=""></label>
+        <div class="relative block mt-0">
+            <input type="submit" class="btn btn-primary  pr-10 w-full max-md:text-[0px] max-md:-indent-[9999px]" value="Submit"><img
+                class="absolute top-2.5 max-md:left-1/2 max-md:-ml-2.5 md:right-4  pointer-events-none"
+                src="https://www.clha.com/wp-content/themes/CLPNA/assets/images/search-icon.svg" alt="search">
+        </div>
+    </div>
+</form></a>
+				</div>
+
+			</div>
+
+		</nav>
+
+		<!-- -->
+
+		<header id="site-header"
+			class="fixed w-full bg-white z-40  top-0  lg:left-0 h-[69px] md:h-[125px] after:content-[''] after:w-full after:h-[10px] after:md:h-[34px] after:absolute after:bottom-0 after:left-0 before:content-[''] before:block before:w-full before:h-0.5  before:absolute before:left-0 before:bottom-0 before:z-20  after:bg-[#D7E4F3] before:bg-[#D7E4F3] ">
+			<div class="container flex justify-between relative">
+				<div
+					class="site-logo w-[120px] lg:w-[237px] relative z-10 flex items-center h-[69px] md:h-[125px] bg-white px-1.5 px-3">
+					<a aria-label="clpna" href="https://www.clha.com"
+						class="flex justify-center items-center w-full" rel="home">
+						<img src="https://www.clha.com/wp-content/uploads/2025/09/Logo-CLHA.svg" class="max-h-12 md:max-h-none" alt="" decoding="async" />					</a>
+				</div>
+				<div class="lg:block flex items-center">
+										<div class="btn-mycl hidden lg:flex justify-end"><a
+							class="flex itmes-center font-medium text-sm text-white bg-yellow border border-yellow-50 shadow-[0px_5px_15px_0px_rgba(38,45,51,0.08)] lg:rounded-[0px_0px_6px_6px] border-solid px-1 py-px"
+							href="https://myclha.com/" target="_blank"><img
+								src="https://www.clha.com/wp-content/themes/CLPNA/assets/images/icon-man.svg" alt="icon man"
+								class="mr-1">MyCLHA</a></div>
+										<div
+						class="header-top-menu relative z-40 flex items-center justify-end text-sm font-medium text-grey-90 pt-6 pb-[23px]">
+
+												<div class="main-menu hidden lg:block">
+							<ul>
+																<li
+									class=" relative  ">
+									<a href="https://www.clha.com/for-the-public/"
+										target="_self">For the Public</a>
+																		<div
+										class="sub-menu-container justify-between grid-cols-1   !min-w-[444px] ">
+										<div>
+											<ul
+												class=" columns-2 ">
+																																				<li><a href="https://www.clha.com/for-the-public/public-registry-employer-verification/"
+														target="_self">Public Register &amp; Employer Verification</a>
+																									</li>
+																																																<li><a href="https://www.clha.com/for-the-public/complaints/"
+														target="_self">Complaints</a>
+																										<ul class="pl-2">
+																												<li><a href="https://www.clha.com/for-the-public/complaints/make-a-complaint/"
+																target="_self">Make a Complaint</a>
+														</li>
+																																										<li><a href="https://www.clha.com/for-the-public/complaints/complaints-process/"
+																target="_self">Complaints Process</a>
+														</li>
+																																										<li><a href="https://www.clha.com/for-the-public/complaints/hearings-process/"
+																target="_self">Hearings</a>
+														</li>
+																																										<li><a href="https://www.clha.com/for-the-public/complaints/sexual-abuse-and-misconduct/"
+																target="_self">Sexual Abuse and Misconduct</a>
+														</li>
+																												<li class="empty-li hidden lg:block lg:pt-2"></li>																											</ul>
+																									</li>
+																																																<li><a href="https://www.clha.com/for-the-public/education/"
+														target="_self">Education</a>
+																										<ul class="pl-2">
+																												<li><a href="https://www.clha.com/for-the-public/practical-nurse-education/approved-pn-programs/"
+																target="_self">Approved PN Programs</a>
+														</li>
+																																										<li><a href="https://www.clha.com/for-the-public/education/cpnre-statistics/"
+																target="_self">CPNRE Statistics</a>
+														</li>
+																																										<li><a href="https://www.clha.com/for-the-public/health-care-aide-education/approved-health-care-aide-programs/"
+																target="_self">Approved HCA Programs</a>
+														</li>
+																																										<li><a href="https://www.clha.com/for-the-public/education/ahre-statistics/"
+																target="_self">AHRE Statistics</a>
+														</li>
+																																										<li><a href="https://www.clha.com/for-the-public/practical-nurse-education/program-review-information/"
+																target="_self">Program Review Information</a>
+														</li>
+																																									</ul>
+																									</li>
+																																			</ul>
+										</div>
+																			</div><!-- end sub-menu-container -->
+																	</li>
+																<li
+									class=" relative  ">
+									<a href="https://www.clha.com/about-the-clpna/"
+										target="_self">About CLHA</a>
+																		<div
+										class="sub-menu-container justify-between grid-cols-1   !min-w-[444px] ">
+										<div>
+											<ul
+												class=" columns-2 ">
+																																				<li><a href="https://www.clha.com/about-the-clpna/council-governance/"
+														target="_self">Council &amp; Governance</a>
+																										<ul class="pl-2">
+																												<li><a href="https://www.clha.com/about-the-clpna/council-governance/council-members/"
+																target="_self">Council</a>
+														</li>
+																																										<li><a href="https://www.clha.com/about-the-clpna/council-governance/committees/"
+																target="_self">Committees</a>
+														</li>
+																																										<li><a href="https://www.clha.com/about-the-clpna/legislation-bylaws/"
+																target="_self">Legislation &amp; Bylaws</a>
+														</li>
+																																										<li><a href="https://www.clha.com/about-the-clpna/council-governance/annual-report-strategic-plan/"
+																target="_self">Annual Report &amp; Strategic Plan</a>
+														</li>
+																																									</ul>
+																									</li>
+																																																<li><a href="https://www.clha.com/about-the-clpna/research/"
+														target="_self">Research</a>
+																										<ul class="pl-2">
+														<li class="empty-li hidden lg:block lg:pt-2"></li>														<li class="empty-li hidden lg:block lg:pt-2"></li>																											</ul>
+																									</li>
+																																																<li><a href="https://www.clha.com/about-the-clpna/about-lpns/"
+														target="_self">About LPNs</a>
+																										<ul class="pl-2">
+																												<li><a href="https://www.clha.com/about-the-clpna/about-lpns/lpns-in-alberta/"
+																target="_self">LPNs in Alberta</a>
+														</li>
+																																										<li><a href="https://www.clha.com/about-the-clpna/about-lpns/alberta-lpn-statistics/"
+																target="_self">LPN Statistics</a>
+														</li>
+																																										<li><a href="https://www.clha.com/about-the-clpna/about-lpns/history-of-alberta-lpns/"
+																target="_self">History of Alberta LPNs</a>
+														</li>
+																																									</ul>
+																									</li>
+																																																<li><a href="https://www.clha.com/about-the-clpna/about-hcas/"
+														target="_self">About HCAs</a>
+																										<ul class="pl-2">
+																												<li><a href="https://www.clha.com/about-the-clpna/hca-regulation/"
+																target="_self">HCA Regulation</a>
+														</li>
+																																										<li><a href="https://www.clha.com/about-the-clha/about-hcas/hca-statistics/"
+																target="_self">HCA Statistics</a>
+														</li>
+																												<li class="empty-li hidden lg:block lg:pt-2"></li>																											</ul>
+																									</li>
+																																			</ul>
+										</div>
+																			</div><!-- end sub-menu-container -->
+																	</li>
+																<li
+									class=" relative  ">
+									<a href="https://www.clha.com/contact/"
+										target="_self">Contact</a>
+																		<div
+										class="sub-menu-container justify-between grid-cols-1 !right-0 ">
+										<div>
+											<ul
+												class="">
+																																				<li><a href="https://www.clha.com/contact/ask-clpna/"
+														target="_self">Ask CLHA</a>
+																									</li>
+																																																<li><a href="https://www.clha.com/contact/employment/"
+														target="_self">Employment</a>
+																									</li>
+																																																<li><a href="https://www.clha.com/contact/media-relations/"
+														target="_self">Media Relations</a>
+																									</li>
+																																																<li><a href="https://www.clha.com/contact/other-licensing-authorities/"
+														target="_self">Other Licensing Authorities</a>
+																									</li>
+																																			</ul>
+										</div>
+																			</div><!-- end sub-menu-container -->
+																	</li>
+															</ul>
+						</div><!-- END Main Menu -->
+						
+						<a class=" flex search-button lg:ml-6" href="javascript:void(0)">Search <svg width="18"
+								height="19" viewBox="0 0 18 19" fill="none" xmlns="http://www.w3.org/2000/svg"
+								class="ml-1">
+								<path fill-rule="evenodd" clip-rule="evenodd"
+									d="M16.5918 16.406L12.7314 12.396C13.724 11.2175 14.2678 9.73475 14.2678 8.19113C14.2678 4.58463 11.3299 1.65039 7.71886 1.65039C4.10783 1.65039 1.16992 4.58463 1.16992 8.19113C1.16992 11.7976 4.10783 14.7319 7.71886 14.7319C9.07449 14.7319 10.3663 14.3235 11.4708 13.5483L15.3606 17.5888C15.5232 17.7574 15.7419 17.8504 15.9762 17.8504C16.198 17.8504 16.4085 17.7659 16.5682 17.6124C16.9076 17.2862 16.9184 16.7453 16.5918 16.406ZM7.71886 3.35667C10.388 3.35667 12.5594 5.52535 12.5594 8.19113C12.5594 10.8569 10.388 13.0256 7.71886 13.0256C5.04974 13.0256 2.87834 10.8569 2.87834 8.19113C2.87834 5.52535 5.04974 3.35667 7.71886 3.35667Z"
+									fill=" #7E4DA2 " />
+							</svg>
+						</a>
+						<a class="flex items-center hamburger ml-4 lg:hidden" href="javascript:void(0)">Menu
+							<!--<img src="https://www.clha.com/wp-content/themes/CLPNA/assets/images/icon-hamburger-menu.svg" alt="icon menu" class="ml-1">-->
+							<svg class="ml-1" width="18" height="18" viewBox="0 0 18 18" fill="none"
+								xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" clip-rule="evenodd"
+									d="M17.0999 15.3H0.899902V13.5H17.0999V15.3ZM11.6999 9.89995H0.899902V8.09995H11.6999V9.89995ZM0.899902 4.49995V2.69995H17.0999V4.49995H0.899902Z"
+									fill=" #662D91 " />
+							</svg>
+						</a>
+												<div class="btn-mycl-scroll relative top-[4px] -mt-3 hidden  justify-end ml-5"><a
+								class="flex itmes-center font-medium text-sm text-white bg-yellow border border-yellow-50 shadow-[0px_5px_15px_0px_rgba(38,45,51,0.08)] rounded-[0px_0px_6px_6px] border-solid px-1 py-px"
+								href="https://myclha.com/"
+								target="_blank"><img
+									src="https://www.clha.com/wp-content/themes/CLPNA/assets/images/icon-man.svg" alt="icon man"
+									class="mr-1">MyCLHA</a></div>
+											</div>
+
+					<div class="relative z-30 flex justify-end">
+						
+												<div
+							class="menu-buttons hidden lg:flex justify-end h-[34px] drop-shadow bg-white w-fit	ml-auto">
+																					<a class="0 flex items-center text-black-text text-sm font-bold px-2.5"
+								href="https://www.clha.com/lpn/lpns/"
+								target="_self">								<img class="mr-2 menu-buttons-icon-normal"
+									src="https://www.clha.com/wp-content/uploads/2025/09/icon-lpn.svg"
+									alt="">								<img class="mr-2 menu-buttons-icon-hover"
+									src="https://www.clha.com/wp-content/uploads/2025/09/icon-lpn-hca-hover.svg"
+									alt="">LPNs</a>
+																												<a class="1 flex items-center text-black-text text-sm font-bold px-2.5"
+								href="https://www.clha.com/hca/hcas/"
+								target="_self">								<img class="mr-2 menu-buttons-icon-normal"
+									src="https://www.clha.com/wp-content/uploads/2025/09/icon-hca.svg"
+									alt="">								<img class="mr-2 menu-buttons-icon-hover"
+									src="https://www.clha.com/wp-content/uploads/2025/09/icon-lpn-hca-hover.svg"
+									alt="">HCAs</a>
+																				</div>
+						
+					</div>
+
+
+				</div>
+			</div>
+
+			<!-- Start Popup -->
+			<div class="search-popup">
+				<div class="popup__content  rounded-lg">
+					<div class="search-close">
+						<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<path fill-rule="evenodd" clip-rule="evenodd"
+								d="M10 8.59824L16.3079 2.29031C16.695 1.90323 17.3226 1.90323 17.7097 2.29031C18.0968 2.6774 18.0968 3.30499 17.7097 3.69208L11.4018 10L17.7097 16.3079C18.0968 16.695 18.0968 17.3226 17.7097 17.7097C17.3226 18.0968 16.695 18.0968 16.3079 17.7097L10 11.4018L3.69208 17.7097C3.30499 18.0968 2.6774 18.0968 2.29031 17.7097C1.90323 17.3226 1.90323 16.695 2.29031 16.3079L8.59824 10L2.29031 3.69208C1.90323 3.30499 1.90323 2.6774 2.29031 2.29031C2.6774 1.90323 3.30499 1.90323 3.69208 2.29031L10 8.59824Z"
+								fill="white" />
+						</svg>
+					</div>
+					<div>
+						<span class="block text-lg font-bold text-white mb-5">Find What You're Looking For</span>
+						<!-- LPN Search Form -->
+<form role="search" method="GET" class="search-form" action="https://www.clha.com/lpn-search-results">
+    <div class="w-full rounded-[23px] flex justify-between pl-4 bg-white">
+
+        <label for="Lpn search"
+            class="border-none border-grey-15 search-field rounded-none py-2.5 lg:py-0 px-5  lg:px-0 w-full text-sm placeholder:text-grey-80 flex bg-white lg:bg-transparent"><span
+                class="hidden">Search</span><input type="search" id="Lpn search"
+                placeholder="Enter search term e.g. Scope of Practice" class="w-full " name="lpnsearch"
+                value=""></label>
+        <div class="relative block mt-0">
+            <input type="submit" class="btn btn-primary  pr-10 w-full max-md:text-[0px] max-md:-indent-[9999px]" value="Submit"><img
+                class="absolute top-2.5 max-md:left-1/2 max-md:-ml-2.5 md:right-4  pointer-events-none"
+                src="https://www.clha.com/wp-content/themes/CLPNA/assets/images/search-icon.svg" alt="search">
+        </div>
+    </div>
+</form>					</div>
+				</div>
+			</div>
+			<!-- End Popup -->
+
+
+		</header>
+	
+      <style>
+    #banner-4064374264{
+        background-image: url('https://www.clha.com/wp-content/uploads/2023/10/Home-Banner.jpg'); 
+    }
+    </style>
+<section id="banner-4064374264"
+  class="mb-9 xl:h-[570px] relative hero-banner-bg   flex bg-no-repeat xl:bg-cover bg-contain xl:bg-right after:content-['']  after:h-full after:w-full after:absolute after:left-0 after:top-0 after:bg-no-repeat before:content-['']  before:w-full before:absolute before:bg-purple before:bg-opacity-20 before:z-10">
+
+  <div class="xl:text-white text-black mt-auto xl:py-[20px] xl:px-[25px] block mb-auto container relative z-10">
+    <div
+      class="xl:w-[40%] xl:bg-transparent herobanner-content xl:mt-0 p-5 xl:p-0 bg-white rounded-xl xl:rounded-0 lg:mt-[17rem] mt-[9rem] md:mt-[13rem] sm:mt-[10rem] mt-[6rem] border border-purple-25/[0.37] shadow-[0_5px_15px_0px_rgba(38,45,51,0.08)] xl:border-0 xl:shadow-none">
+      <h1 class="mb-2">
+        The CLHA Is the Regulatory College for Alberta LPNs and HCAs      </h1>
+      <p class="text-base md:text-18 my-2.5 md:my-4">
+        The CLHA regulates the licensed practical nurse and health care aide professions in a manner that protects and serves the public.       </p>
+      <a href="https://www.clha.com/about-the-clha/" class="btn btn-primary">
+        Learn More About the CLHA      </a>
+    </div>
+  </div>
+</section>  
+
+      
+<section class="module-lpn-hca-cta mb-8">
+    <div class="container">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                                                <div class="lpn-hca-cta-bg h-[237px] md:h-[370px] bg-no-repeat bg-cover rounded-lg relative overflow-hidden hidden sm:block"
+                        style="background-image:url(https://www.clha.com/wp-content/uploads/2025/09/Home-HCALPN-Buttons-1.png);">
+                        <a class="absolute block w-full h-full z-20" href="https://www.clha.com/lpn/lpns/registration-renewal/"
+                            title="Registration Renewal"></a>
+                        <div
+                            class="lpn-hca-cta-text-container lg:w-[69%] xl:w-3/5 text-white text-left lg:text-center relative z-10 bg-[url('/wp-content/themes/CLPNA/assets/images/lpn-cta-path-mobile.svg')] lg:bg-[url('/wp-content/themes/CLPNA/assets/images/lpn-cta-path.svg')] bg-no-repeat h-full lg:pl-[30px] lg:pr-[70px] flex lg:block items-end w-full lg:pt-8">
+                            <img src="https://www.clha.com/wp-content/uploads/2023/08/single-lpns-icon.svg" class="w-[65px] lg:w-auto absolute top-3.5 left-5 lg:relative lg:top-auto lg:left-auto lg:mx-auto" alt="" decoding="async" />                            <div
+                                class="w-full px-5 pb-4 lg:px-0 lg:pb-0 bg-gradient-to-b from-[rgba(102,45,145,0)] to-[rgba(102,45,145)] lg:bg-none pt-10">
+                                <h2 class="text-25 md:text-[35px]">
+                                    Registration Renewal                                </h2>
+                                <span class="block lg:px-8 mt-2">
+                                    For LPNs                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="lpn-hca-cta-bg h-[237px] md:h-[370px] bg-no-repeat bg-cover rounded-lg relative overflow-hidden sm:hidden"
+                        style="background-image:url(https://www.clha.com/wp-content/uploads/2025/09/LPN-Home-Mobile.png);">
+                        <a class="absolute block w-full h-full z-20" href="https://www.clha.com/lpn/lpns/registration-renewal/"
+                            title="Registration Renewal"></a>
+                        <div
+                            class="lpn-hca-cta-text-container lg:w-[69%] xl:w-3/5 text-white text-left lg:text-center relative z-10 bg-[url('/wp-content/themes/CLPNA/assets/images/lpn-cta-path-mobile.svg')] lg:bg-[url('/wp-content/themes/CLPNA/assets/images/lpn-cta-path.svg')] bg-no-repeat h-full lg:pl-[30px] lg:pr-[70px] flex lg:block items-end w-full lg:pt-8">
+                            <img src="https://www.clha.com/wp-content/uploads/2023/08/single-lpns-icon.svg" class="w-[65px] lg:w-auto absolute top-3.5 left-5 lg:relative lg:top-auto lg:left-auto lg:mx-auto" alt="" decoding="async" />                            <div
+                                class="w-full px-5 pb-4 lg:px-0 lg:pb-0 bg-gradient-to-b from-[rgba(102,45,145,0)] to-[rgba(102,45,145)] lg:bg-none pt-10">
+                                <h2 class="text-25 md:text-[35px]">
+                                    Registration Renewal                                </h2>
+                                <span class="block lg:px-8 mt-2">
+                                    For LPNs                                </span>
+                            </div>
+                        </div>
+                    </div>
+                            
+                                                <div class="hca-cta-box lpn-hca-cta-bg h-[237px] md:h-[370px] bg-no-repeat bg-cover rounded-lg relative overflow-hidden hidden sm:block"
+                        style="background-image:url(https://www.clha.com/wp-content/uploads/2025/09/HCA-Home.png);">
+                        <a class="absolute block w-full h-full z-20" href="https://www.clha.com/hca/hcas/registration-renewal/"
+                            title="Registration Renewal"></a>
+                        <div
+                            class="lpn-hca-cta-text-container ml-auto lg:w-[69%] xl:w-3/5 text-white text-left lg:text-center relative z-10 bg-[url('/wp-content/themes/CLPNA/assets/images/hca-cta-path-mobile.svg')] lg:bg-[url('/wp-content/themes/CLPNA/assets/images/hca-cta-path.svg')] bg-no-repeat lg:bg-right h-full lg:pl-[70px] lg:pr-[30px] flex lg:block items-end w-full lg:pt-8">
+                            <img src="https://www.clha.com/wp-content/uploads/2023/08/single-hca-icon.svg" class="w-[65px] lg:w-auto absolute top-3.5 left-5 lg:relative lg:top-auto lg:left-auto lg:mx-auto" alt="" decoding="async" />                            <div
+                                class="w-full px-5 pb-4 lg:px-0 lg:pb-0 bg-gradient-to-b from-[rgba(40,170,225,0)] to-[rgb(40,170,225)] lg:bg-none pt-10">
+                                <h2 class="text-25 md:text-[35px]">
+                                    Registration Renewal                                </h2>
+                                <span class="block lg:px-8 mt-2">
+                                    For HCAs                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="hca-cta-box lpn-hca-cta-bg h-[237px] md:h-[370px] bg-no-repeat bg-cover rounded-lg relative overflow-hidden sm:hidden"
+                        style="background-image:url(https://www.clha.com/wp-content/uploads/2025/09/Home-HCALPN-Buttons-mobile-2.png);">
+                        <a class="absolute block w-full h-full z-20" href="https://www.clha.com/hca/hcas/registration-renewal/"
+                            title="Registration Renewal"></a>
+                        <div
+                            class="lpn-hca-cta-text-container ml-auto lg:w-[69%] xl:w-3/5 text-white text-left lg:text-center relative z-10 bg-[url('/wp-content/themes/CLPNA/assets/images/hca-cta-path-mobile.svg')] lg:bg-[url('/wp-content/themes/CLPNA/assets/images/hca-cta-path.svg')] bg-no-repeat lg:bg-right h-full lg:pl-[70px] lg:pr-[30px] flex lg:block items-end w-full lg:pt-8">
+                            <img src="https://www.clha.com/wp-content/uploads/2023/08/single-hca-icon.svg" class="w-[65px] lg:w-auto absolute top-3.5 left-5 lg:relative lg:top-auto lg:left-auto lg:mx-auto" alt="" decoding="async" />                            <div
+                                class="w-full px-5 pb-4 lg:px-0 lg:pb-0 bg-gradient-to-b from-[rgba(40,170,225,0)] to-[rgb(40,170,225)] lg:bg-none pt-10">
+                                <h2 class="text-25 md:text-[35px]">
+                                    Registration Renewal                                </h2>
+                                <span class="block lg:px-8 mt-2">
+                                    For HCAs                                </span>
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+    </div>
+</section>  
+
+      
+<section class="container mx-auto text-sm flex flex-col gap-60px pt-5 pb-80px sm:py-80px text-black-text">
+          <div
+      class="flex gap-4 sm:gap-30px flex-col md:flex-row">
+      <div class="w-full md:w-3/5">
+                  <img class="w-full rounded-lg" src="https://www.clha.com/wp-content/uploads/2026/07/Home-Page-MyCLHA-Card-1.png" alt="" />
+              </div>
+      <div class="w-full md:w-2/5">
+        <span class="block uppercase font-bold tracking-0.5 pt-2.5 sm:pt-5 pb-4 text-grey">MyCLHA</span>
+        <span class="block text-25 font-bold pb-30px">
+          Access Your MyCLHA Account        </span>
+        <span class="block pb-10">
+          Manage your registration, update your profile, access learning modules, and more.        </span>
+                  <a href="https://myclha.com/" class="block max-w-fit btn btn-primary" target="">
+            Log In to MyCLHA          </a>
+              </div>
+    </div>
+            <div
+      class="flex gap-4 sm:gap-30px flex-col md:flex-row-reverse">
+      <div class="w-full md:w-3/5">
+                  <img class="w-full rounded-lg" src="https://www.clha.com/wp-content/uploads/2026/06/2025-Annual-Report-Home-Feature.png" alt="" />
+              </div>
+      <div class="w-full md:w-2/5">
+        <span class="block uppercase font-bold tracking-0.5 pt-2.5 sm:pt-5 pb-4 text-grey">Governance</span>
+        <span class="block text-25 font-bold pb-30px">
+          2025 Annual Report        </span>
+        <span class="block pb-10">
+          The Annual Report is now available, covering December 1, 2024, to November 30, 2025.        </span>
+                  <a href="https://www.clha.com/wp-content/uploads/2026/06/2025-Annual-Report-ID-229568.pdf" class="block max-w-fit btn btn-primary" target="">
+            Read Annual Report          </a>
+              </div>
+    </div>
+            <div
+      class="flex gap-4 sm:gap-30px flex-col md:flex-row">
+      <div class="w-full md:w-3/5">
+                  <img class="w-full rounded-lg" src="https://www.clha.com/wp-content/uploads/2025/05/Introduction-to-Healthcare-Regulation-in-Alberta.png" alt="" />
+              </div>
+      <div class="w-full md:w-2/5">
+        <span class="block uppercase font-bold tracking-0.5 pt-2.5 sm:pt-5 pb-4 text-grey">Video Series</span>
+        <span class="block text-25 font-bold pb-30px">
+          Introduction to Healthcare Regulation in Alberta        </span>
+        <span class="block pb-10">
+          This series of short videos provides background on healthcare regulation and its importance for public safety and ethical practice.        </span>
+                  <a href="https://www.clha.com/lpn/lpn-news/introduction-to-healthcare-regulation-in-alberta/" class="block max-w-fit btn btn-primary" target="">
+            Watch Video Series          </a>
+              </div>
+    </div>
+    </section>  
+
+      <section class="module-ifs mb-14">
+    <div class="container">
+                    <h3 class="mb-5">
+                LPN or HCA Search            </h3>
+                            <p class="mb-5">
+                The real-time Public Registry of LPNs and HCAs assists the public to identify that a person providing care in Alberta is a Licensed Practical Nurse or a Health Care Aide registered with the College of LPNs and HCAs of Alberta (CLHA) and determine the current registration status. This information is not designed or intended to be used for any other purpose.              </p>
+            </div>
+        <div class="container grid grid-cols-12	gap-[30px]">
+        <div class="col-span-12 ">
+            <div
+                class="iframe-outer relative" style="filter: drop-shadow(0 5px 15px rgba(38, 45, 51, 0.08));">
+                <iframe name="LPN Search" title="LPN Search" src="https://myclha.com/Client/PublicDirectory" width="100%"
+                    height="450"></iframe>
+            </div>
+        </div>
+            </div>
+</section>  
+
+      <section class="module-general-content-area mb-8 wysiwyg-entry">
+    <div class="container">
+            </div>
+</section>  
+
+      
+<section class="module-latest-news mb-4">
+    <div class="container relative">
+        <h2 class="text-h3 mb-10">
+                            Latest LPN News                    </h2>
+        <div class="sm:grid  sm:grid-cols-2 lg:grid-cols-4 gap-7 slider-items pb-10 sm:pb-0 mobile-only-slider w-4/5 mx-auto sm:w-full">
+                                <div class="item">
+                                                                                                                            <div><a href="https://www.clha.com/lpn/lpn-news/help-shape-lpn-and-hca-education-in-alberta/"><img
+                                    class="max-w-full h-auto sm:w-full sm:h-[160px] sm:object-cover sm:object-center rounded-lg" src="https://www.clha.com/wp-content/uploads/2026/09/Join-ESAC-1.png"
+                                    alt="Help Shape LPN and HCA Education in Alberta" /></a></div>
+                        <div class="leading-normal uppercase text-12 font-bold tracking-0.5 mt-6"><span
+                                class="text-grey-90 whitespace-nowrap">
+                                September 15, 2026                            </span><span class="text-grey-30 px-2">|</span>
+                            <span class="text-red">
+                                <a class="underline" href="https://www.clha.com/lpn-news-cat/public/">Public</a>                            </span>
+                        </div>
+                        <a href="https://www.clha.com/lpn/lpn-news/help-shape-lpn-and-hca-education-in-alberta/"><span class="block text-base text-grey-90 font-bold py-3 ">
+                                Help Shape LPN and HCA Education in Alberta                            </span>
+                        </a>
+                                                                                                                                                </div>
+                                    <div class="item">
+                                                                                                                            <div><a href="https://www.clha.com/lpn/lpn-news/webinar-determining-lpn-scope-of-practice-oct-22/"><img
+                                    class="max-w-full h-auto sm:w-full sm:h-[160px] sm:object-cover sm:object-center rounded-lg" src="https://www.clha.com/wp-content/uploads/2025/03/Webinar-Determining-LPN-Scope-of-Practice-.png"
+                                    alt="Webinar: Determining LPN Scope of Practice (Oct 22)" /></a></div>
+                        <div class="leading-normal uppercase text-12 font-bold tracking-0.5 mt-6"><span
+                                class="text-grey-90 whitespace-nowrap">
+                                September 14, 2026                            </span><span class="text-grey-30 px-2">|</span>
+                            <span class="text-red">
+                                <a class="underline" href="https://www.clha.com/lpn-news-cat/webinars/">LPN Webinars</a>, <a class="underline" href="https://www.clha.com/lpn-news-cat/professional-development/">Professional Development</a>                            </span>
+                        </div>
+                        <a href="https://www.clha.com/lpn/lpn-news/webinar-determining-lpn-scope-of-practice-oct-22/"><span class="block text-base text-grey-90 font-bold py-3 ">
+                                Webinar: Determining LPN Scope of Practice (Oct 22)                            </span>
+                        </a>
+                                                                                                                                                </div>
+                                    <div class="item">
+                                                                                                                            <div><a href="https://www.clha.com/lpn/lpn-news/modules-to-support-nursing-competence/"><img
+                                    class="max-w-full h-auto sm:w-full sm:h-[160px] sm:object-cover sm:object-center rounded-lg" src="https://www.clha.com/wp-content/uploads/2025/08/Modules-Support-Nursing-Competence-1.png"
+                                    alt="Modules to Support Nursing Competence" /></a></div>
+                        <div class="leading-normal uppercase text-12 font-bold tracking-0.5 mt-6"><span
+                                class="text-grey-90 whitespace-nowrap">
+                                August 31, 2026                            </span><span class="text-grey-30 px-2">|</span>
+                            <span class="text-red">
+                                <a class="underline" href="https://www.clha.com/lpn-news-cat/professional-development/">Professional Development</a>                            </span>
+                        </div>
+                        <a href="https://www.clha.com/lpn/lpn-news/modules-to-support-nursing-competence/"><span class="block text-base text-grey-90 font-bold py-3 ">
+                                Modules to Support Nursing Competence                            </span>
+                        </a>
+                                                                                                                                                </div>
+                                    <div class="item">
+                                                                                                                            <div><a href="https://www.clha.com/lpn/lpn-news/practice-corner-what-activities-require-a-medical-order-or-protocol/"><img
+                                    class="max-w-full h-auto sm:w-full sm:h-[160px] sm:object-cover sm:object-center rounded-lg" src="https://www.clha.com/wp-content/uploads/2026/08/Practice-Corner-Medical-Order-or-Protocol.png"
+                                    alt="Practice Corner: What Activities Require a Medical Order or Protocol?" /></a></div>
+                        <div class="leading-normal uppercase text-12 font-bold tracking-0.5 mt-6"><span
+                                class="text-grey-90 whitespace-nowrap">
+                                August 31, 2026                            </span><span class="text-grey-30 px-2">|</span>
+                            <span class="text-red">
+                                <a class="underline" href="https://www.clha.com/lpn-news-cat/practice/">LPN Practice</a>                            </span>
+                        </div>
+                        <a href="https://www.clha.com/lpn/lpn-news/practice-corner-what-activities-require-a-medical-order-or-protocol/"><span class="block text-base text-grey-90 font-bold py-3 ">
+                                Practice Corner: What Activities Require a Medical Order or Protocol?                            </span>
+                        </a>
+                                                                                                                                                </div>
+                        </div>
+                    <div class="text-center mt-4 md:mt-12">
+                <a class="btn btn-reversed" href="https://www.clha.com/lpn/lpn-news/"
+                    target="_self">
+                    Read More LPN News Articles                </a>
+            </div>
+            </div>
+</section>  
+
+      
+<section class="module-latest-news mb-4">
+    <div class="container relative">
+        <h2 class="text-h3 mb-10">
+                            Latest HCA News                    </h2>
+        <div class="sm:grid  sm:grid-cols-2 lg:grid-cols-4 gap-7 slider-items pb-10 sm:pb-0 mobile-only-slider w-4/5 mx-auto sm:w-full">
+                                <div class="item">
+                                                                                                                            <div><a href="https://www.clha.com/hca/hca-news/apply-to-join-a-clha-committee/"><img
+                                    class="max-w-full h-auto sm:w-full sm:h-[160px] sm:object-cover sm:object-center rounded-lg" src="https://www.clha.com/wp-content/uploads/2026/09/Join-CLHA-Committees.png"
+                                    alt="Apply to Join a CLHA Committee" /></a></div>
+                        <div class="leading-normal uppercase text-12 font-bold tracking-0.5 mt-6"><span
+                                class="text-grey-90 whitespace-nowrap">
+                                September 18, 2026                            </span><span class="text-grey-30 px-2">|</span>
+                            <span class="text-red">
+                                <a class="underline" href="https://www.clha.com/hca-news-cat/public/">Public</a>                            </span>
+                        </div>
+                        <a href="https://www.clha.com/hca/hca-news/apply-to-join-a-clha-committee/"><span class="block text-base text-grey-90 font-bold py-3 ">
+                                Apply to Join a CLHA Committee                            </span>
+                        </a>
+                                                                                                                                                </div>
+                                    <div class="item">
+                                                                                                                            <div><a href="https://www.clha.com/hca/hca-news/important-information-on-the-health-care-aide-transitional-register/"><img
+                                    class="max-w-full h-auto sm:w-full sm:h-[160px] sm:object-cover sm:object-center rounded-lg" src="https://www.clha.com/wp-content/uploads/2026/09/HCA-Transitional-Register.png"
+                                    alt="Important Information on the Health Care Aide Transitional Register" /></a></div>
+                        <div class="leading-normal uppercase text-12 font-bold tracking-0.5 mt-6"><span
+                                class="text-grey-90 whitespace-nowrap">
+                                September 16, 2026                            </span><span class="text-grey-30 px-2">|</span>
+                            <span class="text-red">
+                                <a class="underline" href="https://www.clha.com/hca-news-cat/registration/">HCA Registration</a>                            </span>
+                        </div>
+                        <a href="https://www.clha.com/hca/hca-news/important-information-on-the-health-care-aide-transitional-register/"><span class="block text-base text-grey-90 font-bold py-3 ">
+                                Important Information on the Health Care Aide Transitional Register                            </span>
+                        </a>
+                                                                                                                                                </div>
+                                    <div class="item">
+                                                                                                                            <div><a href="https://www.clha.com/hca/hca-news/complete-registration-form-by-november-30/"><img
+                                    class="max-w-full h-auto sm:w-full sm:h-[160px] sm:object-cover sm:object-center rounded-lg" src="https://www.clha.com/wp-content/uploads/2026/08/HCA-News-Sept-2026.png"
+                                    alt="Complete Registration Form by November 30" /></a></div>
+                        <div class="leading-normal uppercase text-12 font-bold tracking-0.5 mt-6"><span
+                                class="text-grey-90 whitespace-nowrap">
+                                August 31, 2026                            </span><span class="text-grey-30 px-2">|</span>
+                            <span class="text-red">
+                                <a class="underline" href="https://www.clha.com/hca-news-cat/registration-renewal/">HCA Registration Renewal</a>                            </span>
+                        </div>
+                        <a href="https://www.clha.com/hca/hca-news/complete-registration-form-by-november-30/"><span class="block text-base text-grey-90 font-bold py-3 ">
+                                Complete Registration Form by November 30                            </span>
+                        </a>
+                                                                                                                    </div>
+                                    <div class="item">
+                                                                                                                            <div><a href="https://www.clha.com/hca/hca-news/health-care-aide-renewal-frequently-asked-questions/"><img
+                                    class="max-w-full h-auto sm:w-full sm:h-[160px] sm:object-cover sm:object-center rounded-lg" src="https://www.clha.com/wp-content/uploads/2026/03/HCA-renewal-FAQs.png"
+                                    alt="Health Care Aide Renewal: Frequently Asked Questions" /></a></div>
+                        <div class="leading-normal uppercase text-12 font-bold tracking-0.5 mt-6"><span
+                                class="text-grey-90 whitespace-nowrap">
+                                August 25, 2026                            </span><span class="text-grey-30 px-2">|</span>
+                            <span class="text-red">
+                                <a class="underline" href="https://www.clha.com/hca-news-cat/news/">News</a>, <a class="underline" href="https://www.clha.com/hca-news-cat/registration-renewal/">HCA Registration Renewal</a>                            </span>
+                        </div>
+                        <a href="https://www.clha.com/hca/hca-news/health-care-aide-renewal-frequently-asked-questions/"><span class="block text-base text-grey-90 font-bold py-3 ">
+                                Health Care Aide Renewal: Frequently Asked Questions                            </span>
+                        </a>
+                                                                                                                                                </div>
+                        </div>
+                    <div class="text-center mt-4 md:mt-12">
+                <a class="btn btn-reversed" href="https://www.clha.com/hca/hca-news/"
+                    target="_self">
+                    Read More HCA News Articles                </a>
+            </div>
+            </div>
+</section>  
+
+
+<footer class="site-footer py-10 lg:pt-14 lg:pb-20">
+
+    <div class="container">
+                    <div class="w-[207px] lg:w-[183px] ml-7">
+                <img src="https://www.clha.com/wp-content/uploads/2025/09/Logo-CLHA.svg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" />            </div>
+            </div>
+
+    <div class="container my-[26px]">
+        <div
+            class="grid grid-cols-1 lg:grid-cols-2 border border-grey-15 rounded-lg overflow-hidden shadow-[0_5px_15px_-15px_rgba(38,45,51,0.8)]">
+            <div class="py-3.5 px-7">
+                <div class="flex flex-wrap">
+                    <div
+                        class="w-full md:w-4/6 relative after:content-[''] after:block after:lg:hidden after:xl:block after:w-[63px] after:lg:w-px after:h-px after:lg:h-[63px] after:bg-grey-15 after:absolute after:left-0 after:lg:left-auto after:lg:right-12 after:bottom-0 after:lg:bottom-5">
+                        <div class="max-w-[16rem]">
+                            <div class="text-h3 font-bold">
+                                Contact Us                            </div>
+                            <div class="font-medium leading-6 mt-3 mb-4">
+                                St. Albert Trail Place<br>13163 146 Street<br>Edmonton, Alberta T5L 4S8                            </div>
+                        </div>
+                    </div>
+                    <div class="w-full md:w-2/6 flex flex-col space-y-2 text-sm font-medium pt-4 lg:pt-2">
+                        <div>                        <a class="underline" target="_self" href="https://www.clha.com/contact/ask-clha/">Ask CLHA</a></div>
+                        <div>Toll Free: <a class="underline" href="tel:1.800.661.5877">1.800.661.5877</a></div>
+                        <div>Phone: <a class="underline" href="tel:780.484.8886">780.484.8886</a></div>
+                        <div>Fax: <a class="underline" href="tel:780.484.9069">780.484.9069</a></div>
+                    </div>
+                </div>
+                <div class="lg:flex text-xs pt-4 xl:pt-0">
+                    <div class="font-semibold">
+                        Hours of Operation                    </div>
+                    <div class="mx-4 hidden lg:block">|</div>
+                    <div class="font-medium">
+                        Monday-Friday: 8:30 am - 4:30 pm                    </div>
+                </div>
+            </div>
+            <div class="bg-grey-light py-5 px-6">
+                <div class="text-grey-dark text-sm font-medium">
+                    With gratitude, the CLHA acknowledges the traditional territories where we work and learn. The CLHA regulates the Licensed Practical Nurse and Health Care Aide professions on Treaty 6, 7, and 8 territories, the unceded territories, and the Metis homelands. We respect the histories, languages, and cultures of First Nations, Metis, Inuit, and all First Peoples of what is now known as Canada, whose presence continues to enrich our community and whose ancestors have taken care of the land for centuries.                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container text-sm text-center lg:text-left">
+        <span class="font-bold mr-2">
+            Interested in working with us?        </span>
+        <a class="text-bluegreen-dark font-semibold underline"
+            href="https://www.clha.com/contact/employment/"><span class="">
+                Find out more            </span></a>
+    </div>
+
+    <div class="container">
+                    <ul class="flex justify-center lg:justify-end space-x-6 lg:pr-6 py-5 lg:py-0">
+                                    <li>
+                        <a class="1 flex items-center justify-center bg-grey-50 rounded-full w-8 h-8 hover:bg-[#4267B2]"
+                            href="https://www.facebook.com/CollegeLPNsHCAsAlberta/" target="_blank"><img src="https://www.clha.com/wp-content/uploads/2023/07/Icon-Facebook.svg" class="attachment-full size-full" alt="Facebook" decoding="async" loading="lazy" /></a>
+                    </li>
+                                        <li>
+                        <a class="2 flex items-center justify-center bg-grey-50 rounded-full w-8 h-8 hover:bg-[#1DA1F2]"
+                            href="https://www.instagram.com/lpnshcasalberta/" target="_blank"><img src="https://www.clha.com/wp-content/uploads/2026/01/Instagram-Icon-SVG-1.svg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" /></a>
+                    </li>
+                                        <li>
+                        <a class="3 flex items-center justify-center bg-grey-50 rounded-full w-8 h-8 hover:bg-[#F00]"
+                            href="https://www.youtube.com/@CollegeofLPNsandHCAsofAlberta" target="_blank"><img src="https://www.clha.com/wp-content/uploads/2023/07/Icon-YouTube.svg" class="attachment-full size-full" alt="YouTube" decoding="async" loading="lazy" /></a>
+                    </li>
+                                        <li>
+                        <a class="4 flex items-center justify-center bg-grey-50 rounded-full w-8 h-8 hover:bg-[#262626]"
+                            href="https://www.linkedin.com/company/college-of-lpns-hcas-of-alberta-clha" target="_blank"><img src="https://www.clha.com/wp-content/uploads/2023/07/Icon-LinkedIn.svg" class="attachment-full size-full" alt="LinkedIn" decoding="async" loading="lazy" /></a>
+                    </li>
+                                </ul>
+            </div>
+
+    <div class="container flex text-sm justify-center lg:justify-start">
+        <div>&copy;
+            2026            CLHA        </div>
+        <div class="text-sm ml-3">
+                            <ul class="flex space-x-2">
+                                                <li>
+                                <a class="text-purple underline" href="https://www.clha.com/privacy-policy/"
+                                    target="_self">Privacy Policy</a>
+                            </li>
+                                                            </ul>
+                    </div>
+    </div>
+
+
+
+</footer>
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/CLPNA/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://clpna.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='https://cdn.matomo.cloud/clpna.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+<script id="theme_js-js" src="https://www.clha.com/wp-content/themes/CLPNA/dist/app.js"></script>
+<script id="custom-js" src="https://www.clha.com/wp-content/themes/CLPNA/assets/js/custom.js"></script>
+<script id="slick-js" src="https://www.clha.com/wp-content/themes/CLPNA/assets/js/slick.min.js"></script>
+
+<!-- BEGIN SEARCHWP DEBUG
+
+[NO QUERIES]
+
+END SEARCHWP DEBUG -->
+
+
+</body>
+
+</html>

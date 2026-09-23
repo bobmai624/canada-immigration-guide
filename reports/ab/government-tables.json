@@ -1,0 +1,1437 @@
+{
+  "abos": [
+    [
+      [
+        "NOC code (2021)",
+        "NOC TEER category",
+        "Occupation"
+      ],
+      [
+        "00010",
+        "0",
+        "Legislators"
+      ],
+      [
+        "40021",
+        "0",
+        "School principals and administrators of elementary and secondary education"
+      ],
+      [
+        "40030",
+        "0",
+        "Managers in social, community and correctional services"
+      ],
+      [
+        "40041",
+        "0",
+        "Fire chiefs and senior firefighting officers"
+      ],
+      [
+        "60040*",
+        "0",
+        "Escort agency managers, massage parlour managers"
+      ],
+      [
+        "41100",
+        "1",
+        "Judges"
+      ],
+      [
+        "41220",
+        "1",
+        "Secondary school teachers"
+      ],
+      [
+        "41221",
+        "1",
+        "Elementary school and kindergarten teachers"
+      ],
+      [
+        "51111",
+        "1",
+        "Authors and writers (except technical)"
+      ],
+      [
+        "51122",
+        "1",
+        "Musicians and singers"
+      ],
+      [
+        "42200*",
+        "2",
+        "Justices of the peace"
+      ],
+      [
+        "42202*",
+        "2",
+        "Early childhood educators who do not have certification through Alberta Children's Services – Child Care Staff Certification Office or who have been certified as Level 1 Early Childhood Educator (formerly Child Development Assistant)"
+      ],
+      [
+        "43100",
+        "3",
+        "Elementary and secondary school teacher assistants"
+      ],
+      [
+        "43109",
+        "3",
+        "Other instructors"
+      ],
+      [
+        "53121",
+        "3",
+        "Actors, comedians and circus performers"
+      ],
+      [
+        "53122",
+        "3",
+        "Painters, sculptors and other visual artists"
+      ],
+      [
+        "53124",
+        "3",
+        "Artisans and craftspersons"
+      ],
+      [
+        "53200",
+        "3",
+        "Athletes"
+      ],
+      [
+        "63101",
+        "3",
+        "Real estate agents and salespersons"
+      ],
+      [
+        "33100*",
+        "3",
+        "Dental laboratory assistants/bench workers"
+      ],
+      [
+        "44100",
+        "4",
+        "Home child care providers"
+      ],
+      [
+        "44101",
+        "4",
+        "Home support workers, caregivers and related occupations"
+      ],
+      [
+        "64321",
+        "4",
+        "Casino occupations"
+      ],
+      [
+        "55109",
+        "5",
+        "Other performers"
+      ],
+      [
+        "65109",
+        "5",
+        "Other sales related occupations"
+      ],
+      [
+        "65211",
+        "5",
+        "Operators and attendants in amusement, recreation and sport"
+      ],
+      [
+        "65229",
+        "5",
+        "Other support occupations in personal services"
+      ],
+      [
+        "65329",
+        "5",
+        "Other service support occupations"
+      ],
+      [
+        "75200",
+        "5",
+        "Taxi and limousine drivers and chauffeurs"
+      ],
+      [
+        "85101",
+        "5",
+        "Harvesting labourers"
+      ],
+      [
+        "85102",
+        "5",
+        "Aquaculture and marine harvest labourers"
+      ],
+      [
+        "85104",
+        "5",
+        "Trappers and hunters"
+      ],
+      [
+        "85110",
+        "5",
+        "Mine labourers"
+      ],
+      [
+        "85121",
+        "5",
+        "Landscaping and grounds maintenance labourers"
+      ]
+    ],
+    [
+      [
+        "National Occupational Classification (NOC) TEER category",
+        "Canadian Language Benchmark (CLB) test score required",
+        "Niveaux de compétence linguistique canadiens (NCLC) test score required"
+      ],
+      [
+        "If you are working in a NOC 0, 1, 2 or 3 occupation",
+        "Minimum of 5 for each English language skill",
+        "Minimum of 5 for each French language skill"
+      ],
+      [
+        "If you are working in a NOC 4 or 5 occupation",
+        "Minimum of 4 for each English language skill",
+        "Minimum of 4 for each French language skill"
+      ]
+    ]
+  ],
+  "abrural": [
+    [
+      [
+        "NOC Code (2021)",
+        "NOC TEER category",
+        "Occupation"
+      ],
+      [
+        "00010",
+        "0",
+        "Legislators"
+      ],
+      [
+        "60040*",
+        "0",
+        "Escort agency managers, massage parlour managers"
+      ],
+      [
+        "41100",
+        "1",
+        "Judges"
+      ],
+      [
+        "51111",
+        "1",
+        "Authors and writers (except technical)"
+      ],
+      [
+        "51122",
+        "1",
+        "Musicians and singers"
+      ],
+      [
+        "42200*",
+        "2",
+        "Justices of the peace"
+      ],
+      [
+        "53121",
+        "3",
+        "Actors, comedians and circus performers"
+      ],
+      [
+        "53122",
+        "3",
+        "Painters, sculptors and other visual artists"
+      ],
+      [
+        "53124",
+        "3",
+        "Artisans and craftspersons"
+      ],
+      [
+        "53200",
+        "3",
+        "Athletes"
+      ],
+      [
+        "33100*",
+        "3",
+        "Dental laboratory bench workers"
+      ],
+      [
+        "44100",
+        "4",
+        "Home child care providers"
+      ],
+      [
+        "44101",
+        "4",
+        "Home support workers, caregivers and related occupations"
+      ],
+      [
+        "64321",
+        "4",
+        "Casino Occupations"
+      ],
+      [
+        "55109",
+        "5",
+        "Other performers"
+      ],
+      [
+        "65229",
+        "5",
+        "Other support occupations in personal services"
+      ],
+      [
+        "85101",
+        "5",
+        "Harvesting Labourers"
+      ]
+    ],
+    [
+      [
+        "TEER Category of job offer or current occupation is:",
+        "TEER Category of work experience must be:"
+      ],
+      [
+        "TEER 0",
+        "TEER 0 or 1"
+      ],
+      [
+        "TEER 1",
+        "TEER 0, 1 or 2"
+      ],
+      [
+        "TEER 2",
+        "TEER 1, 2, 3 or 4"
+      ],
+      [
+        "TEER 3",
+        "TEER 1, 2, 3 or 4"
+      ],
+      [
+        "TEER 4",
+        "TEER 2, 3, 4 or 5"
+      ],
+      [
+        "TEER 5",
+        "TEER 5 and must be in the same occupation – NOC code"
+      ]
+    ],
+    [
+      [
+        "National Occupational Classification (NOC) TEER category",
+        "Canadian Language Benchmark (CLB) test score required",
+        "Niveaux de compétence linguistique canadiens (NCLC) test score required"
+      ],
+      [
+        "If your job offer is for NOC 0, 1, 2 or 3 occupation",
+        "Minimum of 5 for each English language skill",
+        "Minimum of 5 for each French language skill"
+      ],
+      [
+        "If your job offer is for NOC 4 or 5 occupation",
+        "Minimum of 4 for each English language skill",
+        "Minimum of 4 for each French language skill"
+      ]
+    ],
+    [
+      [
+        "",
+        "Population size of the community and funds required"
+      ],
+      [
+        "Number of family members",
+        "Less than 1,000",
+        "1,000 to 30,000",
+        "30,000 to 99,999"
+      ],
+      [
+        "1",
+        "$8,922",
+        "$10,151",
+        "$11,093"
+      ],
+      [
+        "2",
+        "$11,107",
+        "$12,636",
+        "$13,810"
+      ],
+      [
+        "3",
+        "$13,655",
+        "$15,534",
+        "$16,977"
+      ],
+      [
+        "4",
+        "$16,579",
+        "$18,861",
+        "$20,613"
+      ],
+      [
+        "5",
+        "$18,803",
+        "$21,392",
+        "$23,379"
+      ],
+      [
+        "6",
+        "$21,208",
+        "$24,127",
+        "$26,367"
+      ],
+      [
+        "7",
+        "$23,611",
+        "$26,861",
+        "$29,356"
+      ],
+      [
+        "Amount of funds required for each additional family member",
+        "$2,404",
+        "$2,735",
+        "$2,989"
+      ]
+    ]
+  ],
+  "abtour": [
+    [
+      [
+        "Eligible WCB industries and exempt activities",
+        "WCB industry code",
+        "Sample activities"
+      ],
+      [
+        "Museums, Art Galleries",
+        "80701",
+        "Art Galleries, Art Museums, Interpretive Centres, Museums"
+      ],
+      [
+        "Zoos, Game Farms",
+        "80703",
+        "Game Farms, Zoos"
+      ],
+      [
+        "Bowling Alleys, Billiard Parlours",
+        "85300",
+        "Billiard Parlours, Bowling Alleys, Pool Halls"
+      ],
+      [
+        "Golf Clubs, Ranges",
+        "85900",
+        "Operation of Driving Ranges, Golf Courses"
+      ],
+      [
+        "Ski Resorts, Gondolas",
+        "85904",
+        "Operation of Chairlifts, Gondolas, Ski Instruction, Ski Resorts"
+      ],
+      [
+        "Casinos, Dance Halls",
+        "85916",
+        "Casino Halls, Dance Halls"
+      ],
+      [
+        "Arenas, Stadiums",
+        "85919",
+        "Arenas, Stadiums, Race Tracks"
+      ],
+      [
+        "Travel Agency, Motor Association",
+        "85925",
+        "Operation of Wildlife and Wilderness Associations, Tour Guides, Tourist Promotion, Park Associations"
+      ],
+      [
+        "Restaurants, Catering",
+        "87501",
+        "Operation of Coffee Shops, Drive-In Restaurants, Restaurants, Take-Out Services, Bartending Services"
+      ],
+      [
+        "Hotels, Convention Centres",
+        "87503",
+        "Operation of Bed and Breakfast, Cabins and Motels, Convention Centres"
+      ],
+      [
+        "Sports and Recreation",
+        "87600",
+        "Operation of Amusement Parks and Rec Resorts, Hot Air Ballooning, Boats, Pleasure and Water Tours, Campsites"
+      ],
+      [
+        "Property Management, Hostels",
+        "89702",
+        "Operation of Hostels, Bingo Halls, Airports"
+      ],
+      [
+        "Private Clubs",
+        "87508",
+        "Private Clubs, Sporting Clubs, Fitness Clubs and Gun Clubs"
+      ],
+      [
+        "Operation of a Curling Rink",
+        "Multiple",
+        "Activity is identified within multiple WCB industries/codes"
+      ],
+      [
+        "Operation of an Ice Skating Rink",
+        "Multiple",
+        "Activity is identified within multiple WCB industries/codes"
+      ],
+      [
+        "Operation of a Cricket Field",
+        "Multiple",
+        "Activity is identified within multiple WCB industries/codes"
+      ],
+      [
+        "Operation of a Convention Bureau",
+        "Multiple",
+        "Activity is identified within multiple WCB industries/codes"
+      ],
+      [
+        "Operation of an Information Bureau",
+        "Multiple",
+        "Activity is identified within multiple WCB industries/codes"
+      ],
+      [
+        "Promotions, sports and entertainment",
+        "Multiple",
+        "Activity is identified within multiple WCB industries/codes"
+      ],
+      [
+        "Professional sports",
+        "Multiple",
+        "Activity is identified within multiple WCB industries/codes"
+      ]
+    ],
+    [
+      [
+        "Sector",
+        "Sector association"
+      ],
+      [
+        "Accommodations",
+        "Alberta Hotel and Lodging Association"
+      ],
+      [
+        "Accommodations",
+        "Alberta Bed and Breakfast Association"
+      ],
+      [
+        "Food and Beverage",
+        "Restaurants Canada"
+      ],
+      [
+        "Food and Beverage",
+        "Alberta Hospitality Association"
+      ],
+      [
+        "Indigenous Tourism",
+        "Indigenous Tourism Alberta"
+      ],
+      [
+        "Recreation and Entertainment",
+        "Canadian Association of Tour Operators"
+      ],
+      [
+        "Recreation and Entertainment",
+        "Canada West Ski Areas Association"
+      ],
+      [
+        "Recreation and Entertainment",
+        "Association of Canadian Mountain Guides"
+      ],
+      [
+        "Recreation and Entertainment",
+        "Alberta Golf Association"
+      ],
+      [
+        "Meetings, Conventions, and Incentive Tourism",
+        "Convention Centres Canada"
+      ],
+      [
+        "Tourism and Hospitality",
+        "Tourism Industry Association of Alberta"
+      ],
+      [
+        "Tourism and Hospitality",
+        "Tourism HR Canada"
+      ],
+      [
+        "Tourism and Hospitality",
+        "Indigenous Tourism Association of Canada"
+      ],
+      [
+        "Tourism and Hospitality",
+        "Banff & Lake Louise Hospitality Association"
+      ]
+    ],
+    [
+      [
+        "NOC code (2021)",
+        "Occupation",
+        "NOC TEER category"
+      ],
+      [
+        "54100",
+        "Program leaders and instructors in recreation, sport, and fitness",
+        "4"
+      ],
+      [
+        "60030",
+        "Restaurant and food services managers",
+        "0"
+      ],
+      [
+        "60031",
+        "Accommodation service managers",
+        "0"
+      ],
+      [
+        "62020",
+        "Food service supervisors",
+        "2"
+      ],
+      [
+        "62200",
+        "Chefs",
+        "2"
+      ],
+      [
+        "63200",
+        "Cooks",
+        "3"
+      ],
+      [
+        "64300",
+        "Maîtres d’hôtel and hosts/hostesses",
+        "4"
+      ],
+      [
+        "64301",
+        "Bartenders",
+        "4"
+      ],
+      [
+        "64314",
+        "Hotel front desk clerks",
+        "4"
+      ],
+      [
+        "64320",
+        "Tour and travel guides",
+        "4"
+      ],
+      [
+        "64322",
+        "Outdoor sport and recreational guides",
+        "4"
+      ],
+      [
+        "65200",
+        "Food and beverage servers",
+        "5"
+      ],
+      [
+        "65201",
+        "Food counter attendants, kitchen helpers and related support occupations",
+        "5"
+      ],
+      [
+        "65210",
+        "Support occupations in accommodation, travel, and facilities set-up services",
+        "5"
+      ],
+      [
+        "65310",
+        "Light duty cleaners",
+        "5"
+      ],
+      [
+        "65311",
+        "Specialized cleaners",
+        "5"
+      ],
+      [
+        "65312",
+        "Janitors, caretakers, and heavy-duty cleaners",
+        "5"
+      ],
+      [
+        "65320",
+        "Dry cleaning, laundry, and related occupations",
+        "5"
+      ]
+    ]
+  ],
+  "processing": [
+    [
+      [
+        "2026 nomination allocation",
+        "2026 nominations issued",
+        "2026 nomination spaces remaining",
+        "Applications to be processed"
+      ],
+      [
+        "6,603",
+        "4,864",
+        "1,739",
+        "1,238"
+      ]
+    ],
+    [
+      [
+        "Additional federal space type",
+        "2026 nominations issued"
+      ],
+      [
+        "Physicians",
+        "50"
+      ],
+      [
+        "Francophones",
+        "12"
+      ]
+    ],
+    [
+      [
+        "2026 nomination allocation",
+        "2026 nominations issued",
+        "2026 nomination spaces remaining",
+        "Applications to be processed",
+        "Currently assessing applications received on or before:"
+      ],
+      [
+        "3,562",
+        "2,725",
+        "837",
+        "484",
+        "June 17, 2026 (currently excludes those who received a work permit support letter under the ‘Temporary public policy to facilitate work permits for prospective Provincial Nominee Program candidates’)"
+      ]
+    ],
+    [
+      [
+        "2026 nomination allocation",
+        "2026 nominations issued",
+        "2026 nomination spaces remaining",
+        "Applications to be processed",
+        "Currently assessing applications received on or before:"
+      ],
+      [
+        "1,057",
+        "673",
+        "384",
+        "95",
+        "August 11, 2026"
+      ]
+    ],
+    [
+      [
+        "2026 nomination allocation",
+        "2026 nominations issued",
+        "2026 nomination spaces remaining",
+        "Applications to be processed",
+        "Currently assessing applications received on or before:"
+      ],
+      [
+        "156",
+        "141",
+        "15",
+        "5",
+        "July 27, 2026"
+      ]
+    ],
+    [
+      [
+        "2026 nomination allocation",
+        "2026 nominations issued",
+        "2026 nomination spaces remaining",
+        "Applications to be processed",
+        "Currently assessing applications received on or before:"
+      ],
+      [
+        "518",
+        "310",
+        "208",
+        "27",
+        "July 30, 2026"
+      ]
+    ],
+    [
+      [
+        "Pathway or initiative",
+        "2026 nomination allocation",
+        "2026 nominations issued",
+        "2026 nomination spaces remaining",
+        "Applications to be processed",
+        "Currently assessing applications received on or before:"
+      ],
+      [
+        "Accelerated Tech Pathway (eligible list of occupations includes jobs that support data centre needs in Alberta)",
+        "619",
+        "447",
+        "172",
+        "176",
+        "June 17, 2026"
+      ],
+      [
+        "Law Enforcement Pathway",
+        "12",
+        "Less than 10",
+        "Not applicable",
+        "Less than 10",
+        "Not applicable"
+      ],
+      [
+        "Priority sector draws and other initiatives (construction, manufacturing, agriculture, aviation, and including skilled trades linked to each sector, etc.)",
+        "619",
+        "527",
+        "92",
+        "230",
+        "June 24, 2026"
+      ]
+    ],
+    [
+      [
+        "2026 nomination allocation",
+        "2026 nominations issued",
+        "2026 nomination spaces remaining",
+        "Applications in process (varying stages of processing)",
+        "Currently assessing applications received on or before:"
+      ],
+      [
+        "60",
+        "34",
+        "26",
+        "221",
+        "Business applications are evaluated upon receipt"
+      ]
+    ],
+    [
+      [
+        "Stream or pathway of interest identified",
+        "Number of expressions of interest currently in the selection pool"
+      ],
+      [
+        "Alberta Opportunity Stream",
+        "22,381"
+      ],
+      [
+        "Dedicated Health Care Pathways (Express Entry and Non-Express Entry)",
+        "1,302"
+      ],
+      [
+        "Rural Renewal Stream",
+        "1,750"
+      ],
+      [
+        "Tourism and Hospitality Stream",
+        "3,372"
+      ],
+      [
+        "Alberta Express Entry Stream:",
+        ""
+      ],
+      [
+        "Accelerated Tech Pathway",
+        "2,039"
+      ],
+      [
+        "Law Enforcement Pathway",
+        "46"
+      ],
+      [
+        "Priority sector draws and other initiatives",
+        "5,067"
+      ],
+      [
+        "Total:",
+        "35,957"
+      ]
+    ],
+    [
+      [
+        "Draw date",
+        "Worker stream, pathway, initiative or other focus and selection parameters",
+        "Minimum score of invited candidates",
+        "Number of invitations"
+      ],
+      [
+        "September 9, 2026",
+        "Dedicated Health Care Pathway – Express Entry",
+        "60",
+        "51"
+      ],
+      [
+        "September 3, 2026",
+        "Alberta Express Entry Stream – Accelerated Tech Pathway",
+        "60",
+        "96"
+      ],
+      [
+        "September 1, 2026",
+        "Alberta Opportunity Stream",
+        "56",
+        "575"
+      ],
+      [
+        "August 19, 2026",
+        "Dedicated Health Care Pathway – non-Express Entry",
+        "60",
+        "24"
+      ],
+      [
+        "August 14, 2026",
+        "Alberta Opportunity Stream",
+        "58",
+        "743"
+      ],
+      [
+        "August 12, 2026",
+        "Dedicated Health Care Pathway – Express Entry",
+        "60",
+        "57"
+      ],
+      [
+        "August 11, 2026",
+        "Rural Renewal Stream",
+        "51",
+        "127"
+      ],
+      [
+        "August 7, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Agriculture)",
+        "55",
+        "38"
+      ],
+      [
+        "August 6, 2026",
+        "Alberta Express Entry Stream – Accelerated Tech Pathway",
+        "60",
+        "95"
+      ],
+      [
+        "August 4, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Health Care)",
+        "66",
+        "50"
+      ],
+      [
+        "July 21, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Construction)",
+        "65",
+        "53"
+      ],
+      [
+        "July 16, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Agriculture)",
+        "56",
+        "29"
+      ],
+      [
+        "July 15, 2026",
+        "Alberta Opportunity Stream",
+        "53",
+        "833"
+      ],
+      [
+        "July 14, 2026",
+        "Dedicated Health Care Pathway – non-Express Entry",
+        "52",
+        "51"
+      ],
+      [
+        "July 10, 2026",
+        "Alberta Express Entry Stream – Law Enforcement Pathway",
+        "52",
+        "Less than 10"
+      ],
+      [
+        "July 8, 2026",
+        "Alberta Express Entry Stream – Accelerated Tech Pathway",
+        "55",
+        "149"
+      ],
+      [
+        "July 7, 2026",
+        "Rural Renewal Stream",
+        "55",
+        "42"
+      ],
+      [
+        "July 3, 2026",
+        "Dedicated Health Care Pathway – Express Entry",
+        "55",
+        "92"
+      ],
+      [
+        "June 29, 2026",
+        "Dedicated Health Care Pathway – non-Express Entry",
+        "63",
+        "75"
+      ],
+      [
+        "June 24, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Aviation and skilled trade)",
+        "47",
+        "35"
+      ],
+      [
+        "June 22, 2026",
+        "Dedicated Health Care Pathway – Express Entry",
+        "64",
+        "46"
+      ],
+      [
+        "June 19, 2026",
+        "Alberta Express Entry Stream – Accelerated Tech Pathway",
+        "59",
+        "100"
+      ],
+      [
+        "June 18, 2026",
+        "Tourism and Hospitality Stream",
+        "71",
+        "61"
+      ],
+      [
+        "June 17, 2026",
+        "Alberta Opportunity Stream",
+        "58",
+        "720"
+      ],
+      [
+        "June 15, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Manufacturing)",
+        "50",
+        "56"
+      ],
+      [
+        "June 12, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Agriculture)",
+        "52",
+        "37"
+      ],
+      [
+        "June 11, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Health Care)",
+        "63",
+        "50"
+      ],
+      [
+        "June 10, 2026",
+        "Rural Renewal Stream",
+        "51",
+        "54"
+      ],
+      [
+        "June 9, 2026",
+        "Dedicated Health Care Pathway – non-Express Entry",
+        "45",
+        "35"
+      ],
+      [
+        "June 8, 2026",
+        "Dedicated Health Care Pathway – Express Entry",
+        "60",
+        "49"
+      ],
+      [
+        "June 5, 2026",
+        "Alberta Opportunity Stream",
+        "50",
+        "462"
+      ],
+      [
+        "June 2, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Manufacturing)",
+        "53",
+        "49"
+      ],
+      [
+        "May 29, 2026",
+        "Alberta Express Entry Stream – Accelerated Tech Pathway",
+        "55",
+        "200"
+      ],
+      [
+        "May 27, 2026",
+        "Alberta Opportunity Stream",
+        "51",
+        "993"
+      ],
+      [
+        "May 25, 2026",
+        "Rural Renewal Stream",
+        "50",
+        "83"
+      ],
+      [
+        "May 22, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Agriculture)",
+        "48",
+        "76"
+      ],
+      [
+        "May 21, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Manufacturing)",
+        "56",
+        "99"
+      ],
+      [
+        "May 20, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Construction and skilled trade)",
+        "61",
+        "50"
+      ],
+      [
+        "May 13, 2026",
+        "Dedicated Health Care Pathway – Express Entry",
+        "57",
+        "61"
+      ],
+      [
+        "May 7, 2026",
+        "Alberta Express Entry Stream – Accelerated Tech Pathway",
+        "57",
+        "146"
+      ],
+      [
+        "May 6, 2026",
+        "Alberta Opportunity Stream",
+        "54",
+        "832"
+      ],
+      [
+        "May 1, 2026",
+        "Rural Renewal Stream",
+        "50",
+        "12"
+      ],
+      [
+        "April 27, 2026",
+        "Tourism and Hospitality Stream",
+        "71",
+        "98"
+      ],
+      [
+        "April 23, 2026",
+        "Alberta Express Entry Stream – Law Enforcement Pathway",
+        "58",
+        "Less than 10"
+      ],
+      [
+        "April 16, 2026",
+        "Dedicated Health Care Pathway – non-Express Entry",
+        "46",
+        "37"
+      ],
+      [
+        "April 15, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Health Care)",
+        "55",
+        "50"
+      ],
+      [
+        "April 14, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Construction and skilled trade)",
+        "60",
+        "50"
+      ],
+      [
+        "April 13, 2026",
+        "Dedicated Health Care Pathway – Express Entry",
+        "59",
+        "62"
+      ],
+      [
+        "April 10, 2026",
+        "Alberta Opportunity Stream",
+        "65",
+        "447"
+      ],
+      [
+        "April 9, 2026",
+        "Rural Renewal Stream",
+        "50",
+        "74"
+      ],
+      [
+        "April 8, 2026",
+        "Alberta Express Entry Stream – Accelerated Tech Pathway",
+        "59",
+        "146"
+      ],
+      [
+        "March 27, 2026",
+        "Alberta Express Entry Stream – Law Enforcement Pathway",
+        "46",
+        "Less than 10"
+      ],
+      [
+        "March 26, 2026",
+        "Rural Renewal Stream",
+        "50",
+        "60"
+      ],
+      [
+        "March 24, 2026",
+        "Dedicated Health Care Pathway – non-Express Entry",
+        "54",
+        "102"
+      ],
+      [
+        "March 19, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Construction)",
+        "59",
+        "109"
+      ],
+      [
+        "March 17, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Manufacturing)",
+        "50",
+        "27"
+      ],
+      [
+        "March 16, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Health Care)",
+        "63",
+        "50"
+      ],
+      [
+        "March 13, 2026",
+        "Rural Renewal Stream",
+        "51",
+        "349"
+      ],
+      [
+        "March 12, 2026",
+        "Dedicated Health Care Pathway – non-Express Entry",
+        "47",
+        "47"
+      ],
+      [
+        "March 6, 2026",
+        "Alberta Express Entry Stream – Accelerated Tech Pathway",
+        "56",
+        "139"
+      ],
+      [
+        "March 5, 2026",
+        "Alberta Opportunity Stream",
+        "61",
+        "832"
+      ],
+      [
+        "February 26, 2026",
+        "Rural Renewal Stream",
+        "55",
+        "30"
+      ],
+      [
+        "February 24, 2026",
+        "Tourism and Hospitality Stream",
+        "73",
+        "68"
+      ],
+      [
+        "February 20, 2026",
+        "Alberta Opportunity Stream – Priority Sectors",
+        "56",
+        "831"
+      ],
+      [
+        "February 19, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Construction)",
+        "61",
+        "50"
+      ],
+      [
+        "February 17, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Agriculture)",
+        "49",
+        "Less than 10"
+      ],
+      [
+        "February 12, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Manufacturing)",
+        "50",
+        "32"
+      ],
+      [
+        "February 11, 2026",
+        "Alberta Express Entry Stream – Accelerated Tech Pathway",
+        "59",
+        "147"
+      ],
+      [
+        "February 10, 2026",
+        "Rural Renewal Stream",
+        "54",
+        "212"
+      ],
+      [
+        "February 6, 2026",
+        "Alberta Express Entry Stream – Law Enforcement Pathway",
+        "50",
+        "Less than 10"
+      ],
+      [
+        "February 2, 2026",
+        "Alberta Opportunity Stream",
+        "57",
+        "915"
+      ],
+      [
+        "January 29, 2026",
+        "Alberta Express Entry Stream – Accelerated Tech Pathway",
+        "63",
+        "148"
+      ],
+      [
+        "January 27, 2026",
+        "Dedicated Health Care Pathway – non-Express Entry",
+        "45",
+        "43"
+      ],
+      [
+        "January 26, 2026",
+        "Dedicated Health Care Pathway – Express Entry",
+        "61",
+        "63"
+      ]
+    ]
+  ],
+  "communities": [
+    [
+      [
+        "Community",
+        "Designation Date"
+      ],
+      [
+        "City of Brooks (including: Town of Bassano, Village of Duchess, County of Newell, Village of Rosemary)",
+        "May 13, 2022"
+      ],
+      [
+        "City of Grande Prairie",
+        "July 6, 2022"
+      ],
+      [
+        "Town of Innisfail (including: Town of Olds, Town of Bowden)",
+        "September 9, 2022"
+      ],
+      [
+        "Municipal District of Smoky River (including: Town of Falher, Village of Donnelly, Village of Girouxville)",
+        "September 9, 2022"
+      ],
+      [
+        "County of Grande Prairie (including: Town of Sexsmith, Town of Wembley, Town of Beaverlodge, Village of Rycroft)",
+        "September 9, 2022"
+      ],
+      [
+        "Town of Trochu (including: Village of Acme, Town of Three Hills, Village of Linden)",
+        "September 9, 2022"
+      ],
+      [
+        "Fort McMurray – Wood Buffalo",
+        "September 9, 2022"
+      ],
+      [
+        "Municipality of Jasper",
+        "September 13, 2022"
+      ],
+      [
+        "Town of Hinton",
+        "November 8, 2022"
+      ],
+      [
+        "City of Medicine Hat (including: Town of Bow Island)",
+        "January 13, 2023"
+      ],
+      [
+        "Town of Fox Creek",
+        "February 13, 2023"
+      ],
+      [
+        "City of Cold Lake",
+        "March 10, 2023"
+      ],
+      [
+        "County of St. Paul (including: Town of St Paul, Town of Elk Point, Summer Village of Horseshoe Bay)",
+        "March 10, 2023"
+      ],
+      [
+        "Town of Drayton Valley",
+        "March 10, 2023"
+      ],
+      [
+        "Town of Slave Lake (including: Sawridge First Nation, Town of High Prairie, Municipal District of Opportunity, Big Lakes County)",
+        "March 10, 2023"
+      ],
+      [
+        "City of Lloydminster",
+        "March 29, 2023"
+      ],
+      [
+        "Town of Westlock",
+        "March 29, 2023"
+      ],
+      [
+        "Town of Peace River",
+        "June 14, 2023"
+      ],
+      [
+        "City of Wetaskiwin",
+        "August 2, 2023"
+      ],
+      [
+        "Special Areas 2, 3, 4 (including: Town of Hanna, Town of Oyen, Village of Consort, Village of Empress, Village of Veteran, Village of Youngstown, Municipal District of Acadia No. 34)",
+        "August 2, 2023"
+      ],
+      [
+        "Growth Regional Economic Development Alliance (including: Woodlands County, Town of Swan Hills)",
+        "September 22, 2023"
+      ],
+      [
+        "County of Northern Lights (including: Town of Manning)",
+        "September 22, 2023"
+      ],
+      [
+        "Town of Bonnyville",
+        "September 22, 2023"
+      ],
+      [
+        "Town of Two Hills",
+        "September 22, 2023"
+      ],
+      [
+        "Lac La Biche County (including: Hamlet of Lac La Biche, Hamlet of Plamondon and Greater Region)",
+        "October 4, 2023"
+      ],
+      [
+        "Town of High Level",
+        "December 14, 2023"
+      ],
+      [
+        "Town of Didsbury",
+        "December 14, 2023"
+      ],
+      [
+        "Town of Coronation (including, County of Paintearth, Hamlet of Brownfield, Town of Castor)",
+        "September 9, 2024"
+      ],
+      [
+        "Smoky Lake Region (including Smoky Lake County, Town of Smoky Lake, Village of Vilna, Village of Waskatenau)",
+        "September 9, 2024"
+      ],
+      [
+        "Town of Rocky Mountain House",
+        "December 13, 2024"
+      ],
+      [
+        "Town of Edson",
+        "February 5, 2025"
+      ]
+    ]
+  ]
+}

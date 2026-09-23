@@ -1,0 +1,15 @@
+{
+  "statistics": {
+    "bc": {
+      "pages": 11,
+      "diagrams": 5
+    },
+    "ab": {
+      "pages": 11,
+      "diagrams": 5,
+      "sources": 78,
+      "distinct_occupations": 110
+    }
+  },
+  "errors": []
+}

@@ -22,3 +22,17 @@
  p,li{orphans:3;widows:3}a,small,code{overflow-wrap:anywhere}a{color:#163f36;text-decoration:underline}.ref{font-size:8pt}
  details{display:block;break-inside:auto}details>div{display:block!important}.print-landscape{page:landscape}
 }
+/* Long bilingual terminology should wrap naturally, including reference chips. */
+.ref,.tag{overflow-wrap:anywhere;max-width:100%}.source-url{font-size:12px;overflow-wrap:anywhere;color:var(--muted)}.source-card code{overflow-wrap:anywhere;white-space:normal}.search input{display:block;width:100%;padding:12px;border:1px solid var(--line);border-radius:8px;margin:10px 0}.chapter-next{margin-top:40px;padding-top:20px;border-top:1px solid var(--line)}
+@media print{.chapter-next{display:none}.source-url{font-size:8pt}.ref{font-size:8pt}details{break-inside:auto}.occupation-row{break-inside:auto!important}figure img{object-fit:contain}a{overflow-wrap:anywhere}.report-title .meta{margin-bottom:8mm}section{break-before:auto}}
+figure img{display:block;max-width:100%;height:auto}figure>img{width:100%}
+@media print{
+ /* Occupational evidence prints as full-width records rather than a narrow text column. */
+ table:has(.occupation-row),table:has(.occupation-row) tbody{display:block;width:100%}
+ table:has(.occupation-row) thead{display:none}
+ .occupation-row{display:block!important;border:1px solid #cad8d0;margin:0 0 4mm;padding:2mm;break-inside:avoid!important}
+ .occupation-row td{display:block;width:100%!important;min-width:0!important;padding:1.5mm 2mm;border:0;font-size:9pt;line-height:1.5}
+ .occupation-row td:first-child{background:#edf3ee;border-bottom:1px solid #cad8d0;font-size:10pt}
+ .occupation-row details{margin:2mm 0;padding:2mm;border:0}
+ .occupation-row details ul{margin:1mm 0;padding-left:5mm}.occupation-row li{margin:1mm 0}
+}

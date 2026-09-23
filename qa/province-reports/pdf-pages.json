@@ -1,0 +1,159 @@
+{
+  "files": [
+    {
+      "file": "reports/bc/pdf/01-framework.pdf",
+      "pages": 4,
+      "a4": true,
+      "sha256": "f8f1394e681f3d4cee10136df94751054239aad0f0b1df5471a34738c898b60f",
+      "bytes": 1163868
+    },
+    {
+      "file": "reports/bc/pdf/02-fit.pdf",
+      "pages": 3,
+      "a4": true,
+      "sha256": "8706954e5984687cbb8a908ac593e77555fd50aa2ea113b1c893b4a54f19a97c",
+      "bytes": 962651
+    },
+    {
+      "file": "reports/bc/pdf/03-rules.pdf",
+      "pages": 15,
+      "a4": true,
+      "sha256": "f2b3cef5f0869c6a682bcb26ebac6b4691045d0a87c0ebbfb52fd7fcd2e6cac5",
+      "bytes": 1711349
+    },
+    {
+      "file": "reports/bc/pdf/04-study.pdf",
+      "pages": 4,
+      "a4": true,
+      "sha256": "da1a150963ea6d0beb9ae37da5a2868618a6cc7d0f0d887a64968cd2372d4d6f",
+      "bytes": 1052156
+    },
+    {
+      "file": "reports/bc/pdf/05-schools.pdf",
+      "pages": 11,
+      "a4": true,
+      "sha256": "c14fa58923de9ed65e9ce4af50af56cd9a38cc8d50f4a56c9085558f27bcffb9",
+      "bytes": 913718
+    },
+    {
+      "file": "reports/bc/pdf/06-timeline.pdf",
+      "pages": 7,
+      "a4": true,
+      "sha256": "95cdd0701b399f081f1c8391a8ba468664dac277b78f370b00a3e310fadb7506",
+      "bytes": 1351857
+    },
+    {
+      "file": "reports/bc/pdf/07-risks.pdf",
+      "pages": 3,
+      "a4": true,
+      "sha256": "b39d28226b0cc713d6332e5e32241ab935e128aacf7d60c47b3d340e7d71b271",
+      "bytes": 808086
+    },
+    {
+      "file": "reports/bc/pdf/08-commentary.pdf",
+      "pages": 2,
+      "a4": true,
+      "sha256": "5c8f685e71413ddff227bdcf015ae794e01098101da9a243f7368f3372b8fde1",
+      "bytes": 636004
+    },
+    {
+      "file": "reports/bc/pdf/evidence.pdf",
+      "pages": 47,
+      "a4": true,
+      "sha256": "10652c2a4e6c61b28e7addde92f97e346558d2a16a887e4dec8804cfa60bd95d",
+      "bytes": 8712867
+    },
+    {
+      "file": "reports/bc/pdf/index.pdf",
+      "pages": 2,
+      "a4": true,
+      "sha256": "f945cd367091ca11bf0097a0b1b9a0322e154894469266c3f9d859fd9e2a39e2",
+      "bytes": 656437
+    },
+    {
+      "file": "reports/bc/pdf/occupations.pdf",
+      "pages": 90,
+      "a4": true,
+      "sha256": "5ea4c1b6a4bd21547da0d44cf291e3ddea6bcd03eb030546029e583c321b0ca5",
+      "bytes": 1950151
+    },
+    {
+      "file": "reports/ab/pdf/01-framework.pdf",
+      "pages": 6,
+      "a4": true,
+      "sha256": "845ec6223e509195da21234ce3b8dd593fae5ace01c095463b8f6590e9c85610",
+      "bytes": 1016478
+    },
+    {
+      "file": "reports/ab/pdf/02-fit.pdf",
+      "pages": 2,
+      "a4": true,
+      "sha256": "de09e10dd6faa52d14ab56d60a38cf02dd53eecced75dd7f5580b586b3529545",
+      "bytes": 582450
+    },
+    {
+      "file": "reports/ab/pdf/03-rules.pdf",
+      "pages": 10,
+      "a4": true,
+      "sha256": "481c1f6c9f3904b3e739ba465240f5b7b92437aa90f293fdeab3fa0f43d7988a",
+      "bytes": 1146622
+    },
+    {
+      "file": "reports/ab/pdf/04-study.pdf",
+      "pages": 4,
+      "a4": true,
+      "sha256": "8f01455acbe3cb781c6dfdda0cd48013d2a35c258f4d0ceb31a0fa9068a18910",
+      "bytes": 983377
+    },
+    {
+      "file": "reports/ab/pdf/05-schools.pdf",
+      "pages": 7,
+      "a4": true,
+      "sha256": "b9ebe2b9fc1ec37f66c666f53bc42f1c863d10521027db393a70789ae8cd4232",
+      "bytes": 713543
+    },
+    {
+      "file": "reports/ab/pdf/06-timeline.pdf",
+      "pages": 6,
+      "a4": true,
+      "sha256": "1929bdda39273026befb3976ab255a31136476e6e8a52cd13a59ec68fb080563",
+      "bytes": 1023105
+    },
+    {
+      "file": "reports/ab/pdf/07-risks.pdf",
+      "pages": 2,
+      "a4": true,
+      "sha256": "09174d46684b38e8dcb1621fd822bdd15e459eb24d3a48eb8ddcd2d81dbacb4c",
+      "bytes": 642678
+    },
+    {
+      "file": "reports/ab/pdf/08-commentary.pdf",
+      "pages": 2,
+      "a4": true,
+      "sha256": "504390fa3139ec8f925bfd11e9fa189c4bae5c2440ee7f6f610da1fddbde1400",
+      "bytes": 481485
+    },
+    {
+      "file": "reports/ab/pdf/evidence.pdf",
+      "pages": 41,
+      "a4": true,
+      "sha256": "482be082e308cada01b21944c23ed295d4365e804e5880bbaed7fe13105c3990",
+      "bytes": 4091133
+    },
+    {
+      "file": "reports/ab/pdf/index.pdf",
+      "pages": 2,
+      "a4": true,
+      "sha256": "246045e0736f5aabc009c6c6eeb981b6196ad127533a9ad0863793df6b4deca4",
+      "bytes": 569327
+    },
+    {
+      "file": "reports/ab/pdf/occupations.pdf",
+      "pages": 73,
+      "a4": true,
+      "sha256": "4c858ace99a60ea5ab6885f2db5acd1fd52ded46de1c44d919fb59b94d2065a6",
+      "bytes": 1810406
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,108 @@
+National Occupational Classification (NOC) 2021 Version 1.0
+Skip to main content
+Skip to footer
+Language selection
+WxT Language switcher
+Françaisfr
+Search and menus
+Search and menus
+WxT Search form
+Search Statistics Canada
+Search
+Topics menu
+Subjects
+Data
+Analysis
+Reference
+Reference resources
+Standards, data sources and methods
+Reference – Main page
+Geography
+Census
+2026 Census
+Census of Population
+Census of Agriculture
+Census of Environment
+Census engagement
+Census – Main page
+Surveys and statistical programs
+Information for survey participants
+Results and documentation of surveys and statistical programs
+Using new and existing data for official statistics
+Surveys and statistical programs – Main page
+About StatCan
+Canada.ca
+Home
+Reference
+Standards, data sources and methods
+Occupational classifications
+NOC 2021 Version 1.0
+National Occupational Classification (NOC) 2021 Version 1.0
+Release date: September 28, 2021
+Permanent consultation process for the NOC 2031 and beyond
+Invitation to participate in the revision of the National Occupational Classification (NOC) Updated on: October 28, 2025
+Revising the National Occupational Classification (NOC) 2021 Version 1.0 to NOC 2026 Version 1.0: What we Asked, What we Learned and What we Did Report Updated on: October 28, 2025
+Status
+This standard was approved as a departmental standard on August 10th, 2021.
+NOC 2021 Version 1.0
+The publication of the National Occupational Classification (NOC) 2021 is the thirtieth anniversary of the standard occupational classification system and it introduces a major structural change. The NOC 2021 Version 1.0 overhauls the "Skill Level" structure by introducing a new categorization representing the degree of Training, Education, Experience and Responsibilities (TEER) required for an occupation. The NOC 2021 Version 1.0 also introduces a new 5-digit hierarchical structure, compared to a 4-digit hierarchical structure in the previous versions of the classification. The NOC has been developed and maintained as part of a collaborative partnership between Employment and Social Development Canada and Statistics Canada. This revision is extensive; the last structural revision was NOC 2011.
+HTML format
+Introduction Updated: September 14, 2023
+NOC 2021 Version 1.0 - Classification structure
+CSV format
+NOC 2021 Version 1.0 - Classification structure (CSV, 384.72 KB)
+NOC 2021 Version 1.0 - Elements (CSV, 4.89 MB)
+PDF format
+NOC 2021 Version 1.0 (PDF, 6.37 MB)
+(catalogue no. 12-583-X)
+Correspondence tables
+NOC 2016 V1.3 - NOC 2021 V1.0 Updated: September 14, 2023
+Variants of the NOC Version 1.0
+Variant of the National Occupational Classification (NOC) 2021 Version 1.0 for Science, Technology, Engineering and Mathematics (STEM)
+(
+Variant of the NOC 2021 Version 1.0 - Science, Technology, Engineering and Mathematics (STEM) (CSV, 625.46 KB)
+)
+Variant of the National Occupational Classification (NOC) 2021 Version 1.0 for Analysis by TEER (Training, Education, Experience and Responsibility) categories
+(
+Variant of the NOC 2021 Version 1.0 - Analysis by TEER (Training, Education, Experience and Responsibility) categories (CSV, 949.53 KB)
+)
+Variant of the National Occupational Classification (NOC) 2021 Version 1.0 with Aggregates for Analysis of Labour force
+(
+Variant of the NOC 2021 Version 1.0 - Aggregates for Analysis of Labour force (CSV, 969.45 KB)
+)
+Date modified:
+2026-03-20
+About this site
+Statistics Canada
+Contact StatCan
+Trust Centre
+Government of Canada
+All contacts
+Departments and agencies
+About government
+Themes and topics
+Jobs
+Immigration and citizenship
+Travel and tourism
+Business
+Benefits
+Health
+Taxes
+Environment and natural resources
+National security and defence
+Culture, history and sport
+Policing, justice and emergencies
+Transport and infrastructure
+Canada and the world
+Money and finance
+Science and innovation
+Indigenous peoples
+Veterans and military
+Youth
+Manage life events
+Government of Canada Corporate
+Social media
+Mobile applications
+About Canada.ca
+Terms and conditions
+Privacy

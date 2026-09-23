@@ -1,0 +1,1093 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<title>English Proficiency</title>
+<meta content="Southern Alberta Institute of Technology" itemprop="legalName">
+<meta content="SAIT" itemprop="name">
+<meta content="SAIT" name="author">
+<meta content="Basic Page" name="cms-page-type">
+<meta content="" name="cms-page-title">
+<meta content="How applicants can demonstrate English language proficiency when applying to SAIT programs." name="description">
+<meta content="duolingo, IELTS, International English Language Testing System, CAEL, Canadian Academic English Language Assessment, TOEFL, Test of English as a Foreign Language, ESL" name="keywords">
+<meta content="true" name="saitLinksUpdated">
+<meta content="c698625c0a0000540d253bd4d8f4e4aa" name="pageid">
+<meta content="Qhin-NDuZjgVDUU44t79vXsESrj9WRll6jXFroKEdyo" name="google-site-verification">
+<meta content="#a6192e" name="msapplication-TileColor">
+<meta content="#ffffff" name="theme-color">
+<meta content="2251126331825796" property="fb:app_id">
+<meta content="English Proficiency" property="og:title">
+<meta content="How applicants can demonstrate English language proficiency when applying to SAIT programs." property="og:description">
+<meta content="https://www.sait.ca/admissions/meeting-requirements/english-proficiency" property="og:url">
+<meta content="website" property="og:type">
+<meta content="https://www.sait.ca/assets/image/banners/floating-960x800/br-two-students-studying-together-960x800.jpg" property="og:image">
+<meta content="summary_large_image" name="twitter:card">
+<meta content="English Proficiency" name="twitter:title">
+<meta content="How applicants can demonstrate English language proficiency when applying to SAIT programs." name="twitter:description">
+<meta content="https://www.sait.ca/assets/image/banners/floating-960x800/br-two-students-studying-together-960x800.jpg" name="twitter:image">
+<link href="https://www.sait.ca/admissions/meeting-requirements/english-proficiency" rel="canonical">
+<style>
+/******************************** * Titillium * *********************************/
+@font-face {
+    font-family: "Titillium Web";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/titillium-web/TitilliumWeb-Regular.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: "Titillium Web";
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/titillium-web/TitilliumWeb-SemiBold.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: "Titillium Web";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/titillium-web/TitilliumWeb-Bold.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* bold font face and black */
+
+@font-face {
+    font-family: 'Titillium Web Bold';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/titillium-web/TitilliumWeb-Bold.woff2") format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: "Titillium Web Black";
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/titillium-web/titilliumweb-black.woff2")
+      format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+      U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
+      U+FEFF, U+FFFD;
+
+}
+
+/* Load other styles */
+@font-face {
+    font-family: "Titillium Web";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/titillium-web/TitilliumWeb-Italic.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: "Titillium Web";
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/titillium-web/TitilliumWeb-SemiBoldItalic.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: "Titillium Web";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/titillium-web/TitilliumWeb-BoldItalic.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/******************************** * DM SANS * *********************************/
+@font-face {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/dm-sans/dm-sans.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: "DM Sans";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/dm-sans/dm-sans-italic.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/dm-sans/dm-sans-medium.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: "DM Sans";
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/dm-sans/dm-sans-medium-italic.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/dm-sans/dm-sans-bold.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: "DM Sans";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url("/assets/app/sait/fonts/woff2/dm-sans/dm-sans-bold-italic.woff2") format("woff2");
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+<script async="true" src="/assets/app/sait/js/vendors/ionicons/esm/ionicons.js" type="module">
+</script>
+<link href="https://cdn-cookieyes.com" rel="dns-prefetch">
+<link href="https://live.clive.cloud" rel="dns-prefetch">
+<link as="image" href="/assets/app/sait/images/svgs/logo/sait-logo_horz-sm.svg" rel="preload">
+<link as="font" crossorigin="anonymous" href="/assets/app/sait/fonts/woff2/titillium-web/TitilliumWeb-Regular.woff2" rel="preload">
+<link as="font" crossorigin="anonymous" href="/assets/app/sait/fonts/woff2/titillium-web/TitilliumWeb-Bold.woff2" rel="preload">
+<link href="https://www.googletagmanager.com" rel="preconnect">
+<link crossorigin="" href="https://cdn-cookieyes.com" rel="preconnect">
+<link crossorigin="" href="https://gstatic.com" rel="preconnect">
+<link href="https://stats.g.doubleclick.net" rel="preconnect">
+<link href="https://vars.hotjar.com" rel="preconnect">
+<link href="https://static.hotjar.com" rel="preconnect">
+<link href="https://www.google-analytics.com" rel="preconnect">
+<link href="https://live.clive.cloud" rel="preconnect">
+<link href="https://tags.srv.stackadapt.com" rel="preconnect">
+<link href="/assets/app/sait/images/favicon/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+<link href="/assets/app/sait/images/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+<link href="/assets/app/sait/images/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+<link href="/assets/app/sait/images/favicon/site.webmanifest" rel="manifest">
+<link color="#a6192e" href="/assets/app/sait/images/favicon/safari-pinned-tab.svg" rel="mask-icon">
+<link href="/assets/app/sait/css/main.css?v=220926111202" rel="stylesheet">
+<link href="/assets/app/sait/css/bundle.css?v=220926111202" rel="stylesheet">
+<link href="/assets/app/sait/css/swiper.min.css" media="print" onload="this.media='all'" rel="stylesheet">
+<noscript>
+<link href="/assets/app/sait/css/swiper.min.css" media="screen" rel="stylesheet">
+</noscript>
+<script async="" src="https://www.google-analytics.com/analytics.js">
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KMQVWP');</script>
+</head>
+<body>
+<div id="page">
+<!-- Accessibility: Skip link for keyboard users. -->
+<a class="visually-hidden-focusable" href="#topPage">Skip to main content</a>
+<!-- header-hash: B9A04B0B486471C40C2D8443BC4A5E76 --><header class="header-nav"><div class="secondary-nav"><div class="container"><nav class="navbar navbar-expand-xl justify-content-between py-0"><div class="logo-wrapper d-flex py-3 align-items-center"><a class="logo" href="https://www.sait.ca/index"><img alt="SAIT logo" class="" height="36" src="/assets/app/sait/images/svgs/logo/sait-logo_horz-sm.svg" width="131"></a><a class="navbar-toggler d-inline-flex d-xl-none align-items-center" href="#slide-nav" id="slide-nav-toggle" type="button"><span class="navbar-toggler-text">Menu</span><ion-icon class="" name="menu-outline" aria-hidden="true"></ion-icon></a></div><div class="navbar-wrapper-desktop d-none d-xl-flex align-items-center"><ul class="navbar-nav d-flex align-items-center"><li class="nav-item label d-none d-xxl-inline-block">Info for:</li><li class="nav-item dropdown"><a aria-expanded="false" class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">Alumni</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links" href="https://www.sait.ca/alumni/index">SAIT Alumni</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/alumni/sait-alumni-awards">Alumni Awards</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/alumni/presidents-awards">Presidents Awards</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/alumni/business-directory">Alumni Business Directory</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/alumni/alumni-perks">Alumni Perks</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/alumni/financial-aid-for-alumni">Financial Aid for Alumni</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/alumni/get-involved">Get Involved</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/link/index">Link Magazine</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/alumni/what-works">What Works Podcast</a></li></ul></li><li class="nav-item dropdown"><a aria-expanded="false" class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">Donors</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links" href="https://www.sait.ca/donors/index.html">SAIT Donors: Real Futures</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/donors/how-to-donate.html">How to Donate to SAIT</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/donors/priorities-to-support.html">Priorities to Support</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/donors/get-involved/index.html">Ways to Get Involved</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/donors/get-involved/giving-societies.html">Giving Societies</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/donors/impact/index.html">Donor Impact Report</a></li></ul></li><li class="nav-item dropdown"><a aria-expanded="false" class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">Employers and Industry</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links" href="https://www.sait.ca/industry-engagement/index">Industry Engagement</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/industry-engagement/recruit-at-sait">Recruit Talent</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/industry-engagement/working-with-sait-students/index">Working with SAIT Students</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/industry-engagement/funding-for-industry">Funding for Industry</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/industry-engagement/advisory-committee">Advisory Committees</a></li></ul></li><li class="nav-item dropdown"><a aria-expanded="false" class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">Teachers and Counsellors</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links" href="https://www.sait.ca/teachers-and-counsellors/index">Teacher and Counsellor Resources</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/teachers-and-counsellors/book-a-visit">Book a Visit</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/teachers-and-counsellors/meet-our-recruiters">Meet Our Recruitment Specialists</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/teachers-and-counsellors/request-additional-resources">Request Additional Resources</a></li></ul></li><li class="nav-item"><a class="nav-link header-links" href="https://www.sait.ca/parents-and-supporters/index">Parents and Supporters</a></li><li class="nav-item dropdown"><a aria-expanded="false" class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">Indigenous Community</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links" href="https://www.sait.ca/indigenous-community/index">Indigenous Engagement</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/indigenous-community/natoysopoyiis/index">Natoysopoyiis</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/indigenous-community/indigenous-engagement-staff-directory">Staff Directory</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/indigenous-community/acknowledgement-of-traditional-territories">Traditional Territory Acknowledgement</a></li><li><a class="dropdown-item header-links" href="https://www.sait.ca/indigenous-community/truth-and-reconciliation-resources">Truth and Reconciliation Resources</a></li></ul></li></ul><div class="login-desktop d-none d-xl-block"><div class="dropdown"><a aria-expanded="false" class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">Log In</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links" href="https://login.microsoftonline.com/?whr=sait.ca">Email</a></li><li><a class="dropdown-item header-links" href="https://www.mysait.ca/">mySAIT</a></li><li><a class="dropdown-item header-links" href="https://learn.sait.ca/d2l/login">Brightspace (D2L)</a></li><li><a class="dropdown-item header-links" href="https://myapps.microsoft.com/">MyApps Dashboard</a></li></ul></div></div><div class="search ms-xl-3"><a class="text-decoration-none btn-search-nav-deskop" href="/search"><ion-icon aria-hidden="true" class="md hydrated" name="search" role="img"></ion-icon></a><!-- COMPONENT - START: Search field --><!-- COMPONENT - END: Search field --><!-- COMPONENT: Start - Desktop Nav Search Form --></div></div></nav></div></div><div class="main-nav d-none d-xl-block"><div class="container"><nav class="navbar navbar-expand-xl p-0"><div class="logo-wrapper"><a class="mini-logo" href="https://www.sait.ca"><img alt="SAIT catalyst" height="36" src="https://www.sait.ca/assets/app/sait/images/svgs/logo/sait-catalyst-white.svg" width="34"></a></div><div class="navbar-wrapper-desktop d-none d-xl-flex w-100 justify-content-between"><ul class="navbar-nav d-none d-xl-flex w-100"><li class="nav-item dropdown"><a class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">Programs and Courses</a><ul class="dropdown-menu"><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Find a Program</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses/index">All Programs</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=businessAndLeadership">Business and Leadership</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=constructionAndTrades">Construction and Trades</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=energyAndEnvironment">Energy and Environment</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=engineeringTechnologies">Engineering Technologies</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=foodAndHospitality">Food and Hospitality</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=graphicAndMediaArts">Graphic and Media Arts</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=healthAndMedical">Health and Medical</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=manufacturing">Manufacturing and Automation</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=transportationAndLogistics">Transportation and Logistics</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=webAndDigitalTechnology">Web and Digital Technology</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Get Help Choosing a Program</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/programs-and-courses/information-sessions/index">Attend an Information Session</a></li><li><a class="dropdown-item header-links external" href="https://sait.lightcastcc.com/?radius=25%20miles&amp;region=Calgary">Take our Career Finder Quiz</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses/student-for-a-day">Student for a Day Program</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses/talk-to-an-advisor">Talk to an Advisor</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses/academic-calendar">View Academic Calendar</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Apprenticeship and Trades</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/apprenticeships-and-trades/index">Overview</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?credential=Journeyperson">Apprenticeship Programs</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/apprenticeships-and-trades/apprenticeship-and-trades-training-in-alberta">Apprenticeship and Trades Training in Alberta</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/apprenticeships-and-trades/how-to-become-an-apprentice">How to Become an Apprentice</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/apprenticeships-and-trades/how-to-register-for-apprenticeship-classroom-instruction">How to Register for Classroom Instruction</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/apprenticeships-and-trades/industry-certifications">Industry Certifications</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/apprenticeships-and-trades/paying-for-your-apprenticeship">Paying for Your Apprenticeship</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/apprenticeships-and-trades/prepare-for-classes">Prepare for Classes</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/apprenticeships-and-trades/skills-competitions/index">Skills Competitions</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/apprenticeships-and-trades/support-services-for-apprentices">Support Services for Apprentices</a></li></ul></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses/academic-upgrading">Academic Upgrading</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses/english-language-foundations">English Language Foundations</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/indigenous-community/specialized-programs/indigenous-pathways-program">Indigenous Pathways Program</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses/open-studies">Open Studies</a></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Continuing Education and Professional Studies</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/continuing-education/index.html">Continuing Education</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/continuing-education/courses-and-certificates/index.html">Courses and Certificates</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/continuing-education/courses-and-certificates?type=Bootcamp%20Courses">Bootcamps</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/continuing-education/courses-and-certificates?type=Micro-Credential%20Courses">Micro-Credentials</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/continuing-education/courses-and-certificates?international=Available%20for%20International">International Professional Certificates</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/continuing-education/corporate-training/index.html">Corporate and Group Training</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Youth Programs</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/youth-programs/index">All Youth Programs</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/youth-programs/community-outreach/index">Community Outreach Programs</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/youth-programs/digital-youth/index">Digital Youth Programs</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/youth-programs/dual-credit-programs/index">Dual-Credit Programs</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/youth-programs/exploring-skilled-trades">Exploring Skilled Trades</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/youth-programs/indigenous-youth">Indigenous Youth Programs</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/youth-programs/summer-camps/index">Summer Camps</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Why SAIT</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/why-study-at-sait/index">Why Study at SAIT</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/why-study-at-sait/industry-partnerships">Our Industry Partnerships</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/why-study-at-sait/viewbook">Viewbook</a></li></ul></li></ul></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">Admissions</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/index">Admissions Overview</a></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Requirements</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/meeting-requirements/english-proficiency">English Proficiency</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/admissions/meeting-requirements/health-and-public-safety-entrance-testing">Health Program Entrance Testing</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/meeting-requirements/high-school-course-equivalencies">High School Course Equivalencies</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/meeting-requirements/international-equivalencies">International Equivalencies</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Documentation</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/documentation/admission-letters">Admission Letters</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/documentation/international-document-assessment">International Document Assessment</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/documentation/transcripts-and-supporting-documents">Transcripts and Supporting Documents</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Program Availability</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/program-availability/available-seats-for-domestic-applicants">Available Seats for Domestic Applicants</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/program-availability/available-seats-for-international-applicants">Available Seats for International Applicants</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Tracking Your Application</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/tracking-your-application/index">Track Your Application</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/tracking-your-application/application-deferrals">Application Deferrals</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/tracking-your-application/waitlists">Waitlists</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Transfer Options</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/transfer-options/index">Transfer Credit</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/transfer-options/prior-learning-assessment-and-recognition">Prior Learning Assessment and Recognition</a></li></ul></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/canadian-armed-forces">Benefits for Canadian Armed Forces Members</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/how-to-apply">How to Apply</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/admissions/apply">Apply</a></li></ul></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">Tuition and Financial Aid</a><ul class="dropdown-menu"><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Paying Your Tuition</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees/index">Tuition and Fees</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees/domestic-fee-table">Domestic Tuition and Fee Table</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees/international-fee-table">International Tuition and Fee Table</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees/paying-your-tuition-deposit">Paying Your Tuition Deposit</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/payment-options">Payment Options</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees/supplemental-fees">Transactional Fees</a></li></ul></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/financial-advising">Financial Advising</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/foundational-learning-program">Foundational Learning Assistance Program</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/refunds">Refunds</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/student-loans">Student Loans</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/student-tax-receipts">Student Tax Receipts</a></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Scholarships and Awards</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/student-awards/index">Student Awards</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/student-awards/external-awards-scholarships-and-bursaries">External Scholarships and Awards</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/tuition-and-financial-aid/student-awards/scholarships-bursaries-and-awards-directory">Scholarships, Bursaries and Awards Directory</a></li></ul></li></ul></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">International</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/index">International Students</a></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Programs</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/programs-and-courses?international=PGWP%20eligible%2CPGWP%20ineligible">Programs Open to International Applicants</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/programs/international-bundle-programs">International Bundle Programs</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/continuing-education/courses-and-certificates?international=Available%20for%20International">Continuing Education for International Students</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">International Centre Services</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/international-centre/meet-with-a-student-advisor">Future Student and Applicant Advising</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/international-centre/advising-for-current-international-students">Current Student Advising</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/international-centre/chat-with-a-current-student-ambassador">Chat with a Student Ambassador</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/international-centre/resources-and-terminologies">Frequently Asked Questions</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/international-centre/scam-and-fraud-awareness">Scam and Fraud Awareness</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Immigration</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/immigration/co-op-work-permit">Co-op Work Permit</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/immigration/maintaining-your-student-status-and-scheduled-breaks">Maintaining Your Student Status and Scheduled Breaks</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/immigration/post-graduation-work-permit">Post-Graduation Work Permit</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/immigration/study-permit">Study Permit</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/immigration/extending-your-study-permit">Study Permit Extensions</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/immigration/study-permit-application-refusal-support">Study Permit Application Refusal Support</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/immigration/international-student-support-letters">International Student Support Letters</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/immigration/temporary-resident-visa">Temporary Resident Visa</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Living in Canada</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/living-in-canada/arriving-in-canada">Arriving in Canada</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/living-in-canada/bringing-your-family-to-canada">Bringing Your Family to Canada</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/living-in-canada/pathways-to-permanent-residency">Pathways to Permanent Residency</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/living-in-canada/travelling-outside-of-canada">Travelling While Studying</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/living-in-canada/working-while-studying-in-canada">Working While Studying</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Agents</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/authorized-agents/index">Become an Authorized Agent</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/authorized-agents/applying-through-an-agent">Applying Through an Agent</a></li></ul></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/international-students/global-engagement">Global Engagement</a></li></ul></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">Student Life</a><ul class="dropdown-menu"><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">New Students</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/new-students/index">Next Steps for New Students</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/new-students/orientation">Orientation</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/new-students/sait-start">SAIT Start</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Athletics and Recreation</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/trojans-athletics-and-recreation/index">Trojans Athletics and Recreation</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/trojans-athletics-and-recreation/athletics-centre">Athletics Centre</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/trojans-athletics-and-recreation/esports">eSports Community</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/trojans-athletics-and-recreation/trojans-clubs">Trojans Clubs</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/trojans-athletics-and-recreation/trojans-sports">Trojans Sports</a></li><li><a class="dropdown-item header-links external" href="https://www.saittrojans.com/landing/index">SAIT Trojans Competitive Sports</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Computers and Technology</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/computers-and-laptops">Computers and Laptops</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/connector-lab">Connector Lab</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/email-and-logins">Emails and Logins</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/microsoft-copilot-chat">Microsoft Copilot Chat</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/multi-factor-authentication">Multi-Factor Authentication</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/network-and-wifi-access">Network and Wifi Access</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/student-life/technical-support-and-resources/online-learning-tools-and-software/index">Tools for Studying Online</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/sait-apps">SAIT Apps</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/printing-and-print-services">Printing and Print Services</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/scanning">Scanning</a></li><li><a class="dropdown-item header-links external" href="https://sait.ca/ITS">ServiceNOW Self-Service Portal</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Health and Safety</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/dental-clinic">Dental Clinic</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/focus-on-well-being">Focus on Well-Being</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/student-health-and-dental-plan">Health and Dental Plans</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/health-clinic">Health Clinic</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/injury-or-illness-on-campus">Injury or Illness on Campus</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/sexual-assault-and-violence">Sexual Assault and Violence</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Library and Books</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links external" href="https://www.bkstr.com/saitstore">Bookstore</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/index">Reg Erhardt Library</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/student-life/reg-erhardt-library/about-the-library/index">About the Library</a></li><li><a class="dropdown-item header-links external" href="https://sait.libcal.com/booking/studyrooms">Book a Study Space</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/copyright">Copyright</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/library-digest">Library Digest</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/online-learning-resources">Online Learning Resources</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/student-life/reg-erhardt-library/archives/index">SAIT Archives</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/student-life/reg-erhardt-library/faculty-resources/index">Faculty</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Registrar's Office and Resources</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/office-of-the-registrar/index">Office of the Registrar</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/office-of-the-registrar/forms">Commonly Used Forms</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/office-of-the-registrar/grades">Grades and Academic Standing</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/office-of-the-registrar/order-transcripts">Order Your Transcripts</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/office-of-the-registrar/student-letters">Student Letters</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/student-life/graduation/index">Graduation and Convocation</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/office-of-the-ombudsperson/index">Office of the Ombudsperson</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Residence and Housing</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/residence-and-housing/amenities">Amenities</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/residence-and-housing/applying-for-residence">Applying for Residence</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/residence-and-housing/parents-guardians-and-supporters">Information for Parents and Supporters</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/residence-and-housing/meal-plans">Meal Plans</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/residence-and-housing/property-and-liability-insurance-program">Property and Liability Insurance</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/residence-and-housing/residence-life">Residence Life</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/residence-and-housing/rooms-and-rates">Rooms and Rates</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/residence-and-housing/support-away-from-home">Support Away From Home</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Research Opportunities</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/applied-research-for-students/index">Applied Research for Students</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/applied-research-for-students/student-innovation-funds">Student Innovation Funds</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Schedules and IDs</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/important-dates">Important Dates</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/getting-your-class-schedule">Getting Your Class Schedule</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/sait-ecard">eCard</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/upass">UPass</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Student Services</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/student-life/academic-advising/index">Advising</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/student-life/lamb-learner-success-centre/index">Academic Support</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/student-life/student-development-and-counselling/index">Counselling, Career Planning &amp; Wellness Services</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/student-life/career-advancement-services/index">Finding Employment</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/first-year-experience/index">First Year Experience</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/interfaith-centre">Interfaith Centre</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Study Abroad</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/study-abroad/index">Study Abroad Opportunities</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/study-abroad/how-to-apply">How to Apply to Study Abroad</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/study-abroad/inbound-exchange-students">Inbound Exchange Students</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/study-abroad/study-abroad-funding-opportunities">Study Abroad Funding</a></li></ul></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/student-life/sait-update">Weekly Student Update</a></li></ul></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle header-links" data-bs-toggle="dropdown" href="#" role="button">About SAIT</a><ul class="dropdown-menu"><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Contact</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/contact-us/index">Contact Us</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/contact-us/support-centre">Support Centre</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/contact-us/doing-business-with-sait">Doing Business with SAIT</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/contact-us/social-media-directory">Social Media Directory</a></li></ul></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/events/index">Events Calendar</a></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Faculty and Schools</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/sait-schools/academic-services/index">Academic Services</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/index">Advanced Digital Technology</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/sait-schools/school-of-business/index">Business</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/sait-schools/school-of-construction/index">Construction</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/sait-schools/macphail-school-of-energy/index">Energy</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/index">Health and Public Safety</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/sait-schools/school-of-hospitality-and-tourism/index">Hospitality and Tourism</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/sait-schools/school-of-manufacturing-and-automation/index">Manufacturing and Automation</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/sait-schools/school-of-transportation/index">Transportation</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Help and Security</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/help-and-security/campus-security">Campus Security</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/help-and-security/emergency-response">Emergency Response</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/help-and-security/helpline">Helpline</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Job Opportunities</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/work-at-sait/index">Work at SAIT</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/work-at-sait/employee-resources">Employee Resources</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/work-at-sait/aupe-collective-agreement">AUPE Collective Agreement</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/work-at-sait/collective-bargaining">Collective Bargaining</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/work-at-sait/safa-collective-agreement">SAFA Collective Agreement</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">News and Media</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/news/index">News and Stories</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/sait-podcasts/index">SAIT Podcasts</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/media-centre/index">Media Centre</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Our Organization</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/governance/index">Executives and Governance</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/the-teaching-and-learning-commons/index">Academic Quality and Teaching Excellence</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/community-and-belonging/index">Community and Belonging</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/graduate-employment-survey/index">Graduate Employment Statistics</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/academic-integrity/office-of-community-conduct">Office of Community Conduct</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/office-of-general-counsel">Office of General Counsel</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca//brand/index">Our Brand</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/community-engagement/index">Our Community</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/policies-and-procedures/index">Policies</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/strategic-plan/index">Strategic Plan</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/sustainability/index">Sustainability at SAIT</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Research Services</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/research-and-innovation-services/index">Applied Research and Innovation Services</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/research-and-innovation-services/centre-for-innovation-and-research-in-advanced-manufacturing-and-materials/index">Advanced Manufacturing and Materials</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/research-and-innovation-services/alberta-corridor-technical-symposium">Alberta Corridor Technical Symposium</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/research-and-innovation-services/centre-for-energy-research-and-clean-unconventional-technology-solution/index">Energy Research and Clean Unconventional Technology Solutions</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/research-and-innovation-services/green-building-technologies/index">Green Building Technologies</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/research-and-innovation-services/our-experts/index">Our Experts</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/research-and-innovation-services/research-ethics-board">Research Ethics Board</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/research-and-innovation-services/institutional-research-data-management-strategy">Institutional Research Data Management Strategy</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/research-and-innovation-services/research-grant-opportunities-and-support">Research Grant Opportunities and Support</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/research-and-innovation-services/centre-for-innovation-and-research-in-unmanned-systems/index">Unmanned Aerial Systems</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Venues and Catering</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/event-venues-and-catering/index">Events Venues and Catering</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/event-venues-and-catering/guest-accommodations">Guest Accommodations</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/event-venues-and-catering/weddings">Weddings</a></li></ul></li><li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle header-links" href="#">Visiting Campus</a><ul class="dropdown-menu"><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/campus/campus-map">Campus Map</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/campus/facilities-services-and-maintenance/index">Campus Facilities</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/campus/downtown-campus">SAIT Downtown</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/campus/transit-and-parking">Transit and Parking</a></li><li><a class="dropdown-item header-links " href="https://www.sait.ca/about-sait/campus/campus-tours">Book a Campus Tour</a></li><li><a class="dropdown-item header-links external" href="https://tourmkr.com/F1dPNeGlme/1812958p&amp;358.64h&amp;100.04t">Virtual Tour</a></li><li><a class="dropdown-item header-links ${secondaryNavItem.itemClass}" href="https://www.sait.ca/about-sait/campus/dining-on-campus/index">Where to Eat</a></li></ul></li></ul></li></ul></div></nav></div></div><nav class="slide-menu d-xl-none" id="slide-nav"><!-- COMPONENT: START - Mobile Nav Search Form --><form action="/search" class="search-form" id="nav-search-mobile"><!-- COMPONENT - START: Search field --><div class="search-input-wrapper position-relative"><label class="form-label visually-hidden" for="search-mobile">Search</label><input class="form-control search-input" id="search-mobile" name="q" placeholder="Search" type="search"><button aria-label="search" class="position-absolute search-submit" type="submit"><ion-icon name="search-outline"></ion-icon></button></div><!-- COMPONENT - END: Search field --></form><!-- COMPONENT: END - Mobile Nav Search Form --><ul><li class="primary"><span>Programs and Courses</span><ul class="primary"><li class="parent-label">Programs and Courses</li><li><span>Find a Program</span><ul class="primary"><li class="parent-label">Find a Program</li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses/index">All Programs</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=businessAndLeadership">Business and Leadership</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=constructionAndTrades">Construction and Trades</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=energyAndEnvironment">Energy and Environment</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=engineeringTechnologies">Engineering Technologies</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=foodAndHospitality">Food and Hospitality</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=graphicAndMediaArts">Graphic and Media Arts</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=healthAndMedical">Health and Medical</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=manufacturing">Manufacturing and Automation</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=transportationAndLogistics">Transportation and Logistics</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?areaofinterest=webAndDigitalTechnology">Web and Digital Technology</a></li></ul></li><li><span>Get Help Choosing a Program</span><ul class="primary"><li class="parent-label">Get Help Choosing a Program</li><li><span>Attend an Information Session</span><ul class="primary"><li class="parent-label">Attend an Information Session</li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses/information-sessions/index">Schedule of Upcoming Sessions</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses/information-sessions/on-demand">On-Demand Information Sessions</a></li></ul></li><li><a class="header-links external" href="https://sait.lightcastcc.com/?radius=25%20miles&amp;region=Calgary">Take our Career Finder Quiz</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses/student-for-a-day">Student for a Day Program</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses/talk-to-an-advisor">Talk to an Advisor</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses/academic-calendar">View Academic Calendar</a></li></ul></li><li><span>Apprenticeship and Trades</span><ul class="primary"><li class="parent-label">Apprenticeship and Trades</li><li><span>Overview</span><ul class="primary"><li class="parent-label">Overview</li><li><a class="header-links " href="https://www.sait.ca/apprenticeships-and-trades/index">Overview</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?credential=Journeyperson">Apprenticeship Programs</a></li><li><a class="header-links " href="https://www.sait.ca/apprenticeships-and-trades/apprenticeship-and-trades-training-in-alberta">Apprenticeship and Trades Training in Alberta</a></li><li><a class="header-links " href="https://www.sait.ca/apprenticeships-and-trades/how-to-become-an-apprentice">How to Become an Apprentice</a></li><li><a class="header-links " href="https://www.sait.ca/apprenticeships-and-trades/how-to-register-for-apprenticeship-classroom-instruction">How to Register for Classroom Instruction</a></li><li><a class="header-links " href="https://www.sait.ca/apprenticeships-and-trades/industry-certifications">Industry Certifications</a></li><li><a class="header-links " href="https://www.sait.ca/apprenticeships-and-trades/paying-for-your-apprenticeship">Paying for Your Apprenticeship</a></li><li><a class="header-links " href="https://www.sait.ca/apprenticeships-and-trades/prepare-for-classes">Prepare for Classes</a></li><li><a class="header-links " href="https://www.sait.ca/apprenticeships-and-trades/skills-competitions/index">Skills Competitions</a></li><li><a class="header-links " href="https://www.sait.ca/apprenticeships-and-trades/support-services-for-apprentices">Support Services for Apprentices</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses/academic-upgrading">Academic Upgrading</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses/english-language-foundations">English Language Foundations</a></li><li><a class="header-links " href="https://www.sait.ca/indigenous-community/specialized-programs/indigenous-pathways-program">Indigenous Pathways Program</a></li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses/open-studies">Open Studies</a></li><li><span>Continuing Education and Professional Studies</span><ul class="primary"><li class="parent-label">Continuing Education and Professional Studies</li><li><a class="header-links " href="https://www.sait.ca/continuing-education/index.html">Continuing Education</a></li><li><a class="header-links " href="https://www.sait.ca/continuing-education/courses-and-certificates/index.html">Courses and Certificates</a></li><li><a class="header-links " href="https://www.sait.ca/continuing-education/courses-and-certificates?type=Bootcamp%20Courses">Bootcamps</a></li><li><a class="header-links " href="https://www.sait.ca/continuing-education/courses-and-certificates?type=Micro-Credential%20Courses">Micro-Credentials</a></li><li><a class="header-links " href="https://www.sait.ca/continuing-education/courses-and-certificates?international=Available%20for%20International">International Professional Certificates</a></li><li><span>Corporate and Group Training</span><ul class="primary"><li class="parent-label">Corporate and Group Training</li><li><a class="header-links " href="https://www.sait.ca/continuing-education/corporate-training/index.html">Corporate Training</a></li><li><a class="header-links " href="https://www.sait.ca/continuing-education/corporate-training/institutional-capacity-building.html">Institutional Capacity Building</a></li><li><a class="header-links " href="https://www.sait.ca/continuing-education/corporate-training/international-workforce-development.html">International Workforce Development</a></li><li><a class="header-links " href="-hidden-/archived-pages/2025/corporate-training/webinars/index.html">Leading Beyond Any Title Webinar Series</a></li></ul></li></ul></li><li><span>Youth Programs</span><ul class="primary"><li class="parent-label">Youth Programs</li><li><a class="header-links " href="https://www.sait.ca/youth-programs/index">All Youth Programs</a></li><li><a class="header-links " href="https://www.sait.ca/youth-programs/community-outreach/index">Community Outreach Programs</a></li><li><a class="header-links " href="https://www.sait.ca/youth-programs/digital-youth/index">Digital Youth Programs</a></li><li><a class="header-links " href="https://www.sait.ca/youth-programs/dual-credit-programs/index">Dual-Credit Programs</a></li><li><a class="header-links " href="https://www.sait.ca/youth-programs/exploring-skilled-trades">Exploring Skilled Trades</a></li><li><a class="header-links " href="https://www.sait.ca/youth-programs/indigenous-youth">Indigenous Youth Programs</a></li><li><a class="header-links " href="https://www.sait.ca/youth-programs/summer-camps/index">Summer Camps</a></li></ul></li><li><span>Why SAIT</span><ul class="primary"><li class="parent-label">Why SAIT</li><li><a class="header-links " href="https://www.sait.ca/why-study-at-sait/index">Why Study at SAIT</a></li><li><a class="header-links " href="https://www.sait.ca/why-study-at-sait/industry-partnerships">Our Industry Partnerships</a></li><li><a class="header-links " href="https://www.sait.ca/why-study-at-sait/viewbook">Viewbook</a></li></ul></li></ul></li><li class="primary"><span>Admissions</span><ul class="primary"><li class="parent-label">Admissions</li><li><a class="header-links " href="https://www.sait.ca/admissions/index">Admissions Overview</a></li><li><span>Requirements</span><ul class="primary"><li class="parent-label">Requirements</li><li><a class="header-links " href="https://www.sait.ca/admissions/meeting-requirements/english-proficiency">English Proficiency</a></li><li><span>Health Program Entrance Testing</span><ul class="primary"><li class="parent-label">Health Program Entrance Testing</li><li><a class="header-links " href="https://www.sait.ca/admissions/meeting-requirements/casper-situational-judgement-assessment">CASPer Situational Judgement Assessment</a></li><li><a class="header-links " href="https://www.sait.ca/admissions/meeting-requirements/profession-specific-entrance-assessment">Profession-Specific Entrance Assessment</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/admissions/meeting-requirements/high-school-course-equivalencies">High School Course Equivalencies</a></li><li><a class="header-links " href="https://www.sait.ca/admissions/meeting-requirements/international-equivalencies">International Equivalencies</a></li></ul></li><li><span>Documentation</span><ul class="primary"><li class="parent-label">Documentation</li><li><a class="header-links " href="https://www.sait.ca/admissions/documentation/admission-letters">Admission Letters</a></li><li><a class="header-links " href="https://www.sait.ca/admissions/documentation/international-document-assessment">International Document Assessment</a></li><li><a class="header-links " href="https://www.sait.ca/admissions/documentation/transcripts-and-supporting-documents">Transcripts and Supporting Documents</a></li></ul></li><li><span>Program Availability</span><ul class="primary"><li class="parent-label">Program Availability</li><li><a class="header-links " href="https://www.sait.ca/admissions/program-availability/available-seats-for-domestic-applicants">Available Seats for Domestic Applicants</a></li><li><a class="header-links " href="https://www.sait.ca/admissions/program-availability/available-seats-for-international-applicants">Available Seats for International Applicants</a></li></ul></li><li><span>Tracking Your Application</span><ul class="primary"><li class="parent-label">Tracking Your Application</li><li><a class="header-links " href="https://www.sait.ca/admissions/tracking-your-application/index">Track Your Application</a></li><li><a class="header-links " href="https://www.sait.ca/admissions/tracking-your-application/application-deferrals">Application Deferrals</a></li><li><a class="header-links " href="https://www.sait.ca/admissions/tracking-your-application/waitlists">Waitlists</a></li></ul></li><li><span>Transfer Options</span><ul class="primary"><li class="parent-label">Transfer Options</li><li><a class="header-links " href="https://www.sait.ca/admissions/transfer-options/index">Transfer Credit</a></li><li><a class="header-links " href="https://www.sait.ca/admissions/transfer-options/prior-learning-assessment-and-recognition">Prior Learning Assessment and Recognition</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/admissions/canadian-armed-forces">Benefits for Canadian Armed Forces Members</a></li><li><a class="header-links " href="https://www.sait.ca/admissions/how-to-apply">How to Apply</a></li><li><a class="header-links " href="https://www.sait.ca/admissions/apply">Apply</a></li></ul></li><li class="primary"><span>Tuition and Financial Aid</span><ul class="primary"><li class="parent-label">Tuition and Financial Aid</li><li><span>Paying Your Tuition</span><ul class="primary"><li class="parent-label">Paying Your Tuition</li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees/index">Tuition and Fees</a></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees/domestic-fee-table">Domestic Tuition and Fee Table</a></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees/international-fee-table">International Tuition and Fee Table</a></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees/paying-your-tuition-deposit">Paying Your Tuition Deposit</a></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/payment-options">Payment Options</a></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees/supplemental-fees">Transactional Fees</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/financial-advising">Financial Advising</a></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/foundational-learning-program">Foundational Learning Assistance Program</a></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/refunds">Refunds</a></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/student-loans">Student Loans</a></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/student-tax-receipts">Student Tax Receipts</a></li><li><span>Scholarships and Awards</span><ul class="primary"><li class="parent-label">Scholarships and Awards</li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/student-awards/index">Student Awards</a></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/student-awards/external-awards-scholarships-and-bursaries">External Scholarships and Awards</a></li><li><a class="header-links " href="https://www.sait.ca/tuition-and-financial-aid/student-awards/scholarships-bursaries-and-awards-directory">Scholarships, Bursaries and Awards Directory</a></li></ul></li></ul></li><li class="primary"><span>International</span><ul class="primary"><li class="parent-label">International</li><li><a class="header-links " href="https://www.sait.ca/international-students/index">International Students</a></li><li><span>Programs</span><ul class="primary"><li class="parent-label">Programs</li><li><a class="header-links " href="https://www.sait.ca/programs-and-courses?international=PGWP%20eligible%2CPGWP%20ineligible">Programs Open to International Applicants</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/programs/international-bundle-programs">International Bundle Programs</a></li><li><a class="header-links " href="https://www.sait.ca/continuing-education/courses-and-certificates?international=Available%20for%20International">Continuing Education for International Students</a></li></ul></li><li><span>International Centre Services</span><ul class="primary"><li class="parent-label">International Centre Services</li><li><a class="header-links " href="https://www.sait.ca/international-students/international-centre/meet-with-a-student-advisor">Future Student and Applicant Advising</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/international-centre/advising-for-current-international-students">Current Student Advising</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/international-centre/chat-with-a-current-student-ambassador">Chat with a Student Ambassador</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/international-centre/resources-and-terminologies">Frequently Asked Questions</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/international-centre/scam-and-fraud-awareness">Scam and Fraud Awareness</a></li></ul></li><li><span>Immigration</span><ul class="primary"><li class="parent-label">Immigration</li><li><a class="header-links " href="https://www.sait.ca/international-students/immigration/co-op-work-permit">Co-op Work Permit</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/immigration/maintaining-your-student-status-and-scheduled-breaks">Maintaining Your Student Status and Scheduled Breaks</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/immigration/post-graduation-work-permit">Post-Graduation Work Permit</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/immigration/study-permit">Study Permit</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/immigration/extending-your-study-permit">Study Permit Extensions</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/immigration/study-permit-application-refusal-support">Study Permit Application Refusal Support</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/immigration/international-student-support-letters">International Student Support Letters</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/immigration/temporary-resident-visa">Temporary Resident Visa</a></li></ul></li><li><span>Living in Canada</span><ul class="primary"><li class="parent-label">Living in Canada</li><li><a class="header-links " href="https://www.sait.ca/international-students/living-in-canada/arriving-in-canada">Arriving in Canada</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/living-in-canada/bringing-your-family-to-canada">Bringing Your Family to Canada</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/living-in-canada/pathways-to-permanent-residency">Pathways to Permanent Residency</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/living-in-canada/travelling-outside-of-canada">Travelling While Studying</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/living-in-canada/working-while-studying-in-canada">Working While Studying</a></li></ul></li><li><span>Agents</span><ul class="primary"><li class="parent-label">Agents</li><li><a class="header-links " href="https://www.sait.ca/international-students/authorized-agents/index">Become an Authorized Agent</a></li><li><a class="header-links " href="https://www.sait.ca/international-students/authorized-agents/applying-through-an-agent">Applying Through an Agent</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/international-students/global-engagement">Global Engagement</a></li></ul></li><li class="primary"><span>Student Life</span><ul class="primary"><li class="parent-label">Student Life</li><li><span>New Students</span><ul class="primary"><li class="parent-label">New Students</li><li><a class="header-links " href="https://www.sait.ca/student-life/new-students/index">Next Steps for New Students</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/new-students/orientation">Orientation</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/new-students/sait-start">SAIT Start</a></li></ul></li><li><span>Athletics and Recreation</span><ul class="primary"><li class="parent-label">Athletics and Recreation</li><li><a class="header-links " href="https://www.sait.ca/student-life/trojans-athletics-and-recreation/index">Trojans Athletics and Recreation</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/trojans-athletics-and-recreation/athletics-centre">Athletics Centre</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/trojans-athletics-and-recreation/esports">eSports Community</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/trojans-athletics-and-recreation/trojans-clubs">Trojans Clubs</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/trojans-athletics-and-recreation/trojans-sports">Trojans Sports</a></li><li><a class="header-links external" href="https://www.saittrojans.com/landing/index">SAIT Trojans Competitive Sports</a></li></ul></li><li><span>Computers and Technology</span><ul class="primary"><li class="parent-label">Computers and Technology</li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/computers-and-laptops">Computers and Laptops</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/connector-lab">Connector Lab</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/email-and-logins">Emails and Logins</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/microsoft-copilot-chat">Microsoft Copilot Chat</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/multi-factor-authentication">Multi-Factor Authentication</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/network-and-wifi-access">Network and Wifi Access</a></li><li><span>Tools for Studying Online</span><ul class="primary"><li class="parent-label">Tools for Studying Online</li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/online-learning-tools-and-software/index">Online Learning Tools and Software</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/online-learning-tools-and-software/linkedin-learning">LinkedIn Learning</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/online-learning-tools-and-software/online-learning-tips">Online Learning Tips</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/sait-apps">SAIT Apps</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/printing-and-print-services">Printing and Print Services</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/technical-support-and-resources/scanning">Scanning</a></li><li><a class="header-links external" href="https://sait.ca/ITS">ServiceNOW Self-Service Portal</a></li></ul></li><li><span>Health and Safety</span><ul class="primary"><li class="parent-label">Health and Safety</li><li><a class="header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/dental-clinic">Dental Clinic</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/focus-on-well-being">Focus on Well-Being</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/student-health-and-dental-plan">Health and Dental Plans</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/health-clinic">Health Clinic</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/injury-or-illness-on-campus">Injury or Illness on Campus</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/health-wellness-and-safety/sexual-assault-and-violence">Sexual Assault and Violence</a></li></ul></li><li><span>Library and Books</span><ul class="primary"><li class="parent-label">Library and Books</li><li><a class="header-links external" href="https://www.bkstr.com/saitstore">Bookstore</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/index">Reg Erhardt Library</a></li><li><span>About the Library</span><ul class="primary"><li class="parent-label">About the Library</li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/about-the-library/index">About Us</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/about-the-library/library-policies">Library Policies</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/about-the-library/library-staff">Library Staff</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/about-the-library/meet-your-librarian">Meet Your Librarian</a></li></ul></li><li><a class="header-links external" href="https://sait.libcal.com/booking/studyrooms">Book a Study Space</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/copyright">Copyright</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/library-digest">Library Digest</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/online-learning-resources">Online Learning Resources</a></li><li><span>SAIT Archives</span><ul class="primary"><li class="parent-label">SAIT Archives</li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/archives/index">SAIT Archives</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/archives/collections">Collections</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/archives/coat-of-arms">Out Coat of Arms</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/archives/our-first-100-years">Our First 100 Years</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/archives/sait-history">SAIT History</a></li></ul></li><li><span>Faculty</span><ul class="primary"><li class="parent-label">Faculty</li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/faculty-resources/index">Faculty Resources</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/faculty-resources/instruction-support">Instruction Support</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/reg-erhardt-library/faculty-resources/link-helper">Link Helper</a></li></ul></li></ul></li><li><span>Registrar's Office and Resources</span><ul class="primary"><li class="parent-label">Registrar's Office and Resources</li><li><a class="header-links " href="https://www.sait.ca/student-life/office-of-the-registrar/index">Office of the Registrar</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/office-of-the-registrar/forms">Commonly Used Forms</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/office-of-the-registrar/grades">Grades and Academic Standing</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/office-of-the-registrar/order-transcripts">Order Your Transcripts</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/office-of-the-registrar/student-letters">Student Letters</a></li><li><span>Graduation and Convocation</span><ul class="primary"><li class="parent-label">Graduation and Convocation</li><li><a class="header-links " href="https://www.sait.ca/student-life/graduation/convocation/index">Graduation</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/graduation/apply-to-graduate">Apply to Graduate</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/graduation/parchments">Parchments</a></li><li><span>Graduation Ceremony</span><ul class="primary"><li class="parent-label">Graduation Ceremony</li><li><a class="header-links " href="https://www.sait.ca/student-life/graduation/convocation/elements-of-convocation">Elements of Convocation</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/graduation/convocation/how-to-ace-your-convocation">Get Ready for Convocation Day</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/graduation/convocation/how-to-register-for-convocation">How to Register for Convocation</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/graduation/convocation/honorary-degrees">Honorary Degrees</a></li></ul></li></ul></li><li><a class="header-links " href="https://www.sait.ca/student-life/office-of-the-ombudsperson/index">Office of the Ombudsperson</a></li></ul></li><li><span>Residence and Housing</span><ul class="primary"><li class="parent-label">Residence and Housing</li><li><a class="header-links " href="https://www.sait.ca/student-life/residence-and-housing/amenities">Amenities</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/residence-and-housing/applying-for-residence">Applying for Residence</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/residence-and-housing/parents-guardians-and-supporters">Information for Parents and Supporters</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/residence-and-housing/meal-plans">Meal Plans</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/residence-and-housing/property-and-liability-insurance-program">Property and Liability Insurance</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/residence-and-housing/residence-life">Residence Life</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/residence-and-housing/rooms-and-rates">Rooms and Rates</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/residence-and-housing/support-away-from-home">Support Away From Home</a></li></ul></li><li><span>Research Opportunities</span><ul class="primary"><li class="parent-label">Research Opportunities</li><li><a class="header-links " href="https://www.sait.ca/student-life/applied-research-for-students/index">Applied Research for Students</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/applied-research-for-students/student-innovation-funds">Student Innovation Funds</a></li></ul></li><li><span>Schedules and IDs</span><ul class="primary"><li class="parent-label">Schedules and IDs</li><li><a class="header-links " href="https://www.sait.ca/student-life/important-dates">Important Dates</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/getting-your-class-schedule">Getting Your Class Schedule</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/sait-ecard">eCard</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/upass">UPass</a></li></ul></li><li><span>Student Services</span><ul class="primary"><li class="parent-label">Student Services</li><li><span>Advising</span><ul class="primary"><li class="parent-label">Advising</li><li><a class="header-links " href="https://www.sait.ca/student-life/academic-advising/index">Academic Advising</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/academic-advising/early-support">Early Support</a></li></ul></li><li><span>Academic Support</span><ul class="primary"><li class="parent-label">Academic Support</li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/index">Lamb Learner Success Centre</a></li><li><span>Accessibility Services</span><ul class="primary"><li class="parent-label">Accessibility Services</li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/accessibility-services/index">Book an Appointment</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/accessibility-services/accommodated-testing-services">Accommodated Testing Services</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/accessibility-services/accommodation-appeals">Accommodation Appeals</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/accessibility-services/adaptive-technology">Adaptive Technology</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/accessibility-services/funding-options-for-students-with-disabilities">Funding Options for Students with Disabilities</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/accessibility-services/requesting-accommodations">Requesting Accommodations</a></li></ul></li><li><span>Learning Skills Services</span><ul class="primary"><li class="parent-label">Learning Skills Services</li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/learning-skills-services/index">Book an Appointment</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/learning-skills-services/academic-probation-support">Academic Probation Support</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/learning-skills-services/exam-writing">Exam Writing Strategies</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/learning-skills-services/note-taking-strategies">Note-Taking Strategies</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/learning-skills-services/reading-strategies">Reading Strategies</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/learning-skills-services/study-skills">Study Skills</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/learning-skills-services/time-management">Time Management</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/testing-services">Testing Centre</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/tutoring-services">Tutoring Services</a></li><li><span>Writing Services</span><ul class="primary"><li class="parent-label">Writing Services</li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/writing-services/index">Connect with a Writing Specialist</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/writing-services/essay-structure">Essay Structure</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/writing-services/grammar-and-sentence-structure">Grammar and Sentence Structure</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/lamb-learner-success-centre/writing-services/planning-papers">Planning Papers</a></li></ul></li></ul></li><li><span>Counselling, Career Planning &amp; Wellness Services</span><ul class="primary"><li class="parent-label">Counselling, Career Planning &amp; Wellness Services</li><li><a class="header-links " href="https://www.sait.ca/student-life/student-development-and-counselling/index">Student Development and Counselling</a></li><li><span>Counselling</span><ul class="primary"><li class="parent-label">Counselling</li><li><a class="header-links " href="https://www.sait.ca/student-life/student-development-and-counselling/counselling">Counselling Appointments</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/student-development-and-counselling/career-planning-resources">Career Planning Resources</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/student-development-and-counselling/meet-our-counsellors">Meet Our Counsellors</a></li></ul></li><li><span>Student Wellness</span><ul class="primary"><li class="parent-label">Student Wellness</li><li><a class="header-links " href="https://www.sait.ca/student-life/student-development-and-counselling/wellness-team">Wellness Team</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/student-development-and-counselling/self-help-tools-and-resources">Self-Help Tools and Resources</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/student-development-and-counselling/addiction-prevention-and-recovery">Addiction Prevention and Recovery</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/student-development-and-counselling/wellness-warrior">Wellness Warrior Funding</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/student-development-and-counselling/student-zen-den">Zen Den</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/student-life/student-development-and-counselling/crisis-support">Crisis Support</a></li></ul></li><li><span>Finding Employment</span><ul class="primary"><li class="parent-label">Finding Employment</li><li><a class="header-links " href="https://www.sait.ca/student-life/career-advancement-services/index">Career Advancement Services</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/career-advancement-services/services-for-students-and-alumni">Career Advising for Students and Alumni</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/career-advancement-services/co-curricular-recognition">Co-Curricular Recognition</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/career-advancement-services/industry-mentorship-program">Industry Mentorship Program</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/career-advancement-services/online-resources">Online Resources</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/student-life/first-year-experience/index">First Year Experience</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/interfaith-centre">Interfaith Centre</a></li></ul></li><li><span>Study Abroad</span><ul class="primary"><li class="parent-label">Study Abroad</li><li><a class="header-links " href="https://www.sait.ca/student-life/study-abroad/index">Study Abroad Opportunities</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/study-abroad/how-to-apply">How to Apply to Study Abroad</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/study-abroad/inbound-exchange-students">Inbound Exchange Students</a></li><li><a class="header-links " href="https://www.sait.ca/student-life/study-abroad/study-abroad-funding-opportunities">Study Abroad Funding</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/student-life/sait-update">Weekly Student Update</a></li></ul></li><li class="primary"><span>About SAIT</span><ul class="primary"><li class="parent-label">About SAIT</li><li><span>Contact</span><ul class="primary"><li class="parent-label">Contact</li><li><a class="header-links " href="https://www.sait.ca/about-sait/contact-us/index">Contact Us</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/contact-us/support-centre">Support Centre</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/contact-us/doing-business-with-sait">Doing Business with SAIT</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/contact-us/social-media-directory">Social Media Directory</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/events/index">Events Calendar</a></li><li><span>Faculty and Schools</span><ul class="primary"><li class="parent-label">Faculty and Schools</li><li><span>Academic Services</span><ul class="primary"><li class="parent-label">Academic Services</li><li><a class="header-links " href="https://www.sait.ca/sait-schools/academic-services/index">Academic Services Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/academic-services/upgrading-placement-testing">Academic Upgrading Placement Testing</a></li></ul></li><li><span>Advanced Digital Technology</span><ul class="primary"><li class="parent-label">Advanced Digital Technology</li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/index">School for Advanced Digital Technology</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/academic-advising">Academic Advising</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/cyber-security-programs">Cybersecurity Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/data-science-and-artificial-intelligence">Data Science and Artificial Intelligence Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/graphic-and-digital-media">Graphic and Digital Media Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/information-technology-programs">Information Technology Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/software-development-programs">Software Development Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/our-story">Our Story</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-for-advanced-digital-technology/industry-connections">Practicums and Work-Integrated Learning</a></li></ul></li><li><span>Business</span><ul class="primary"><li class="parent-label">Business</li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-business/index">School of Business</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-business/school-of-business-academic-advising">Academic Advising</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-business/accounting-finance-programs">Accounting and Finance Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-business/communications-and-marketing-programs/index">Communications and Marketing Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-business/human-resource-management-programs">Human Resource Management Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-business/leadership-coaching-programs">Leadership and Coaching Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-business/office-administration-programs">Office and Administration Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-business/supply-chain-programs">Supply Chain Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-business/school-of-business-directory">School Directory</a></li></ul></li><li><span>Construction</span><ul class="primary"><li class="parent-label">Construction</li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-construction/index">School of Construction</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-construction/school-of-construction-advising">Academic Advising</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-construction/construction-trades-programs">Construction Trades Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-construction/construction-design-and-project-management-programs">Design and Project Management Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-construction/geomatics-and-gis-programs">Geomatics and GIS Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-construction/school-of-construction-directory">School Directory</a></li></ul></li><li><span>Energy</span><ul class="primary"><li class="parent-label">Energy</li><li><a class="header-links " href="https://www.sait.ca/sait-schools/macphail-school-of-energy/index">MacPhail School of Energy</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/macphail-school-of-energy/shaping-next-generation-energy">About Us</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/macphail-school-of-energy/electrical-programs">Electrical Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/macphail-school-of-energy/instrumentation-programs">Instrumentation Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/macphail-school-of-energy/petroleum-programs">Petroleum Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/macphail-school-of-energy/process-operations-programs">Process Operations Program</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/macphail-school-of-energy/sustainability-programs">Sustainability Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/macphail-school-of-energy/macphail-school-directory">School Directory</a></li></ul></li><li><span>Health and Public Safety</span><ul class="primary"><li class="parent-label">Health and Public Safety</li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/index">School of Health and Public Safety</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/dental-programs">Dental Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/diagnostic-imaging-programs">Diagnostic Imaging Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/early-childhood-programs">Early Childhood Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/emergency-and-respiratory-care-programs">Emergency and Respiratory Care Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/medical-laboratory-science-programs">Medical Laboratory Science Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/professional-health-administration-programs">Professional Health Administration Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/vision-care-programs">Vision Care Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/wellness-and-rehabilitation-programs">Wellness and Rehabilitation Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/health-and-public-safety-industry-partnerships">Industry Partnerships</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/health-and-public-safety-interprovincial-programs">Interprovincial Health Training</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/patient-partnership-program">Patient Partnership Program</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-health-and-public-safety/health-practicum-requirements">Practicum Requirements</a></li></ul></li><li><span>Hospitality and Tourism</span><ul class="primary"><li class="parent-label">Hospitality and Tourism</li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-hospitality-and-tourism/index">School of Hospitality and Tourism</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-hospitality-and-tourism/culinary-programs">Culinary Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-hospitality-and-tourism/hospitality-and-tourism-management-programs">Hospitality and Tourism Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-hospitality-and-tourism/faculty">Meet our Instructors</a></li></ul></li><li><span>Manufacturing and Automation</span><ul class="primary"><li class="parent-label">Manufacturing and Automation</li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-manufacturing-and-automation/index">School of Manufacturing and Automation</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-manufacturing-and-automation/manufacturing-technology-programs">Manufacturing Technology Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-manufacturing-and-automation/industrial-trades-programs">Industrial Trades Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-manufacturing-and-automation/welding-and-inspection-programs">Welding and Inspection Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-manufacturing-and-automation/school-of-manufacturing-and-automation-directory">School Directory</a></li></ul></li><li><span>Transportation</span><ul class="primary"><li class="parent-label">Transportation</li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-transportation/index">School of Transportation</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-transportation/automotive-programs">Automotive Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-transportation/aviation-programs">Aviation Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-transportation/heavy-equipment-programs">Heavy Equipment Programs</a></li><li><a class="header-links " href="https://www.sait.ca/sait-schools/school-of-transportation/railway-and-logistics-programs">Railway and Logistics Programs</a></li></ul></li></ul></li><li><span>Help and Security</span><ul class="primary"><li class="parent-label">Help and Security</li><li><a class="header-links " href="https://www.sait.ca/about-sait/help-and-security/campus-security">Campus Security</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/help-and-security/emergency-response">Emergency Response</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/help-and-security/helpline">Helpline</a></li></ul></li><li><span>Job Opportunities</span><ul class="primary"><li class="parent-label">Job Opportunities</li><li><a class="header-links " href="https://www.sait.ca/about-sait/work-at-sait/index">Work at SAIT</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/work-at-sait/employee-resources">Employee Resources</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/work-at-sait/aupe-collective-agreement">AUPE Collective Agreement</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/work-at-sait/collective-bargaining">Collective Bargaining</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/work-at-sait/safa-collective-agreement">SAFA Collective Agreement</a></li></ul></li><li><span>News and Media</span><ul class="primary"><li class="parent-label">News and Media</li><li><a class="header-links " href="https://www.sait.ca/news/index">News and Stories</a></li><li><a class="header-links " href="https://www.sait.ca/sait-podcasts/index">SAIT Podcasts</a></li><li><span>Media Centre</span><ul class="primary"><li class="parent-label">Media Centre</li><li><a class="header-links " href="https://www.sait.ca/media-centre/index">Media Centre and Experts Directory</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/event-venues-and-catering/photography-and-filming-on-campus">Photography and Filming on Campus</a></li></ul></li></ul></li><li><span>Our Organization</span><ul class="primary"><li class="parent-label">Our Organization</li><li><span>Executives and Governance</span><ul class="primary"><li class="parent-label">Executives and Governance</li><li><a class="header-links " href="https://www.sait.ca/about-sait/governance/index">Governance</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/governance/board-of-governors">Board of Governors</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/governance/ethical-principles">Ethical Principles</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/governance/expense-reports">Expense Reports</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/governance/transparency-act">Transparency Act</a></li></ul></li><li><span>Academic Quality and Teaching Excellence</span><ul class="primary"><li class="parent-label">Academic Quality and Teaching Excellence</li><li><a class="header-links " href="https://www.sait.ca/about-sait/the-teaching-and-learning-commons/index">The Teaching and Learning Commons</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/the-teaching-and-learning-commons/cadmus-teaching-chair">CADMUS Teaching Chair</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/the-teaching-and-learning-commons/cisco-catalyst-chair">CISCO Catalyst Chair</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/the-teaching-and-learning-commons/scholarly-activity">Scholarly Activity</a></li></ul></li><li><span>Community and Belonging</span><ul class="primary"><li class="parent-label">Community and Belonging</li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-and-belonging/index">Community and Belonging at SAIT</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-and-belonging/black-empowerment-and-excellence-at-sait">Black Empowerment and Excellence at SAIT</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-and-belonging/community-conversations">Community Conversations</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-and-belonging/demographic-data-collection">Demographic Data Collection</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-and-belonging/intercultural-support-strategy">Intercultural Support Strategy</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-and-belonging/neurodiversity-alliance">Neurodiversity Alliance</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-and-belonging/pride-at-sait">Pride at SAIT</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-and-belonging/training">Training</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-and-belonging/women-in-skilled-trades-retention-program">Women in Skilled Trades Retention Program</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-and-belonging/women-in-trades-and-technology">Women in Trades and Technology</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/about-sait/graduate-employment-survey/index">Graduate Employment Statistics</a></li><li><span>Office of Community Conduct</span><ul class="primary"><li class="parent-label">Office of Community Conduct</li><li><a class="header-links " href="https://www.sait.ca/about-sait/academic-integrity/office-of-community-conduct">Office of Community Conduct</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/academic-integrity/academic-conduct-for-faculty-and-staff">Academic Conduct for Faculty and Staff</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/academic-integrity/academic-conduct-for-students">Academic Conduct for Students</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/academic-integrity/non-academic-conduct">Non-Academic Conduct</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/academic-integrity/non-academic-conduct-for-faculty-and-staff">Non-Academic Conduct for Faculty and Staff</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/about-sait/office-of-general-counsel">Office of General Counsel</a></li><li><span>Our Brand</span><ul class="primary"><li class="parent-label">Our Brand</li><li><a class="header-links " href="https://www.sait.ca//brand/our-voice/index">Our Voice</a></li><li><a class="header-links " href="https://www.sait.ca//brand/visual-identity/index">Visual Identity</a></li><li><a class="header-links " href="https://www.sait.ca//brand/our-voice/writing-style-guide/index">Writing Style Guide</a></li></ul></li><li><span>Our Community</span><ul class="primary"><li class="parent-label">Our Community</li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-engagement/index">Community Engagement</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/community-engagement/legacy-fund-project-proposals">'88 Legacy Fund Project Proposals</a></li></ul></li><li><span>Policies</span><ul class="primary"><li class="parent-label">Policies</li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/index">Policies and Procedures at SAIT</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/directory">Policy and Procedure Directory</a></li><li><span>Policy Classifications</span><ul class="primary"><li class="parent-label">Policy Classifications</li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/academic-student">Academic Student</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/administration">Administration</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/external-relations">External Relations</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/facilities-management">Facilities Management</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/finance">Finance</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/human-resources">Human Resources</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/health-safety-and-environment">Health, Safety and Environment</a></li></ul></li><li><span>Related</span><ul class="primary"><li class="parent-label">Related</li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/access-to-information">Access to Information</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/canadas-antispam-legislation">Canada's Anti-Spam Legislation</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/freedom-of-expression">Freedom of Expression</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/policies-and-procedures/privacy-policies">Privacy</a></li></ul></li></ul></li><li><span>Strategic Plan</span><ul class="primary"><li class="parent-label">Strategic Plan</li><li><a class="header-links " href="https://www.sait.ca/about-sait/strategic-plan/index">Strategic Plan Overview</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/strategic-plan/year-in-review">Annual Report</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/strategic-plan/future-ready-skills">Future-Ready Skills</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/strategic-plan/innovation-leadership">Innovation Leadership</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/strategic-plan/world-class-learning-experiences">World-Class Learning Experiences</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/capability-framework">Capability Framework</a></li></ul></li><li><span>Sustainability at SAIT</span><ul class="primary"><li class="parent-label">Sustainability at SAIT</li><li><a class="header-links " href="https://www.sait.ca/about-sait/sustainability/buildings-grounds-and-transportation">Buildings, Grounds and Transportation</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/sustainability/get-involved-with-sustainability-at-sait">Get Involved with Sustainability at SAIT</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/sustainability/waste-diversion-and-the-circular-economy">Waste Diversion and the Circular Economy</a></li></ul></li></ul></li><li><span>Research Services</span><ul class="primary"><li class="parent-label">Research Services</li><li><a class="header-links " href="https://www.sait.ca/research-and-innovation-services/index">Applied Research and Innovation Services</a></li><li><a class="header-links " href="https://www.sait.ca/research-and-innovation-services/centre-for-innovation-and-research-in-advanced-manufacturing-and-materials/index">Advanced Manufacturing and Materials</a></li><li><a class="header-links " href="https://www.sait.ca/research-and-innovation-services/alberta-corridor-technical-symposium">Alberta Corridor Technical Symposium</a></li><li><span>Energy Research and Clean Unconventional Technology Solutions</span><ul class="primary"><li class="parent-label">Energy Research and Clean Unconventional Technology Solutions</li><li><a class="header-links " href="https://www.sait.ca/research-and-innovation-services/centre-for-energy-research-and-clean-unconventional-technology-solution/our-applied-research-labs">Our Applied Research Labs</a></li></ul></li><li><span>Green Building Technologies</span><ul class="primary"><li class="parent-label">Green Building Technologies</li><li><a class="header-links " href="-hidden-/archived-pages/2025/green-technology-labs.html">Our Living Labs</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/research-and-innovation-services/our-experts/index">Our Experts</a></li><li><a class="header-links " href="https://www.sait.ca/research-and-innovation-services/research-ethics-board">Research Ethics Board</a></li><li><a class="header-links " href="https://www.sait.ca/research-and-innovation-services/institutional-research-data-management-strategy">Institutional Research Data Management Strategy</a></li><li><a class="header-links " href="https://www.sait.ca/research-and-innovation-services/research-grant-opportunities-and-support">Research Grant Opportunities and Support</a></li><li><span>Unmanned Aerial Systems</span><ul class="primary"><li class="parent-label">Unmanned Aerial Systems</li><li><a class="header-links " href="https://www.sait.ca/research-and-innovation-services/centre-for-innovation-and-research-in-unmanned-systems/the-environmental-resiliency-and-sustainability-hub">The Environmental Resiliency and Sustainability Hub</a></li><li><a class="header-links " href="https://www.sait.ca/research-and-innovation-services/centre-for-innovation-and-research-in-unmanned-systems/aris-drone-training-centre">Remotely Piloted Aviation Training Centre</a></li></ul></li></ul></li><li><span>Venues and Catering</span><ul class="primary"><li class="parent-label">Venues and Catering</li><li><a class="header-links " href="https://www.sait.ca/about-sait/event-venues-and-catering/index">Events Venues and Catering</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/event-venues-and-catering/guest-accommodations">Guest Accommodations</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/event-venues-and-catering/weddings">Weddings</a></li></ul></li><li><span>Visiting Campus</span><ul class="primary"><li class="parent-label">Visiting Campus</li><li><span>Campus Map</span><ul class="primary"><li class="parent-label">Campus Map</li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/campus-map">Main &amp; Satellite Campuses</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/downtown-campus">SAIT Downtown</a></li></ul></li><li><span>Campus Facilities</span><ul class="primary"><li class="parent-label">Campus Facilities</li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/facilities-services-and-maintenance/index">Facilities Services and Maintenance</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/facilities-services-and-maintenance/asbestos-faq">Asbestos FAQ</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/facilities-services-and-maintenance/campus-centre-redevelopment-project">Campus Centre Redevelopment Project</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/facilities-services-and-maintenance/health-safety-and-environment-services">Health, Safety and Environmental Services</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/facilities-services-and-maintenance/locksmith">Locksmith</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/facilities-services-and-maintenance/report-a-safety-hazard-or-concern">Report a Safety Hazard or Concern</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/sustainability/index">Sustainability</a></li></ul></li><li><span>SAIT Downtown</span><ul class="primary"><li class="parent-label">SAIT Downtown</li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/downtown-campus">SAIT Downtown Campus</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/cyber-range">Cyber Range</a></li><li><a class="header-links " href="https://www.sait.ca/the-tastemarket/about-us.html">The Tastemarket</a></li></ul></li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/transit-and-parking">Transit and Parking</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/campus-tours">Book a Campus Tour</a></li><li><a class="header-links external" href="https://tourmkr.com/F1dPNeGlme/1812958p&amp;358.64h&amp;100.04t">Virtual Tour</a></li><li><span>Where to Eat</span><ul class="primary"><li class="parent-label">Where to Eat</li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/dining-on-campus/index">Dining on Campus</a></li><li><a class="header-links " href="https://www.sait.ca/about-sait/campus/dining-on-campus/curated-catering">Curated Catering</a></li><li><a class="header-links " href="https://www.sait.ca/the-highwood/about-us.html">Highwood Kitchen and Bar</a></li><li><a class="header-links " href="https://www.sait.ca/the-tastemarket/about-us.html">The Tastemarket</a></li></ul></li></ul></li></ul></li><!-- COMPONENT - START: Secondary Navigation Menu for Mobile --><li class="secondary label">Information for:</li><li class="secondary"><span>Alumni</span><ul class="secondary"><li class="parent-label">Alumni</li><li><a class="header-links" href="https://www.sait.ca/alumni/index">SAIT Alumni</a></li><li><a class="header-links" href="https://www.sait.ca/alumni/sait-alumni-awards">Alumni Awards</a></li><li><a class="header-links" href="https://www.sait.ca/alumni/presidents-awards">Presidents Awards</a></li><li><a class="header-links" href="https://www.sait.ca/alumni/business-directory">Alumni Business Directory</a></li><li><a class="header-links" href="https://www.sait.ca/alumni/alumni-perks">Alumni Perks</a></li><li><a class="header-links" href="https://www.sait.ca/alumni/financial-aid-for-alumni">Financial Aid for Alumni</a></li><li><a class="header-links" href="https://www.sait.ca/alumni/get-involved">Get Involved</a></li><li><a class="header-links" href="https://www.sait.ca/link/index">Link Magazine</a></li><li><a class="header-links" href="https://www.sait.ca/alumni/what-works">What Works Podcast</a></li></ul></li><li class="secondary"><span>Donors</span><ul class="secondary"><li class="parent-label">Donors</li><li><a class="header-links" href="https://www.sait.ca/donors/index.html">SAIT Donors: Real Futures</a></li><li><a class="header-links" href="https://www.sait.ca/donors/how-to-donate.html">How to Donate to SAIT</a></li><li><a class="header-links" href="https://www.sait.ca/donors/priorities-to-support.html">Priorities to Support</a></li><li><a class="header-links" href="https://www.sait.ca/donors/get-involved/index.html">Ways to Get Involved</a></li><li><a class="header-links" href="https://www.sait.ca/donors/get-involved/giving-societies.html">Giving Societies</a></li><li><a class="header-links" href="https://www.sait.ca/donors/impact/index.html">Donor Impact Report</a></li></ul></li><li class="secondary"><span>Employers and Industry</span><ul class="secondary"><li class="parent-label">Employers and Industry</li><li><a class="header-links" href="https://www.sait.ca/industry-engagement/index">Industry Engagement</a></li><li><a class="header-links" href="https://www.sait.ca/industry-engagement/recruit-at-sait">Recruit Talent</a></li><li><a class="header-links" href="https://www.sait.ca/industry-engagement/working-with-sait-students/index">Working with SAIT Students</a></li><li><a class="header-links" href="https://www.sait.ca/industry-engagement/funding-for-industry">Funding for Industry</a></li><li><a class="header-links" href="https://www.sait.ca/industry-engagement/advisory-committee">Advisory Committees</a></li></ul></li><li class="secondary"><span>Teachers and Counsellors</span><ul class="secondary"><li class="parent-label">Teachers and Counsellors</li><li><a class="header-links" href="https://www.sait.ca/teachers-and-counsellors/index">Teacher and Counsellor Resources</a></li><li><a class="header-links" href="https://www.sait.ca/teachers-and-counsellors/book-a-visit">Book a Visit</a></li><li><a class="header-links" href="https://www.sait.ca/teachers-and-counsellors/meet-our-recruiters">Meet Our Recruitment Specialists</a></li><li><a class="header-links" href="https://www.sait.ca/teachers-and-counsellors/request-additional-resources">Request Additional Resources</a></li></ul></li><li class="secondary"><a class="header-links" href="https://www.sait.ca/parents-and-supporters/index">Parents and Supporters</a></li><li class="secondary"><span>Indigenous Community</span><ul class="secondary"><li class="parent-label">Indigenous Community</li><li><a class="header-links" href="https://www.sait.ca/indigenous-community/index">Indigenous Engagement</a></li><li><a class="header-links" href="https://www.sait.ca/indigenous-community/natoysopoyiis/index">Natoysopoyiis</a></li><li><a class="header-links" href="https://www.sait.ca/indigenous-community/indigenous-engagement-staff-directory">Staff Directory</a></li><li><a class="header-links" href="https://www.sait.ca/indigenous-community/acknowledgement-of-traditional-territories">Traditional Territory Acknowledgement</a></li><li><a class="header-links" href="https://www.sait.ca/indigenous-community/truth-and-reconciliation-resources">Truth and Reconciliation Resources</a></li></ul></li><li class="tertiary"><span>Log In</span><ul class="tertiary"><li class="parent-label login">Log In</li><li><a href="https://login.microsoftonline.com/?whr=sait.ca">Email</a></li><li><a href="https://www.mysait.ca/">mySAIT</a></li><li><a href="https://learn.sait.ca/d2l/login">Brightspace (D2L)</a></li><li><a href="https://myapps.microsoft.com/">MyApps Dashboard</a></li></ul></li></ul></nav></header><div class="fixed-menu-spacer d-xl-none"></div><main id="topPage" class="page-content"><!-- header-cms-end -->
+<!--quick exit button on certain pages-->
+<div id="page-promo-banner-hero-area"></div>
+<div class="quick-exit-wrapper container-xxl d-none" id="quickExit">
+<span data-bs-content="Click this button to exit the page quickly. Please note that doing this will not remove this page from browser history. The best way to browse the internet safely is using a private browser." data-bs-toggle="popover" data-bs-trigger="hover focus" tabindex="0">
+<a class="btn btn-quick-exit" href="#">Exit site <ion-icon aria-label="exit" name="exit-outline"></ion-icon></a>
+</span>
+</div>
+<section aria-labelledby="page-title" class="pl-component header-image-banner pl-v2 hero-header  floating  mt-0">
+<div class="container">
+<div class="row">
+<div class="banner-content col-12 col-xl-7">
+<nav aria-label="breadcrumbs" class="breadcrumb-nav hero">
+<p class="mt-0">
+<a href="https://www.sait.ca/admissions/index" target="_parent"><span class=""> Admissions </span></a>
+<span class="d-none d-md-inline-block"> Meeting Requirements </span>
+<span class=""> English Proficiency </span>
+</p>
+</nav>
+<h1 class="page-heading" id="page-title">
+                               English Proficiency
+                            </h1>
+<div aria-label="Details" class="banner-details">
+<p>At SAIT, you must demonstrate English language proficiency. English is the language of instruction for all programs at SAIT and is the most common language used in business in Alberta and Canada as a whole.</p>
+<p>SAIT has the right to use discretion in determining adequate levels of English language proficiency to ensure an applicants success in the program.</p>
+</div>
+</div>
+<div class="banner-image col-12 col-xl-5 position-relative">
+<div class="overlay bg-image-blue"></div>
+<img alt="two students studying together" src="/assets/image/banners/floating-960x800/br-two-students-studying-together-960x800.jpg">
+</div>
+</div>
+</div>
+</section>
+<div class="main-content-wrapper position-relative">
+<div aria-labelledby="scroll-nav-header" class="position-absolute w-100 h-100 scroll-nav-wrapper d-none d-xl-block">
+<div class="container h-100">
+<div class="row h-100 flex-row-reverse">
+<div class="col-lg-9 h-100"></div>
+<div class="col-lg-3 sticky-top align-self-start my-5 ps-4 pl-menu-switch">
+<div class="side-nav-inner">
+<h2 class="px-4 pt-4 pb-3 m-0" id="side-nav-header">Admissions</h2>
+<nav class="side-nav" id="side-nav">
+<div class="accordion my-0" id="side-nav-accordion">
+<div class="accordion-item">
+<h3 class="accordion-header">
+<a class="accordion-button no-subitems " href="https://www.sait.ca/admissions/apply" target="_parent">Apply</a>
+</h3>
+</div>
+<div class="accordion-item">
+<h3 class="accordion-header">
+<a class="accordion-button no-subitems " href="https://www.sait.ca/admissions/how-to-apply" target="_parent">How to Apply</a>
+</h3>
+</div>
+<div class="accordion-item">
+<h3 class="accordion-header" id="meeting-requirements-nav-header">
+<button aria-controls="meeting-requirements-nav" aria-expanded="true" class="accordion-button " data-bs-target="#meeting-requirements-nav" data-bs-toggle="collapse" type="button">
+                    Meeting Requirements
+                </button>
+</h3>
+<div class="accordion-collapse collapse show" data-bs-parent="#side-nav-accordion" id="meeting-requirements-nav">
+<div class="accordion-body">
+<ul class="main-links">
+<li class="active"><a href="https://www.sait.ca/admissions/meeting-requirements/english-proficiency">English Proficiency</a>
+</li>
+<li class=""><a href="https://www.sait.ca/admissions/meeting-requirements/health-and-public-safety-entrance-testing">Health Program Entrance Testing</a>
+</li>
+<li class=""><a href="https://www.sait.ca/admissions/meeting-requirements/high-school-course-equivalencies">High School Course Equivalencies</a>
+</li>
+<li class=""><a href="https://www.sait.ca/admissions/meeting-requirements/international-equivalencies">International Equivalencies</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h3 class="accordion-header" id="required-documentation-nav-header">
+<button aria-controls="required-documentation-nav" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#required-documentation-nav" data-bs-toggle="collapse" type="button">
+                    Required Documentation
+                </button>
+</h3>
+<div class="accordion-collapse collapse " data-bs-parent="#side-nav-accordion" id="required-documentation-nav">
+<div class="accordion-body">
+<ul class="main-links">
+<li class=""><a href="https://www.sait.ca/admissions/documentation/admission-letters">Admission Letters</a>
+</li>
+<li class=""><a href="https://www.sait.ca/admissions/documentation/international-document-assessment">International Document Assessment</a>
+</li>
+<li class=""><a href="https://www.sait.ca/admissions/documentation/transcripts-and-supporting-documents">Transcripts and Supporting Documents</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h3 class="accordion-header" id="tracking-your-application-nav-header">
+<button aria-controls="tracking-your-application-nav" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#tracking-your-application-nav" data-bs-toggle="collapse" type="button">
+                    Tracking Your Application
+                </button>
+</h3>
+<div class="accordion-collapse collapse " data-bs-parent="#side-nav-accordion" id="tracking-your-application-nav">
+<div class="accordion-body">
+<ul class="main-links">
+<li class=""><a href="https://www.sait.ca/admissions/tracking-your-application/index">Tracking Your Application Status</a>
+</li>
+<li class=""><a href="https://www.sait.ca/admissions/tracking-your-application/application-deferrals">Application Deferrals</a>
+</li>
+<li class=""><a href="https://www.sait.ca/admissions/tracking-your-application/waitlists">Waitlists</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h3 class="accordion-header" id="transfer-options-nav-header">
+<button aria-controls="transfer-options-nav" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#transfer-options-nav" data-bs-toggle="collapse" type="button">
+                    Transfer Options
+                </button>
+</h3>
+<div class="accordion-collapse collapse " data-bs-parent="#side-nav-accordion" id="transfer-options-nav">
+<div class="accordion-body">
+<ul class="main-links">
+<li class=""><a href="https://www.sait.ca/admissions/transfer-options/index">Transfer Credit</a>
+</li>
+<li class=""><a href="https://www.sait.ca/admissions/transfer-options/prior-learning-assessment-and-recognition">Prior Learning Assessment and Recognition</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h3 class="accordion-header">
+<a class="accordion-button no-subitems " href="https://www.sait.ca/admissions/canadian-armed-forces" target="_parent">Benefits for Canadian Armed Forces Members</a>
+</h3>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bg-wrapper">
+<div class="sidenav-content-container">
+<div class="row w-100 mx-0">
+<div class="col-12">
+<div class="px-0">
+<section class="pl-section  " style="">
+<div class="container-xxl">
+<div class="pl-component">
+<div class="row row-content">
+<div class="col-12 mt-0 pb-0">
+<p>You must demonstrate English language proficiency in one of the following ways:</p>
+<p>1. Submit official transcripts or a completed international document assessment verifying completion of one of the following steps:</p>
+<ul>
+<li>At least three years of full-time study taught in English a minimum of 12 hours per week at an English speaking secondary school.</li>
+<li>At least two years of post-secondary education taught in English at a recognized institution.</li>
+<li>Successfully complete a recognized credential from a SAIT-approved post-secondary institution program must have been taught in English.</li>
+<li>Review our list of <a href="/assets/documents/about-sait/policies-and-procedures/academic-student/ac-1-5-1-schedule-a-sait-approved-english-language-proficiency-exempt-countries-and-institutions.pdf">SAIT-Approved English Language Proficiency Exempt Countries and Institutions</a> (AC.1.5.1 Schedule A) to learn if education completed in your home country satisfies our English Proficiency requirement.</li>
+</ul>
+<p>2. Successfully complete a post-secondary credit course in English, comparative literature or communications or equivalent at SAIT or a recognized post-secondary institution minimum C grade required.</p>
+<p>3. Achieve the applicable score on an English assessment test the test score must be within one year prior to the date you submit your application.</p>
+<p>4. Successfully complete both COMN155 and SPCH155 in the <a href="https://www.sait.ca/programs-and-courses/english-language-foundations">English Language Foundations (ELF) program</a>.<a href="https://www.sait.ca/programs-and-courses/english-language-foundations"></a></p>
+<p>5. Successfully complete one of the recognized alternatives to our English Language Foundations program listed below.</p>
+</div>
+</div>
+<h3><a id="alternatives"></a>Recognized alternatives to English Language Foundations</h3>
+<p>The following programs are recognized alternatives to our ELF program:</p>
+<div class="accordion" id="--3d54d7fc-6452">
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-1">
+<button aria-controls="--3d54d7fc-6452-collapse-1" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-1" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                Anne's Language House
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-1" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-1">
+<div class="accordion-body">
+<ul>
+<li>Pathway Program (GE5 + EAP) &#8211; must achieve at least 78% to be granted 78% in English Language Arts 30-1</li>
+</ul>
+<p><a href="https://www.alhcalgary.com/college-pathway-program" rel="noopener" target="_blank">Anne's Language House</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-2">
+<button aria-controls="--3d54d7fc-6452-collapse-2" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-2" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                Atlantic Canada Language Academy
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-2" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-2">
+<div class="accordion-body">
+<ul>
+<li>English for Academic Purposes (EAP) &#8211; must demonstrate the following combination of results in the final certificate to meet the English Language Proficiency requirement for the purposes of admission to SAIT programs:
+<ul>
+<li>CLB &#8211; must achieve a score of 8 in each skill area</li>
+<li>CEFR &#8211; must achieve level B2+</li>
+<li>IELTS Academic Test &#8211; must achieve a minimum score of 6.5 in each skill area</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://studyatlantic.com/">Atlantic Canada Language Academy</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-3">
+<button aria-controls="--3d54d7fc-6452-collapse-3" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-3" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                Bayswater Education
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-3" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-3">
+<div class="accordion-body">
+<ul>
+<li>University and College Pathway Program Level 7 (Upper Intermediate) &#8211; must achieve at least 80% to be granted 75% in English Language Arts 30-1</li>
+<li>University and College Pathway Program Level 9 (Advanced) &#8211; must achieve at least 80% to be granted 87% in English Language Arts 30-1</li>
+</ul>
+<p><a href="https://www.bayswater.ac/course/university-pathway-program" rel="noopener" target="_blank">Bayswater Education</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-4">
+<button aria-controls="--3d54d7fc-6452-collapse-4" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-4" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                Bow Valley College
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-4" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-4">
+<div class="accordion-body">
+<ul>
+<li>Academic English ll - must achieve a B or 75% to be granted 75% in English 30-1</li>
+</ul>
+<p><a href="https://saitnow.ca/departments-and-schools/external-relations/office-of-the-registrar/course-equivalents-and-admissions/bow-valley-college-bvc/" rel="noopener" target="_blank">Bow Valley College</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-5">
+<button aria-controls="--3d54d7fc-6452-collapse-5" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-5" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                Global Village English Centres (Canadian offices only)
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-5" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-5">
+<div class="accordion-body">
+<ul>
+<li>GV6 &#8211; must achieve 73% to be granted 65% in English Language Arts 30-1</li>
+<li>GV7 &#8211; must achieve 73% to be granted 75% in English Language Arts 30-1</li>
+</ul>
+<p><a href="https://gvenglish.com/canada/" rel="noopener" target="_blank">Global Village English Centres (Canadian offices only)</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-6">
+<button aria-controls="--3d54d7fc-6452-collapse-6" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-6" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                ILSC Education Group
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-6" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-6">
+<div class="accordion-body">
+<ul>
+<li>University Pathway Program Upper Intermediate Level 4 &#8211; must achieve at least 75% to be granted 75% in English Language Arts 30-1</li>
+<li>University Pathway Program Advanced Level 1 &#8211; must achieve at least 78% to be granted 78% in English Language Arts 30-1</li>
+<li>University Pathway Program Advanced Level 2 &#8211; must achieve at least 87% to be granted 87% in English Language Arts 30-1</li>
+</ul>
+<p><a href="https://www.ilsc.com/language-schools/programs/pathway-partners" rel="noopener" target="_blank">ILSC Education Group</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-7">
+<button aria-controls="--3d54d7fc-6452-collapse-7" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-7" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                International Gateway Language Academy &amp; College (IGK)
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-7" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-7">
+<div class="accordion-body">
+<ul>
+<li>English for Academic Purposes (EAP) 200 course - must achieve at least 78% (equivalency to IELTS 6.5 in each skill area) to be recognized as meeting the English Language Proficiency requirement for the purposes of admission to SAIT Programs.&#160;</li>
+<li>English for Academic Purposes (EAP) 300 course - must achieve at least 90% (equivalency to IELTS 7.5) to be recognized as meeting the English Language Proficiency requirement for the purposes of admission to SAIT Programs.</li>
+</ul>
+<p><a href="http://igcanada.com/">International Gateway Language Academy &amp; College (IGK)</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-8">
+<button aria-controls="--3d54d7fc-6452-collapse-8" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-8" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                International Language Academy of Canada (ILAC)
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-8" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-8">
+<div class="accordion-body">
+<ul>
+<li>University Pathways (PW) &#8211; effective June 1, 2025, applicants must demonstrate the following combination of results in the final certificate to meet the English Language Proficiency requirement for the purposes of admission to SAIT programs:
+<ul>
+<li>ILAC Certificate Level &#8211; University Pathways (Level 3.4)</li>
+<li>University Pathway Course/ILAC Level &#8211; Pathway 3.4</li>
+<li>ILAC (internal) IELTS Test Score &#8211; IELTS/103</li>
+<li>Certificate Requirement (Coursework) &#8211; 75%</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://ilac.com/" rel="noopener" target="_blank">International Language Academy of Canada (ILAC)</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-9">
+<button aria-controls="--3d54d7fc-6452-collapse-9" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-9" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                Maple Leaf Academy (MLA)
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-9" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-9">
+<div class="accordion-body">
+<ul>
+<li>Academic English (AE) &#8211; must demonstrate the following combination of results in the final certificate to meet the English Language Proficiency requirement for the purposes of admission to SAIT programs:
+<ul>
+<li>MLA Academic English Levels 11-13</li>
+<li>Minimum IELTS 6.0 in each skill level</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://www.mapleleafacademy.com/product-page/esl-full-time-academic" rel="noopener" target="_blank">Maple Leaf Academy (MLA)</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-10">
+<button aria-controls="--3d54d7fc-6452-collapse-10" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-10" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                OHC English
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-10" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-10">
+<div class="accordion-body">
+<ul>
+<li>English for Academic Purposes (EAP) &#8211; must achieve at least 80% to be recognized as meeting the English Language Proficiency requirement for the purposes of admission to SAIT Programs.</li>
+</ul>
+<p><a href="https://www.ohcenglish.com/cities/calgary" rel="noopener" target="_blank">OHC English</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-11">
+<button aria-controls="--3d54d7fc-6452-collapse-11" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-11" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                Oxford International Digital Institute
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-11" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-11">
+<div class="accordion-body">
+<ul>
+<li>Online Pre-sessional English Programme (OPSE) Level 7 &#8211; must achieve at least 78% to be granted equivalency for 78% English 30-1</li>
+</ul>
+<p><a href="https://oidigitalinstitute.com/online-pre-sessional-english-sait/" rel="noopener" target="_blank">Online Pre-Sessional English SAIT - OI Digital Institute</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-12">
+<button aria-controls="--3d54d7fc-6452-collapse-12" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-12" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                Royal Canadian Institute of International Studies (RCIIS)
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-12" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-12">
+<div class="accordion-body">
+<p>Royal Canadian Institute of International Studies (RCIIS) graduates who complete the English for Academic Purposes (EAP) program with the following combination of results meet the English Language Proficiency requirement for the purposes of admission to a SAIT program based on a curriculum review and comparison of English proficiency equivalences between SAIT and RCIIS.</p>
+<ul>
+<li>RCIIS EAP score of minimum 78%</li>
+<li>Minimum IELTS 6.5 in each skill level</li>
+</ul>
+<p>Graduates from RCIIS must provide an RCIIS Certificate and transcript stating all of the above-mentioned assessment results for admission purposes to SAIT.</p>
+<p><a href="https://rciis.ca/college-pathway" rel="noopener" target="_blank">Royal Canadian Institute of International Studies (RCIIS)</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-13">
+<button aria-controls="--3d54d7fc-6452-collapse-13" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-13" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                St. George International College (SGIC)
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-13" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-13">
+<div class="accordion-body">
+<ul>
+<li>University &amp; College Pathway (UCPP) &#8211; must demonstrate the following results in the final certificate to meet the English Language Proficiency requirement for the purposes of admission to SAIT programs:
+<ul>
+<li>average of 80% in all courses in the University &amp; College Pathway program (levels 1-5) and no less than 75% in each UCPP course.</li>
+</ul>
+</li>
+</ul>
+<p><a href="https://www.sgiccanada.com/pathway-program" rel="noopener" target="_blank">St. George International College (SGIC)</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-14">
+<button aria-controls="--3d54d7fc-6452-collapse-14" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-14" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                Tamwood International College
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-14" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-14">
+<div class="accordion-body">
+<ul>
+<li>English for Academic Purposes (EAP) 192 &#8211; must achieve 68% to be granted 60% in English 20-1</li>
+<li>English for Academic Purposes (EAP) 193 &#8211; must achieve 68% to be granted 60% in English 30-1</li>
+<li>English for Academic Purposes (EAP) 194 &#8211; must achieve 68% to be granted 65% in English 30-1</li>
+</ul>
+<p><a href="https://tamwood.com/" rel="noopener" target="_blank">Tamwood International College</a></p>
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="--3d54d7fc-6452-heading-15">
+<button aria-controls="--3d54d7fc-6452-collapse-15" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#--3d54d7fc-6452-collapse-15" data-bs-toggle="collapse" type="button">
+<span class="toggle-icon"></span>
+<span class="accordion-label">
+                                The Language Gallery Canada
+                            </span>
+</button>
+</h2>
+<div aria-labelledby="--3d54d7fc-6452-heading-15" class="accordion-collapse collapse" id="--3d54d7fc-6452-collapse-15">
+<div class="accordion-body">
+<ul>
+<li>English for Academic Purposes (EAP) Level 6 &#8211; must achieve at least 80% to be recognized as meeting the English Language Proficiency requirement for the purposes of admission to SAIT Programs.</li>
+</ul>
+<p><a href="https://thelanguagegallerycanada.com/" rel="noopener" target="_blank">The Language Gallery Canada</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="row row-content">
+<div class="col-12 mt-0 pb-0">
+<h3><a name="Assessment Tests"></a>Assessment tests</h3>
+<p><strong>Note:</strong> SAIT does <strong>NOT</strong> accept assessment tests taken more than 12 months before you submit your application. If you are approved for an application transfer or admission deferral, you are required to provide updated test results if the one-year period has passed.</p>
+<table class="table table-bordered"><caption>Table explaining the English assessment's required to enroll in state with required scores.</caption>
+<thead>
+<tr>
+<th>Assessment test</th>
+<th>Test score</th>
+<th>Program requirement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>International English Language Testing System (IELTS)</p>
+<p><em>
+<strong>IELTS Indicator is also accepted</strong>
+</em></p>
+<p><em>
+<strong>Must be the Academic IELTS Assessment</strong>
+</em></p>
+</td>
+<td>
+<p>6.0 in each skill/category</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="http://www.cael.ca/" rel="noopener" target="_blank" title="Canadian Academic English Language Assessment">Canadian Academic English Language Assessment</a> (CAEL)</p>
+<p><strong>
+<i>CAEL Online is also accepted</i>
+</strong></p>
+</td>
+<td>
+<p>60 overall band</p>
+<p>Effective Winter 2023: 60 in each skill/category</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="http://www.ets.org/toefl" rel="noopener" target="_blank" title="English as Foreign Language">Test of English as a Foreign Language</a> (TOEFL)</p>
+<p><em>
+<strong>TOEFL Home Edition is also accepted</strong>
+</em></p>
+<p><em>
+<strong>MyBest Scores are not accepted as proof of English proficiency</strong>
+</em></p>
+</td>
+<td>
+<p>Prior to Jan. 21, 2026:<br>A minimum score of 20 in each category<br><br>On or after Jan. 21, 2026:<br>Total Score of 4.5, with a minimum score of 4.5 in each category</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://immigrantservicescalgary.ca/our-services/english-testingeducation/english-testing-referral" rel="noopener" target="_blank" title="Immigrant Services - English Testing">Canadian Language Benchmark Assessment</a> (CLBA) or <br><a href="https://www.immigrantservicescalgary.ca/start-here/#english-testing"></a><a href="https://www.immigrantservicescalgary.ca/start-here/#english-testing">Canadian Language Benchmark Placement Assessment</a> (CLBPA)<br><a class="g-open-link ion-plus-circled"></a></p>
+</td>
+<td>
+<p>A score of 8 in each section</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="http://pearsonpte.com/" rel="noopener" target="_blank" title="Pearson Test of English">Pearson Test of English</a> (PTE Academic)</p>
+</td>
+<td>
+<p>A minimum score of 53</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://michiganassessment.org/test-takers/tests/melab/" rel="noopener" target="_blank" title="English Language Assessment">Michigan English Test</a> (MET)</p>
+</td>
+<td>
+<p>A minimum score of 51</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://englishtest.duolingo.com/" rel="noopener" target="_blank" title="Duolingo">Duolingo</a></p>
+</td>
+<td>
+<p>115 minimum with at least 95 in each Individual Subscores.</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cambridge English B2 First, C1 Advanced or C2</p>
+</td>
+<td>
+<p>169 for each skill</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Oxford Test of English with a Level of B2</p>
+</td>
+<td>
+<p>130 for each module</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://www.languagecert.org/" rel="noopener" target="_blank">LanguageCert International ESOL</a></p>
+</td>
+<td>
+<p>B2 Communicator test with High Pass with a minimum score of 33 in each skill.</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LanguageCert Academic</p>
+</td>
+<td>
+<p>65 &#8211; 69 in each skill</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><a href="https://tests.oidigitalinstitute.com/rp/ellt/southern-alberta-institute-of-technology-sait-4730" rel="noopener" target="_blank">Oxford English Language Level Test</a> (ELLT)</p>
+</td>
+<td>
+<p>6 overall and scores of 6 in each component</p>
+</td>
+<td>
+<p>English Language Arts 30-1 or 30-2</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section aria-labelledby="land-acknowledgement-title" class="land-acknowledgement section-no-space">
+<div class="bg-image position-absolute w-100 h-100 top-0 pe-none">
+<img alt="a view of the moutains and stream in between" loading="lazy" src="https://www.sait.ca/assets/app/sait/images/bg/bg-land-acknowledgement1.jpg">
+</div>
+<div class="container">
+<div class="row">
+<div class="col-lg-7 col-xl-5">
+<div class="content position-relative ">
+<h2 class="h3 my-0" id="land-acknowledgement-title">Oki, Âba wathtech, Danit'ada, Tawnshi, Hello.</h2>
+<p class="my-0">SAIT is located on the traditional territories of the Niitsitapi (Blackfoot) and the people of Treaty 7 which includes the Siksika, the Piikani, the Kainai, the Tsuut&#8217;ina and the &#206;y&#226;rhe Nakoda of Bearspaw, Chiniki and Goodstoney.</p>
+<p class="my-0">We are situated in an area the Blackfoot tribes traditionally called Moh&#8217;kinsstis, where the Bow River meets the Elbow River. We now call it the city of Calgary, which is also home to the M&#233;tis Nation of Alberta.</p>
+<div class="d-flex">
+<a class="btn btn-outline-primary white chevron text-decoration-none footer-links" href="https://www.sait.ca/indigenous-community/natoysopoyiis/index" role="button" target="_parent">
+                                        Visit Natoysopoyiis Resource Centre
+                                        <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer class="footer position-relative overflow-hidden">
+<div class="logo position-absolute d-none d-lg-block pe-none">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="589" viewbox="0 0 592 589" width="592">
+<path d="M163.301 331.749C116.987 310.214 64.1425 295.082 44.5484 284.606C32.6732 278.204 29.1107 257.833 35.0483 239.209C45.1422 209.526 62.955 193.229 75.424 193.229C83.7366 193.229 87.893 200.214 87.893 200.214C87.893 200.214 102.143 145.504 103.924 139.102C68.8926 139.102 32.6732 181.007 11.8916 241.537C-6.51497 296.246 -2.95241 324.183 18.423 343.389C39.7983 362.596 98.5806 386.458 124.706 398.099C168.051 416.723 180.52 434.184 185.863 451.644C191.801 469.687 188.832 495.295 173.394 508.682C198.926 488.893 220.895 445.824 247.615 406.247C248.208 405.083 248.802 403.919 249.396 403.337C233.958 378.892 203.082 349.791 163.301 331.749Z" fill="white" fill-opacity="0.03"></path>
+<path d="M461.369 238.626C426.931 197.303 400.212 170.531 400.212 139.684C400.212 115.821 418.025 100.689 435.837 95.4506C407.337 100.107 368.149 111.747 335.492 122.223C331.929 123.387 327.773 124.551 323.617 126.297C321.242 133.282 320.054 140.848 320.054 149.578C320.054 191.483 363.399 243.865 390.712 279.95C418.025 316.035 476.807 377.728 476.807 421.961C476.807 462.12 448.9 484.237 415.056 484.237C359.242 484.237 349.742 421.379 349.742 421.379L295.116 497.623C295.116 497.623 342.617 563.391 416.243 563.391C498.182 563.391 561.715 495.295 561.715 420.797C561.715 351.537 495.807 279.95 461.369 238.626Z" fill="white" fill-opacity="0.03"></path>
+<path d="M453.06 40.1593C421.591 40.1593 373.496 54.7097 332.527 66.35C291.557 78.5723 234.556 99.5249 207.243 99.5249C188.243 99.5249 182.899 84.9745 187.649 73.3342C180.524 89.0486 172.211 122.805 165.086 155.98C172.805 158.89 184.68 161.219 195.962 161.219C228.025 161.219 293.932 135.61 335.495 122.223C377.059 108.837 429.31 93.7047 456.029 93.7047C482.748 93.7047 516.592 112.329 516.592 146.086C516.592 183.335 482.748 192.647 463.748 192.647C450.685 192.647 438.216 190.901 438.216 190.901L502.936 267.727C502.936 267.727 592 236.881 592 161.219C592 90.2126 521.936 40.1593 453.06 40.1593Z" fill="white" fill-opacity="0.03"></path>
+<path d="M349.151 48.3073C349.151 48.3073 348.558 0 295.713 0C209.024 0 158.554 49.4713 139.554 84.3923C121.147 118.149 108.678 172.277 100.959 204.288C91.4592 241.537 77.209 291.008 46.3334 285.77C60.5837 292.754 87.3029 301.484 117.585 312.542C131.241 291.59 144.304 258.415 151.429 226.986C159.148 190.319 174.586 101.271 188.242 73.334C201.899 45.3972 230.993 32.5929 255.337 32.5929C293.338 32.5929 272.556 72.1699 272.556 72.1699L349.151 48.3073Z" fill="white" fill-opacity="0.03"></path>
+<path d="M470.872 392.279C470.278 389.951 469.09 388.205 467.903 385.877C467.309 384.131 466.122 382.966 465.528 381.22C447.121 345.135 411.496 306.722 391.902 280.532C327.182 286.352 282.65 352.702 247.618 405.665C211.992 459.793 184.085 519.158 145.491 519.158C121.74 519.158 94.4275 491.803 94.4275 454.554C94.4275 419.633 122.928 411.485 122.928 411.485L62.3644 384.713C62.3644 384.713 45.7391 403.337 45.7391 448.152C45.7391 513.338 100.959 589 166.866 589C233.961 589 261.274 523.232 296.306 473.179C345.588 402.173 375.276 360.268 418.621 360.268C433.465 360.268 458.997 369.58 470.872 392.279Z" fill="white" fill-opacity="0.03"></path>
+</svg>
+</div>
+<div class="container">
+<div class="row footer-main">
+<div class="footer-col-container">
+<div class="group d-flex flex-column flex-lg-row">
+<div class="footer-col">
+<h2 class="my-0">Contact Us</h2>
+<div class="content contact">
+<p class="my-0 sait">Southern Alberta Institute of Technology</p>
+<dl>
+<dt class="visually-hidden">Address</dt>
+<dd class="my-0">
+<ion-icon class="" name="map-pin" aria-hidden="true"></ion-icon>
+<a href="https://maps.app.goo.gl/iCHRg1D2HV3KSvQZA">1301 16 Avenue NW<br>Calgary AB, T2M 0L4</a>
+</dd>
+<dt class="visually-hidden">Phone</dt>
+<dd class="my-0">
+<ion-icon class="" name="pl-phone" aria-hidden="true"></ion-icon>
+<a class="footer-links" href="tel:1.877.284.7248">1.877.284.7248</a>
+</dd>
+</dl>
+<div class="d-flex">
+<a class="btn btn-outline-primary white chevron text-decoration-none footer-links" href="https://www.sait.ca/about-sait/contact-us/index" role="button" target="_parent">
+                                            Contact Us
+                                            <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</div>
+</div>
+</div>
+<div class="footer-col">
+<div class="footer-nav">
+<h2 class="my-0">Help and Support</h2>
+<nav>
+<ul>
+<li>
+<a class="text-decoration-none footer-links" href="https://www.sait.ca/student-life/office-of-the-registrar/index">Office of the Registrar
+                                                        <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</li>
+<li>
+<a class="text-decoration-none footer-links" href="https://www.sait.ca/about-sait/contact-us/index">Student Inquiries
+                                                        <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</li>
+<li>
+<a class="text-decoration-none footer-links" href="https://www.sait.ca/media-centre/index">Media Inquiries
+                                                        <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</li>
+<li>
+<a class="text-decoration-none footer-links" href="https://www.sait.ca/about-sait/help-and-security/campus-security">Campus Security
+                                                        <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</li>
+<li>
+<a class="text-decoration-none footer-links" href="https://saitregistrar.freshdesk.com/support/home">Online Support
+                                                        <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="group d-flex flex-column flex-lg-row">
+<div class="footer-col">
+<div class="footer-nav">
+<h2 class="my-0">Quick Links</h2>
+<nav>
+<ul>
+<li>
+<a class="text-decoration-none footer-links" href="https://www.sait.ca/about-sait/campus/campus-map">Campus Map
+                                                    <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</li>
+<li>
+<a class="text-decoration-none footer-links" href="https://www.sait.ca/about-sait/work-at-sait/index">Work at SAIT
+                                                    <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</li>
+<li>
+<a class="text-decoration-none footer-links" href="https://www.sait.ca/events/index">Event Calendar
+                                                    <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</li>
+<li>
+<a class="text-decoration-none footer-links" href="https://www.sait.ca/parents-and-supporters/index">Parents
+                                                    <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="footer-col">
+<h2 class="my-0">Donations</h2>
+<div class="content donations">
+<p class="my-0">Every year, donors provide support to our students. Whether through student awards, student-led crowdfunding projects or the I.G. Lewis Student Emergency Fund, this support changes lives for the better.</p>
+<p class="my-0">Learn how you can make a difference and become a donor today.</p>
+<div class="d-flex">
+<a class="btn btn-outline-primary white chevron text-decoration-none footer-links" href="https://www.sait.ca/donors/how-to-donate.html" role="button" target="_parent">
+                                            Donate to SAIT
+                                            <ion-icon name="chevron-forward-outline"></ion-icon>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row footer-sub">
+<div class="col-lg-6">
+<div class="socials">
+<a class="social-link footer-links" href="https://www.instagram.com/SAIT">
+<ion-icon name="instagram"></ion-icon>
+<span class="visually-hidden">Instagram</span>
+</a>
+<a class="social-link footer-links" href="https://twitter.com/sait">
+<ion-icon name="x"></ion-icon>
+<span class="visually-hidden">X</span>
+</a>
+<a class="social-link footer-links" href="https://www.linkedin.com/edu/southern-alberta-institute-of-technology-20153">
+<ion-icon name="linkedin"></ion-icon>
+<span class="visually-hidden">LinkedIn</span>
+</a>
+<a class="social-link footer-links" href="https://www.facebook.com/sait/">
+<ion-icon name="facebook"></ion-icon>
+<span class="visually-hidden">Facebook</span>
+</a>
+<a class="social-link footer-links" href="https://www.youtube.com/channel/UCVAqa3U8cTowb92y4NgLQVg">
+<ion-icon name="youtube"></ion-icon>
+<span class="visually-hidden">YouTube</span>
+</a>
+</div>
+<p class="copy d-none d-lg-block">© SAIT <span class="current-year"></span></p>
+</div>
+<div class="col-lg-6">
+<div class="sub-footer-links d-flex flex-column align-items-lg-end">
+<a class="footer-links" href="https://www.sait.ca/about-sait/policies-and-procedures/privacy-policies">Privacy Policy</a>
+<a class="footer-links" href="https://www.sait.ca/website-feedback">Website Feedback</a>
+</div>
+<p class="copy d-block d-lg-none">© SAIT <span class="current-year"></span></p>
+<script type="text/javascript">
+                            document.querySelectorAll('.current-year').forEach((el) => {
+                                el.textContent = new Date().getFullYear().toString();
+                            });
+                        </script>
+</div>
+</div>
+</div>
+</footer>
+<!-- GA autoscript -->
+<script src="/assets/app/sait/js/google-attributes.js?v=220926111203">
+</script>
+<script src="/assets/app/sait/js/menu.js?v=220926111203">
+</script>
+<script async="true" src="/assets/app/sait/js/bundle.js?v=220926111203">
+</script>
+<script defer="" src="/assets/app/sait/js/news-events.js?v=220926111203">
+</script>
+<!-- cookie -->
+<!-- clive tracking -->
+<script defer="" src="https://live.clive.cloud/page-views/track/651">
+</script>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMQVWP" height="0" width="0" style="display:none;visibility:hidden" title="noscript google tag manager"></iframe></noscript>
+<script defer="">!function(s,a,e,v,n,t,z){if(s.saq)return;n=s.saq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!s._saq)s._saq=n;n.push=n;n.loaded=!0;n.version='1.0';n.queue=[];t=a.createElement(e);t.async=!0;t.src=v;z=a.getElementsByTagName(e)[0];z.parentNode.insertBefore(t,z)}(window,document,'script','https://tags.srv.stackadapt.com/events.js');saq('ts','cJK4UGnlrsLPBoZ10PEO6g');</script>
+<script defer="" src="/assets/app/sait/js/alerts.js?v=220926111203">
+</script>
+<script defer="" src="/assets/app/sait/js/promos.js?v=220926111203">
+</script>
+<script defer="" src="https://apply.sait.ca/ping">/**/</script>
+<script type="text/javascript" async="true">
+    // CHATBOT loading script
+    // copyright - SAIT 2024
+(function() {
+    var path = window.location.pathname;
+    var scriptUrls = {
+        '/tuition-and-financial-aid': 'https://bot.ivy.ai/bot/script/category/0qbpxrowDmROgGy9NYG9ajVXevLB1Y8E',
+        '/admissions': 'https://bot.ivy.ai/bot/script/category/NpoKYEnJARazwMQ1aXMDZxWq2O846v0b',
+        '/student-life/office-of-the-registrar': 'https://bot.ivy.ai/bot/script/category/1BaQjXoxVWJ98MoAr4ldgNew5LZyqr6R',
+        '/programs-and-courses/': 'https://bot.ivy.ai/bot/script/category/m6EwZa1qgY7AnlR79BPKOv2054kWp3bD',
+        '/apprenticeships-and-trades': 'https://bot.ivy.ai/bot/script/category/m6EwZa1qgY7AnlR79BPKOv2054kWp3bD',
+        
+        '/about-sait/event-venues-and-catering': 'https://bot.ivy.ai/bot/script/category/A86DQgEwpkZdnMxvBYlWqO90rmzX43a2',
+        '/about-sait/event-venues-and-catering/facility-rentals-and-team-stays': 'https://bot.ivy.ai/bot/script/category/A86DQgEwpkZdnMxvBYlWqO90rmzX43a2',
+        '/about-sait/event-venues-and-catering/guest-accommodations': 'https://bot.ivy.ai/bot/script/category/A86DQgEwpkZdnMxvBYlWqO90rmzX43a2',
+        '/about-sait/event-venues-and-catering/photography-and-filming-on-campus': 'https://bot.ivy.ai/bot/script/category/A86DQgEwpkZdnMxvBYlWqO90rmzX43a2',
+        '/about-sait/event-venues-and-catering/weddings': 'https://bot.ivy.ai/bot/script/category/A86DQgEwpkZdnMxvBYlWqO90rmzX43a2',
+        '/about-sait/campus/transit-and-parking': 'https://bot.ivy.ai/bot/script/category/A86DQgEwpkZdnMxvBYlWqO90rmzX43a2',
+        '/about-sait/campus/dining-on-campus/curated-catering': 'https://bot.ivy.ai/bot/script/category/A86DQgEwpkZdnMxvBYlWqO90rmzX43a2',
+        '/student-life/sait-ecard': 'https://bot.ivy.ai/bot/script/category/A86DQgEwpkZdnMxvBYlWqO90rmzX43a2',
+        '/student-life/upass': 'https://bot.ivy.ai/bot/script/category/A86DQgEwpkZdnMxvBYlWqO90rmzX43a2',
+        '/student-life/residence-and-housing': 'https://bot.ivy.ai/bot/script/category/A86DQgEwpkZdnMxvBYlWqO90rmzX43a2'
+    };
+
+    var loadScript = function(scriptUrl) {
+        // check script is not already loaded
+        if (!document.head.querySelector('script[src="' + scriptUrl + '"]')) {
+            var script = document.createElement('script');
+            script.src = scriptUrl;
+            script.async = true;
+            script.type = 'text/javascript';
+            script.referrerPolicy = 'no-referrer-when-downgrade';
+            document.head.appendChild(script);
+        }
+    };
+
+    for (var partialPath in scriptUrls) {
+        // use indexOf for older browsers - includes has lacking support for older stuff
+        if (path.indexOf(partialPath) !== -1) {
+            loadScript(scriptUrls[partialPath]);
+            break;
+        }
+    }
+})();
+</script>
+</div></body>
+</html>

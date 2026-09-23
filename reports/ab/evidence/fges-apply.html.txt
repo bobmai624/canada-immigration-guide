@@ -1,0 +1,938 @@
+
+  
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="goa-components-2 theme--default" id="template-service" lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="goa-components-2 theme--default" id="template-service">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Process and steps to apply for nomination under the Foreign Graduate Entrepreneur Stream." />
+<link rel="canonical" href="https://www.alberta.ca/aaip-foreign-graduate-entrepreneur-stream-how-to-apply" />
+<meta name="template" content="Service" />
+<meta name="ministry-id" content="25" />
+<meta name="page-type" content="Program" />
+<meta name="published" content="2026-08-12T12:31:21-0600" />
+<meta name="robots" content="index" />
+<meta name="robots" content="follow" />
+<meta name="robots" content="noarchive" />
+<meta name="landing" content="false" />
+<meta name="id" content="691" />
+<meta property="og:site_name" content="Alberta.ca" />
+<meta property="og:type" content="Article" />
+<meta property="og:url" content="https://www.alberta.ca/aaip-foreign-graduate-entrepreneur-stream-how-to-apply" />
+<meta property="og:title" content="Foreign Graduate Entrepreneur Stream – How to apply" />
+<meta property="og:description" content="Process and steps to apply for nomination under the Foreign Graduate Entrepreneur Stream." />
+<meta property="og:image" content="https://www.alberta.ca/system/files/alberta-share-legislature.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Foreign Graduate Entrepreneur Stream – How to apply" />
+<meta name="twitter:image" content="https://www.alberta.ca/system/files/alberta-share-legislature.jpg" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://challenges.cloudflare.com" />
+<link rel="icon" href="/themes/custom/goa_core/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.alberta.ca/aaip-foreign-graduate-entrepreneur-stream-how-to-apply" />
+
+    <title>Foreign Graduate Entrepreneur Stream – How to apply | Alberta.ca</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_JYyzsDUp8fWe4a4ZIsPKIZsqGJz5_KxxhWkQ5s_2Whc.css?delta=0&amp;language=en&amp;theme=goa_core&amp;include=eJxNyEEKAyEMQNELBT3SEE1wwkQjiU5pT1-YTbv5fF69mGSZHzKIxypq9cp_D9Wc8zDvqPJhaIbHQ02toMJEx-Y4z8jke6Kmn6Q95i4qcTJBvGNxzwWD4RZ-RX6autFW_gIm5TUY" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_tOGe64FFwJG78Wv4y0ENFTtBvP6IkVyOaDdD-hInhfQ.css?delta=1&amp;language=en&amp;theme=goa_core&amp;include=eJxNyEEKAyEMQNELBT3SEE1wwkQjiU5pT1-YTbv5fF69mGSZHzKIxypq9cp_D9Wc8zDvqPJhaIbHQ02toMJEx-Y4z8jke6Kmn6Q95i4qcTJBvGNxzwWD4RZ-RX6autFW_gIm5TUY" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_cko3J5jaxdGLlT6cpAcr7zy3_i0wa0OlPNwHS6Wi_yc.css?delta=2&amp;language=en&amp;theme=goa_core&amp;include=eJxNyEEKAyEMQNELBT3SEE1wwkQjiU5pT1-YTbv5fF69mGSZHzKIxypq9cp_D9Wc8zDvqPJhaIbHQ02toMJEx-Y4z8jke6Kmn6Q95i4qcTJBvGNxzwWD4RZ-RX6autFW_gIm5TUY" />
+
+          <style>custom_css</style>
+            <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/691","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":false,"force_html5_validation":false,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"miniorange_saml":{"base_url":"https:\/\/www.alberta.ca"},"user":{"uid":0,"permissionsHash":"642d10741e771b87208f35e7363ed7992db415d5c0e6006b887c5899487b36a4"}}</script>
+<script src="/sites/default/files/js/js__VcEB7Z7M8-zqhlksdKRDNayj-o8EQttt7ZmrCk481o.js?scope=header&amp;delta=0&amp;language=en&amp;theme=goa_core&amp;include=eJxLz0-MT84vStVPz8lPSszRyc3My8wvSsxLT40vTszN0Ufj65WkFpcAAB1pFJM"></script>
+
+
+          <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-58699CN');</script>
+    
+          <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-P6MFS54');</script>
+      <!-- End Google Tag Manager -->
+    
+  </head>
+  <body class="page-aaip-foreign-graduate-entrepreneur-stream-how-to-apply section-aaip-foreign-graduate-entrepreneur-stream-how-to-apply path-node page-node-type-service">
+          <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-58699CN
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-P6MFS54
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    
+    <svg class="svg_sprite" style="display:none;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol viewBox="0 0 24 37.2" id="angle-left"><path d="M.8 16.6L16.6.8c1.1-1.1 2.9-1.1 3.9 0l2.6 2.6c1.1 1.1 1.1 2.9 0 3.9L12 18.6l11.2 11.2c1.1 1.1 1.1 2.9 0 3.9l-2.6 2.6c-1.1 1.1-2.9 1.1-3.9 0L.8 20.6c-1.1-1.1-1.1-2.9 0-4z" fill="#fff" /></symbol><symbol viewBox="0 0 24 37.2" id="angle-right"><path d="M23.2 20.6L7.4 36.4c-1.1 1.1-2.9 1.1-3.9 0L.9 33.8c-1.1-1.1-1.1-2.9 0-3.9L12 18.6.8 7.4C-.3 6.3-.3 4.5.8 3.5L3.4.9C4.5-.2 6.3-.2 7.3.9l15.8 15.8c1.2 1 1.2 2.8.1 3.9z" fill="#fff" /></symbol><symbol viewBox="0 0 24 24" id="arrow-right"><path d="M10.2 1.9L11.4.7c.5-.5 1.3-.5 1.8 0l10.4 10.4c.5.5.5 1.3 0 1.8L13.2 23.3c-.5.5-1.3.5-1.8 0l-1.2-1.2c-.5-.5-.5-1.3 0-1.8l6.5-6.1H1.3c-.7 0-1.3-.6-1.3-1.3v-1.7c0-.7.6-1.3 1.3-1.3h15.4l-6.5-6.1c-.5-.6-.5-1.4 0-1.9z" /></symbol><symbol viewBox="0 0 24 24" id="chevron-down"><path d="M12.07,15.21c.07-.11,6.47-6.58,9.62-9.71a1.08,1.08,0,0,1,.56-.31.72.72,0,0,1,.51.19c.33.28.62.6.93.9s.41.72,0,1.13L12.51,18.58a.62.62,0,0,1-1,0L.34,7.45c-.46-.46-.46-.74,0-1.2l.81-.81a.68.68,0,0,1,1.1,0Z" /></symbol><symbol viewBox="0 0 22 20.51" id="external"><path d="M21,19.69a.58.58,0,0,1-.57.57H3.57A.58.58,0,0,1,3,19.69V4.31a.58.58,0,0,1,.57-.57H6.82v-2H3.57A2.58,2.58,0,0,0,1,4.31V19.69a2.58,2.58,0,0,0,2.57,2.57H20.43A2.58,2.58,0,0,0,23,19.69V16.44H21Z" transform="translate(-1 -1.74)" /><path d="M22,1.75H14.15a1,1,0,1,0,0,2h5.44l-7.41,7.41a1,1,0,0,0,.71,1.71,1,1,0,0,0,.7-.3L21,5.17V10.6a1,1,0,1,0,2,0V2.75A1,1,0,0,0,22,1.75Z" transform="translate(-1 -1.74)" /></symbol><symbol viewBox="0 0 24 24" id="facebook"><path d="m9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615z" /></symbol><symbol viewBox="0 0 24 24" id="instagram"><path d="m12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948s.014 3.668.072 4.948c.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072s3.668-.014 4.948-.072c4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948s-.014-3.667-.072-4.947c-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" /></symbol><symbol viewBox="0 0 18 18" id="link-arrow"><defs></defs><defs></defs><g clip-path="url(#link-arrow_a)"><path fill="none" d="M0 0h18v18H0z" /><path d="M9.7 4.3a.7.7 0 10-1 1l2.8 3H3.6a.8.8 0 100 1.4h7.9l-2.9 2.9a.7.7 0 000 1 .7.7 0 001 0l4.2-4a.7.7 0 000-1.1z" fill="#006dcc" /></g></symbol><clipPath id="link-arrow_a"><path d="M0 0h18v18H0z" /></clipPath><symbol viewBox="0 0 24 24" id="linkedin"><path d="M19 0H5a5 5 0 0 0-5 5v14a5 5 0 0 0 5 5h14a5 5 0 0 0 5-5V5a5 5 0 0 0-5-5zM8 19H5V8h3v11zM6.5 6.732c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zM20 19h-3v-5.604c0-3.368-4-3.113-4 0V19h-3V8h3v1.765c1.396-2.586 7-2.777 7 2.476V19z" /></symbol><symbol viewBox="0 0 216 61" id="logo">
+  <rect class="logo" fill="#00aad2" x="196.411" y="31.014" width="19.59" height="19.592" />
+  <path class="logo" fill="#5f6a72" d="M91.271,47.934c-1.972,0.198-4.068,0.382-6.278,0.548c0.833-6.288,4.105-15.027,8.177-13.62C95.521,35.676,94.284,43.033,91.271,47.934 M86.106,52.264c-0.714,0.111-1.304,0.101-1.773,0.014c0.28-0.241,0.455-0.594,0.455-1.014c0-0.266,0.009-0.544,0.024-0.832c1.104-0.052,2.831-0.177,4.888-0.376C88.623,51.241,87.409,52.067,86.106,52.264 M111.223,37.314c2.598-2.413,3.89-2.237,4.231-1.589c0.736,1.403-2.325,6.345-8.184,9.047C107.774,42.114,109.176,39.216,111.223,37.314 M207.625,39.712c-0.251-4.887-4.579-5.683-5.176-4.293c-0.208,0.487,1.626,0.313,1.633,3.764c0.005,5.71-5.787,13.165-13.167,13.165c-8.04,0-10.114-6.254-10.502-9.348c-0.256-2.058,0.187-5.029-3.368-4.636c-2.486,0.28-4.733,5.12-7.885,9.196c-2.704,3.499-3.918,3.166-3.286,0.163c0.783-3.763,3.925-12.594,7.517-13.237c1.661-0.297,2.257,2.625,3.02,0.796c0.768-1.832,0.063-5.783-3.655-5.783c-2.605,0-5.73,2.762-8.292,5.905c-2.233,2.744-13.522,19.357-18.257,15.77c-2.215-1.676-2.035-8.506-0.643-16.553c5.618-2.167,10.292-1.456,12.936-0.188c1.305,0.626,1.485,0.532,0.929-0.903c-0.825-2.108-5.345-5.405-12.405-3.888c-0.17,0.033-0.336,0.079-0.505,0.119c0.569-2.613,1.231-5.268,1.954-7.849c0.661-2.364,2.6-6.454-2.462-7.242c-1.613-0.252-0.927,0.53-1.459,2.71c-0.978,4.015-2.214,9.227-3.109,14.458c-4.161,2.396-8.035,6.399-10.874,11.667c0.492-2.429,1.254-5.116,1.308-6.93c0.054-1.911-1.255-2.332-1.763-2.482c-1.111-0.314-2.453,0.236-3.776,2.106c-3.104,4.37-7.035,11.284-13.001,14.184c-4.28,2.081-6.157-0.015-6.262-3.238c0.845-0.259,1.601-0.525,2.24-0.813c7.756-3.437,10.419-8.621,8.448-11.774c-1.87-3-7.217-2.086-11.439,2.361c-2.081,2.193-3.684,5.956-3.871,9.387c-1.79,0.387-3.848,0.731-6.146,1.041c3.644-5.911,3.329-13.9-2.001-15.247c-6.182-1.561-9.309,4.44-10.633,9.436c0.408-4.996,1.206-11.077,2.335-16.725c0.472-2.361,2.087-6.455-3.041-7.24c-1.629-0.252-1.377,0.505-1.241,2.71c0.18,2.958-3.096,20.875-1.384,28.744c-2.206,0.714-3.101,2.375-0.264,4.127c1.955,1.203,6.258,1.603,10.605-0.537c1.559-0.771,2.909-1.854,4.034-3.125c2.59-0.326,5.314-0.744,7.796-1.241c0.425,3.45,2.677,6.095,7.905,5.606c7.433-0.691,14.035-9.826,16.528-14.226c-0.45,4.716-3.519,15.019,1.716,14.49c2.051-0.208,1.158-0.536,1.285-2.306c0.454-6.208,5.62-11.47,10.73-14.694c-0.887,7.602-0.579,14.391,2.868,16.546c6.341,3.963,15.326-6.477,20.27-12.862c-2.516,5.671-3.945,12.936-0.164,14.047c4.435,1.293,7.932-6.063,12.022-11.693c0.475,4.042,3.168,11.003,14.033,11.003C200.729,54.163,208.007,47.148,207.625,39.712 M51.101,52.114c-2.665-0.965-6.464-2.513-11.424-5.046c2.717-0.991,6.169-2.443,9.806-4.345C49.973,46.873,50.505,49.892,51.101,52.114M80.545,57.718c-0.125-0.258-0.849,0.105-1.587-0.003c-2.101-0.31-4.863-3.18-5.699-7.896c-1.504-8.489-0.612-16.865,1.88-29.348c0.47-2.361,2.084-6.451-3.041-7.243c-1.63-0.251-0.786,0.554-1.243,2.71c-1.971,9.297-9.574,15.999-17.207,20.493c-0.799-10.645-0.474-22.465,1.53-29.714c1.691-6.115,3.703-4.992,1.209-6.277c-2.624-1.352-5.445,0.435-7.726,4.989c-2.28,4.552-12.795,29.289-29.584,45.984c-8.592,8.545-16.363,4.146-17.919,2.831c-1.266-1.069-1.734,0.582-0.163,2.271c6.949,7.494,17.1,3.194,20.795-0.5c10.215-10.21,22.092-32.19,26.897-41.517c-0.443,5.251-0.593,14.058,0.385,24.379c-5.199,2.533-9.86,4.021-12.059,4.601c-2.381,0.624-3.854,1.593-3.898,2.697c-0.047,1.208,1.552,2.227,3.863,3.325c4.116,1.954,16.167,7.647,19.136,9.374c2.543,1.476,3.784,0.325,4.537-1.268c0.983-2.076-1.716-3.276-4.328-4.057c-1.006-3.495-1.81-8.196-2.345-13.377c6.126-3.772,12.158-8.793,15.635-15.068c-0.876,5.245-3.124,23.08,2.507,30.621c1.241,1.662,3.981,3.479,6.656,3.209C80.036,58.805,80.671,57.977,80.545,57.718" />
+</symbol><symbol viewBox="0 0 24 24" id="search"><path d="M23.7 20.8L19 16.1c-.2-.2-.5-.3-.8-.3h-.8c1.3-1.7 2.1-3.7 2.1-6 0-5.4-4.4-9.7-9.7-9.7S0 4.4 0 9.8s4.4 9.7 9.7 9.7c2.3 0 4.3-.8 6-2.1v.8c0 .3.1.6.3.8l4.7 4.7c.4.4 1.2.4 1.6 0l1.3-1.3c.5-.5.5-1.2.1-1.6zm-14-5c-3.3 0-6-2.7-6-6s2.7-6 6-6 6 2.7 6 6-2.6 6-6 6z" /></symbol><symbol viewBox="0 0 24 24" id="twitter"><path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z" /></symbol><symbol viewBox="0 0 24 24" id="youtube"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0C.488 3.45.029 5.804 0 12c.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0C23.512 20.55 23.971 18.196 24 12c-.029-6.185-.484-8.549-4.385-8.816zM9 16V8l8 3.993L9 16z" /></symbol><symbol viewBox="0 0 24 24" id="youtube-alt"><path d="m4.652 0h1.44l.988 3.702.916-3.702h1.454l-1.665 5.505v3.757h-1.431v-3.757l-1.702-5.505zm6.594 2.373c-1.119 0-1.861.74-1.861 1.835v3.349c0 1.204.629 1.831 1.861 1.831 1.022 0 1.826-.683 1.826-1.831v-3.349c0-1.069-.797-1.835-1.826-1.835zm.531 5.127c0 .372-.19.646-.532.646-.351 0-.554-.287-.554-.646v-3.179c0-.374.172-.651.529-.651.39 0 .557.269.557.651zm4.729-5.07v5.186c-.155.194-.5.512-.747.512-.271 0-.338-.186-.338-.46v-5.238h-1.27v5.71c0 .675.206 1.22.887 1.22.384 0 .918-.2 1.468-.853v.754h1.27v-6.831zm2.203 13.858c-.448 0-.541.315-.541.763v.659h1.069v-.66c.001-.44-.092-.762-.528-.762zm-4.703.04c-.084.043-.167.109-.25.198v4.055c.099.106.194.182.287.229.197.1.485.107.619-.067.07-.092.105-.241.105-.449v-3.359c0-.22-.043-.386-.129-.5-.147-.193-.42-.214-.632-.107zm4.827-5.195c-2.604-.177-11.066-.177-13.666 0-2.814.192-3.146 1.892-3.167 6.367.021 4.467.35 6.175 3.167 6.367 2.6.177 11.062.177 13.666 0 2.814-.192 3.146-1.893 3.167-6.367-.021-4.467-.35-6.175-3.167-6.367zm-12.324 10.686h-1.363v-7.54h-1.41v-1.28h4.182v1.28h-1.41v7.54zm4.846 0h-1.21v-.718c-.223.265-.455.467-.696.605-.652.374-1.547.365-1.547-.955v-5.438h1.209v4.988c0 .262.063.438.322.438.236 0 .564-.303.711-.487v-4.939h1.21v6.506zm4.657-1.348c0 .805-.301 1.431-1.106 1.431-.443 0-.812-.162-1.149-.583v.5h-1.221v-8.82h1.221v2.84c.273-.333.644-.608 1.076-.608.886 0 1.18.749 1.18 1.631v3.609zm4.471-1.752h-2.314v1.228c0 .488.042.91.528.91.511 0 .541-.344.541-.91v-.452h1.245v.489c0 1.253-.538 2.013-1.813 2.013-1.155 0-1.746-.842-1.746-2.013v-2.921c0-1.129.746-1.914 1.837-1.914 1.161 0 1.721.738 1.721 1.914v1.656z" /></symbol></defs></svg>
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+	
+
+
+
+	
+<header>
+	<div id="page-top" class="ab-skiplinks" tabindex="-1">
+	<a href="#page-title">Skip to content</a>
+	<a href="#goa-main-nav">Skip to navigation</a>
+</div>
+
+
+  
+  
+
+
+<!-- __noindex__ -->
+<div class="goa-header noindex">
+	<div class="goa-logo-container">
+		<div class="goa-logo">
+			<a href="/" title="Home" rel="home" aria-label="Home, Alberta.ca">
+				<svg xmlns="http://www.w3.org/2000/svg" width="149" height="42" viewbox="0 0 216 61" shape-rendering="geometricPrecision" aria-hidden="true">
+					<rect class="logo" fill="#00aad2" x="196.411" y="31.014" width="19.59" height="19.592"></rect>
+					<path class="logo" fill="#5f6a72" d="M91.271,47.934c-1.972,0.198-4.068,0.382-6.278,0.548c0.833-6.288,4.105-15.027,8.177-13.62C95.521,35.676,94.284,43.033,91.271,47.934 M86.106,52.264c-0.714,0.111-1.304,0.101-1.773,0.014c0.28-0.241,0.455-0.594,0.455-1.014c0-0.266,0.009-0.544,0.024-0.832c1.104-0.052,2.831-0.177,4.888-0.376C88.623,51.241,87.409,52.067,86.106,52.264 M111.223,37.314c2.598-2.413,3.89-2.237,4.231-1.589c0.736,1.403-2.325,6.345-8.184,9.047C107.774,42.114,109.176,39.216,111.223,37.314 M207.625,39.712c-0.251-4.887-4.579-5.683-5.176-4.293c-0.208,0.487,1.626,0.313,1.633,3.764c0.005,5.71-5.787,13.165-13.167,13.165c-8.04,0-10.114-6.254-10.502-9.348c-0.256-2.058,0.187-5.029-3.368-4.636c-2.486,0.28-4.733,5.12-7.885,9.196c-2.704,3.499-3.918,3.166-3.286,0.163c0.783-3.763,3.925-12.594,7.517-13.237c1.661-0.297,2.257,2.625,3.02,0.796c0.768-1.832,0.063-5.783-3.655-5.783c-2.605,0-5.73,2.762-8.292,5.905c-2.233,2.744-13.522,19.357-18.257,15.77c-2.215-1.676-2.035-8.506-0.643-16.553c5.618-2.167,10.292-1.456,12.936-0.188c1.305,0.626,1.485,0.532,0.929-0.903c-0.825-2.108-5.345-5.405-12.405-3.888c-0.17,0.033-0.336,0.079-0.505,0.119c0.569-2.613,1.231-5.268,1.954-7.849c0.661-2.364,2.6-6.454-2.462-7.242c-1.613-0.252-0.927,0.53-1.459,2.71c-0.978,4.015-2.214,9.227-3.109,14.458c-4.161,2.396-8.035,6.399-10.874,11.667c0.492-2.429,1.254-5.116,1.308-6.93c0.054-1.911-1.255-2.332-1.763-2.482c-1.111-0.314-2.453,0.236-3.776,2.106c-3.104,4.37-7.035,11.284-13.001,14.184c-4.28,2.081-6.157-0.015-6.262-3.238c0.845-0.259,1.601-0.525,2.24-0.813c7.756-3.437,10.419-8.621,8.448-11.774c-1.87-3-7.217-2.086-11.439,2.361c-2.081,2.193-3.684,5.956-3.871,9.387c-1.79,0.387-3.848,0.731-6.146,1.041c3.644-5.911,3.329-13.9-2.001-15.247c-6.182-1.561-9.309,4.44-10.633,9.436c0.408-4.996,1.206-11.077,2.335-16.725c0.472-2.361,2.087-6.455-3.041-7.24c-1.629-0.252-1.377,0.505-1.241,2.71c0.18,2.958-3.096,20.875-1.384,28.744c-2.206,0.714-3.101,2.375-0.264,4.127c1.955,1.203,6.258,1.603,10.605-0.537c1.559-0.771,2.909-1.854,4.034-3.125c2.59-0.326,5.314-0.744,7.796-1.241c0.425,3.45,2.677,6.095,7.905,5.606c7.433-0.691,14.035-9.826,16.528-14.226c-0.45,4.716-3.519,15.019,1.716,14.49c2.051-0.208,1.158-0.536,1.285-2.306c0.454-6.208,5.62-11.47,10.73-14.694c-0.887,7.602-0.579,14.391,2.868,16.546c6.341,3.963,15.326-6.477,20.27-12.862c-2.516,5.671-3.945,12.936-0.164,14.047c4.435,1.293,7.932-6.063,12.022-11.693c0.475,4.042,3.168,11.003,14.033,11.003C200.729,54.163,208.007,47.148,207.625,39.712 M51.101,52.114c-2.665-0.965-6.464-2.513-11.424-5.046c2.717-0.991,6.169-2.443,9.806-4.345C49.973,46.873,50.505,49.892,51.101,52.114M80.545,57.718c-0.125-0.258-0.849,0.105-1.587-0.003c-2.101-0.31-4.863-3.18-5.699-7.896c-1.504-8.489-0.612-16.865,1.88-29.348c0.47-2.361,2.084-6.451-3.041-7.243c-1.63-0.251-0.786,0.554-1.243,2.71c-1.971,9.297-9.574,15.999-17.207,20.493c-0.799-10.645-0.474-22.465,1.53-29.714c1.691-6.115,3.703-4.992,1.209-6.277c-2.624-1.352-5.445,0.435-7.726,4.989c-2.28,4.552-12.795,29.289-29.584,45.984c-8.592,8.545-16.363,4.146-17.919,2.831c-1.266-1.069-1.734,0.582-0.163,2.271c6.949,7.494,17.1,3.194,20.795-0.5c10.215-10.21,22.092-32.19,26.897-41.517c-0.443,5.251-0.593,14.058,0.385,24.379c-5.199,2.533-9.86,4.021-12.059,4.601c-2.381,0.624-3.854,1.593-3.898,2.697c-0.047,1.208,1.552,2.227,3.863,3.325c4.116,1.954,16.167,7.647,19.136,9.374c2.543,1.476,3.784,0.325,4.537-1.268c0.983-2.076-1.716-3.276-4.328-4.057c-1.006-3.495-1.81-8.196-2.345-13.377c6.126-3.772,12.158-8.793,15.635-15.068c-0.876,5.245-3.124,23.08,2.507,30.621c1.241,1.662,3.981,3.479,6.656,3.209C80.036,58.805,80.671,57.977,80.545,57.718"></path>
+				</svg>
+			</a>
+		</div>
+	</div>
+
+	<div class="goa-search-container">
+		<div class="goa-search-tool">
+			<div class="goa-search-tool--bar">
+				<form action="https://search.alberta.ca/alberta/Pages/results.aspx" role="search">
+					<label for="search-goa">Search Alberta.ca</label>
+					<input id="search-goa" name="k" placeholder="Search Alberta.ca" type="search" aria-controls="goa-popular-panel">
+					<button id="goa-search-button" aria-label="Search">
+						<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="18" height="18" viewbox="0 0 18.01 18" shape-rendering="geometricPrecision">
+							<path fill="#000" d="M16.68,5.35a8,8,0,1,0-.75,12l3.37,3.37a1,1,0,1,0,1.41-1.42l-3.37-3.37a8,8,0,0,0-.66-10.57ZM6.76,15.27a6,6,0,1,1,8.5,0A6,6,0,0,1,6.76,15.27Z" transform="translate(-3 -3)"></path>
+						</svg>
+					</button>
+				</form>
+			</div>
+		</div>
+		<!-- goa-search-tool -->
+
+				<div id="goa-search-status" class="visually-hidden" aria-live="polite" aria-atomic="true"></div>
+
+		<div class="goa-search-popular" id="goa-popular-panel">
+			<div class="goa-search-container--popular-topics noindex">
+				<div class="goa-searchbar--popular-wrapper">
+					
+					<h3>Popular topics:</h3>
+					
+  <nav role="navigation" aria-labelledby="block-populartopics-menu" id="block-populartopics">
+            
+  <h2 class="visually-hidden" id="block-populartopics-menu">Popular topics</h2>
+  
+
+        
+  
+      <ul>
+
+          <li>
+        <a href="/vehicle-registration-renewal" data-drupal-link-system-path="node/5885">Renew your vehicle registration</a>
+      </li>
+          <li>
+        <a href="/aish" data-drupal-link-system-path="node/1274">Assured Income for the Severely Handicapped (AISH)</a>
+      </li>
+          <li>
+        <a href="/ahcip" data-drupal-link-system-path="node/1243">Alberta Health Care Insurance Plan (AHCIP)</a>
+      </li>
+          <li>
+        <a href="/wildfire-status" data-drupal-link-system-path="node/6171">Wildfire status</a>
+      </li>
+    
+    </ul>
+  
+
+
+  </nav>
+
+
+				</div>
+			</div>
+		</div>
+		<!-- goa-search-popular -->
+
+	</div>
+	<!-- goa-search-container -->
+
+	<!-- make this a menu or a block -->
+		<div class="goa-header-actions">
+					<nav aria-label="Account">
+		<div class="goa-user-icon"><div class="goa-user-icon--text"><a href="https://www.alberta.ca/alberta-ca-account">Alberta.ca Account</a></div></div>
+	</nav>
+
+
+		<div class="goa-togglemenu" role="navigation" aria-label="Menu"></div>
+	</div>
+	<!-- goa-header-actions -->
+
+</div>
+<!-- goa-header -->
+<!-- __/noindex__ -->
+<!-- __noindex__ -->
+	<nav id="goa-main-nav" class="goa-nav noindex" aria-expanded="true" aria-label="Main navigation" tabindex="-1"> <div class="goa-nav-global">
+		
+  
+	<div class="goa-nav-container">
+
+		<div class="column">
+			<ul class="goa-nav-items">
+				
+  
+			<li class="goa-nav-item">
+			<div class="goa-nav-item--header">
+				<h2 class="goa-nav-item--heading">
+					<a href="/alberta-ca-account">Alberta.ca Account</a>
+				</h2>
+			</div>
+			<div class="goa-nav-item--lede">
+				<p>Find and access the online government services you need.</p>
+			</div>
+		</li>
+	
+  
+			<li class="goa-nav-item">
+			<div class="goa-nav-item--header">
+				<h2 class="goa-nav-item--heading">
+					<a href="/all-services">Find a service</a>
+				</h2>
+			</div>
+			<div class="goa-nav-item--lede">
+				<p>Find all of the Alberta government services and information you need.</p>
+			</div>
+		</li>
+	
+  
+			<li class="goa-nav-item">
+			<div class="goa-nav-item--header">
+				<h2 class="goa-nav-item--heading">
+					<a href="/public-engagement">Public engagements</a>
+				</h2>
+			</div>
+			<div class="goa-nav-item--lede">
+				<p>Help shape the future of government policies, programs and services.</p>
+			</div>
+		</li>
+	
+  
+			<li class="goa-nav-item">
+			<div class="goa-nav-item--header">
+				<h2 class="goa-nav-item--heading">
+					<a href="/find-a-job">Jobs</a>
+				</h2>
+			</div>
+			<div class="goa-nav-item--lede">
+				<p>Government of Alberta jobs, job postings across the province, and resources for job seekers.</p>
+			</div>
+		</li>
+	
+
+			</ul>
+		</div>
+
+		<div class="column">
+			<div class="goa-nav-item goa-nav-news">
+				<div class="goa-nav-item--header">
+					<h2 class="goa-nav-item--heading">
+						<a href="/news">News</a>
+					</h2>
+				</div>
+
+				<div class="goa-news--listings">
+											
+  <div class="views-element-container"><div class="view view-news-release-feed view-id-news_release_feed view-display-id-block_1 js-view-dom-id-7dde3e2d4e80474fdfaa500620e0831cfa508ed97228789130fa8b09ce268e7a">
+  
+
+  
+  
+
+  
+  
+  
+      <div class="view-content">
+      
+
+<div class="goa-news--listings">
+    <ul>
+          
+<li>
+  <div class="goa-news--listings-date">
+    <p>
+      <time datetime="2026-09-22T14:30:00Z">
+        September 22, 2026
+      </time>
+    </p>
+  </div>
+  <div class="goa-news--listings-title">
+    <a href="https://www.alberta.ca/announcements.cfm?xID=97807E513A088-C229-9F41-362A56EA03BA1B13">Levelling up local business for global success</a>
+  </div>
+</li>
+
+          
+<li>
+  <div class="goa-news--listings-date">
+    <p>
+      <time datetime="2026-09-22T14:00:00Z">
+        September 22, 2026
+      </time>
+    </p>
+  </div>
+  <div class="goa-news--listings-title">
+    <a href="https://www.alberta.ca/announcements.cfm?xID=97809EACAF29C-9B17-D4A3-9FC318D9C30E5E33">More career education and financial literacy</a>
+  </div>
+</li>
+
+          
+<li>
+  <div class="goa-news--listings-date">
+    <p>
+      <time datetime="2026-09-22T13:00:00Z">
+        September 22, 2026
+      </time>
+    </p>
+  </div>
+  <div class="goa-news--listings-title">
+    <a href="https://www.alberta.ca/announcements.cfm?xID=97805E1A5C7B9-D9DE-ACE4-BF5BDD2B70B40119">Update on ASIRT investigation in Yukon</a>
+  </div>
+</li>
+
+          
+<li>
+  <div class="goa-news--listings-date">
+    <p>
+      <time datetime="2026-09-22T12:30:00Z">
+        September 22, 2026
+      </time>
+    </p>
+  </div>
+  <div class="goa-news--listings-title">
+    <a href="https://www.alberta.ca/announcements.cfm?xID=97808E7904EC3-AC07-E528-948DF8816DCAFB58">Suspending fuel tax for savings at the pump</a>
+  </div>
+</li>
+
+          
+<li>
+  <div class="goa-news--listings-date">
+    <p>
+      <time datetime="2026-09-22T09:15:00Z">
+        September 22, 2026
+      </time>
+    </p>
+  </div>
+  <div class="goa-news--listings-title">
+    <a href="https://www.alberta.ca/announcements.cfm?xID=97804E0A897B7-0956-6C3D-F2931F4A3868ED99">Alberta’s top trades talent on the world stage</a>
+  </div>
+</li>
+
+      </ul>
+</div>
+
+
+    </div>
+  
+  
+  
+  
+  
+  </div>
+</div>
+
+
+														</div>
+			</div>
+
+			<div class="goa-nav--secondary">
+				<ul>
+					
+  <li><a href="/government-of-alberta">Alberta.ca home</a></li>
+  <li><a href="/open-government-program">Open government</a></li>
+  <li><a href="/contact-government">Contact government</a></li>
+  <li><a href="/social-media-directory">Social media directory</a></li>
+
+				</ul>
+			</div>
+
+			<div class="goa-nav--social goa-socialshare">
+				<ul>
+					<li class="goa-socialshare-facebook">
+						<a href="https://www.facebook.com/youralberta.ca/">Facebook</a>
+					</li>
+					<li class="goa-socialshare-twitter">
+						<a href="https://twitter.com/YourAlberta">Twitter</a>
+					</li>
+					<li class="goa-socialshare-instagram">
+						<a href="https://www.instagram.com/youralberta/">Instagram</a>
+					</li>
+					<li class="goa-socialshare-linkedin">
+						<a href="https://www.linkedin.com/company/government-of-alberta/">Linkedin</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<!-- column -->
+
+	</div>
+	<!-- goa-nav-container -->
+
+															
+		<div class="goa-feature-container">
+			<h2 class="goa-feature-heading">Feature</h2>
+
+			<div class="goa-feature goa-card-container">
+								<div class="goa-card-content">
+					<div class="goa-title">
+						<a href="/alberta-advantage-immigration-program">Alberta Advantage Immigration Program</a>
+					</div>
+					<div class="goa-text">Eligible individuals can apply to be nominated to work and live in Alberta permanently.</div>
+				</div>
+			</div>
+		</div>
+		<!-- goa-feature-container -->
+	
+
+	</div>
+	<!-- goa-nav-global -->
+</nav>
+<!-- __/noindex__ -->
+
+				<div class="goa-page-header ">
+			
+			
+  <nav class="goa-breadcrumbs goa-container" aria-label="Breadcrumb">
+  
+  <ul>
+      <li>
+              <a href="/">Home</a>
+          </li>
+      <li>
+              <a href="/all-services">All services</a>
+          </li>
+      <li>
+              <a href="/moving-to-alberta-topic">Moving to Alberta</a>
+          </li>
+      <li>
+              <a href="/immigration">Immigration</a>
+          </li>
+      <li>
+              <a href="/alberta-advantage-immigration-program">Alberta Advantage Immigration Program</a>
+          </li>
+      <li>
+              <a href="/aaip-application-streams">AAIP application streams</a>
+          </li>
+      <li>
+              <a href="/aaip-foreign-graduate-entrepreneur-stream">Foreign Graduate Entrepreneur Stream</a>
+          </li>
+      <li>
+                      <span aria-current="page">How to apply</span>
+          </li>
+    </ul>
+
+</nav>
+
+
+
+
+							<div class="goa-page-headings goa-container">
+																<div class="goa-previous-page">
+							<span>Part of</span>
+							<a href=/aaip-foreign-graduate-entrepreneur-stream>Foreign Graduate Entrepreneur Stream</a>
+						</div>
+										<div class="goa-heading">
+						<h1 id="page-title" tabindex="-1">
+<span>Foreign Graduate Entrepreneur Stream – How to apply</span>
+</h1>
+						<p class="goa-page-header--lede">
+  Process and steps to apply for nomination under the Foreign Graduate Entrepreneur Stream.
+</p>
+											</div>
+				</div>
+			
+		</div>
+	</header>
+
+	
+	
+
+		
+  <div data-drupal-messages-fallback class="hidden"></div>
+
+
+
+	
+	<main id="main" class="main">
+		
+  <div class="goa-container">
+
+    <a href="#on-this-page" class="goa-skip-link">Skip to On this page</a>
+      <a href="#explore-pages-in" class="goa-skip-link">Skip to Explore pages in</a>
+  
+          <div class="goa-sidebar-content">
+        <div class="goa-section--header">
+    <h2 class="style-span">Explore pages in:</h2>
+    <div class="goa-section--heading">
+              <a href="/aaip-foreign-graduate-entrepreneur-stream">Foreign Graduate Entrepreneur Stream</a>
+          </div>
+  </div>
+  <ul role="list">
+                  <li role="listitem">
+          <a href="/aaip-foreign-graduate-entrepreneur-stream-eligibility" >Eligibility</a>
+        </li>
+                        <li class="current" aria-current="true" role="listitem">
+          How to apply
+        </li>
+                        <li role="listitem">
+          <a href="/aaip-foreign-graduate-entrepreneur-stream-after-you-are-nominated" >After you are nominated</a>
+        </li>
+            </ul>
+
+    </div>
+    <div class="goa-main-content">
+    
+  
+
+  
+  <div  class="goa-main-grid" >
+    
+  
+
+  
+  <div class="paragraph paragraph--type--text-block paragraph--view-mode--default goa-column-100-100-100">
+    
+  <div class="goa-callout"><p>To ensure fair access to the program and maintain processing times, review the document checklist and include all required documents. Failure to include documents will impact processing times while AAIP clarifies your information.</p></div>
+
+  </div>
+
+
+  
+
+  
+  <div class="paragraph paragraph--type--text-block paragraph--view-mode--default goa-column-100-100-100">
+    
+  <div class="goa-callout"><p>Read <a href="/aaip-updates" data-entity-type="node" data-entity-uuid="bec57694-6b9e-4a34-8d50-d8a86c1d79ae" data-entity-substitution="canonical" title="Alberta Advantage Immigration Program – Updates">important program and fee updates</a> to the Alberta Advantage Immigration Program (AAIP) and its 8 intake streams.</p></div>
+
+  </div>
+
+
+  
+
+  
+  <div class="paragraph paragraph--type--text-block paragraph--view-mode--default goa-column-100-100-100">
+    
+  <h2>Regular system updates</h2><p>System maintenance for the <abbr title="Alberta Advantage Immigration Program">AAIP</abbr> portal occurs Fridays from 11 pm to Sundays at 7 pm. If you experience technical issues during these times, try again later. We apologize for any inconvenience.</p>
+
+  </div>
+
+
+
+  </div>
+
+  
+
+  
+  <div  class="goa-main-grid" >
+    
+  
+  <div class="paragraph paragraph--type--text-block paragraph--view-mode--default goa-column-100-100-100">
+    
+  <h2>Before you apply</h2><p>You may only have one Alberta Advantage Immigration Program (AAIP) application in process at any time.</p><h3>How to withdraw an application in process</h3><p>If you choose to request the withdrawal of an application, you must submit a request to the &nbsp;<abbr title="Alberta Advantage Immigration Program">AAIP</abbr>. The AAIP must confirm that your application has been withdrawn before a new application can be submitted in the AAIP portal.</p><p>The Business Application fee for the withdrawn Business Application will not be refunded.</p><p><strong>Note:</strong> Candidates must submit their request to withdraw a Business Application using the AAIP portal.</p><h4>Complete the online request</h4><ul><li>Log into the <a href="https://aaip.labour.alberta.ca/" target="_blank">Alberta Advantage Immigration Program</a> portal</li><li>On the AAIP portal main page, click on 'Create New Request'.</li><li>Find the AAIP Business Application number for the Business Application that you want to withdraw.</li><li>Once you click on the Business Application number, you will be directed to a page with detailed information. You can only see request options that are available to you for this Business Application. If you are eligible to withdraw the Business Application, a blue 'Withdraw Application' button will be available above the Business Application number.</li><li>Click on the blue 'Withdraw Application' button.</li><li>Next, read the <a href="https://open.alberta.ca/publications/p28p5" target="_blank"><em>Protection of Privacy Act</em></a> (POPA) clause and other important information about completing a request. Check off the box and click on 'Continue'. A draft is automatically saved once you click on the 'Continue' button. If you experience any technical issues or leave the request section while creating the request, you will need to go to the 'Check Existing Requests' page to retrieve the draft request to continue.</li><li>Read the information provided on submitting a withdrawal. Once a Business Application is withdrawn it cannot be re-activated. Enter your reason for requesting the withdrawal of the Business Application, and click on 'Submit Request' button.</li></ul><p>AAIP will review your request and notify you by email after the review is completed.</p>
+
+  </div>
+
+  
+	
+<div class="paragraph paragraph--type--accordion paragraph--view-mode--default goa-column-100-100-100">
+	
+  <h2>Application steps</h2><p>There are 7 steps in the Foreign Graduate Entrepreneur Stream application process.</p>
+
+	<div id="accordions-4113" class="goa-accordion goa-accordion--toolbar-active ">
+		<ul>
+			
+  <li id="accordion4106">
+  <h3 class="goa-title">Step 1. Read the terms and conditions</h3>
+  <div class="goa-text">
+    
+  <h4>AAIP terms and conditions</h4><p>The availability of <abbr title="Alberta Advantage Immigration Program">AAIP</abbr> streams, categories, pathways and pilots is dependent upon application volume needs. The AAIP reserves the right to close application intake for any AAIP stream, category, pathway or pilot at any time, without prior notice. Further, the AAIP may decline to consider applications to closed or suspended streams, categories, pathways or pilots, regardless of when the applications were submitted. The criteria for the AAIP are routinely evaluated and may be subject to change at any time and without notice. Changes to the AAIP, including notice of suspension or closure of its streams and categories and criteria changes, are available at <a href="/aaip-updates">AAIP Updates</a>.</p><p>The AAIP is not obligated to assess or process any applications submitted. Applications to the AAIP are treated as an expression of interest, and as such, will be processed according to quality of the application (completeness and eligibility), occupational supply and demand forecasting, AAIP application volumes, and/or any other factors at the AAIP’s discretion. By applying to the AAIP, you acknowledge and agree that your application may not be processed in the order received, or at all. Further, the decision to assess/process any particular application, and the outcome of any such assessment/processing, is at the AAIP’s sole discretion.</p><p>Program criteria are eligibility minimums, and meeting program criteria does not guarantee that a candidate’s application will be assessed, processed, or granted. The AAIP may choose to assess applications with the most current criteria irrespective of the date of submission of an application.</p><p>Candidates must have a strong likelihood of becoming economically established in Alberta and the AAIP reserves the right to decline applications if the AAIP is of the opinion that the candidate may not economically establish in Alberta.</p>
+
+
+      </div>
+</li>
+
+
+
+  <li id="accordion4107">
+  <h3 class="goa-title">Step 2. Review the eligibility criteria</h3>
+  <div class="goa-text">
+    
+  <p>Review the Foreign Graduate Entrepreneur Stream <a href="/aaip-foreign-graduate-entrepreneur-stream-eligibility">eligibility criteria</a> and the AAIP Terms and Conditions (Step 1 above) before submitting an Expression of Interest (EOI).</p><p>The AAIP does not guarantee that all complete Business Applications received will be assessed, or that all candidates who meet the eligibility criteria will be issued a nomination. Review the AAIP Terms and Conditions for complete information (see Step 1 above). Additionally, review the economic establishment information on the <a href="/aaip-foreign-graduate-entrepreneur-stream-eligibility" data-entity-type="node" data-entity-uuid="1912f1ae-a063-45b6-93a3-218d4a52d46b" data-entity-substitution="canonical" title="Foreign Graduate Entrepreneur Stream – Eligibility">Foreign Graduate Entrepreneur Stream Eligibility</a> page to understand the factors AAIP may consider when assessing this requirement.&nbsp;</p><p>Submission of a Business Application or nomination by the AAIP does not guarantee you will be issued a permanent resident visa.</p>
+
+
+      </div>
+</li>
+
+
+
+  <li id="accordion4108">
+  <h3 class="goa-title">Step 3. Submit an Expression of Interest</h3>
+  <div class="goa-text">
+    
+  <p>If you meet Foreign Graduate Entrepreneur Stream criteria, you can submit your Expression of Interest (EOI) by accessing the AAIP Portal. The AAIP will review and score your <abbr title="Expression of Interest">EOI</abbr> submission. Highest-ranking candidates will be invited to submit a Business Application.</p><p>For more information on the criteria used to assess EOIs, see the <a href="/aaip-foreign-graduate-entrepreneur-stream-eligibility">Foreign Graduate Entrepreneur Stream Eligibility</a> page.</p><p>The Foreign Graduate Entrepreneur Stream Business Application form is not available online. Only candidates who receive an invitation to submit a Business Application will be able to access the AAIP Portal to start the Business Application process.</p><h4>Using the AAIP online portal</h4><p>The AAIP uses an online system to submit EOI and Business Applications. You will need:</p><ul><li>valid email address</li><li>access to a computer</li><li>ability to scan and upload the required documents to the AAIP portal</li></ul><p><a class="goa-cta" href="https://aaip.labour.alberta.ca/" target="_blank" aria-label="View AAIP online portal">AAIP online portal</a></p><p>Before entering your application information in the portal, read <a href="/system/files/jeti-aaip-helpful-hints.pdf" target="_blank" data-entity-type="media" data-entity-uuid="b6063d36-db6c-4751-b24e-ba9331801789" data-entity-substitution="media" title="jeti-aaip-helpful-hints.pdf">AAIP Portal Helpful Hints</a> for tips on filling out the online application.</p><p>The AAIP portal is for candidates only. You are responsible for your AAIP online portal account. Portal access is not available for third-party representatives and family members.</p><p>You must have a basic <a href="https://account.alberta.ca/" target="_blank">Alberta.ca Account</a>&nbsp;access the portal. An Alberta.ca Account is a free online identity for accessing Government of Alberta services online. Instructions on how to create an Alberta.ca Account are in the portal and on the Alberta.ca Account website. You may also use an existing basic or verified Alberta.ca Account.</p><p>The email address used to set up your Alberta.ca Account is the email address that the AAIP will use to correspond with you. If you need to change your email address for corresponding with the AAIP, you must update your Alberta.ca Account.</p><p>You should not share your Alberta.ca Account with others, including family members and third-party representatives, as your information or documents could be modified without your knowledge or consent.</p><p>You are responsible for the information provided to the AAIP for your application. Incorrect or fraudulent information could result in your application being declined, and you could be banned from applying to the AAIP for a period of time.</p><h4>Submit an EOI</h4><p>Foreign graduates can submit an EOI for the Foreign Graduate Entrepreneur Stream through the AAIP Portal. See the <a href="/system/files/im-aaip-business-plan-guidelines.pdf" target="_blank" data-entity-type="media" data-entity-uuid="dcd86d96-68c7-4da4-8c10-4282daa4ea15" data-entity-substitution="media" title="im-aaip-business-plan-guidelines.pdf">AAIP Business Plan (Guidelines)</a> for what to include in your business plan when submitting your EOI to the AAIP.</p><p>Once you start your EOI in the AAIP Portal, you will have 120 days to complete and submit the required documents. After 120 days, your draft EOI will be purged. You can submit a new EOI if you choose.</p><p>You must ensure your EOI is up to date at the time of submission, and that all your information is complete, true and correct.</p><p>Once your EOI is completed, you can submit it to the AAIP by clicking the Submit button in the AAIP portal. An EOI number will be provided to you in the portal and will also be listed on the MyEOI page.</p><p>You must pay the EOI fee before your EOI is accepted for processing by the AAIP.</p><h4>Pay the fee</h4><p>There is a fee for submitting an EOI. A fee of $200 applies to all EOIs. Each submitted EOI requires a separate application fee.</p><h4>Fee conditions</h4><p>Refund requests for EOI fees will not be considered The AAIP EOI fee is non-refundable once an EOI has been submitted to the AAIP. Refund requests for EOIs will not be considered. The EOI fee covers the cost of processing your EOI. There is no guarantee that you will be invited to submit a business application based on your EOI. The fee will not be refunded for any reason.</p><h4>How to pay your fee</h4><p>Instructions on how to pay your fee are available in the portal. For any online fee payment issues, contact <a href="https://eservices.alberta.ca/contact/" target="_blank">eServices</a>.</p><p>You will need to pay your fee within 24 hours of submitting your complete application in the portal. The $200 fee must be paid online using a single credit or debit card.</p><p>If you do not pay your fee within 24 hours of submitting your EOI, your EOI will be cancelled. Cancelled EOIs cannot be reinstated and a new EOI must be created and submitted.</p><p>Check the EOI status on the MyEOI page to confirm if your EOI fee has been paid.</p><ul><li>If the EOI Status is 'Payment Pending' on the MyEOI page, your EOI has not been accepted for processing by the AAIP and your fee has not been paid.</li><li>If the EOI status on the MyEOI page is 'Pending Review by the Alberta Advantage Immigration Program', your EOI has been accepted for processing by the AAIP. You will get an email with your fee payment receipt.</li></ul><p>You must ensure that your EOI’s status is 'Pending Review by the Alberta Advantage Immigration Program’ or it will not be reviewed by the AAIP.</p><p><strong>Note:</strong> once your EOI is submitted, you will not be able to update it until the AAIP has reviewed and scored it, and the status is 'Eligible'. If your EOI status is 'Not Eligible' then you will not be able to update it and must submit a new EOI if you choose. The AAIP will score your EOI submission.</p><h4>EOI pool</h4><p>EOIs are placed in the pool of qualified candidates for a period of 12 months from the date of their original submission. If your EOI is not selected in this 12-month period, it will be cancelled and you will have to submit a new EOI if you choose.</p><p>While your EOI is in the pool of qualified candidates, you can update or cancel your submission by accessing the AAIP Portal. By updating or cancelling your submission, you will no longer be in the pool of qualified candidates. If you choose to resubmit, your new EOI will have a new submission date and it will be assessed against the program criteria at that time.</p><p>Candidate’s information will be assessed based on Foreign Graduate Entrepreneur Stream Points Grid and Foreign Graduate Entrepreneur Stream mandatory minimum grid. Candidates with the highest-ranking points will be contacted directly by the AAIP and invited to submit a Business Application. Only candidates who are asked to submit a Business Application to the Foreign Graduate Entrepreneur Stream will be considered.</p><p>An EOI is not an application. There is no guarantee that if you meet the selection requirements you will receive a letter of invitation or be asked to submit a Business Application. Invitations to submit Business Applications are affected by the volume of potential candidates meeting these requirements, the type (occupation or sector) of submissions in AAIP processing queues, and the number of available nominations.</p><h4>Required documents</h4><p>Your EOI will include the following documents or forms:</p><ul><li>Foreign Graduate Entrepreneur Stream Business Plan</li><li>Pitch Deck</li><li>Letter of Recommendation from a Designated Agency</li><li><a href="https://cfr.forms.gov.ab.ca/Form/AINP12608" target="_blank">Net Worth Worksheet</a></li><li><a href="/system/files/custom_downloaded_images/lbr-aaip-candidate-representative-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="f3e972eb-a439-4d38-9726-277659c7df15" data-entity-substitution="media" title="lbr-aaip-candidate-representative-form.pdf">Use of Representative form</a> – if applicable</li><li><a href="/system/files/custom_downloaded_images/lbr-aaip-authorization-spouse-dependants-information-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="81e88570-a77a-4b4a-a4f3-7dcb426bf2b5" data-entity-substitution="media" title="lbr-aaip-authorization-spouse-dependants-information-form.pdf">Spouse, Common-Law Partners and Dependants Authorization form</a></li></ul>
+
+
+      </div>
+</li>
+
+
+
+  <li id="accordion4109">
+  <h3 class="goa-title">Step 4. Submit the Business Application package</h3>
+  <div class="goa-text">
+    
+  <p>If you receive a request to submit a Business Application, you can submit your Business Application online using the AAIP Portal. A draft of the Business Application will be created in the AAIP portal with the information you provided during your EOI. Make sure you update this information and upload all the required forms and supporting documents in the AAIP Portal and pay the $3,500 non-refundable fee.</p><p>A complete Business Application includes all of the required documents listed on the <a href="/system/files/jeti-aaip-foreign-graduate-entrepreneur-stream-checklist.pdf" target="_blank" data-entity-type="media" data-entity-uuid="b3e02b60-364e-405c-a801-450087604493" data-entity-substitution="media" title="jeti-aaip-foreign-graduate-entrepreneur-stream-checklist.pdf">Foreign Graduate Entrepreneur Stream Business Application Document Checklist</a>. If any documents are missing, your application may be declined. A complete Business Application must be submitted within 90 days of receiving the email from the AAIP requesting you to submit a Business Application.</p><h4>AAIP approved designated agency and Qualified Service Provider</h4><p>The following reports must be submitted with your Business Application:</p><ol><li>Business Plan Evaluation Report</li><li>Qualified Service Provider Report</li></ol><h4>Business plan evaluation report</h4><p>Your business plan must be evaluated through a business plan evaluation report completed by an AAIP approved <a href="/aaip-foreign-graduate-entrepreneur-stream-eligibility">Designated Agency</a>. Contact the Designated Agency for Business Plan Evaluation Report as soon as you receive the request to submit a Business Application from the AAIP.</p><h4>Qualified Service Provider Report</h4><p>You may be required to have your net worth and business investment assessed by the Qualified Service Provider. Refer to your request to submit Business Application email, to determine if the AAIP requires you to have your net worth and business investment assessed by the Qualified Service Provider.</p><p>Contact the Qualified Service Provider for a Qualified Service Provider Report as soon as your receive the request to submit a Business Application from the AAIP. The AAIP will only accept a Qualified Service Provider Report from one of the following Qualified Service Providers:</p><p><a href="https://www.grantthornton.ca/" target="_blank">Grant Thornton LLP</a><br>1701 Scotia Place 2<br>10060 Jasper Avenue NW<br>Edmonton, Alberta &nbsp;T5J 3R8<br>Phone: <a href="tel:+17804227114">780-422-7114</a><br>Fax: 780-426-3208<br>Email: <a href="/cdn-cgi/l/email-protection#8cedeefce2fcccefeda2ebf8a2efe3e1"><span class="__cf_email__" data-cfemail="046566746a744467652a63702a676b69">[email&#160;protected]</span></a></p><p><a href="https://www.kpmg.ca/" target="_blank">KPMG LLP</a><br>3100, 2005 5 Avenue SW<br>Calgary, Alberta&nbsp; T2P 4B9<br>Phone: <a href="tel:+14167773887">416-777-3887</a><br>Fax: 403-691-8008<br>Email: <a href="/cdn-cgi/l/email-protection#0e6f67607e786b7c6768676d6f7a6761604e657e6369206d6f"><span class="__cf_email__" data-cfemail="c9a8a0a7b9bfacbba0afa0aaa8bda0a6a789a2b9a4aee7aaa8">[email&#160;protected]</span></a></p><p><a href="https://www.mnp.ca/en/services/enterprise-risk/provincial-nominee-program/alberta" target="_blank">MNP LLP</a><br>Suite 1600, MNP Tower<br>10235 101 Street NW<br>Edmonton, Alberta &nbsp;T5J 3G1<br>Phone: <a href="tel:+17783742102">778-374-2102</a><br>Fax: 403-269-8450<br>Email: <a href="/cdn-cgi/l/email-protection#67060e09174a0517270a0917490406"><span class="__cf_email__" data-cfemail="d1b0b8bfa1fcb3a191bcbfa1ffb2b0">[email&#160;protected]</span></a></p><p>Only candidates who receive a request to submit a Business Application will be able to access the AAIP Portal to start Business Application process. A request to submit a Business Application will be sent by email. After logging into the AAIP portal, click on ‘Check Existing Applications'. A draft Business Application is automatically created for you. Review and update the Business Application and provide all additional required documents. Your Business Application must be current and complete.</p><p>If you do not submit your Business Application within the specified deadline, your draft will be cancelled in the AAIP portal. If you are still interested in applying to the AAIP, you will have to submit a new EOI under the relevant criteria in place at the time of submission. EOIs that are cancelled due to failure to submit a Business Application by the deadline are not eligible for a Request for Reconsideration.</p><p>The AAIP will not accept changes to an EOI submitted after the request to submit a Business Application has been sent. You may only submit a Business Application if you can demonstrate you meet criteria. You will be assessed against the criteria in place at the time your Business Application is received.</p><p><strong>Note:</strong> When the AAIP selects candidates, it expects that information contained in the AAIP Portal is accurate. The information and documents you identified in the AAIP Portal must be provided to the AAIP at the time your Business Application is submitted. Documents and information provided in the Business Application must support the information provided in your EOI in the AAIP Portal. If there are discrepancies between the information provided in the EOI and the Business Application, your submission may be declined.</p><h4>Application fee</h4><p><strong>Fee conditions</strong></p><p>A $3,500 non-refundable fee applies to all online Business Applications.</p><p>The Business Application fee is non-refundable once a Business Application has been submitted to the AAIP. The Business Application fee covers the cost of processing your Business Application and is required whether your Business Application is approved or not. There is no guarantee you will be issued a nomination certificate.</p><p><strong>Note:</strong> Refund requests for Business Application fees will not be considered. Each Business Application requires a separate Business Application fee and the fee will not be refunded.</p><p><strong>Paying the Business Application fee</strong></p><p>Instructions on how to pay your fee are available in the AAIP portal. For any online fee payment issues, contact <a href="https://eservices.alberta.ca/contact/" target="_blank">eServices</a>.</p><p>You will need to pay your fee within 24 hours of submitting your Business Application in the AAIP portal.</p><p>The $3,500 fee must be paid online using a single credit or debit card.</p><p>If you do not pay your fee within 24 hours of submitting your Business Application, your Business Application will be cancelled. Cancelled Business Applications cannot be reinstated. Your Business Application is linked to your EOI. If the Business Application is cancelled, you must submit a new EOI for consideration and selection.</p><h4>Confirmation of Business Application receipt and payment</h4><p>Check the status of your Business Application on the MyApplications page of the AAIP portal to confirm your Business Application fee has been paid:</p><ul><li>Your Business Application has not been accepted for processing by the AAIP and your fee has not been paid if the ‘Pay Fees’ button shows in the portal and the status of your Business Application is ‘Payment Pending’ on the MyApplications page.</li><li>Your Business Application has been accepted for processing by the AAIP if the ‘Pay Fees’ button is not showing in the portal and the status of your Business Application on the MyApplications page in the portal is ‘Submitted’. You will get an email with your fee payment receipt.</li></ul><h4>After you apply</h4><p><strong>Notification of Business Application</strong></p><p>Emails from the AAIP will always come from a Government of Alberta account (@gov.ab.ca). The Alberta government does not use email accounts such as Gmail, Hotmail, Yahoo, etc. If you receive a suspicious email, contact your local police and report the incident to the AAIP using the <a href="/contact-opportunity-alberta" data-entity-type="node" data-entity-uuid="b3c24993-6b17-439e-aead-25c29a1da184" data-entity-substitution="canonical" title="Contact Opportunity Alberta">Opportunity Alberta contact form</a>.</p><p>Once you submit a complete Business Application, the AAIP Portal will automatically generate a file number. If any documents are missing, your Business Application will be declined.</p><p>If you use an immigration representative to submit your Business Application, your notification email will be sent to you and copied to your representative.</p><p><strong>Update your information</strong></p><p>Keep your Business Application information up to date while you wait for it to be completely assessed by an AAIP program officer.</p><p>You must update the AAIP to:</p><ul><li>correct or update information or documents in your Business Application</li><li>provide required updates on your contact information – address, email address or phone number – or changes to your family status</li><li>provide any changes to your immigration status including renewed work permits, study permits or visitor records</li><li>update your use of a representative</li><li>request your Business Application be withdrawn</li></ul><p>If you are requesting to withdraw your Business Application, updating your contact information (excluding email address), updating your family information or changing your representative, you must use the AAIP portal.</p><p>If you need to change your email address for corresponding with the AAIP, you must update your <a href="https://account.alberta.ca/" target="_blank">Alberta.ca Account</a>.</p><p>For all other updates, you must submit the updated information or change request through the <a href="/contact-opportunity-alberta" data-entity-type="node" data-entity-uuid="b3c24993-6b17-439e-aead-25c29a1da184" data-entity-substitution="canonical" title="Contact Opportunity Alberta">Opportunity Alberta contact form</a>, along with your AAIP Business Application number. You must advise of the update or change that is required and attach the relevant documents. Ensure you keep track of the requests you email to the AAIP. The AAIP will update its internal system with changes.</p><p><strong>Forms to notify the AAIP of updates</strong></p><ul><li>A signed <a href="/system/files/custom_downloaded_images/lbr-aaip-candidate-representative-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="a310179e-75f9-432e-a811-4f54749c3e89" data-entity-substitution="media" title="lbr-aaip-candidate-representative-form.pdf">Use of Representative form</a> must be provided to change your third-party representative for your AAIP application</li></ul><h4>Withdrawing an application or updating your contact information (excluding email address), family information, employment information and representative</h4><p><strong>Complete the online request</strong></p><ul><li>Log into the <a href="https://aaip.labour.alberta.ca/" target="_blank">AAIP portal</a></li><li>On the AAIP portal main page, click on 'Create New Request'.</li><li>Find the AAIP Business Application number for the Business Application for which you want to make a request.</li><li>Once you click on the Business Application number, you will be directed to a page with detailed information. You can only see request options that are available to you for this Business Application.<ul><li>Withdrawal: If you are eligible to withdraw the Business Application, a blue 'Withdraw Application' button will be available above the Business Application number.</li><li>Update contact information: You can update contact information for all active or nominated Business Applications.</li><li>Update family information: You can update spouse/common-law partner and dependent information for all active and nominated Business Applications.</li><li>Request change of representative: You can update your representative for all Business Applications, including withdrawn and declined Business Applications.</li></ul></li><li>Click on the blue button for the type of request you want to submit.</li><li>Next, read the <a href="https://open.alberta.ca/publications/p28p5">POPA clause</a> and other important information about completing a request. Check off the box and click on 'Continue'. A draft is automatically saved once you click on the 'Continue' button. If you experience any technical issues or leave the request section while creating the request, you will need to go to the 'Check Existing Requests' page to retrieve the draft request to continue.</li><li>Read the information provided on submitting the request and follow the instructions to complete the request.<ul><li>Withdrawal: Once a Business Application is withdrawn, it cannot be re-activated. Enter your reason for requesting the withdrawal of the Business Application.</li><li>Update contact information: The current contact information the AAIP has will be displayed. Only update the information that is no longer correct. Do not delete any existing information that is correct. Include only your contact information. Do not provide anyone else’s information, including that of your third party representative.</li><li>Update family information: Provide details on the spouse/common-law partner and/ or dependent you need to add or remove from the Business Application and upload supporting documents.</li><li>Request change of representative: If you are removing a representative and representing yourself, fill out the fields as directed in the portal. If you are appointing a representative or changing from one representative to another representative, read the provided AAIP Use of Representative policy and upload a signed <a href="/system/files/custom_downloaded_images/lbr-aaip-candidate-representative-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="012a0257-5719-4754-b115-d6376a035007" data-entity-substitution="media" title="lbr-aaip-candidate-representative-form.pdf">Use of Representative form</a>. Read the instructions in the form to determine which pages must be completed for the change to representative you are requesting.</li></ul></li><li>Click on 'Submit Request' button.</li></ul><p>The AAIP will review your request to withdraw and notify you by email after the review is completed.</p><p>We will make the changes to your contact, family, and representative information in our internal system. Changes will only be reflected in the individual requests in the Check Existing Request section in the portal. Changes to your information will not be reflected in the online Business Application.</p><h4>If more information is needed</h4><p>A program officer with the AAIP will contact you by email or phone if they require more information to assess your Business Application. You must submit this information in the format requested by the program officer to their government email address. The only other information you should send to your assigned program officer are documents showing changes to your contact information, employment, work permit status or family situation.</p>
+
+
+      </div>
+</li>
+
+
+
+  <li id="accordion4110">
+  <h3 class="goa-title">Step 5. Business Application assessment</h3>
+  <div class="goa-text">
+    
+  <p>Once the Business Application and supporting documents are received, the AAIP will assess your Business Application. There is no guarantee that all complete Business Applications will be assessed or that all candidates who meet the criteria will be issued a nomination.</p><p>A program officer with the AAIP will contact you by email or phone if additional information is needed to assess your Business Application and will tell you how to send the information.</p><p>Your Business Application will be assessed against the eligibility criteria and your EOI points will be verified. To find more information on the criteria used to assess EOIs and Business Applications, see the <a href="/aaip-foreign-graduate-entrepreneur-stream-eligibility">Eligibility</a> section.</p><p>The AAIP may contact you for more information. If you do not respond to requests for additional information, your Business Application will be declined.</p><h4>If your Business Application is approved</h4><p>If the AAIP deems that you have demonstrated that you meet all Foreign Graduate Entrepreneur Stream criteria, you will be sent a Business Performance Agreement by email for your review and signature.</p><p>Your Business Performance Agreement is a legal agreement between you and the Province of Alberta. Your Business Performance Agreement will include:</p><ul><li>the industry sector that your business will operate within</li><li>the term length of the agreement</li><li>a list of other information relevant to your Business Application, including but not limited to:<ul><li>job creation</li><li>business succession</li><li>business location</li></ul></li></ul><p>The Business Performance Agreement requirements are based upon the information you provided in your Business Application and business plan.</p><p>The AAIP does not set restrictions on the hiring of temporary residents, Canadian citizens or permanent residents for your business. However, in order to maintain eligibility under the Foreign Graduate Entrepreneur Stream and be considered for nomination, candidates must demonstrate they meet the job creation criteria identified in the Business Performance Agreement for Canadian citizens, or permanent residents, and in accordance with all terms and conditions of the Business Performance Agreement.</p><p>You must sign, scan, and email your Business Performance Agreement to the AAIP within 14 days.</p><p><strong>Note</strong>: the AAIP will not consider any requests to change the terms of the Business Performance Agreement other than an extension request to the term of your Business Performance Agreement after it is approved and signed by you.</p><p>Once all parties have signed the Business Performance Agreement, the AAIP will provide you with a copy of the signed agreement, a Business Application Approval Letter, and a 205(a) Letter of Support. The 205(a) Letter of Support allows you to apply for a 2-year work permit to Immigration, Refugees and Citizenship Canada (IRCC). There is no cost associated with this 205(a) Letter of support. Any subsequent 205(a) request will require a $150 service fee.</p><p>Entrepreneurs who are approved under the established businesses in Alberta criteria are not required to sign a Business Performance Agreement. These entrepreneurs will be issued a nomination certificate to apply for permanent residence to <abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr>.</p><h4>Apply for a work permit</h4><p>A work permit is the official document issued by the Government of Canada that allows a foreign national to work legally on a temporary basis in Canada. The duration of validity for the work permit may vary at the discretion of IRCC.</p><p>You are required to submit your application for a work permit to IRCC along with your 205(a) Letter of Support within 3 months of receiving this letter. This will facilitate your arrival in Alberta within 12 months of receiving your Business Application Approval Letter.</p><p>To apply for a work permit, follow the instructions on <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/apply.html" target="_blank">IRCC’s website</a>.</p><p>You must first register as an employer in <a href="https://www.canada.ca/en/immigration-refugees-citizenship/corporate/partners-service-providers/employer-portal.html" target="_blank">IRCC’s Employer Portal</a> as the employer of your business (self-employed person). You will need to pay an employer compliance fee but you will be exempt from the Labour Market Impact Assessment (LMIA) fee.</p><p>Issuance of a 205(a) Letter of Support does not guarantee that you will receive a work permit. Only IRCC can issue a work permit.</p><p>After receiving the work permit, you can move to Alberta to establish your business. Review the information on:</p><ul><li><a href="/make-alberta-your-home">preparing to come to Alberta</a></li><li><a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/new-life-canada/pre-arrival-services/prepare-live.html" target="_blank">preparing to live in Canada</a></li></ul><p><strong>Note: </strong>The Business Application Approval Letter is not a nomination and cannot be used to apply for permanent residence. The approval letter recognizes that the AAIP approves your Business Application and proposed business outlined in the Business Performance Agreement and expects that you will reside and operate your business in Alberta. The 205(a) Letter of Support will allow you to apply for a work permit to come to Alberta to establish your business.</p><h4>If your Business Application is declined</h4><p>If your Business Application is declined, you will be emailed a letter outlining reasons for decision. If you used an immigration representative, the email will be copied to your representative.</p><p>If you can demonstrate an error was made in assessing your file, you may be eligible to appeal the decision by submitting a Request for Reconsideration (see below).</p>
+
+
+      </div>
+</li>
+
+
+
+  <li id="accordion4111">
+  <h3 class="goa-title">Step 6. Establish your business in Alberta</h3>
+  <div class="goa-text">
+    
+  <p>Upon receiving your Business Application Approval Letter and your work permit, you must:</p><ul><li>reside in Alberta</li><li>actively own and operate an eligible business in Alberta with at least 34% ownership in an urban centre or 51% ownership in a regional area for at least 12 months</li><li>meet the conditions of the Business Performance Agreement you signed with the Government of Alberta</li><li>demonstrate that the business is operating successfully by generating product or services after one year of operation</li></ul><p>Once the conditions of the Business Performance Agreement have been met, submit the Final Report for Nomination.</p><p>See Step 7 below.</p><p>Candidates must:</p><ol><li>Submit an <a href="https://cfr.forms.gov.ab.ca/Form/AINP12706" target="_blank">Arrival Report</a> to the AAIP within 30 days of the date that appears as the “date issued” on your work permit issued by the Government of Canada.</li><li>Submit a&nbsp;<a href="https://cfr.forms.gov.ab.ca/Form/AINP12703" target="_blank">Business Progress Report</a>&nbsp;to the AAIP after the end of each 6-month period from the date that appears as the “date issued” on your work permit issued by the Government of Canada. If you require more time to meet the conditions of your Business Performance Agreement, you must submit a request to make Business Performance Agreement changes.<ul><li>The AAIP may request evidence to confirm you are meeting the conditions of your signed Business Performance Agreement. There is no guarantee that your request for Business Performance Agreement extension will be approved.</li></ul></li></ol><p><strong>Request to extend the term of the Business Performance Agreement</strong></p><p><strong>Complete the online request</strong></p><ul><li>Log into the&nbsp;<a href="https://aaip.labour.alberta.ca/" target="_blank">AAIP portal</a></li><li>On the AAIP portal main page, click on 'Create New Request'.</li><li>Find the AAIP Business Application number for the Business Application for which you want to make a request.</li><li>Once you click on the Business Application number, you will be directed to a page with detailed information. You can only see request options that are available to you for this Business Application.<ul><li>Request for Business Performance Agreement Change: If you are eligible to make this request, a blue “Request for Business Performance Agreement Change” button will be available above the Business Application number.</li></ul></li><li>Click on the blue button to submit this request.</li><li>Next, read the <a href="https://open.alberta.ca/publications/p28p5">POPA clause</a> and other important information about completing a request. Check off the box and click on 'Continue'. A draft is automatically saved once you click on the 'Continue' button. If you experience any technical issues or leave the request section while creating the request, you will need to go to the 'Check Existing Requests' page to retrieve the draft request to continue.</li><li>Read the information provided on submitting the request and follow the instructions to complete the request.<ul><li>Enter your reason for requesting the change to Business Performance Agreement and upload any supporting document(s).</li></ul></li><li>Click on 'Submit Request' button.</li><li>Next you must pay the fee.</li></ul><h4>Pay the fee</h4><p>All requests for Business Performance Agreement Changes are subject to a service fee of $150.</p><h4>Fee conditions</h4><p>The request for a Business Performance Agreement Changes fee is non-refundable once a request has been submitted in the AAIP portal. Refund requests for requests for Business Performance Agreement Changes will not be considered. The fee covers the cost of processing your request and is required whether Business Performance Agreement Changes are approved. There is no guarantee the AAIP will approve changes to your Business Performance Agreement.</p><h4>How to pay your fee</h4><p>Instructions on how to pay your fee are available in the portal. For any online fee payment issues, contact <a href="https://eservices.alberta.ca/contact/">eServices</a>.</p><p>You will need to pay your fee within 24 hours of submitting your request in the portal. The $150 fee must be paid online using a single credit or debit card.</p><p>If you do not pay your fee within 24 hours of submitting your request, your request will be cancelled. Cancelled requests cannot be reinstated and new request must be created and submitted.</p><p>Check the Request Status on the Check Existing Requests page to confirm if your request fee has been paid.</p><ul><li>If the status is 'Payment Pending', your fee has not been paid.</li><li>If the status is 'Submitted', your request has been accepted for processing by the AAIP. You will receive an email with your fee payment receipt.</li></ul><p>Once your request is submitted, the AAIP will review your request for Business Performance Agreement change and notify you by email after the review is completed.</p><h4>Extending your work permit</h4><p>If you need to extend your work permit to meet the conditions of the Business Performance Agreement, you must submit a Request for a 205(a) Letter of Support to the AAIP within 90 days of your work permit expiry. All requests for a 205(a) Letter of Support will be reviewed and granted on a case-by-case basis. Requests for a 205(a) letter of Support are subject to a service fee of $150.</p><ul><li>Refer to the <a href="/aaip-foreign-graduate-entrepreneur-stream-after-you-are-nominated">How to request a 205(a) Letter of Support</a> for more information on the process and fee payment requirements.</li></ul><p>There is no guarantee that the AAIP will issue you a 205(a) letter of support to extend your work permit. In addition, the issuance of the 205(a) Letter of Support by the AAIP does not guarantee that IRCC will extend your work permit.</p>
+
+
+      </div>
+</li>
+
+
+
+  <li id="accordion4112">
+  <h3 class="goa-title">Step 7. Final Report for Nomination</h3>
+  <div class="goa-text">
+    
+  <p>Once candidates satisfy the conditions of the Business Performance Agreement, they can apply to be nominated by the AAIP for permanent residency. Candidates must submit a <a href="https://cfr.forms.gov.ab.ca/form/AINP12705" target="_blank">Final Report for Nomination</a> along with the supporting documents.</p><p>The AAIP will assess your Final Report for Nomination and will inform you of the decision. You will be assessed based upon your compliance with your Business Performance Agreement and any other criteria in place at the time you started your Business Application process.</p><h4>If your Final Report for Nomination&nbsp;is approved</h4><p>If your Final Report for Nomination is approved, you will receive an email copy of the nomination certificate. You will need to apply for permanent residence to IRCC.</p><p>If approved for nomination, the AAIP will:</p><ul><li>notify Immigration, Refugees and Citizenship Canada (IRCC) of your nomination</li><li>send a nomination letter to you explaining how to submit your permanent residency application to the IRCC Centralized Intake Office (CIO). You must apply for permanent residence to IRCC.</li></ul><p>You must continue to meet the conditions of your Business Performance Agreement during the AAIP nomination assessment. If you no longer meet the conditions of your Business Performance Agreement, you will not be issued a nomination certificate and you will be declined.</p><p>You may use your nomination to renew your work permit.</p><p>A one-time nomination extension may be issued under the Foreign Graduate Entrepreneur Stream if all nomination extension requirements are met. Request for a nomination extension is subject to a service fee of $150.</p><p>IRCC will contact you for further clarification or additional documents for your Application for Permanent Residence. If IRCC approves your application, you and your dependents will receive a Canadian permanent resident visa from IRCC.</p><p>Learn more about what to do <a href="/aaip-foreign-graduate-entrepreneur-stream-after-you-are-nominated">after you are nominated</a>.</p><h4>If your Final Report for Nomination&nbsp;is declined</h4><p>If your Final Report for Nomination is declined, you will be emailed a decision letter providing the reasons your nomination was declined. If you used an immigration representative, the email will be copied to your representative.</p><p>If you can demonstrate an error was made in assessing your file, you may be eligible to appeal the decision by submitting a request for reconsideration, see below.</p>
+
+
+      </div>
+</li>
+
+
+
+
+		</ul>
+	</div>
+</div>
+
+  
+  <div class="paragraph paragraph--type--text-block paragraph--view-mode--default goa-column-100-100-100">
+    
+  <h2>Request for reconsideration</h2><p>All requests for reconsideration are subject to a service fee of $250. Information on how to pay the fee is provided below.</p><p>You may only submit one request for reconsideration for each decline decision that you receive from the <abbr title="Alberta Advantage Immigration Program">AAIP</abbr> on your Business Application.</p><p>Requests will not be processed until full payment is received.</p><h3>Eligibility for reconsideration</h3><p>You may submit a request for reconsideration on the decision of your AAIP Business Application or Final Report for Nomination if you meet the following criteria.</p><p>A request for reconsideration must:</p><ul><li>be directly related to the reasons stated in the decision letter</li><li>demonstrate that an error was made in applying program criteria to the Business Application or Final Report for Nomination</li><li>be submitted by:<ul><li>the candidate named on the decision letter, or</li><li>a representative of the candidate</li></ul></li><li>be submitted within 30 calendar days of the date the decision letter was issued</li></ul><p>A request for reconsideration cannot be used:</p><ul><li>to ask for an exemption or exception to program criteria</li><li>as an opportunity to submit new evidence or re-state the evidence submitted in the Business Application or Final Report for Nomination</li><li>if you are unsatisfied with the final decision or a component of the final decision</li><li>to request humanitarian and compassionate consideration</li></ul><h3>How to submit a request for reconsideration</h3><h4>Step 1. Log into the AAIP portal</h4><p><a class="goa-cta" href="https://aaip.labour.alberta.ca/" target="_blank" aria-label="View AAIP online portal">AAIP online portal</a></p><ul><li>On the AAIP portal main page, click on 'Create New Request'.</li><li>Find the AAIP Business Application number that you want to submit a request for reconsideration. Only Business Applications with a status of 'Declined' or 'Withdrawn' are eligible for reconsideration.</li><li>Once you click on the application number, you will be directed to a page with detailed information. You can only see request options that are available to you for this Business Application. If you are eligible to submit a request for reconsideration for the Business Application, a blue 'Request for Reconsideration' button will be available above the Business Application number.</li><li>Click on the blue 'Request for Reconsideration' button.</li><li>Next, read the <a href="https://open.alberta.ca/publications/p28p5">POPA clause</a> and other important information about completing a request. Check off the box and click on Continue. A draft is automatically saved once you click on the ‘Continue’ button. If you experience any technical issues or leave the request section while creating the request, you will need to go the&nbsp;’Check Existing Requests’&nbsp;page to retrieve the draft request to continue.</li><li>Complete the online declaration and upload supporting document(s), if applicable, and click on 'Submit Request' button.</li><li>Next, you must pay the fee.</li></ul><h4>Step 2. Pay the fee</h4><p>All requests for reconsideration are subject to a service fee of $250.</p><p><strong>Fee conditions</strong></p><p>The AAIP request for reconsideration fee will automatically be refunded by the AAIP only if the original decision on your Business Application is overturned. Other refunds for requests for reconsideration fees will not be considered.</p><h4>Online payment</h4><p>Instructions on how to pay your fee are available in the portal. For any online fee payment issues, contact <a href="https://eservices.alberta.ca/contact/" target="_blank">eServices</a>.</p><p>You will need to pay your fee in full within 24 hours of submitting your request in the portal. If you do not pay your fee within 24 hours of submitting your request, your request will be cancelled. Cancelled requests cannot be reinstated and a new request must be created and submitted.</p><p>Check the Request Status on the Check Existing Requests page to confirm if your request fee has been paid. Your fee has not been paid if the status is 'Payment Pending.' Your request has been accepted for processing by the AAIP if the status is 'Submitted'. You will receive an email with your fee payment receipt.</p><h3>After you submit a request for reconsideration</h3><p>You can check the online portal for the status of your request.</p><p>The information you submitted will be reviewed and if the request meets the conditions required, a program officer with AAIP who was not involved in the original decision will conduct a review of the decision on your Business Application.</p><p>There is no guarantee that a request for reconsideration will result in your Business Application being re-assessed.</p><p><strong>Note</strong>: You will be notified by email once a decision has been rendered on your request for reconsideration.</p><h4>If you do not qualify to request reconsideration</h4><p>If you do not meet the conditions listed above to request reconsideration, you may wish to review the AAIP website for information and <a href="/aaip-updates" data-entity-type="node" data-entity-uuid="bec57694-6b9e-4a34-8d50-d8a86c1d79ae" data-entity-substitution="canonical" title="Alberta Advantage Immigration Program – Updates">updates to AAIP criteria</a>, to determine if you meet the eligibility criteria to re-apply.</p>
+
+  </div>
+
+  
+
+  
+	<div class="paragraph paragraph--type--call-out paragraph--view-mode--default goa-column-100-100-100 goa-callout-template--standard">
+					<div class="goa-callout goa--standard goa-callout-full">
+								
+  <p>Fillable PDF forms may not open properly on some mobile devices and web browsers. See the <a href="https://cfr.forms.gov.ab.ca/content/formopenhelp.html">step-by-step guide</a> or contact <a href="/pdf-form-technical-support" data-entity-type="node" data-entity-uuid="0741208c-c4d1-46bd-abd2-6000c6ca26c6" data-entity-substitution="canonical" title="PDF form technical support">PDF form technical support</a>.</p>
+
+							</div>
+			</div>
+
+
+  
+  <div class="paragraph paragraph--type--text-block paragraph--view-mode--default goa-column-100-100-100">
+    
+  <h2>Forms and documents</h2><ul><li><a href="/system/files/im-aaip-business-plan-guidelines.pdf" target="_blank" data-entity-type="media" data-entity-uuid="dcd86d96-68c7-4da4-8c10-4282daa4ea15" data-entity-substitution="media" title="im-aaip-business-plan-guidelines.pdf">AAIP Business Plan (Guidelines)</a></li><li><a href="/system/files/jeti-aaip-helpful-hints.pdf" target="_blank" data-entity-type="media" data-entity-uuid="b6063d36-db6c-4751-b24e-ba9331801789" data-entity-substitution="media" title="jeti-aaip-helpful-hints.pdf">AAIP Portal Helpful Hints</a></li><li><a href="https://cfr.forms.gov.ab.ca/form/AINP12706" target="_blank">Arrival Report</a></li><li><a href="/system/files/custom_downloaded_images/lbr-aaip-authorization-spouse-dependants-information-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="02331f43-e6ba-4e2d-8c63-56f0e7256833" data-entity-substitution="media" title="lbr-aaip-authorization-spouse-dependants-information-form.pdf">Spouse, Common-Law Partners and Dependants Authorization form</a></li><li><a href="https://cfr.forms.gov.ab.ca/Form/AINP12703" target="_blank">Business Progress Report</a></li><li><a href="/system/files/jeti-aaip-foreign-graduate-entrepreneur-stream-checklist.pdf" target="_blank" data-entity-type="media" data-entity-uuid="b3e02b60-364e-405c-a801-450087604493" data-entity-substitution="media" title="jeti-aaip-foreign-graduate-entrepreneur-stream-checklist.pdf">Foreign Graduate Entrepreneur Stream Business Application Document Checklist</a></li><li><a href="https://cfr.forms.gov.ab.ca/form/AINP12705" target="_blank">Final Report for Nomination</a></li><li><a href="https://cfr.forms.gov.ab.ca/Form/AINP12608" target="_blank">Net Worth Worksheet</a></li><li><a href="/system/files/custom_downloaded_images/lbr-aaip-candidate-representative-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="c0d94e7c-49c3-410b-996c-6e3cdcce831b" data-entity-substitution="media" title="lbr-aaip-candidate-representative-form.pdf">Use of Representative form</a></li></ul>
+
+  </div>
+
+  
+  <div class="paragraph paragraph--type--text-block paragraph--view-mode--default goa-column-100-100-100">
+    
+  <h2>Contact</h2><p>Connect with the program if you have questions:<br>Email: <a href="/cdn-cgi/l/email-protection#10757e6462756062757e7565623e636560607f62646375626679737550777f663e71723e7371"><span class="__cf_email__" data-cfemail="7c1912080e190c0e191219090e520f090c0c130e080f190e0a151f193c1b130a521d1e521f1d">[email&#160;protected]</span></a></p>
+
+  </div>
+
+
+  </div>
+
+
+
+    
+
+        
+              
+
+            <div class="goa-main-grid goa-previous-next">
+      <div class="goa-prev-btn">
+      <span>Previous</span>
+      <a href="/aaip-foreign-graduate-entrepreneur-stream-eligibility" target="_self">Eligibility</a>
+    </div>
+  
+      <div class="goa-next-btn">
+      <span>Next</span>
+      <a href="/aaip-foreign-graduate-entrepreneur-stream-after-you-are-nominated" target="_self">After you are nominated</a>
+    </div>
+  </div>
+
+
+    
+      </div>
+</div>
+
+
+	</main>
+
+		<footer class="goa-footer goa-footer--border">
+		  <div class="goa-metadata-feedback goa-feedback-wrapper"  data-page-meta='{"id":"691","owner":"25","type":"program","title":"Foreign Graduate Entrepreneur Stream – How to apply"}'>
+    <div class="goa-container">
+
+              <div class="goa-lead-ministry">
+          <strong>Lead ministry:</strong>
+          <span>Jobs, Economy, Trade and Immigration</span>
+        </div>
+      
+      <div class="goa-feedback">
+
+        <div class="goa-feedback-question active">
+          <p>Was this page helpful?</p>
+          <div class="goa-feedback-question-buttons">
+            <button class="goa-button goa-button--yes">Yes</button>
+            <button class="goa-button goa-button--no" aria-expanded="false">No</button>
+          </div>
+        </div>
+
+        <div class="goa-feedback-form">
+          <div id="form39609" class="goa-form">
+            <form method="post" action="/aaip-foreign-graduate-entrepreneur-stream-how-to-apply#form39609" enctype="multipart/form-data" accept-charset="utf-8">
+
+              <div class="step-feedback" data-type="feedback" data-enabled="true">
+                <p class="form-legend" style="display: none;">
+                  All fields are required unless otherwise indicated.
+                </p>
+
+                <div class="form-legend form-legend--feedback">
+                  <p>
+                    You will <strong>NOT</strong> receive a reply on your feedback. Do <strong>NOT</strong> include personal information. To get answers to questions, use
+                    <a href="https://www.alberta.ca/general-inquiries#jumplinks-1">Alberta Connects</a>.
+                  </p>
+                </div>
+
+                <div class="goa-field goa-field--textarea goa--required">
+                  <label for="textareaQuestion1">What were you trying to do? (500 character limit)</label>
+                  <textarea id="textareaQuestion1" name="textareaQuestion1" maxlength="500" cols="40" rows="4" required="required" aria-required="true" aria-describedby="textareaQuestion1-error"></textarea>
+                  <span id="textareaQuestion1-error" class="error-help">Please tell us what you were trying to do.</span>
+                </div>
+
+                <div class="goa-field goa-field--textarea goa--required">
+                  <label for="textareaQuestion2">What went wrong? (500 character limit)</label>
+                  <textarea id="textareaQuestion2" name="textareaQuestion2" maxlength="500" cols="40" rows="4" required="required" aria-required="true" aria-describedby="textareaQuestion2-error"></textarea>
+                  <span id="textareaQuestion2-error" class="error-help">Please tell us what went wrong.</span>
+                </div>
+
+                <input id="path" name="path" type="hidden" value="/aaip-foreign-graduate-entrepreneur-stream-how-to-apply">
+                <input id="ua" name="ua" type="hidden" value="false">
+                <input id="step" name="step" type="hidden" value="1">
+
+                <div class="goa-buttons">
+                  <button name="buttonSubmit" class="goa-button">Send your feedback</button>
+                </div>
+
+              </div>
+                          </form>
+          </div>
+
+          <div id="disclaimer-reset" class="goa-disclaimer">
+            <p>Your submissions are monitored by our web team and are used to help improve the experience on Alberta.ca.</p>
+          </div>
+        </div>
+        
+        <div id="feedback-message39609" class="goa-feedback-message"></div>
+
+      </div>
+
+                    
+    </div>
+  </div>
+
+		<div class="goa-container">
+			<a href="/" title="Home" class="goa-logo">Alberta.ca</a>
+
+			<div class="goa-footer--links">
+				<div id="goa-quicklinks" class="goa-list">
+					
+<nav
+	role="navigation" id="goa-quicklinks-nav" aria-labelledby="block-footer-menu">
+					
+	<h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+
+			
+  
+  
+  
+  
+          <ul region="footer" class="menu__main_nav menu__primary_footer">
+      
+        
+          
+                    <li class="menu_footer__item">
+            <a href="/ministries" class="menu_footer__link" data-drupal-link-system-path="node/7020">Ministries</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_footer__item">
+            <a href="/find-a-job" class="menu_footer__link" data-drupal-link-system-path="node/7575">Jobs</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_footer__item">
+            <a href="/contact-government" class="menu_footer__link" data-drupal-link-system-path="node/6862">Contact government</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_footer__item">
+            <a href="/staff-directory.cfm" class="menu_footer__link">Staff directory</a>
+
+            
+          </li>
+        
+      </ul>
+      
+
+
+	</nav>
+
+				</div>
+
+				<div id="goa-aboutlinks" class="goa-list">
+					
+  
+<nav
+	role="navigation" id="goa-aboutlinks" class="goa-list" aria-labelledby="block-aboutlinks-menu">
+					
+	<h2  class="visually-hidden" id="block-aboutlinks-menu">About Links</h2>
+
+			
+  
+  
+  
+  
+          <ul region="about_links" class="menu__main_nav menu__primary_about-links">
+      
+        
+          
+                    <li class="menu_about-links__item">
+            <a href="/usingthissite" class="menu_about-links__link" data-drupal-link-system-path="node/5864">Using Alberta.ca</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_about-links__item">
+            <a href="/disclaimer" class="menu_about-links__link" data-drupal-link-system-path="node/2990">Disclaimer</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_about-links__item">
+            <a href="/privacystatement" class="menu_about-links__link" data-drupal-link-system-path="node/4931">Privacy</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_about-links__item">
+            <a href="/accessibility" class="menu_about-links__link" data-drupal-link-system-path="node/761">Accessibility</a>
+
+            
+          </li>
+        
+      </ul>
+      
+
+
+	</nav>
+
+
+				</div>
+			</div>
+
+			<div class="goa-footer--social-copy">
+				<div class="goa-footer--social goa-socialshare">
+					<ul>
+						<li class="goa-socialshare-facebook">
+							<a href="https://www.facebook.com/youralberta.ca/" target='_blank'>Facebook</a>
+						</li>
+						<li class="goa-socialshare-twitter">
+							<a href="https://twitter.com/YourAlberta" target='_blank'>Twitter</a>
+						</li>
+						<li class="goa-socialshare-instagram">
+							<a href="https://www.instagram.com/youralberta/" target='_blank'>Instagram</a>
+						</li>
+						<li class="goa-socialshare-linkedin">
+							<a href="https://www.linkedin.com/company/government-of-alberta/" target='_blank'>Linkedin</a>
+						</li>
+					</ul>
+				</div>
+				<div class="goa-copyright">
+					&copy;
+					2026
+					Government of Alberta
+				</div>
+			</div>
+		</div>
+
+			</footer>
+
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+		// dsComponents
+goa.init({debug: false, enableescape: false});
+
+// abLayouts
+ab.init({enablejumplinks: true, enableupdates: false, debug: false,});
+
+// abComponents
+if (abComponents) 
+abComponents.init({debug: false});
+	</script>
+
+  </div>
+
+    
+    
+    <script src="/sites/default/files/js/js_56D_F3rsNYQ0xZj6CX1Qf8vMpULz2j-cg9fh1mdUFpI.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=goa_core&amp;include=eJxLz0-MT84vStVPz8lPSszRyc3My8wvSsxLT40vTszN0Ufj65WkFpcAAB1pFJM"></script>
+
+  </body>
+  </html>

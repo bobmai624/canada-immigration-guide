@@ -1,0 +1,974 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<!-- AIT Web Template, Version 2024.06.01, Author: James.Levac, Release date: June 2024, Last Revised: June 2024, Version 1.0 -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/ico" href="https://www.alberta.ca/build/20190527/favicons/favicon.ico">
+    <title>Tradesecrets - Out-of-Country Credentials</title>
+    <meta name="description" content="Individuals holding a recognized credential from outside of Canada are eligible to work in the full scope of the trade in Alberta based on their credential without registering with AIT or having writing an examination. Refer to the Summary of Recognized Credentials or use the search tool here to determine if an out-of-country credential is recogniz">
+    <meta name="keywords" content="tradesecrets, trade, alberta, journeyman, journeyperson, trades, redseal, ilm, apprenticeship, industry, training">
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){
+            w[l]=w[l]||[];
+            w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+            var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),
+                dl=l!='dataLayer'?'&l='+l:'';
+            j.async=true;
+            j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+            f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-P6SNHTR');
+    </script>
+    <!-- End Google Tag Manager -->
+    
+    <meta name="google-site-verification" content="6buQPiylHig2-Xg1XnT24m_x4s85yS9XVmOw9aTxw1c" />
+    <meta name="umbraco-node-id" content="3626">
+
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/2024site.css" rel="stylesheet">
+    <link href="/css/fontawesome.min.css" rel="stylesheet" />
+    <link href="/css/fa-brands.css" rel="stylesheet" />
+    <link href="/css/fa-solid.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://chatbot-prod.tradesecrets.alberta.ca/static/index.css" />
+
+    
+    <!-- CDF: No CSS dependencies were declared //-->
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6SNHTR" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <noindex>
+            <header class="sticky-top">
+                <div class="desktop">
+                    <!-- Logo Section -->
+                    <div class="container">
+                        <div class="top-header d-flex justify-content-between">
+                            <div class="p-3">
+                                <a href="/">
+                                    <img id="logoImage" src="/Sources/Images/2024/core/main_header_logo.png" alt="Tradesecrets Logo">
+                                </a>
+                            </div>
+                            <div class="header-bar">
+                                <div class="bar-content d-flex align-items-center justify-content-end">
+                                    <div id="searchToggleDiv">
+                                        <div id="searchToggleText">
+                                            <a id="header-trade-profiles" href="/trades-in-alberta/designated-trades-profiles/">Trade Profiles</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                                            <a id="header-tradesperson-lookup" href="/trades-in-alberta/check-credentials/">Tradesperson Lookup Tool</a>
+                                        </div>
+                                        <div id="searchForm" style="display: none;">
+                                            <form method="get" action="/using/search" name="searchForm">
+                                                <input class="searchInput" placeholder="Search" name="q" type="search" />
+                                            </form>
+                                        </div>
+                                    </div>
+
+                                    <button id="searchToggle" class="search-icon ps-3 pe-3" type="button">
+                                        <img src="/Sources/Images/2024/core/search_mag.png" alt="Search">
+                                    </button>
+                                    <a id="header-contact-us" href="/contact-us/" class="button btn-contact">Contact Us</a>
+                                    <a id="header-mytradesecrets" href="/mytradesecrets/" class="button btn-access">Access MyTradesecrets</a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+
+<!-- Main Navigation Menu -->
+
+<div class="nav-section">
+    <div class="container">
+        <ul class="nav justify-content-between">
+            <li class="nav-item dropdown">
+                <a class="nav-link  text-white" href="/get-started/">Get Started</a>
+                <div class="dropdown-content" data-dropdown="get-started">
+                    <div class="dropdown-column">
+                        <a class="dropdown-item" href="/get-started/learn-about-apprenticeship/" data-right-content="about-apprenticeship">
+                            <span class="item-text"><strong>About Apprenticeship</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/get-started/begin-an-apprenticeship/" data-right-content="become-an-apprentice">
+                            <span class="item-text"><strong>Become an Apprentice</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/get-started/start-in-high-school/" data-right-content="start-in-high-school">
+                            <span class="item-text"><strong>Start in High School</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/get-started/sponsor-an-apprentice/" data-right-content="">
+                            <span class="item-text"><strong>Sponsor an Apprentice</strong></span>
+                        </a>
+                    </div>
+                    <div class="dropdown-column" id="right-column-get-started">
+                        <!-- Right content items -->
+                        <div id="about-apprenticeship" class="right-content-item">
+                            <a class="dropdown-item" href="/get-started/learn-about-apprenticeship/sponsors-and-employers/">
+                                <span class="item-text">About Sponsors and Employers</span>
+                            </a>
+                            <a class="dropdown-item" href="/get-started/learn-about-apprenticeship/educational-credentials/">
+                                <span class="item-text">About Educational Credentials</span>
+                            </a>
+                        </div>
+                        <div id="become-an-apprentice" class="right-content-item">
+                            <a class="dropdown-item" href="/get-started/begin-an-apprenticeship/eligibility-and-entrance-requirements/">
+                                <span class="item-text">Eligibility and Entrance Requirements</span>
+                            </a>
+                            <a class="dropdown-item" href="/get-started/begin-an-apprenticeship/apply-for-apprenticeship/">
+                                <span class="item-text">Apply for an Apprenticeship</span>
+                            </a>
+                            <a class="dropdown-item" href="/get-started/begin-an-apprenticeship/prior-learning-assessments/">
+                                <span class="item-text">Prior Learning Assessments</span>
+                            </a>
+                        </div>
+                        <div id="start-in-high-school" class="right-content-item">
+                            <a class="dropdown-item" href="/get-started/start-in-high-school/registered-apprenticeship-program/">
+                                <span class="item-text">Registered Apprenticeship Program</span>
+                            </a>
+                            <a class="dropdown-item" href="/get-started/start-in-high-school/career-and-technology-studies/">
+                                <span class="item-text">Career and Technology Studies</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link  text-white" href="/apprentice-services/">Apprentice Services</a>
+                <div class="dropdown-content" data-dropdown="apprentice-services">
+                    <div class="dropdown-column">
+                        <a class="dropdown-item" href="/apprentice-services/attend-classroom-instruction/" data-right-content="attend-classroom-instruction">
+                            <span class="item-text"><strong>Attend Classroom Instruction</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/apprentice-services/prepare-for-an-exam/" data-right-content="prepare-for-an-exam">
+                            <span class="item-text"><strong>Exams</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/apprentice-services/get-financial-support/" data-right-content="get-financial-support">
+                            <span class="item-text"><strong>Financial Support</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/apprentice-services/apprentice-record-book/" data-right-content="">
+                            <span class="item-text"><strong>Apprentice Record Book</strong></span>
+                        </a>
+                        <a class="dropdown-item" href="/apprentice-services/documents-and-forms/" data-right-content="">
+                            <span class="item-text"><strong>Documents and Forms</strong></span>
+                        </a>
+                        <a class="dropdown-item" href="/apprentice-services/apprentice-mobility/" data-right-content="">
+                            <span class="item-text"><strong>Apprentice Mobility</strong></span>
+                        </a>
+                    </div>
+                    <div class="dropdown-column" id="right-column-apprentice-services">
+                        <!-- Right content items -->
+                        <div id="attend-classroom-instruction" class="right-content-item">
+                            <a class="dropdown-item" href="/apprentice-services/attend-classroom-instruction/about-classroom-instruction/">
+                                <span class="item-text">About Classroom Instruction</span>
+                            </a>
+                            <a class="dropdown-item" href="/apprentice-services/attend-classroom-instruction/training-catalogue/">
+                                <span class="item-text">Available Classes</span>
+                            </a>
+                            <a class="dropdown-item" href="/apprentice-services/attend-classroom-instruction/register-for-classes/">
+                                <span class="item-text">Register for Classes</span>
+                            </a>
+                            <a class="dropdown-item" href="/apprentice-services/attend-classroom-instruction/classroom-instruction-registration/">
+                                <span class="item-text">Registration Dates</span>
+                            </a>
+                        </div>
+                        <div id="prepare-for-an-exam" class="right-content-item">
+                            <a class="dropdown-item" href="/apprentice-services/prepare-for-an-exam/study-for-your-exam/">
+                                <span class="item-text">Study for an Exam</span>
+                            </a>
+                            <a class="dropdown-item" href="/apprentice-services/prepare-for-an-exam/booking-your-exam/">
+                                <span class="item-text">Book an Exam</span>
+                            </a>
+                            <a class="dropdown-item" href="/apprentice-services/prepare-for-an-exam/challenge-an-exam/">
+                                <span class="item-text">Challenge an Exam</span>
+                            </a>
+                        </div>
+                        <div id="get-financial-support" class="right-content-item">
+                            <a class="dropdown-item" href="/apprentice-services/get-financial-support/student-loans-and-grants-for-apprentices/">
+                                <span class="item-text">Student Loans and Grants</span>
+                            </a>
+                            <a class="dropdown-item" href="/apprentice-services/get-financial-support/employment-insurance/">
+                                <span class="item-text">Employment Insurance</span>
+                            </a>
+                            <a class="dropdown-item" href="/apprentice-services/get-financial-support/scholarships/">
+                                <span class="item-text">Scholarships</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link active text-white" href="/become-certified/">Become Certified</a>
+                <div class="dropdown-content" data-dropdown="become-certified">
+                    <div class="dropdown-column">
+                        <a class="dropdown-item" href="/become-certified/learn-about-journeyperson-certification/" data-right-content="">
+                            <span class="item-text"><strong>About Journeyperson Certification</strong></span>
+                        </a>
+                        <a class="dropdown-item" href="/become-certified/qualify-for-journeyperson-certification/" data-right-content="trades-qualifier-program">
+                            <span class="item-text"><strong>Trades Qualifier Program</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/become-certified/recognized-trade-certificates/" data-right-content="">
+                            <span class="item-text"><strong>Recognized Trade Certificates</strong></span>
+
+                        </a>
+                        <a class="dropdown-item" href="/become-certified/interprovincial-red-seal/" data-right-content="red-seal-endorsement">
+                            <span class="item-text"><strong>Red Seal Endorsement</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/become-certified/business-competencies-blue-seal/" data-right-content="earn-your-blue-seal">
+                            <span class="item-text"><strong>Blue Seal Program</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                    </div>
+                    <div class="dropdown-column" id="right-column-become-certified">
+                        <!-- Right content items -->
+                        <div id="trades-qualifier-program" class="right-content-item">
+                            <a class="dropdown-item" href="/become-certified/qualify-for-journeyperson-certification/qualify-based-on-work-experience/">
+                                <span class="item-text">Work Experience Program</span>
+                            </a>
+                            <a class="dropdown-item" href="/become-certified/qualify-for-journeyperson-certification/qualify-for-alberta-certification/">
+                                <span class="item-text">Recognized Credential Program</span>
+                            </a>
+                            <a class="dropdown-item" href="/become-certified/qualify-for-journeyperson-certification/qualify-based-on-training/">
+                                <span class="item-text">Recognized Training Program</span>
+                            </a>
+                        </div>
+                        <div id="red-seal-endorsement" class="right-content-item">
+                            <a class="dropdown-item" href="/become-certified/interprovincial-red-seal/red-seal-trades-in-alberta/">
+                                <span class="item-text">Red Seal Trades in Alberta</span>
+                            </a>
+                        </div>
+                        <div id="earn-your-blue-seal" class="right-content-item">
+                            <a class="dropdown-item" href="/become-certified/business-competencies-blue-seal/approved-subject-areas/">
+                                <span class="item-text">Approved Subject Areas</span>
+                            </a>
+                            <a class="dropdown-item" href="/become-certified/business-competencies-blue-seal/recognized-training-providers/">
+                                <span class="item-text">Recognized Training Providers</span>
+                            </a>
+                            <a class="dropdown-item" href="/become-certified/business-competencies-blue-seal/programs-of-study/">
+                                <span class="item-text">Approved Programs of Study</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link  text-white" href="/trades-in-alberta/">Trades in Alberta</a>
+                <div class="dropdown-content" data-dropdown="trades-in-alberta">
+                    <div class="dropdown-column">
+                        <a class="dropdown-item" href="/trades-in-alberta/designated-trades-profiles/">
+                            <span class="item-text"><strong>Trade Profiles</strong></span>
+                        </a>
+                        <a class="dropdown-item" href="/trades-in-alberta/learn-about-designated-trades/" data-right-content="about-designated-trades">
+                            <span class="item-text"><strong>About Designated Trades</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/trades-in-alberta/check-credentials/" data-right-content="">
+                            <span class="item-text"><strong>Tradesperson Lookup Tool</strong></span>
+                        </a>
+                    </div>
+                    <div class="dropdown-column" id="right-column-trades-in-alberta">
+                        <!-- Right content items -->
+                        <div id="about-designated-trades" class="right-content-item">
+                            <a class="dropdown-item" href="trades-in-alberta/about-designated-trades/about-restricted-activities/">
+                                <span class="item-text">About Restricted Activities</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link  text-white" href="/engagement-events/">News, Events & Outreach</a>
+                <div class="dropdown-content" data-dropdown="engagement-events">
+                    <div class="dropdown-column">
+                        <a class="dropdown-item" href="/engagement-events/alberta-board-of-skilled-trades/" data-right-content="abst">
+                            <span class="item-text"><strong>Alberta Board of Skilled Trades</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/engagement-events/awarding-excellence/" data-right-content="awarding-excellence">
+                            <span class="item-text"><strong>Awarding Excellence</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/engagement-events/my-skilled-trades-network/" data-right-content="">
+                            <span class="item-text"><strong>My Skilled Trades Network</strong></span>
+                        </a>
+                        <a class="dropdown-item" href="/engagement-events/industry-pathways/" data-right-content="">
+                            <span class="item-text"><strong>Industry Pathways</strong></span>
+                        </a>
+                        <a class="dropdown-item" href="/engagement-events/youth-engagement/" data-right-content="youth-engagement">
+                            <span class="item-text"><strong>Youth Engagement</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                    </div>
+                    <div class="dropdown-column" id="right-column-engagement-events">
+                        <!-- Right content items -->
+                        <div id="abst" class="right-content-item">
+                            <a class="dropdown-item" href="/engagement-events/alberta-board-of-skilled-trades/board-members/">
+                                <span class="item-text">Board Members</span>
+                            </a>
+                            <a class="dropdown-item" href="/engagement-events/alberta-board-of-skilled-trades/alberta-board-of-skilled-trades-compensation-disclosure/">
+                                <span class="item-text">Compensation Disclosure</span>
+                            </a>
+                            <a class="dropdown-item" href="/engagement-events/alberta-board-of-skilled-trades/archive-ait-board/">
+                                <span class="item-text">Archive: AIT Board</span>
+                            </a>
+                        </div>
+                        <div id="awarding-excellence" class="right-content-item">
+                            <a class="dropdown-item" href="/engagement-events/awarding-excellence/awards-of-excellence/">
+                                <span class="item-text">Awards of Excellence</span>
+                            </a>
+                            <a class="dropdown-item" href="/engagement-events/awarding-excellence/athof/">
+                                <span class="item-text">Alberta Trades Hall of Fame</span>
+                            </a>
+
+                        </div>
+                        <div id="youth-engagement" class="right-content-item">
+                            <a class="dropdown-item" href="/engagement-events/youth-engagement/youth-skills-network/">
+                                <span class="item-text">Youth Skills Network</span>
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link  text-white" href="/regulation-resources/">Regulation & Resources</a>
+                <div class="dropdown-content" data-dropdown="regulation-resources">
+                    <div class="dropdown-column">
+                        <a class="dropdown-item" href="/regulation-resources/forms/" data-right-content="">
+                            <span class="item-text"><strong>Forms and Templates</strong></span>
+                        </a>
+                        <a class="dropdown-item" href="/regulation-resources/data/" data-right-content="">
+                            <span class="item-text"><strong>Data and Research</strong></span>
+                        </a>
+                        <a class="dropdown-item" href="/regulation-resources/resource-documents/" data-right-content="">
+                            <span class="item-text"><strong>Information Sheets and Publications</strong></span>
+                        </a>
+                        <a class="dropdown-item" href="/regulation-resources/policy-and-legislation/" data-right-content="policy-legislation">
+                            <span class="item-text"><strong>Policy and Legislation</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                        <a class="dropdown-item" href="/regulation-resources/compliance/" data-right-content="compliance">
+                            <span class="item-text"><strong>Compliance</strong></span>
+                            <span class="item-arrow">→</span>
+                        </a>
+                    </div>
+                    <div class="dropdown-column" id="right-column-regulation-resources">
+                        <!-- Right content items -->
+                        <div id="policy-legislation" class="right-content-item">
+                            <a class="dropdown-item" href="/regulation-resources/policy-and-legislation/stae-act/">
+                                <span class="item-text">Skilled Trades and Apprenticeship Education Act</span>
+                            </a>
+                            <a class="dropdown-item" href="/regulation-resources/policy-and-legislation/regulations/">
+                                <span class="item-text">Regulations under the STAE Act</span>
+                            </a>
+                            <a class="dropdown-item" href="/regulation-resources/policy-and-legislation/board-order/">
+                                <span class="item-text">Board Order</span>
+                            </a>
+                            <a class="dropdown-item" href="/policy-manual/">
+                                <span class="item-text">AIT Policy Manual</span>
+                            </a>
+                        </div>
+                        <div id="compliance" class="right-content-item">
+                            <a class="dropdown-item" href="regulation-resources/compliance/examples-of-non-compliance/">
+                                <span class="item-text">Examples of Non-compliance</span>
+                            </a>
+                            <a class="dropdown-item" href="/regulation-resources/compliance/file-a-complaint/">
+                                <span class="item-text">Submit a Compliance Complaint</span>
+                            </a>
+                            <a class="dropdown-item" href="/regulation-resources/compliance/convictions/">
+                                <span class="item-text">Convictions</span>
+                            </a>
+                            <a class="dropdown-item" href="/regulation-resources/compliance/compliance-orders-issued/">
+                                <span class="item-text">Compliance Orders Issued</span>
+                            </a>
+                            <a class="dropdown-item" href="/regulation-resources/compliance/authorizations/">
+                                <span class="item-text">Authorizations</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+                </div>
+
+                <div class="mobile" style="box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);">
+                    <div class="mobile-mts">
+                        <a href="/mytradesecrets/" class="btn btn-outline-primary">Access MyTradesecrets <i class="fa-solid fa-arrow-right ms-2"></i></a>
+                    </div>
+                    <div>
+                        <div class="top-header d-flex justify-content-between align-items-center">
+                            <div class="p-3">
+                                <a href="/">
+                                    <img id="logoImage" src="/Sources/Images/2024/core/main_header_logo_small_V2.png" alt="Tradesecrets Logo">
+                                </a>
+                            </div>
+                            <div class="p-3">
+                                <i id="menuToggle" class="fa fa-bars fa-2x me-3"></i>
+                            </div>
+                        </div>
+                    </div>
+
+<div id="mobileMenuWrapper">
+    <div id="mobileMenu" class="mobile-menu">
+        <p style="display: flex; justify-content: center; font-size: 16px;">
+            <a href="/trades-in-alberta/designated-trades-profiles/">Trade Profiles</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="/trades-in-alberta/check-credentials/">Tradeperson Lookup Tool</a>
+        </p>
+        <ul>
+            <li>
+                <div class="menu-item-wrapper">
+                    <a href="/get-started/">Get Started</a>
+                    <div class="icon-box">
+                        <i class="fa fa-arrow-right fa-xl"></i>
+                    </div>
+                </div>
+                <div class="submenu">
+                    <a href="/get-started/learn-about-apprenticeship/">About Apprenticeship</a>
+                    <a href="/get-started/begin-an-apprenticeship/">Become an Apprentice</a>
+                    <a href="/get-started/start-in-high-school/">Start in High School</a>
+                    <a href="/get-started/sponsor-an-apprentice/">Sponsor an Apprentice</a>
+                </div>
+            </li>
+            <li>
+                <div class="menu-item-wrapper">
+                    <a href="/apprentice-services/">Apprentice Services</a>
+                    <div class="icon-box">
+                        <i class="fa fa-arrow-right fa-xl"></i>
+                    </div>
+                </div>
+                <div class="submenu">
+                    <a href="/apprentice-services/attend-classroom-instruction/">Attend Classroom Instruction</a>
+                    <a href="/apprentice-services/prepare-for-an-exam/">Prepare for an Exam</a>
+                    <a href="/apprentice-services/get-financial-support/">Financial Support</a>
+                    <a href="/apprentice-services/maintain-your-records/">Maintain your Records</a>
+                    <a href="/apprentice-services/request-a-document/">Request a Document</a>
+                </div>
+            </li>
+            <li>
+                <div class="menu-item-wrapper">
+                    <a href="/become-certified/">Become Certified</a>
+                    <div class="icon-box">
+                        <i class="fa fa-arrow-right fa-xl"></i>
+                    </div>
+                </div>
+                <div class="submenu">
+                    <a href="/become-certified/learn-about-journeyperson-cert">Journeyperson Certification</a>
+                    <a href="/become-certified/qualify-for-journeyperson-certification/">Trade Qualifier Program</a>
+                    <a href="/become-certified/recognized-trade-certificates/">Recognized Trade Certificates</a>
+                    <a href="/become-certified/interprovincial-red-seal/">Red Seal Endorsement</a>
+                    <a href="/become-certified/business-competencies-blue-seal/">Blue Seal Program</a>
+                </div>
+            </li>
+            <li>
+                <div class="menu-item-wrapper">
+                    <a href="/trades-in-alberta/">Trades in Alberta</a>
+                    <div class="icon-box">
+                        <i class="fa fa-arrow-right fa-xl"></i>
+                    </div>
+                </div>
+                <div class="submenu">
+                    <a href="/trades-in-alberta/learn-about-designated-trades/">Learn about Trade Designation</a>
+                    <a href="/trades-in-alberta/designated-trades-profiles/">Alberta's Designated Trades</a>
+                    <a href="/trades-in-alberta/alberta-board-of-skilled-trades/">Alberta Board of Skilled Trades</a>
+                    <a href="/trades-in-alberta/my-skilled-trades-network/">My Skilled Trades Network</a>
+                </div>
+            </li>
+            <li>
+                <div class="menu-item-wrapper">
+                    <a href="/engagement-events/">News, Events & Outreach</a>
+                    <div class="icon-box">
+                        <i class="fa fa-arrow-right fa-xl"></i>
+                    </div>
+                </div>
+                <div class="submenu">
+                    <a href="/engagement-events/alberta-board-of-skilled-trades/">Alberta Board of Skilled Trades</a>
+                    <a href="/engagement-events/awarding-excellence/">Awarding Excellence</a>
+                    <a href="/engagement-events/my-skilled-trades-network/">My Skilled Trades Network</a>
+                    <a href="/engagement-events/industry-pathways/">Industry Pathways</a>
+                    <a href="/engagement-events/youth-engagement/">Youth Engagement</a>
+                </div>
+            </li>
+            <li>
+                <div class="menu-item-wrapper">
+                    <a href="/regulation-resources/">Regulation & Resources</a>
+                    <div class="icon-box">
+                        <i class="fa fa-arrow-right fa-xl"></i>
+                    </div>
+                </div>
+                <div class="submenu">
+                    <a href="/regulation-resources/forms/">Forms and Templates</a>
+                    <a href="/regulation-resources/data/">Data and Research</a>
+                    <a href="/regulation-resources/resource-documents/">Information Sheets and Publications</a>
+                    <a href="/regulation-resources/policy-and-legislation/">Policy and Legislation</a>
+                    <a href="/regulation-resources/compliance/">Compliance</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="additional-content">
+        <p>
+            <div id="searchForm" style="display:flex; justify-content:center;">
+                <form method="get" action="/using/search" name="searchForm" style="width:90%">
+                    <input class="searchInput" placeholder="Search" name="q" type="text" style="width:100%; height:50px;" />
+
+                </form>
+            </div>
+        </p>
+
+    </div>
+</div>
+
+
+                </div>
+
+            </header>
+    </noindex>
+    <main class="mb-4">
+
+        
+
+<div class="maincontent container">
+    <div class="row mt-5">
+        <div class="col-lg-3 pe-4">
+            <div class="d-none d-lg-block">
+
+
+<h4 class="mb-4"><strong>Become Certified</strong></h4>
+<noindex>
+            <ul class="nav-menu first-level">
+                    <li class="">
+                        <a href="/become-certified/learn-about-journeyperson-certification/" title="About Journeyperson Certification" class="menu-item-wrapper ">
+                            About Journeyperson Certification
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="/become-certified/certification-through-apprenticeship/" title="Certification through Apprenticeship" class="menu-item-wrapper ">
+                            Certification through Apprenticeship
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="/become-certified/trades-qualifier-programs/" title="Trades Qualifier Programs (for experienced tradespersons)" class="menu-item-wrapper ">
+                            Trades Qualifier Programs (for experienced tradespersons)
+                                <div class="icon-box"><i class="fa fa-arrow-right"></i></div>
+                        </a>
+                            <div class="submenu">
+                                            <ul class="nav-menu second-level">
+                    <li class="">
+                        <a href="/become-certified/trades-qualifier-programs/qualify-based-on-work-experience/" title="Work Experience Program" class="menu-item-wrapper ">
+                            Work Experience Program
+                                <div class="icon-box"><i class="fa fa-arrow-right"></i></div>
+                        </a>
+                            <div class="submenu">
+                                            <ul class="nav-menu third-level">
+                    <li class="">
+                        <a href="/become-certified/trades-qualifier-programs/qualify-based-on-work-experience/program-details/" title="Program Details" class="menu-item-wrapper ">
+                            Program Details
+                        </a>
+                    </li>
+            </ul>
+
+                            </div>
+                    </li>
+                    <li class="">
+                        <a href="/become-certified/trades-qualifier-programs/qualify-for-alberta-certification/" title="Recognized Credential Program" class="menu-item-wrapper ">
+                            Recognized Credential Program
+                                <div class="icon-box"><i class="fa fa-arrow-right"></i></div>
+                        </a>
+                            <div class="submenu">
+                                            <ul class="nav-menu third-level">
+                    <li class="">
+                        <a href="/become-certified/trades-qualifier-programs/qualify-for-alberta-certification/program-details/" title="Program Details" class="menu-item-wrapper ">
+                            Program Details
+                        </a>
+                    </li>
+            </ul>
+
+                            </div>
+                    </li>
+                    <li class="">
+                        <a href="/become-certified/trades-qualifier-programs/qualify-based-on-training/" title="Recognized Training Program" class="menu-item-wrapper ">
+                            Recognized Training Program
+                                <div class="icon-box"><i class="fa fa-arrow-right"></i></div>
+                        </a>
+                            <div class="submenu">
+                                            <ul class="nav-menu third-level">
+                    <li class="">
+                        <a href="/become-certified/trades-qualifier-programs/qualify-based-on-training/program-details/" title="Program Details" class="menu-item-wrapper ">
+                            Program Details
+                        </a>
+                    </li>
+            </ul>
+
+                            </div>
+                    </li>
+            </ul>
+
+                            </div>
+                    </li>
+                    <li class="ancestor open">
+                        <a href="/become-certified/recognized-trade-certificates/" title="Recognized Trade Certificates" class="menu-item-wrapper ancestor">
+                            Recognized Trade Certificates
+                                <div class="icon-box"><i class="fa fa-arrow-right"></i></div>
+                        </a>
+                            <div class="submenu">
+                                            <ul class="nav-menu second-level">
+                    <li class="">
+                        <a href="/become-certified/recognized-trade-certificates/out-of-province-canadian-credentials/" title="Canadian Credentials" class="menu-item-wrapper ">
+                            Canadian Credentials
+                        </a>
+                    </li>
+                    <li class="active open">
+                        <a href="/become-certified/recognized-trade-certificates/out-of-country-credentials/" title="Out-of-Country Credentials" class="menu-item-wrapper active">
+                            Out-of-Country Credentials
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="/become-certified/recognized-trade-certificates/canadian-forces-credentials/" title="Canadian Forces Credentials" class="menu-item-wrapper ">
+                            Canadian Forces Credentials
+                        </a>
+                    </li>
+            </ul>
+
+                            </div>
+                    </li>
+                    <li class="">
+                        <a href="/become-certified/interprovincial-red-seal/" title="Red Seal Endorsement" class="menu-item-wrapper ">
+                            Red Seal Endorsement
+                                <div class="icon-box"><i class="fa fa-arrow-right"></i></div>
+                        </a>
+                            <div class="submenu">
+                                            <ul class="nav-menu second-level">
+                    <li class="">
+                        <a href="/become-certified/interprovincial-red-seal/red-seal-trades-in-alberta/" title="Red Seal Trades in Alberta" class="menu-item-wrapper ">
+                            Red Seal Trades in Alberta
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="/become-certified/interprovincial-red-seal/non-red-seal-trades-in-alberta/" title="Non-Red Seal Trades in Alberta" class="menu-item-wrapper ">
+                            Non-Red Seal Trades in Alberta
+                        </a>
+                    </li>
+            </ul>
+
+                            </div>
+                    </li>
+                    <li class="">
+                        <a href="/become-certified/business-competencies-blue-seal/" title="Blue Seal Program" class="menu-item-wrapper ">
+                            Blue Seal Program
+                                <div class="icon-box"><i class="fa fa-arrow-right"></i></div>
+                        </a>
+                            <div class="submenu">
+                                            <ul class="nav-menu second-level">
+                    <li class="">
+                        <a href="/become-certified/business-competencies-blue-seal/approved-subject-areas/" title="Approved Subject Areas" class="menu-item-wrapper ">
+                            Approved Subject Areas
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="/become-certified/business-competencies-blue-seal/recognized-training-providers/" title="Training Providers" class="menu-item-wrapper ">
+                            Training Providers
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="/become-certified/business-competencies-blue-seal/programs-of-study/" title="Programs of Study" class="menu-item-wrapper ">
+                            Programs of Study
+                        </a>
+                    </li>
+            </ul>
+
+                            </div>
+                    </li>
+                    <li class="">
+                        <a href="/become-certified/replace-a-certificate/" title="Alberta Certificate Replacements" class="menu-item-wrapper ">
+                            Alberta Certificate Replacements
+                        </a>
+                    </li>
+            </ul>
+</noindex>
+
+            </div>
+            <div class="d-block d-lg-none" id="mobileNavMenu">
+
+
+<h4 class="mb-4"><strong>Become Certified</strong></h4>
+<noindex>
+    <div class="select-wrapper">
+        <div class="custom-select-menu" id="mobileNavMenu" onclick="toggleDropdown()">
+            <span>Out-of-Country Credentials</span>
+            <div class="hamburger-icon"></div>
+        </div>
+        <div class="custom-select-options">
+                        <div class="custom-option level-0 " onclick="location.href='/become-certified/learn-about-journeyperson-certification/'">
+                About Journeyperson Certification
+            </div>
+            <div class="custom-option level-0 " onclick="location.href='/become-certified/certification-through-apprenticeship/'">
+                Certification through Apprenticeship
+            </div>
+            <div class="custom-option level-0 " onclick="location.href='/become-certified/trades-qualifier-programs/'">
+                Trades Qualifier Programs (for experienced tradespersons)
+            </div>
+            <div class="custom-option level-1 " onclick="location.href='/become-certified/trades-qualifier-programs/qualify-based-on-work-experience/'">
+                    Work Experience Program
+            </div>
+            <div class="custom-option level-2 " onclick="location.href='/become-certified/trades-qualifier-programs/qualify-based-on-work-experience/program-details/'">
+                        Program Details
+            </div>
+            <div class="custom-option level-1 " onclick="location.href='/become-certified/trades-qualifier-programs/qualify-for-alberta-certification/'">
+                    Recognized Credential Program
+            </div>
+            <div class="custom-option level-2 " onclick="location.href='/become-certified/trades-qualifier-programs/qualify-for-alberta-certification/program-details/'">
+                        Program Details
+            </div>
+            <div class="custom-option level-1 " onclick="location.href='/become-certified/trades-qualifier-programs/qualify-based-on-training/'">
+                    Recognized Training Program
+            </div>
+            <div class="custom-option level-2 " onclick="location.href='/become-certified/trades-qualifier-programs/qualify-based-on-training/program-details/'">
+                        Program Details
+            </div>
+            <div class="custom-option level-0 " onclick="location.href='/become-certified/recognized-trade-certificates/'">
+                Recognized Trade Certificates
+            </div>
+            <div class="custom-option level-1 " onclick="location.href='/become-certified/recognized-trade-certificates/out-of-province-canadian-credentials/'">
+                    Canadian Credentials
+            </div>
+            <div class="custom-option level-1 current-page" onclick="location.href='/become-certified/recognized-trade-certificates/out-of-country-credentials/'">
+                    Out-of-Country Credentials
+            </div>
+            <div class="custom-option level-1 " onclick="location.href='/become-certified/recognized-trade-certificates/canadian-forces-credentials/'">
+                    Canadian Forces Credentials
+            </div>
+            <div class="custom-option level-0 " onclick="location.href='/become-certified/interprovincial-red-seal/'">
+                Red Seal Endorsement
+            </div>
+            <div class="custom-option level-1 " onclick="location.href='/become-certified/interprovincial-red-seal/red-seal-trades-in-alberta/'">
+                    Red Seal Trades in Alberta
+            </div>
+            <div class="custom-option level-1 " onclick="location.href='/become-certified/interprovincial-red-seal/non-red-seal-trades-in-alberta/'">
+                    Non-Red Seal Trades in Alberta
+            </div>
+            <div class="custom-option level-0 " onclick="location.href='/become-certified/business-competencies-blue-seal/'">
+                Blue Seal Program
+            </div>
+            <div class="custom-option level-1 " onclick="location.href='/become-certified/business-competencies-blue-seal/approved-subject-areas/'">
+                    Approved Subject Areas
+            </div>
+            <div class="custom-option level-1 " onclick="location.href='/become-certified/business-competencies-blue-seal/recognized-training-providers/'">
+                    Training Providers
+            </div>
+            <div class="custom-option level-1 " onclick="location.href='/become-certified/business-competencies-blue-seal/programs-of-study/'">
+                    Programs of Study
+            </div>
+            <div class="custom-option level-0 " onclick="location.href='/become-certified/replace-a-certificate/'">
+                Alberta Certificate Replacements
+            </div>
+
+        </div>
+    </div>
+</noindex>
+
+            </div>
+        </div>
+        <div class="col-lg-9">
+
+            <h1>Out-of-Country Credentials</h1>
+
+            <p><span class="intro">Individuals holding a <a data-id="3624" href="/become-certified/recognized-trade-certificates/" title="Recognized Trade Certificates">recognized credential</a> from outside of Canada are eligible to work in the full scope of the trade in Alberta based on their credential without registering with AIT or having writing an examination.</span></p>
+<ul>
+<li>Refer to the <a href="/SOURCES/PDFS/forms/Summary_Recognized_Credentials.pdf">Summary of Recognized Credentials <i class="fa-regular fa-file-pdf"></i></a> or use the search tool <a data-id="3624" href="/become-certified/recognized-trade-certificates/" title="Recognized Trade Certificates">here</a> to determine if an out-of-country credential is recognized in Alberta.</li>
+<li>If you are unable to determine whether or not a credential is recognized, contact your local <a href="http://tradesecrets.alberta.ca/contact-us/?QUERY=1">Apprenticeship and Industry Training office</a>.</li>
+</ul>
+<hr />
+<h4>Programs for Individuals with Recognized Credentials</h4>
+<p>Professionals with a recognized credential may apply for the <span class="p-medium"><a data-id="3551" href="/become-certified/trades-qualifier-programs/qualify-for-alberta-certification/program-details/" title="Qualify for Alberta Certification">Trades Qualifier - Recognized Credential Program</a> </span>to obtain an Alberta qualification certificate and to obtain <a data-id="3990" href="/become-certified/interprovincial-red-seal/" title="Interprovincial Red Seal">Red Seal</a> endorsement if it wasn't obtained in the previous jurisdiction. However, this is <span class="p-medium">not required </span>to work in Alberta.</p>
+<hr />
+<h4>Non-Recognized Credentials</h4>
+<p>Individuals who hold a trade credential from outside of Canada that is <span class="p-medium">not recognized</span> by Alberta may wish to apply for the <span class="p-medium"><a data-id="3559" href="/become-certified/trades-qualifier-programs/qualify-based-on-work-experience/" title="Qualify based on Work Experience">Trades Qualifier - Work Experience Program</a> </span>to have their skills, knowledge, and experience assessed against the standards for certification in an Alberta-designated trade.</p>
+
+
+        </div>
+    </div>
+
+
+
+</div>
+
+    </main>
+    <noindex>
+            <div class="blue-bar">
+                <div class="container">
+                    <a href="/contact-us/"><img class="pe-2" src="/Sources/Images/2024/core/contact_us.png"> Contact us with any questions</a>
+                </div>
+            </div>
+            <footer class="footer py-3 py-md-5">
+                <div class="container">
+                    <p class="d-flex d-md-block justify-content-center"><img src="/sources/images/2024/core/AB_Sig_AIT_White.png" alt="Government of Alberta Logo" /></p>
+                    <p class="desktop small mt-5">
+                        © 2007-2026 Government of Alberta&nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.alberta.ca/privacystatement.aspx">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                        <a href="https://www.alberta.ca/accessibility.aspx">Accessibility</a>
+                        <span class="link-group">
+                            <a href="https://alberta.ca/" target="_blank">Government of Alberta Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                            <a href="https://www.alberta.ca/ministries.aspx" target="_blank">Ministries</a>
+                        </span>
+                    </p>
+                    <p class="mobile small mt-5">
+                        © 2007-2026 Government of Alberta<br />
+                        <span>
+                            <a href="https://www.alberta.ca/privacystatement.aspx">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                            <a href="https://www.alberta.ca/accessibility.aspx">Accessibility</a>
+                        </span>
+                        <br />
+                        <span>
+                            <a href="https://alberta.ca/" target="_blank">Government of Alberta Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+                            <a href="https://www.alberta.ca/ministries.aspx" target="_blank">Ministries</a>
+                        </span>
+                    </p>
+                </div>
+            </footer>
+    </noindex>
+    
+    <script src="https://chatbot-prod.tradesecrets.alberta.ca/static/index.js" type="module"></script>
+
+    <script src="/scripts/2024/jquery.3.7.1.min.js"></script>
+    <script src="/scripts/2024/popper.min.js"></script>
+    <script src="/scripts/2024/bootstrap.min.js"></script>
+    <script language="javascript" type="text/javascript" src="/scripts/ddaccordion.js"></script>
+    <script language="javascript" type="text/javascript" src="/scripts/loaddiv.js"></script>
+
+
+    <script type="text/javascript" src="/scripts/ab-compensation-tools.js"></script>
+
+
+
+        <script>
+            $(document).ready(function () {
+                // Toggle search form
+                $('#searchToggle').click(function () {
+                    $('#searchForm').toggle();
+                    $('#searchToggleText').toggle();
+                });
+
+                // Change logo on scroll
+                var logo = $("#logoImage");
+                var originalLogo = "/Sources/Images/2024/core/main_header_logo.png";
+                var smallLogo = "/Sources/Images/2024/core/main_header_logo_small_V2.png";
+
+                $(window).scroll(function () {
+                    var scrollTop = $(window).scrollTop();
+                    var lowerThreshold = 35;
+                    var upperThreshold = 165;
+
+                    if (scrollTop > upperThreshold) {
+                        logo.attr("src", smallLogo);
+                    } else if (scrollTop < lowerThreshold) {
+                        logo.attr("src", originalLogo);
+                    }
+                });
+
+
+            });
+
+            document.addEventListener('DOMContentLoaded', function () {
+                // Handle main content menu item clicks
+                var menuItems = document.querySelectorAll('.maincontent .nav-menu > li .icon-box');
+                menuItems.forEach(item => {
+                    item.addEventListener('click', function (event) {
+                        event.stopPropagation();
+                        var parentLi = this.closest('li');
+                        parentLi.classList.toggle('open');
+                    });
+                });
+
+                // Handle dropdown content hover
+                const dropdowns = document.querySelectorAll('.dropdown-content');
+                dropdowns.forEach(dropdown => {
+                    const leftItems = dropdown.querySelectorAll('.dropdown-item[data-right-content]');
+                    const rightColumn = dropdown.querySelector('.dropdown-column:last-child');
+                    const rightContents = dropdown.querySelectorAll('.right-content-item');
+
+                    leftItems.forEach(item => {
+                        item.addEventListener('mouseenter', () => {
+                            const contentId = item.getAttribute('data-right-content');
+                            rightContents.forEach(content => {
+                                content.style.display = content.id === contentId ? 'block' : 'none';
+                            });
+                        });
+                    });
+                });
+
+                // Handle mobile menu toggle
+                const menuToggle = document.getElementById('menuToggle');
+                const mobileMenu = document.getElementById('mobileMenuWrapper');
+                let isOpen = false;
+
+                menuToggle.addEventListener('click', function () {
+                    mobileMenu.style.display = isOpen ? 'none' : 'block';
+                    menuToggle.classList.toggle('fa-bars', isOpen);
+                    menuToggle.classList.toggle('fa-times', !isOpen);
+                    isOpen = !isOpen;
+                });
+
+                // Handle mobile menu item clicks
+                const mobileMenuItems = document.querySelectorAll('.mobile-menu ul li');
+                mobileMenuItems.forEach(item => {
+                    item.addEventListener('click', function () {
+                        const submenu = this.querySelector('.submenu');
+                        const icon = this.querySelector('.icon-box i');
+                        if (submenu) {
+                            submenu.style.display = submenu.style.display === 'flex' ? 'none' : 'flex';
+                            icon.classList.toggle('fa-arrow-right');
+                            icon.classList.toggle('fa-arrow-down');
+                        }
+                    });
+                });
+            });
+
+
+        </script>
+        <script>
+            function toggleDropdown() {
+                var options = document.querySelector('.custom-select-options');
+                if (options.style.display === 'none' || options.style.display === '') {
+                    options.style.display = 'block';
+                } else {
+                    options.style.display = 'none';
+                }
+            }
+
+            document.addEventListener('click', function (event) {
+                if (document.querySelector('.select-wrapper') != null) {
+                    var isClickInside = document.querySelector('.select-wrapper').contains(event.target);
+                    if (!isClickInside) {
+                        document.querySelector('.custom-select-options').style.display = 'none';
+                    }
+                }
+            });
+        </script>
+
+
+
+
+    
+
+    <!-- CDF: No JS dependencies were declared //-->
+    
+    
+
+</body>
+</html>

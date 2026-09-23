@@ -1,0 +1,1680 @@
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head id="head">
+
+    <!-- ### META ###-->
+    
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<title>Health Care Aide | NorQuest College - Edmonton, Alberta</title>
+    <meta name="description" content="Health Care Aide (2026-2027) - Train in one of Canada&amp;rsquo;s largest Health Care Aide programs and learn to provide front-line care and support in hospitals, home care, and continuing care." />
+
+
+    <meta name="robots" content="all">
+
+
+
+
+
+
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Health Care Aide | NorQuest College - Edmonton, Alberta" />
+<meta property="og:description" content="Health Care Aide (2026-2027) - Train in one of Canada&amp;rsquo;s largest Health Care Aide programs and learn to provide front-line care and support in hospitals, home care, and continuing care." />
+<meta property="og:url" content="http://www.norquest.ca/programs-and-courses/programs/health-care-aide" />
+<meta property="og:site_name" content="NorquestCollege" />
+<meta property="og:image:width" content="1080" />
+<meta property="og:image:height" content="768" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:title" content="Health Care Aide | NorQuest College - Edmonton, Alberta" />
+<meta name="twitter:card" content="Health Care Aide (2026-2027) - Train in one of Canada&amp;rsquo;s largest Health Care Aide programs and learn to provide front-line care and support in hospitals, home care, and continuing care." />
+<meta name="twitter:image" content="https://www.norquest.ca/NorquestCollege/media/images/template/open-graph/norquest-college.jpg" />
+
+<meta name="google-site-verification" content="zjKLGcOMIhA4TnuD07tPS859Xi_HNplYJuwOSuQyRKw" />
+<meta name="y_key" content="66edbed85b0cce4e" />
+<meta name="msvalidate.01" content="6B2D799D60C5E59D7985C12C7BB92285" />
+<meta name="msvalidate.01" content="A6144B6C9EB1B0B6516E619AEF030CC1" />
+
+<link rel="canonical" href="https://www.norquest.ca/programs-and-courses/programs/health-care-aide" />
+<link rel="icon" href="/Images/NorquestCollege/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/Images/NorquestCollege/favicon.ico" type="image/x-icon">
+    <!-- ### META - END ###-->
+    <!-- ### FONTS ###-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="dns-prefetch" href="https://fonts.gstatic.com">
+<link rel="preconnect" href="https://fw-cdn.com" crossorigin>
+<link rel="dns-prefetch" href="https://fw-cdn.com">
+
+<link rel="stylesheet" type="text/css" href="/Styles/NorquestCollege/fontawesome.min.css">
+
+<link rel="preload" as="font" href="https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5q4fYGyA.woff2" type="font/woff2" crossorigin>
+<link rel="preload" as="font" href="https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5qofYGyA.woff2" type="font/woff2" crossorigin>
+<link rel="preload" as="font" href="https://fonts.gstatic.com/s/worksans/v18/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3ms5pIfY.woff2" type="font/woff2" crossorigin>
+<link rel="preload" as="font" href="https://fonts.gstatic.com/s/worksans/v18/QGYsz_wNahGAdqQ43Rh_c6Dpp_k.woff2" type="font/woff2" crossorigin>
+<link rel="preload" as="font" href="https://fonts.gstatic.com/s/worksans/v18/QGYsz_wNahGAdqQ43Rh_cqDpp_k.woff2" type="font/woff2" crossorigin>
+<link rel="preload" as="font" href="https://fonts.gstatic.com/s/worksans/v18/QGYsz_wNahGAdqQ43Rh_fKDp.woff2" type="font/woff2" crossorigin>
+<link rel="preload" as="font" href="/Fonts/NorquestCollege/fa-solid-900.woff2" type="font/woff2" crossorigin>
+<link rel="preload" as="font" href="/Fonts/NorquestCollege/webfonts/fa-brands-400.woff2" type="font/woff2" crossorigin>
+
+
+    <!-- ### FONTS - END ###-->
+    <!-- ### JS ### -->
+    
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script src="https://code.jquery.com/ui/1.13.3/jquery-ui.js"></script>
+<script src="/Scripts/Custom/assets.js"></script>
+<script defer src="/Scripts/Custom/core/tabs.js"></script>
+<script defer src="/Scripts/Custom/core/details.js"></script>
+<script defer src="/Scripts/Custom/core/tables.js"></script>
+<script defer src="/Scripts/Custom/core/alerts.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/axios@1.16.0/dist/axios.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.7.14/dist/vue.min.js"></script>
+<script src="/Scripts/custom/core/tool-tips.js?A"></script>
+
+
+<script type="text/javascript">
+	var __google_search_api_key = '002927436671919309528:5tbnozlnot8';
+	jQuery.event.special.touchstart = { setup: function (e, t, s) { t.includes("noPreventDefault") ? this.addEventListener("touchstart", s, { passive: !1 }) : this.addEventListener("touchstart", s, { passive: !0 }) } }, jQuery.event.special.touchmove = { setup: function (e, t, s) { t.includes("noPreventDefault") ? this.addEventListener("touchmove", s, { passive: !1 }) : this.addEventListener("touchmove", s, { passive: !0 }) } };
+
+	$(document).ready(function () {
+		CheckCTAButtonDates()
+	})
+
+	function CheckCTAButtonDates() {
+
+		$('a.button').each(function () {
+
+			// get date strings
+			let strStart = $(this).parent().data('startdate')
+			let strEnd = $(this).parent().data('enddate')
+
+			if (!strStart || !strEnd) {
+				return;
+			}
+
+			// convert to dates
+			var today = new Date().toLocaleDateString();
+			var from = new Date(strStart).toLocaleDateString();
+			var to = new Date(strEnd).toLocaleDateString();
+
+			// check
+			if (!(from <= today && to >= today)) {
+				$(this).hide()
+			}
+		})
+	}
+</script>
+
+
+
+    <!-- ### JS - END ### -->
+    <!-- ### CSS ### -->
+    
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.13.3/themes/base/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="/Styles/NorquestCollege/main.min.css?v=20260923104536">
+
+<link rel="stylesheet" href="/Styles/NorquestCollege/tool-tips.css?2">
+
+
+    <!-- ### CSS - END ### -->
+    
+
+    <link href="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemPageComponents.min.css" rel="stylesheet" />
+
+
+    <!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-WK9BXLP');</script>
+
+<!-- End Google Tag Manager -->
+
+
+
+
+<script defer="" src="//fw-cdn.com/1494427/2436893.js" chat="false"></script>
+
+</head>
+
+<body class=" program">
+
+    <!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WK9BXLP"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+
+    <!-- SITE WIDE ALERTS -->
+    <!-- SITE WIDE ALERTS - END -->
+
+
+    <header class="program-page" data-ktc-search-exclude>
+
+        <div class="container">
+
+            <div class="logo">
+                <a href="/" aria-label="Goto homepage">
+                    <img src="/NorquestCollege/media/images/norquest-college-shield.svg" height="40" width="34" aria-hidden="true" alt="NorQuest College shield emblem">
+                    <img src="/NorquestCollege/media/images/norquest-college.svg" height="40" width="116" alt="NorQuest College">
+                </a>
+            </div>
+
+                <div class="select-a-start-date" role="button" aria-label="Choose a start date" tabindex="0">
+                    <span class="label">Choose a start date</span>
+                </div>
+
+
+
+            <!-- CART -->
+            
+
+
+
+            <!-- CART - END -->
+                <div class="open-button stuck" role="button" aria-label="Open Menu" tabindex="0">
+                    <span class="label" aria-hidden="true">Menu</span>
+                    <span class="icon"><i class="fas fa-bars" aria-hidden="true"></i></span>
+                </div>
+
+        </div>
+
+    </header>
+
+        <nav class="hidden" id="main-menu" data-ktc-search-exclude hidden>
+
+            <div class="scroll-container">
+                <div class="container">
+
+                    <section class="header">
+                        <div class="logo">
+                            <img src="/NorquestCollege/media/images/norquest-college-shield.svg" height="40" width="34" aria-hidden="true" alt="NorQuest College shield emblem">
+                            <img src="/NorquestCollege/media/images/norquest-college.svg" height="40" width="34" alt="NorQuest College">
+                        </div>
+                        <div class="close-button" role="button" aria-label="Close Menu" tabindex="0">
+                            <span class="label" aria-hidden="true">Close</span>
+                            <span class="icon"><i class="fas fa-times" aria-hidden="true"></i></span>
+                        </div>
+                    </section>
+
+                    <section class="search">
+                        <div id="siteSearch" class="search-form">
+                            <input name="txtSearchBox" type="text" id="txtSearchBox"
+                                   class="norquest_google_searchbox form-control"
+                                   aria-label="Search NorQuest site"
+                                   placeholder="Search NorQuest site"
+                                   data-searchpageurl="/search"
+                                   autocomplete="Off">
+                            <button onclick="" id="btnNorquestGoogleSearch" type="button" name="searchsite" class="">
+                                Search
+                            </button>
+                        </div>
+                    </section>
+
+                    <section class="menu">
+
+                                
+
+    <p><strong>Health Care Aide</strong></p>
+    <ul>
+                <li class="liMenu" data-pathname="index"><a class="menuLink 1" href="/programs-and-courses/programs/health-care-aide/index/">What to expect</a></li>
+                <li class="liMenu" data-pathname="program-requirements"><a class="menuLink 1" href="/programs-and-courses/programs/health-care-aide/program-requirements/">Program requirements</a></li>
+                <li class="liMenu" data-pathname="costs-and-courses"><a class="menuLink 1" href="/programs-and-courses/programs/health-care-aide/costs-and-courses/">Costs and courses</a></li>
+                <li class="liMenu" data-pathname="future-education"><a class="menuLink 1" href="/programs-and-courses/programs/health-care-aide/future-education/">Future education</a></li>
+    </ul>
+
+
+            
+
+                        <p><strong>Explore NorQuest</strong></p>
+                        
+        <ul>
+                <li>
+
+                        <a class="heading" href="#">Find a program or course</a>
+                            <div class="menu-container">
+                                <ul>
+                                        <li>
+                                            <a href="/programs-and-courses/browse-programs-and-courses" target="">Browse programs and courses</a>
+                                        </li>
+                                        <li>
+                                            <a href="/programs-and-courses/continuing-education" target="">Continuing education</a>
+                                        </li>
+                                        <li>
+                                            <a href="/programs-and-courses/microcredentials" target="">Microcredentials</a>
+                                        </li>
+                                        <li>
+                                            <a href="/programs-and-courses/open-studies" target="">Open Studies</a>
+                                        </li>
+                                        <li>
+                                            <a href="/programs-and-courses/dual-credit-programs" target="">Dual credit programs</a>
+                                        </li>
+                                        <li>
+                                            <a href="/programs-and-courses/learning-at-norquest" target="">Learning at NorQuest</a>
+                                        </li>
+                                        <li>
+                                            <a href="/programs-and-courses/information-sessions" target="">Information sessions</a>
+                                        </li>
+                                </ul>
+                            </div>
+                </li>
+                <li>
+
+                        <a class="heading" href="#">Learn how to apply to NorQuest</a>
+                            <div class="menu-container">
+                                <ul>
+                                        <li>
+                                            <a href="/applying-to-norquest/your-starting-point-at-norquest/" target="">Your starting point at NorQuest</a>
+                                        </li>
+                                        <li>
+                                            <a href="/applying-to-norquest/how-to-apply" target="">How to apply</a>
+                                        </li>
+                                        <li>
+                                            <a href="/applying-to-norquest/get-help-with-your-application" target="">Get help with your application</a>
+                                        </li>
+                                        <li>
+                                            <a href="/applying-to-norquest/funding-your-education" target="">Funding your education</a>
+                                        </li>
+                                        <li>
+                                            <a href="/applying-to-norquest/next-steps-for-accepted-students" target="">Next steps for accepted students</a>
+                                        </li>
+                                        <li>
+                                            <a href="/applying-to-norquest/testing-and-assessment-services" target="">Testing and assessment services</a>
+                                        </li>
+                                        <li>
+                                            <a href="/applying-to-norquest/transcripts-and-transfers" target="">Transcripts and transfers</a>
+                                        </li>
+                                        <li>
+                                            <a href="/applying-to-norquest/tuition-and-fees" target="">Tuition and fees</a>
+                                        </li>
+                                        <li>
+                                            <a href="/applying-to-norquest/forms-and-documents" target="">Forms and documents</a>
+                                        </li>
+                                        <li>
+                                            <a href="/applying-to-norquest/academic-schedule" target="">Academic schedule</a>
+                                        </li>
+                                </ul>
+                            </div>
+                </li>
+                <li>
+
+                        <a class="heading" href="#">Information sessions</a>
+                            <div class="menu-container">
+                                <ul>
+                                        <li>
+                                            <a href="/about-us/news-and-events/events?type=Info%20sessions&amp;location=Showing%20all" target="">Attend a program webinar</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/news-and-events/events?type=Info%20sessions&amp;program=Government%20Funding&amp;location=Showing%20all" target="">Government funding opportunities</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/news-and-events/events?type=International&amp;international=Prospective&amp;location=Showing%20all" target="">Webinars for international students</a>
+                                        </li>
+                                </ul>
+                            </div>
+                </li>
+                <li>
+
+                        <a class="heading" href="#">Information for international students</a>
+                            <div class="menu-container">
+                                <ul>
+                                        <li>
+                                            <a href="/international-students" target="">International students</a>
+                                        </li>
+                                        <li>
+                                            <a href="/programs-and-courses/browse-programs-and-courses?S=&amp;cat=&amp;del=&amp;out=&amp;stu=I&amp;loc=&amp;k=" target="">Browse programs and courses</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/news-and-events/events?type=International&amp;international=Prospective&amp;location=Showing%20all" target="">Webinars for international students</a>
+                                        </li>
+                                        <li>
+                                            <a href="/international-students/english-language-proficiency-requirements" target="">English language proficiency requirements</a>
+                                        </li>
+                                        <li>
+                                            <a href="/international-students/equivalencies" target="">Equivalencies</a>
+                                        </li>
+                                        <li>
+                                            <a href="/international-students/immigration" target="">Immigration</a>
+                                        </li>
+                                        <li>
+                                            <a href="/international-students/agents" target="">Agents</a>
+                                        </li>
+                                        <li>
+                                            <a href="/international-students/international-student-services" target="">International student services</a>
+                                        </li>
+                                        <li>
+                                            <a href="/international-students/international-projects" target="">International projects</a>
+                                        </li>
+                                        <li>
+                                            <a href="/international-students/learning-abroad" target="">Learning abroad</a>
+                                        </li>
+                                        <li>
+                                            <a href="/international-students/reduced-tuition-fees-for-ukrainian-students" target="">Reduced tuition fees for Ukrainian students</a>
+                                        </li>
+                                </ul>
+                            </div>
+                </li>
+                <li>
+
+                        <a class="heading" href="#">Student services</a>
+                            <div class="menu-container">
+                                <ul>
+                                        <li>
+                                            <a href="/student-services/accessibility-services" target="">Accessibility services</a>
+                                        </li>
+                                        <li>
+                                            <a href="/student-services/career-supports" target="">Career supports</a>
+                                        </li>
+                                        <li>
+                                            <a href="/student-services/health-and-wellness-supports" target="">Health and wellness supports</a>
+                                        </li>
+                                        <li>
+                                            <a href="/student-services/indigenous-student-services" target="">Indigenous student services</a>
+                                        </li>
+                                        <li>
+                                            <a href="/student-services/library" target="">NorQuest Library</a>
+                                        </li>
+                                        <li>
+                                            <a href="/student-services/tutorial-and-academic-coaching-services" target="">Tutorial and academic coaching</a>
+                                        </li>
+                                        <li>
+                                            <a href="/student-services" target="">See more student services</a>
+                                        </li>
+                                </ul>
+                            </div>
+                </li>
+                <li>
+
+                        <a class="heading" href="#">Resources for students</a>
+                            <div class="menu-container">
+                                <ul>
+                                        <li>
+                                            <a href="/student-resources/academic-schedule/" target="">Academic schedule</a>
+                                        </li>
+                                        <li>
+                                            <a href="/student-resources/after-graduation" target="">After graduation</a>
+                                        </li>
+                                        <li>
+                                            <a href="/student-resources/registering-in-classes" target="">Enrolling in courses</a>
+                                        </li>
+                                        <li>
+                                            <a href="/student-resources/funding-your-education" target="">Funding your education</a>
+                                        </li>
+                                        <li>
+                                            <a href="/student-resources/student-handbooks/?D" target="">Student handbooks</a>
+                                        </li>
+                                        <li>
+                                            <a href="/student-resources/?" target="">Find more student resources</a>
+                                        </li>
+                                </ul>
+                            </div>
+                </li>
+                <li>
+
+                        <a class="heading" href="#">Campus life</a>
+                            <div class="menu-container">
+                                <ul>
+                                        <li>
+                                            <a href="/campus-life/online-networking-and-mentorship" target="">Online networking and mentorship</a>
+                                        </li>
+                                        <li>
+                                            <a href="/campus-life/student-ambassadors" target="">Student ambassadors</a>
+                                        </li>
+                                        <li>
+                                            <a href="/campus-life/student-events" target="">Student events</a>
+                                        </li>
+                                        <li>
+                                            <a href="/campus-life/students-association-of-norquest-college" target="">Students&#x27; Association of NorQuest College</a>
+                                        </li>
+                                        <li>
+                                            <a href="/campus-life" target="">Experience more of campus life</a>
+                                        </li>
+                                </ul>
+                            </div>
+                </li>
+                <li>
+
+                        <a class="heading" href="#">Giving to NorQuest</a>
+                            <div class="menu-container">
+                                <ul>
+                                        <li>
+                                            <a href="/giving-to-norquest/" target="">Giving opportunities at NorQuest</a>
+                                        </li>
+                                        <li>
+                                            <a href="/giving-to-norquest/donate-now/" target="">Donate now</a>
+                                        </li>
+                                        <li>
+                                            <a href="/giving-to-norquest/1000-women/" target="">1000 Women</a>
+                                        </li>
+                                        <li>
+                                            <a href="/giving-to-norquest/creating-an-award-or-bursary/" target="">Creating an award or bursary</a>
+                                        </li>
+                                        <li>
+                                            <a href="/giving-to-norquest/establish-an-endowment-at-norquest/" target="">Establish an Endowment at NorQuest</a>
+                                        </li>
+                                        <li>
+                                            <a href="/giving-to-norquest/planned-giving/" target="">Planned giving</a>
+                                        </li>
+                                </ul>
+                            </div>
+                </li>
+                <li>
+
+                        <a class="heading" href="#">About NorQuest College</a>
+                            <div class="menu-container">
+                                <ul>
+                                        <li>
+                                            <a href="/about-us/about-norquest-college" target="">About NorQuest College</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/news-and-events" target="">News and events</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/centres-and-institutes" target="">Centres and Institutes</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/campuses-and-maps" target="">Campuses and maps</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://virtualtour.norquest.ca/norquest/home/featured-tours" target="_blank">Virtual Tour</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/college-directory" target="">College directory</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/governance" target="">Governance</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/facilities" target="">Facilities</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/office-of-equity" target="">Office of Equity</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/research-and-innovation" target="">Research and innovation</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/community-partnerships" target="">Community partnerships</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/resources" target="">Resources</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/policies-and-procedures" target="">Policies and procedures</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/publications-and-reports" target="">Publications and reports</a>
+                                        </li>
+                                        <li>
+                                            <a href="/about-us/social-hub" target="">Social hub</a>
+                                        </li>
+                                </ul>
+                            </div>
+                </li>
+        </ul>
+
+
+                    </section>
+
+                    <section class="quick-links">
+                        <p><strong>Login</strong></p>
+                        
+<ul>
+        <li>
+            <a href="http://outlook.norquest.ca" target="_blank">MyMail</a>
+        </li>
+        <li>
+            <a href="https://myclass.norquest.ca/login/index.php" target="_blank">misiwe peht&#xE2;kwan (Moodle)</a>
+        </li>
+        <li>
+            <a href="https://campus.norquest.ca/psp/campus/?cmd=login" target="_blank">MyQuest</a>
+        </li>
+        <li>
+            <a href="https://libcal.norquest.ca/seats?lid=1445&amp;gid=5838" target="_blank">Room booking</a>
+        </li>
+        <li>
+            <a href="https://connect.norquest.ca/" target="_blank">Staff portal</a>
+        </li>
+</ul>
+
+                        <p><strong>Important links</strong></p>
+                        
+<ul>
+        <li>
+            <a href="/applying-to-norquest/how-to-apply" target="">How to apply</a>
+        </li>
+        <li>
+            <a href="/applying-to-norquest/your-starting-point-at-norquest/" target="">Your starting point at NorQuest</a>
+        </li>
+        <li>
+            <a href="/international-students" target="">International students</a>
+        </li>
+        <li>
+            <a href="/continuing-education" target="">Continuing Education</a>
+        </li>
+        <li>
+            <a href="/applying-to-norquest/tuition-and-fees" target="">Tuition and fees</a>
+        </li>
+        <li>
+            <a href="https://studenthelp.norquest.ca/studenthelp" target="_blank">Service Desk</a>
+        </li>
+        <li>
+            <a href="/giving-to-norquest/donate-now/" target="">Donate</a>
+        </li>
+        <li>
+            <a href="/careers" target="">Careers</a>
+        </li>
+        <li>
+            <a href="/student-services/library/" target="">Library</a>
+        </li>
+</ul>
+                    </section>
+
+                </div>
+            </div>
+
+        </nav>
+
+
+    
+
+<script type="text/javascript">var tag = document.createElement('script'); tag.src = "https://www.youtube.com/iframe_api"; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);</script>
+
+
+<link rel="stylesheet" href="https://use.typekit.net/yod3huw.css">
+<style>
+    .pnHidden {
+        display: none !important;
+    }
+
+</style>
+
+
+    <header class="hero  ">
+
+        <div class="hero__container">
+            <div class="container-restricted">
+                <div class="breadcrumb-wrapper">
+                    <div class="breadcrumb">
+                        <ul>
+                            <li><a href="/programs-and-courses/browse-programs-and-courses">Programs and courses</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <h1 class="cx">
+                    <span class="classTitle ProgramTitle">Health Care Aide</span>
+                </h1>
+                <a href="/applying-to-norquest/how-to-apply/#HCA" title="Apply Now" class="btn special__reverse" style="">Apply now&nbsp;»</a>
+                    <a href="/request-information?p=Health Care Aide#request-information " title="Request more information" class="request-more-info">Or request  more information&nbsp;»</a>
+            </div>
+        </div>
+
+        <picture>
+
+            <!--<source media="(max-width: 859px)" srcset="/NorquestCollege/media/images/heroes/programs/avif/health-care-aide-mobile_1.avif?ext=.avif" type="image/avif">-->
+            <source media="(max-width: 859px)" srcset="" type="image/webp">
+            <source media="(max-width: 859px)" srcset="/NorquestCollege/media/images/heroes/programs/jpg-png/health-care-aide-mobile.png?ext=.png">
+
+            <!--<source media="(min-width: 860px)" srcset="/NorquestCollege/media/images/heroes/programs/avif/health-care-aide_1.avif?ext=.avif" type="image/avif">-->
+            <source media="(min-width: 860px)" srcset="/NorquestCollege/media/images/heroes/programs/webp/health-care-aide_1.webp?ext=.webp" type="image/webp">
+            <source media="(max-width: 860px)" srcset="/NorquestCollege/media/images/heroes/programs/jpg-png/health-care-aide.png?ext=.png">
+
+            <img alt="Health Care Aide" height="930" src="/NorquestCollege/media/images/heroes/programs/jpg-png/health-care-aide.png?ext=.png" width="480">
+        </picture>
+
+    </header>
+    <nav class="start-date visible hidden" id="start-date">
+
+        <div class="scroll-container">
+            <div class="container">
+
+                <section class="header">
+
+                    <div class="logo">
+                        <img src="/NorquestCollege/media/images/norquest-college-shield.svg">
+                        <img src="/NorquestCollege/media/images/norquest-college.svg">
+                    </div>
+
+                    <div class="close-button">
+                        <span class="label">Close</span>
+                        <span class="icon"><i class="fas fa-times"></i></span>
+                    </div>
+
+                </section>
+
+                    <section class="start-date-title" id="intakesText">
+                        <h3>Choose your start date to see related costs, courses, and program requirements.</h3>
+                        <a class="offeringexplained" href="/programs-and-courses/learning-at-norquest/definitions">Check out our delivery method definitions to see what fits your study best »</a>
+                    </section>
+
+                <section class="start-date-grid">
+                    <div class="program-tile-wrapper" id="list">
+                    </div>
+                </section>
+
+
+                <nav class="pager PaginationIntakes" role="navigation" aria-labelledby="pagination-heading">
+                    <h4 id="pagination-heading" class="visually-hidden">Pagination</h4>
+                    <ul class="pager__items js-pager__items" id="paging">
+                    </ul>
+                    <p>Showing <span id="pagesrange"></span>&nbsp;of <span id="totalPages"></span>&nbsp;upcoming start dates.</p>
+                </nav>
+
+
+                    <div class="container pagerIntakes">
+                        <hr>
+                        <div class="container-grid delivery-notes">
+
+                                <div class="container">
+                                    <article><h3>Program delivery notes</h3><p><sub style="vertical-align: top;">+</sub> This session is offered over <strong>12-months</strong> (3 terms)</p>
+
+<p><sub style="vertical-align: top;">*</sub> This session is offered over<strong> 8-months</strong> (2 terms)</p></article>
+                                </div>
+
+                        </div>
+
+                    </div>
+
+            </div>
+        </div>
+    </nav>
+    <section class="program-nav--wrapper">
+        <div class="container program-nav">
+            <nav class="hero-nav">
+                <div class="program-nav--title-wrap">
+                    <div class="program-nav--title">In this section</div>
+                    <div class="program-nav--expand">
+                        <svg height="16" viewBox="0 0 10 16" width="10" xmlns="http://www.w3.org/2000/svg">
+                            <path d="m5 0 5 7h-10zm0 16-5-7h10z" fill="#424242"></path>
+                        </svg>
+                    </div>
+                </div>
+                <ul>
+                    
+
+            <li class="liMenu" data-pathname="index"><a class="menuLink 4" href="/programs-and-courses/programs/health-care-aide/index/">What to expect</a></li>
+            <li class="liMenu" data-pathname="program-requirements"><a class="menuLink 4" href="/programs-and-courses/programs/health-care-aide/program-requirements/">Program requirements</a></li>
+            <li class="liMenu" data-pathname="costs-and-courses"><a class="menuLink 4" href="/programs-and-courses/programs/health-care-aide/costs-and-courses/">Costs and courses</a></li>
+            <li class="liMenu" data-pathname="future-education"><a class="menuLink 4" href="/programs-and-courses/programs/health-care-aide/future-education/">Future education</a></li>
+
+
+            
+                    <li class="startDateSelector" id="programAbbrSelector" data-abbr="HCA"></li>
+                </ul>
+
+            </nav>
+        </div>
+    </section>
+
+
+<main class="program  container--hasmodal">
+
+        
+<section class="container-flex container 1">
+    <article class="container-50">
+        <p class="intro-text">Train in one of Canada&rsquo;s largest Health Care Aide programs and prepare for a rewarding role supporting individuals who need care, dignity, and compassion. You&rsquo;ll build the skills to provide essential front-line support in hospitals, continuing care, and home care settings. Graduate ready to take the&nbsp;Alberta Health&nbsp;Care Aide&nbsp;Registration&nbsp;Exam and step into an in-demand career.</p>
+    </article>
+
+    <aside class="container-50">
+        <div class="program-detail-card-wrapper">
+            <h4>Program details</h4>
+            <div class="container-grid">  <span><h5>Outcome</h5>  <p>Certificate<br /></p>    </span>   <span><h5>Length</h5>   <p>2 or 3 terms</p> </span> <span><h5>Next start date</h5> <p>* January 2027</p></span><span class="span-3_"><h5>Location</h5> <p>Edmonton, Online</p></span><span><h5>Post-graduate work permit</h5> <p>Yes</p></span> </div>
+        </div>
+        <a href="#" class="btn standard inlineStartDateSelector" id="programAbbrSelector" data-abbr="HCA">View all start dates »</a>
+    </aside>
+</section>
+
+
+
+
+ <section class="container liststudentstories">  <div class="testimonial testimonial-full">  <div class="testimonial-img">      <img src="/NorquestCollege/media/images/student_success_stories/large/Nyssa-Koleric-large.jpg?ext=.jpg" alt="Nyssa Koleric - Health Care Aide">   </div>   <div class="testimonial-copy"> <p>   <p> My mom graduated from the NorQuest Health Care Aide program in 2011 and when I was there watching her walk across the stage to graduate, I thought, this is what I want to do. Having extra credits is going to help me a lot.  </p>    <div class="testimonial-footer">      <p><strong>Nyssa Koleric</strong></p>     <p>Health Care Aide, 2019 </p>   </div>  </div>  </div>  </section><section class="container 1left"><div class="container-grid"><article><h3>What to expect from the program</h3><p>NorQuest College is licensed to deliver the <a class="tool-tip" href="#hca-provincial-curriculum">Health Care Aide Government of Alberta Provincial Curriculum<i class="fas fa-question-circle"></i></a><strong>.</strong></p>
+
+<p>Graduates of the HCA Provincial Curriculum offered through NorQuest will meet the following mandated <a class="tool-tip" href="#hca-program-outcomes">program learning outcomes<i class="fas fa-question-circle"></i></a>&nbsp;which will help them to:</p>
+
+<ol>
+	<li>Perform competently within the roles and responsibilities as a HCA within the Alberta and the Canadian health care system.</li>
+	<li>Demonstrate professionalism, accountability, and responsibility as a HCA within a collaborative care team.</li>
+	<li>Provide ethical person-centred and culturally competent care to support, promote, and maintain the health and well-being, safety, independence, and comfort for the client across the lifespan in all health sectors.</li>
+	<li>Apply foundational theory, principles, and evidence-based practices to provide holistic care for clients across the life span and across all health sectors.</li>
+	<li>Communicate effectively with the collaborative care team.</li>
+	<li>Perform skills competently according to evidence-based guidelines across a variety of care settings for clients with various health needs and conditions.</li>
+	<li>Work with the collaborative care team to set and achieve common care goals.</li>
+	<li>Maintain safety of self, client, and environment by following government legislation, agency policy, and procedures.</li>
+	<li>Respond appropriately by recognizing, acting, reporting, and recording while integrating knowledge, practice, and experience to provide quality care.</li>
+	<li>Complete ongoing self-reflection to continuously develop HCA competencies.</li>
+</ol></article><article><h3>Graduate with experience</h3><p>NorQuest College believes in the importance of on-the-job experience that provides an enriched learning opportunity.</p>
+
+<p>You&rsquo;ll graduate from this program with<strong>&nbsp;320 hours of work experience</strong>&nbsp;from three practicums.</p>
+
+<h4><strong>Clinical placements</strong></h4>
+
+<p>You will take part in a full-time clinical practicum and must arrange your own transportation to and from the facility. You may need to travel up to 100 km.</p>
+
+<p>You will have  <a class="tool-tip" href="#hca-instructor-placements">two instructor-led clinical placements<i class="fas fa-question-circle"></i></a>&nbsp;and  <a class="tool-tip" href="#hca-preceptored-clinical"> one consolidated clinical placement<i class="fas fa-question-circle"></i></a>.</p></article></div><hr></section>
+
+
+<section class="container"><div class=""><h3>Selecting your delivery option </h3>
+
+<p>Choose an 8 or 12-month program from the delivery options below. Consider your learning style, flexibility, and preferred location when selecting.</p>
+
+<p>All delivery options include a mandatory in-person lab and clinical component (full days), which may account for 50% of course hours.</p>
+
+<h4>8 months</h4>
+
+<p><strong>In person</strong> - Edmonton Campus with all theory and lab classes on campus during the week (Monday to Friday) and clinicals in Edmonton and surrounding areas. If you attend all your classes in person, at the Edmonton campus, then you will complete your program in eight months when learning full-time.</p>
+
+<p><strong>Online with in-person labs</strong> - Edmonton Campus with theory classes provided online and lab classes (labs on Fridays and Saturdays) on campus and clinicals in Edmonton and surrounding areas. </p>
+
+<p><strong>Wetaskiwin</strong> &ndash; Wetaskiwin Campus with lab classes in the evenings on campus and clinicals in Wetaskiwin and surrounding areas. Theory classes will be online.</p>
+
+<h4>12 months</h4>
+
+<p><strong>Evening, in person</strong> - Edmonton Campus with all theory and lab classes on campus in the evenings and clinicals in Edmonton and surrounding areas. </p>
+
+<p>Once enrolled, you&rsquo;re expected to complete according to your chosen delivery option. Changes may be approved only in extenuating circumstances after meeting with a student program advisor and leadership.</p>
+
+<hr />
+<h3>Health Care Aide Workplace Education</h3>
+
+<p>Are you currently working as a health care aide, or in an equivalent care-giving position, and want to become certified? The <a href="/programs-and-courses/programs/health-care-aide-workplace/">Health Care Aide Workplace Education</a> option is offered throughout Alberta in partnership with health-care employers. It can be taken over twelve months, allowing you to study at home and have your skills assessed by a NorQuest College trained tutor at your worksite.</p>
+</div><hr /></section>
+
+<section class="container 1left"><div class="container-grid"><article><h3>Additional information</h3>
+
+<p>All health care aides must register with the College of Licensed Practical Nurses and Health Care Aides of Alberta (CLHA) to practice in Alberta. To qualify for registration, you must pass the&nbsp;<a href="https://www.clha.com/hca/apply-to-be-an-hca/registration-information/alberta-hca-registration-examination/" target="_blank&quot;">Alberta HCA Registration Exam</a>.</p>
+
+<p>Visit the <a data-mce-href="https://www.clha.com/hca/apply-to-be-an-hca/registration-information/" href="https://www.clha.com/hca/apply-to-be-an-hca/registration-information/" target="_blank"><strong>CLHA website</strong></a>&nbsp;for further details on registration.</p></article></div><hr></section>
+<section class="container 1left"><div class="container-grid"><article><h3>Career opportunities</h3><p>Health care aides work under the direct or indirect supervision of a regulated health professional, such as a nurse, in a variety of settings including:</p>
+
+<ul>
+	<li>Assisted living facilities</li>
+	<li>Home care</li>
+	<li>Long-term care</li>
+</ul>
+
+<p>Upon successful completion of the program, you will be prepared to work in continuing care institutions, home care agencies, group homes, assisted or supportive living facilities, day programs, specialized care centres and programs, acute care hospitals, and private care.</p>
+
+<p>For more information on related careers see:&nbsp;</p>
+
+<ul>
+	<li><a data-mce-href="https://alis.alberta.ca/occinfo/occupations-in-alberta/occupation-profiles/health-care-aide/" href="https://alis.alberta.ca/occinfo/occupations-in-alberta/occupation-profiles/health-care-aide/" target="_blank">ALIS OCCinfo occupational profiles</a></li>
+	<li><a data-mce-href="https://alis.alberta.ca/occinfo/occupations-in-alberta/occupation-profiles/health-care-aide/%22%20/l%20%22wage-salary" href="https://alis.alberta.ca/occinfo/occupations-in-alberta/occupation-profiles/health-care-aide/%22%20/l%20%22wage-salary" target="_blank">ALIS WAGEinfo salary info</a></li>
+</ul></article><article><h3>What to expect as a health care aide</h3>
+
+<p>Health care aides provide basic health services, assistance, and support with daily living activities for clients who have medical conditions or major functional limitations.</p>
+
+<p>Applicants should assess their ability to fulfill the demands of the health care aide occupation.</p>
+
+<p>As a health care aide, you must be able to:</p>
+
+<ul>
+	<li>Work day, evening, and night shifts any day of the week</li>
+	<li>Be on your feet for extended periods of time</li>
+	<li>Bend, squat and lift up to 40 pounds to move clients who have minimal body strength</li>
+	<li>Function effectively in stressful situations</li>
+	<li>Perform all skills independently</li>
+</ul></article></div><hr></section>
+<section class="container"><article><h3 id="pgwpDetails">Important information for international students</h3><p>This program qualifies for a study permit, and a post-graduate work permit in Canada. Learn more about <a href='https://www.norquest.ca/international-students/immigration/' target='_blank'>obtaining your study permit</a>, and <a href='https://www.norquest.ca/international-students/immigration/post-graduation-work-permit/' target='_blank'>how to apply for a post-graduate work permit</a> along with other important immigration information.</p><hr></article></section>
+
+<div class="container">  <a id="courselist"></a> <section class="featured-media-content ">
+<div class="content centered">
+<h3>See where you&#39;ll learn</h3>
+
+<div class="intro-text">
+<p>Explore the classrooms and program labs designed to enhance your learning.</p>
+<a class="button" href="https://virtualtour.norquest.ca/norquest/learning-spaces/health-sciences" target="_blank">View the virtual tour</a></div>
+</div>
+
+<div class="media video-player ">
+<div class="video">
+<video autoplay="" loop="" muted="" playsinline="" poster="/NorquestCollege/media/images/virtual-tour/health-labs.jpg"><source src="/NorquestCollege/media/video/virtual-tour/health-labs.mp4?1" /></video>
+</div>
+</div>
+</section>
+
+<hr />
+<h3>Related programs</h3>
+  </div><!-- Related Programs --><section class="container"><div class="tile-wrapper horz"><div class="tile-item">  <h3><a href='/programs-and-courses/programs/health-care-aide-workplace/'>Health Care Aide Workplace </a></h3> Experienced caregiver in a health-related role? Earn your health care aide certificate on the job with NorQuest&rsquo;s workplace program. </div> <div class="tile-item">  <h3><a href='/programs-and-courses/programs/practical-nurse/'>Practical Nurse </a></h3> Earn your Practical Nurse diploma in 2 years and get ready to write your licensing exam, with hands-on training, clinical placements, and flexible study options.
+ </div> </div><hr /></section>
+ <section class="container "><div> <div class="event-block-title">   <h3>Attend an upcoming information session</h3>
+<p>Join a student recruiter and program expert to explore everything you need to know, from program structure, career pathways, transfer agreements, admission requirements, and more. Bring your questions—we’re here to help!</p>    </section> <section class="container "><div class=" program-event-list events-1x"><div class="event"> <div class="time"> <p><i class="fas fa-calendar" aria-hidden="true"></i>October 17, 2026 </p> <p><i class="fas fa-blank" aria-hidden="true">&nbsp;</i>10:00 a.m. - 2:00 p.m. </p>
+        </div>
+        <div class="location">
+            <p><i class="fas fa-map-marker-alt" aria-hidden="true"></i>Other</p>
+        </div>
+        <a href="/about-norquest/news-and-events/events/2026/open-house/" class="button" target="_blank">Register</a>
+    </div>
+</div>   </section>
+
+
+
+            <section class="container margin-top">
+                <div class="call-to-action call-to-action__full-width">
+                    <div class="cta-copy">
+                        <p>Have a question about the&nbsp;Health Care Aide&nbsp;program?</p>
+                    </div>
+                    <div class="cta-btn">
+                        <a href="/request-information?p=Health Care Aide#request-information" class="request-more-info">Request more information&nbsp;»</a>
+                    </div>
+                </div>
+            </section>
+        <!-- TEST only START -->
+        <!-- TEST only END -->
+
+    <div id="hca-provincial-curriculum" class="help" hidden  ><div class="background">&nbsp;</div>
+<div class="content">
+<div class="controls"><span aria-role="button" class="button secondary close" tabindex="0">Close</span></div>
+<div class="help-item"><p>In Alberta, the health care aide profession is unregulated. To ensure consistent training of the health care aide workforce in Alberta, the Government of Alberta Health Care Aide Provincial Curriculum is used by licensed post-secondary institutions.</p>
+</div>
+</div>
+</div>
+<div id="hca-program-outcomes" class="help" hidden  ><div class="background">&nbsp;</div>
+<div class="content">
+<div class="controls"><span aria-role="button" class="button secondary close" tabindex="0">Close</span></div>
+<div class="help-item">Health Care Aides must demonstrate the competencies outlined in the&nbsp;<a data-mce-href="https://open.alberta.ca/dataset/e1fbd562-1571-40b8-bc17-71687dab444c/resource/9e34d246-c389-4753-bda4-f53a77e02f80/download/ah-hca-core-competency-profile-2018.pdf" href="https://open.alberta.ca/dataset/e1fbd562-1571-40b8-bc17-71687dab444c/resource/9e34d246-c389-4753-bda4-f53a77e02f80/download/ah-hca-core-competency-profile-2018.pdf" rel="noreferrer" target="_blank">Alberta Health Care Aide&nbsp;Competency Profile</a></div>
+</div>
+</div>
+<div id="hca-instructor-placements" class="help" hidden  ><div class="background">&nbsp;</div>
+<div class="content">
+<div class="controls"><span aria-role="button" class="button secondary close" tabindex="0">Close</span></div>
+<div class="help-item">Instructor-led clinical placements (<a data-mce-href="https://www.norquest.ca/programs-and-courses/courses/HLTH1550-clinical-experience-i/" href="https://www.norquest.ca/programs-and-courses/courses/HLTH1550-clinical-experience-i/" rel="noreferrer" target="_blank">HLTH 1550</a>&nbsp;and&nbsp;<a data-mce-href="https://www.norquest.ca/programs-and-courses/courses/HLTH2550-clinical-experience-ii/" href="https://www.norquest.ca/programs-and-courses/courses/HLTH2550-clinical-experience-ii/" rel="noreferrer" target="_blank">HLTH 2550</a>): For Edmonton campus and online students, placements will occur in Edmonton or surrounding communities. Wetaskiwin campus students will be placed in Wetaskiwin or surrounding communities. Your schedule may include day or evening shifts, Monday to Friday.</div>
+</div>
+</div>
+<div id="hca-preceptored-clinical" class="help" hidden  ><div class="background">&nbsp;</div>
+<div class="content">
+<div class="controls"><span aria-role="button" class="button secondary close" tabindex="0">Close</span></div>
+<div class="help-item"><p>A <strong>mentored clinical placement </strong>is a type of hands-on learning experience where a student is paired one-on-one with a practicing professional (called a buddy) in a real work setting.</p>
+
+<p>Your consolidated clinical placement&nbsp;(<a data-mce-href="https://www.norquest.ca/programs-and-courses/courses/HLTH2551-consolidated-clinical-experience/" href="https://www.norquest.ca/programs-and-courses/courses/HLTH2551-consolidated-clinical-experience/" rel="noreferrer" target="_blank">HLTH 2551</a>) may be arranged in or close to your community. Your schedule may include day, evening, or night shifts any day of the week, including weekends</p>
+</div>
+</div>
+</div>
+
+
+</main>
+
+
+    <div>
+        <!-- start lead gen form-->
+        <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+        <!-- ++++++++++++++++++++++++++++++++++++ -->
+
+        <script src="/Scripts/custom/core/tool-tips.js?A"></script>
+        <link rel="stylesheet" href="/Styles/NorquestCollege/tool-tips.css?2">
+
+        <link rel="stylesheet" href="/Styles/NorquestCollege/popup.css?2">
+        <link rel="stylesheet" href="/Styles/NorquestCollege/how-to-apply-pop-up.css">
+        <link rel="stylesheet" href="/Styles/NorquestCollege/featured.css">
+        <div class="popups">
+
+                <div class="popup primary invisible" hidden>
+                    <div class="dismiss" role="button" aria-label="Close"><i class="fas fa-times">&nbsp;</i></div>
+                    <h4>Get our application guide</h4>
+                    <div class="content">
+                        <p>Get all the information you need on applying for your program in one, easy-to-follow application guide. We’ll deliver it straight to your inbox.</p>
+                        <a href="#" class="button">Yes, send me the guide</a>
+                    </div>
+                </div>
+        </div>
+
+
+
+
+        <div class="how-to-apply-guide-wrapper fade-in" hidden>
+            <div class="how-to-apply-guide">
+                <div class="dismiss" role="button" aria-label="Close"><i class="fas fa-times">&nbsp;</i></div>
+                <h3>Learn how to apply to Health Care Aide</h3>
+                <div class="content">
+                    <div class="container-text_" runat="server" clientidmode="Static" id="requestinformationform">
+
+                        
+
+
+
+
+
+
+
+
+
+
+<div id='form_container_682f10f4-bbca-40b0-9b97-dcf360ea8546' class='kentico_form_builder_container'><input type='hidden' id='hidden_fields_Lead_Request_Form' />
+
+                <script src='/Scripts/NorquestCollege/forms.min.js'></script>
+                <script>
+                $(document).ready(function(){ var target = document.querySelector('#form_container_682f10f4-bbca-40b0-9b97-dcf360ea8546')
+                    var observer = new MutationObserver(function(mutations) {
+                        HideFormField('#hidden_fields_Lead_Request_Form');
+                        DisplayErrorCount('682f10f4-bbca-40b0-9b97-dcf360ea8546');
+                        SetInputRequiredValidationOnBlur('682f10f4-bbca-40b0-9b97-dcf360ea8546');
+                    });
+
+                    // Pass in the target node, as well as the observer options.
+                    observer.observe(target, {
+                        attributes:    true,
+                        childList:     true,
+                        characterData: true
+                    });
+
+                 });
+
+            
+                </script><div id="form-Lead_Request_Form-e404_wrapper-ea912a90-20ff-4c0f-b303-95e6974767ab"><form action="/kentico.components/en-ca/kentico.formwidget/kenticoformwidget/formsubmit?formName=Lead_Request_Form&amp;prefix=form-Lead_Request_Form-e404&amp;displayValidationErrors=False" data-ktc-ajax-update="form-Lead_Request_Form-e404_wrapper-ea912a90-20ff-4c0f-b303-95e6974767ab" id="form-Lead_Request_Form-e404" method="post" onsubmit="window.kentico.updatableFormHelper.submitForm(event);">
+
+
+<div  class="single_column_form_section     ">
+
+    <div class="legend">Get all the information you need on applying for your program in one, easy-to-follow application guide. We&rsquo;ll deliver it straight to your inbox.</div>
+   
+    <div class="single_column_form_section_body">
+        
+<div class="form-field">
+
+
+<label class="control-label req" for="form-Lead_Request_Form-e404_Market_SelectedValue">What type of student are you?</label>
+
+
+
+
+<div class="editing-form-control-nested-control" id="Lead_Request_Form_Market">
+
+
+
+
+
+<select class="form-control req" data-ktc-notobserved-element="" id="form-Lead_Request_Form-e404_Market_SelectedValue" name="form-Lead_Request_Form-e404.Market.SelectedValue"><option value="domestic"> Canadian citizen/permanent resident/refugee</option>
+<option value="indigenous"> Indigenous student</option>
+<option value="international"> International student</option>
+</select>
+
+<div class="field-validation-valid" data-valmsg-for="form-Lead_Request_Form-e404.Market.SelectedValue" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Lead_Request_Form-e404.Market" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+<div class="form-field">
+
+
+<label class="control-label req" for="form-Lead_Request_Form-e404_EmailAddress_Value">Email address</label>
+
+
+
+
+<div class="editing-form-control-nested-control" id="Lead_Request_Form_EmailAddress">
+
+
+
+
+
+<input class="form-control req" data-ktc-notobserved-element="" id="form-Lead_Request_Form-e404_EmailAddress_Value" name="form-Lead_Request_Form-e404.EmailAddress.Value" type="text" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Lead_Request_Form-e404.EmailAddress.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Lead_Request_Form-e404.EmailAddress" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+<div class="form-field recaptcha">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control" id="Lead_Request_Form_Recaptcha">
+
+
+
+
+
+
+        <script type="text/javascript">
+            var renderRecaptchaform_Lead_Request_Form_e404_Recaptcha_Value = function () {
+                grecaptcha.render('google-recaptcha-form-Lead_Request_Form-e404_Recaptcha_Value', {
+                    'sitekey': '6LfmYgcTAAAAAOeTMPQ1toJ-IadH6B999ne3WRq5',
+                    'theme': 'light',
+                    'size': 'normal',
+                    'type': 'image',
+                });
+            };
+        </script>
+        <script src="https://www.google.com/recaptcha/api.js?onload=renderRecaptchaform_Lead_Request_Form_e404_Recaptcha_Value&render=explicit&hl=en" async defer></script>
+<input class="form-control" data-ktc-notobserved-element="" id="form-Lead_Request_Form-e404_Recaptcha_Value" name="form-Lead_Request_Form-e404.Recaptcha.Value" type="hidden" value="" />        <div id="google-recaptcha-form-Lead_Request_Form-e404_Recaptcha_Value"></div>
+        <noscript>
+            <div>
+                <div style="width: 302px; height: 422px; position: relative;">
+                    <div style="width: 302px; height: 422px; position: absolute;">
+                        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LfmYgcTAAAAAOeTMPQ1toJ-IadH6B999ne3WRq5" style="width: 302px; height: 422px; border-style: none; border: 0; overflow:hidden;"></iframe>
+                    </div>
+                </div>
+                <div style="width: 300px; height: 60px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+                    <textarea id="noscript-google-recaptcha-form-Lead_Request_Form-e404_Recaptcha_Value" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;" data-ktc-notobserved-element></textarea>
+                </div>
+            </div>
+        </noscript>
+
+
+
+
+<div class="field-validation-valid" data-valmsg-for="form-Lead_Request_Form-e404.Recaptcha" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+    </div>
+
+    
+    
+
+</div>
+
+
+
+
+<div  class="single_column_form_section hide    grey">
+
+    
+   
+    <div class="single_column_form_section_body">
+        
+<div class="form-field">
+
+
+<label class="control-label" for="form-Lead_Request_Form-e404_Program_Value">Program</label>
+
+
+
+
+<div class="editing-form-control-nested-control" id="Lead_Request_Form_Program">
+
+
+
+
+
+<input class="form-control" data-ktc-notobserved-element="" id="form-Lead_Request_Form-e404_Program_Value" name="form-Lead_Request_Form-e404.Program.Value" type="text" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Lead_Request_Form-e404.Program.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Lead_Request_Form-e404.Program" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+    </div>
+
+    
+    
+
+</div>
+
+<input type="submit" value="Yes, send me a guide" /><input name="__RequestVerificationToken" type="hidden" value="CfDJ8KKo5pte3r5Etfk9mdz-q3FBf4QQTSoWDhlyShmk2kSWNg34tN4ozrQF_IYTtPTT6IwLaMBDSOlkCpVtBF3qUlYnCYHGSfZzyMxitD6fuoGoT_RuGuEDOpCWQHSx1h1hyAlE8vOGTcWIpFsMj4QMDqM" /><script type="text/javascript">
+if (document.readyState === 'complete') {
+  window.kentico.updatableFormHelper.registerEventListeners({"formId":"form-Lead_Request_Form-e404","targetAttributeName":"data-ktc-ajax-update","unobservedAttributeName":"data-ktc-notobserved-element"});
+} else {
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.kentico.updatableFormHelper.registerEventListeners({"formId":"form-Lead_Request_Form-e404","targetAttributeName":"data-ktc-ajax-update","unobservedAttributeName":"data-ktc-notobserved-element"});
+    });
+}</script></form></div><div id='form_error_count_682f10f4-bbca-40b0-9b97-dcf360ea8546' class='form_error_count'></div></div>
+    
+
+
+
+
+                        <details class="privacy">
+                            <summary>
+                                Privacy notice statement
+                            </summary>
+                            <p>The personal information requested on this form is collected under the authority of section 33(c) of Alberta’s Freedom of Information and Protection of Privacy Act and will be used to process your request for information, for internal statistical and enrolment management purposes and to provide ongoing information regarding our courses, programs or events. For information about the collection and use of this information, contact the Regulatory & Compliance Coordinator at 10215 108 Street NW, Edmonton, AB, T5J 1L6, Tel. 780.644.6000.</p>
+                        </details>
+                    </div>
+                    <div id="international-not-suitable" hidden>
+                        <p>We appreciate your interest in NorQuest’s <span>Program name</span>! However, this program is not open to international students at this time. For a full list of programs available to international students, please <a href="/programs-and-courses/browse-programs-and-courses.aspx?S=P&amp;cat=&amp;del=&amp;out=&amp;stu=I&amp;loc=&amp;k=">visit the Programs and Courses page</a>.</p>
+
+                        <p>If you’re not sure which program is perfect for you, NorQuest’s International Student Recruiters can help. Contact <a href="mailto:mailto:international.recruitment@norquest.ca">international.recruitment@norquest.ca</a> or <a href="https://outlook.office365.com/owa/calendar/InternationalRecruitment1@NorQuest.onmicrosoft.com/bookings/s/lSjfYhI8skWP779cNBLXBw2" target="_blank">book a meeting</a>.</p>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <script src="/Scripts/custom/temp/popup.js"></script>
+        <script src="/Scripts/custom/temp/how-to-apply-guide-program.js?x"></script>
+
+        <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+        <!-- +++++++++++++++++++++++++++++LEAD+++++++++++++++++++++++++++++++++++-->
+        <!-- END Lead Gen -->
+    </div>
+
+
+
+
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1046407906;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+
+<noscript>
+    <div style="display: inline;">
+        <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1046407906/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    let programIntakesRecords = [];
+    let todosPages = [];
+    let selectedPage;
+    let selectedIndex;
+    let startIndex;
+    let endIndex;
+    let pagingList;
+    let pagesize = 8;
+    var rangestarter = 1;
+
+    var myProgram = document.getElementById('programAbbrSelector').getAttribute('data-abbr');
+    let url = "/norquestcollege_program/getprogramintakes?programAbbr=" + myProgram;
+
+    fetch(url, {
+        method: 'post',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        //make sure to serialize your JSON body
+        body: JSON.stringify({
+            programAbbr: myProgram
+        })
+
+    })
+        .then(response => response.json())
+        .then(json => {
+
+            programIntakesRecords = json;
+
+            //paging
+            let pagesNumber = programIntakesRecords.length / 8;
+            const pagesNumberRemainder = pagesNumber % 1;
+            const pagesNumberWithoutRemainder = Math.floor(pagesNumber);
+            if (pagesNumberRemainder > 0)
+                pagesNumber = Number(pagesNumberWithoutRemainder) + 1;
+            todosPages = Array(pagesNumber)
+                .fill(1)
+                .map((x, i) => i + 1);
+            startIndex = 0;
+            endIndex = pagesize;
+            selectedPage = 1;
+            nextPage = selectedPage + 1;
+
+            if (programIntakesRecords.length > 0) {
+
+                //fill the paging list
+                injectPagination();
+
+                //start mapping the list
+                injectPage();
+            }
+            else {
+                for (let el of document.querySelectorAll('.PaginationIntakes')) el.style.display = 'none';
+            }
+
+            if (programIntakesRecords.length < 8) for (let el of document.querySelectorAll('.PaginationIntakes')) el.style.display = 'none';
+
+
+        });
+
+    injectPagination = () => {
+
+        let html = "";
+        //html = `<li class="page-item"><a class="page-link" href="javascript:void(0)" onclick="goPrevious()">***1** Previous</a></li>`;
+        for (let page = selectedPage; page <= (programIntakesRecords.length / 8) + 1; page++) {
+
+            //    html += `   <li class="pager__item pager__item--"><a class="page-link" href="javascript:void(0)" onclick="goPrevious()">++9966 ${page}</a></li>`;
+
+            //html += `<li class="pager__item pager__item--next page-item">
+            //                <a title="Go to next page" class="page-link" href="javascript:void(0)" onclick="goNext()">
+            //                    Next
+
+            //                </a></li>`;
+
+            let previuosLink = " ";
+            let nextLink = " ";
+
+
+            if (programIntakesRecords.length > 8) {
+                if (selectedPage > 1) {
+                    previuosLink = ` <li class="pager__item pager__item--previous"><a class="page-link" href="javascript:void(0)" onclick="goPrevious(1)"> « Previous</a></li>`;
+                }
+
+                if ((selectedPage * 8) < (programIntakesRecords.length)) {
+                    nextLink = `<li class="pager__item pager__item--next page-item"><a title="Go to next page" class="page-link" href="javascript:void(0)" onclick="goNext()"> Next »</a></li>`;
+                }
+            }
+
+            pagingList = previuosLink + printNavigation(selectedPage) + nextLink;
+        };
+
+        document.getElementById("paging").innerHTML = pagingList;
+
+        document.getElementById("totalPages").innerHTML = programIntakesRecords.length;
+        var rangeEnd = programIntakesRecords.length;
+
+        if (selectedPage != 1)
+            rangestarter = startIndex + 1;
+        else
+            rangestarter = 1;
+
+        if (endIndex < rangeEnd)
+            rangeEnd = endIndex;
+
+        document.getElementById("pagesrange").innerHTML = (rangestarter + " - " + rangeEnd);
+    };
+
+    injectPage = () => {
+
+        const list = programIntakesRecords
+            ? programIntakesRecords
+                .slice(startIndex, endIndex)
+                .map(
+                    (programItem, index) =>
+
+                        `
+                                                                                                                 <a OnClick="setYear('${programItem[0]['yearTitle']}','${programItem[0]['monthTitle']}','${programItem[0]['year']}','${programItem[0]['abbr']}','${programItem[0]['intakeid']}');" tabindex='0'>
+                                                                                                    <div class="program-tile">
+                                                                                                         <h4>${programItem[0]['monthTitleDisplaylbl']} ${programItem[0]['yearDisplaylbl']}</h4>
+                                                                                                              <div class="program-tile-info">
+                                                                                                                <div>
+                                                                                                                  <p><small>Location</small></p>
+                                                                                                                  <p><b>${programItem[0]['location']}</b></p>
+                                                                                                                </div>
+                                                                                                                <div>
+                                                                                                                  <p><small>Delivery</small></p>
+                                                                                                                  <p><b>${programItem[0]['delivery']}</b></p>
+                                                                                                                    ${printIntakeTimeofDay(programItem[0]['timeofday'])}
+                                                                                                                </div>
+                                                                                                              </div>
+
+                                                                                                              <p><small>Statuses</small></p>
+                                                                                                                    <div class="program-statuses">
+                                                                                                                    ${printIntakeStatus(programItem[0]['demoesticStatus'], 'Canadian / PR')}
+                                                                                                                    ${printIntakeStatus(programItem[0]['IndigenousStatus'], 'Indigenous')}
+                                                                                                                    ${printIntakeStatus(programItem[0]['internationalStatus'], 'International')}
+                                                                                                                    </div>
+                                                                                                            </div>
+                                                                                                                  </a>          `
+                )
+                .join("") //to prevent unexpected comma
+            : "";
+        document.getElementById("list").innerHTML = list;
+    };
+    //__________________________________________________________________________________________
+
+    goPrevious = (selectedCountPage) => {
+        if (selectedPage != 1) {
+            startIndex -= pagesize * selectedCountPage;
+            endIndex -= pagesize * selectedCountPage;
+
+
+            selectedPage--;
+            nextPage = selectedPage + 1;
+            injectPage();
+            injectPagination();
+        }
+    };
+
+    //__________________________________________________________________________________________
+    goNext = () => {
+        if (selectedPage < todosPages.length) {
+
+            startIndex += pagesize;
+            endIndex += pagesize;
+
+
+
+            selectedPage++;
+            nextPage = selectedPage + 1;
+            injectPage();
+            injectPagination();
+        }
+    };
+
+    //__________________________________________________________________________________________
+    goDoubleNext = (count) => {
+        if (selectedPage < todosPages.length) {
+
+            startIndex += pagesize * count;
+            endIndex += pagesize * count;
+
+
+            selectedPage = count;
+
+
+            nextPage = count + 1;
+            injectPage();
+            injectPagination();
+        }
+    };
+    //__________________________________________________________________________________________
+    goPage = (pageNo) => {
+        if (pageNo == 1)
+            startIndex = 0;
+        else {
+            startIndex = (pageNo * pagesize) - pagesize;
+
+        }
+        endIndex = startIndex + pagesize;
+
+        if (selectedPage <= todosPages.length) {
+            selectedPage = pageNo;
+            nextPage = selectedPage + 1;
+            injectPage();
+            injectPagination();
+        }
+    };
+    //__________________________________________________________________________________________
+
+    printNavigation = (selectedPage) => {
+
+        if (selectedPage <= todosPages.length) {
+            var nav = '';
+            for (let i = 1; i < todosPages.length + 1; i++) {
+                if (i == selectedPage)
+                    nav += `<li class="pager__item is-active"><a href="#" title="Page"><span class="visually-hidden">Page</span> ${i} </a>  </li>`;
+                else
+                    nav += `<li class="pager__item "><a title="Go to page" class="page-link" href="javascript:void(0)" onclick="goPage(${i})">${i}</a></li>`;
+            }
+            return nav;
+        }
+    };
+
+    //__________________________________________________________________________________________
+
+    function printIntakeStatus(statusType, intake) {
+        // alert(statusType);
+        if (statusType == '<span class="NA">NA</span>')
+            return '';
+        else
+            return '<p><span>' + intake + '</span > ' + statusType + '</p > ';
+    }
+
+    function printIntakeTimeofDay(timeOfDayintake) {
+        // alert(timeOfDayintake);
+        if (timeOfDayintake != '')
+
+            return '<p><small>Time</small></p> <p><b>' + timeOfDayintake + '</b></p>';
+
+        else
+            return '';
+
+    }
+
+    function convertFetch(data) { // copy from Shaun See you here
+
+        // data = data.replace('<string xmlns="http://tempuri.org/">[', '');
+        // data = data.replace(']</string>', '');
+
+        data = JSON.parse(data);
+        return data
+    }
+
+    function setYear(yeartitle, monthTitle, year, programAbbr, intakeid) {
+
+        // document.getElementById('startDateID').innerHTML = yeartitle;
+
+        var url = "/norquestcollege_program/setprogramdatabyyear";
+
+        fetch(url, {
+            method: 'post',
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+            }, body: JSON.stringify({
+                academicyear: yeartitle
+                ,
+                programAbbr: programAbbr
+                ,
+                year: year,
+                monthTitle: monthTitle
+            })
+
+        }).then(response => response.text())
+            .then(data => {
+                if (data == '"Ok"') {
+                    // alert(returnData);
+                    window.location = location.protocol + '//' + location.host + location.pathname + '?year=' + yeartitle + '&term=' + monthTitle + '&intakeid=' + intakeid;
+                }
+            });
+    }
+
+
+</script>
+
+
+    <footer data-ktc-search-exclude>
+
+        <div class="container container-grid">
+
+            <div class="landack_large">
+                <img alt="acknowledgement" aria-hidden="true" height="17" src="/NorquestCollege/media/images/land-acknowledgement.svg" style="width:125px; margin-bottom:1.6rem;" width="125">
+                <p><strong>Amiskwacîwâskahikan</strong></p>
+                <p><b>We acknowledge that we are on the traditional lands, referred to as Treaty 6 Territory and that the City of Edmonton and all the people here are beneficiaries of this peace and friendship treaty.</b></p>
+            </div>
+
+            <div class="contact-information">
+                <p><a href="https://www.google.com/maps/place/NorQuest+College+Edmonton+Campus/@53.5438192,-113.5074114,17z/data=!3m1!4b1!4m5!3m4!1s0x53a022364a94d353:0x16bf82865d946382!8m2!3d53.543816!4d-113.5052227" target="_blank">NorQuest College<br>
+                10215 108 Street NW<br>
+                Edmonton, Alberta, Canada<br>
+                T5J 1L6</a></p>
+                <ul>
+	                <li><a href="/about-us/campuses-and-maps?"><i aria-hidden="true" class="fas fa-map-marker-alt">&nbsp;</i>Campus map</a></li>
+	                <li><a href="/about-us/college-directory?"><i aria-hidden="true" class="fas fa-phone">&nbsp;</i>Contact us</a></li>
+                </ul>
+            </div>
+
+            <div>
+                
+
+    <nav>
+        <ul class="menu__footer-block">
+                <li>
+                    <a href="/programs-and-courses" target="">Programs and courses</a>
+                </li>
+                <li>
+                    <a href="/applying-to-norquest/how-to-apply" target="">How to apply</a>
+                </li>
+                <li>
+                    <a href="/student-resources" target="">Student resources</a>
+                </li>
+                <li>
+                    <a href="/about-us" target="">About us</a>
+                </li>
+        </ul>
+    </nav>
+
+            </div>
+
+        </div>
+
+        <div class="container bottom-footer-content">
+
+            <div class="footer-social_small">
+                <ul>
+                    <li>
+                        <a href="https://www.facebook.com/NorQuestCollege/" target="_blank" aria-label="Facebook">
+                            <span style="font-size:24px">
+                                <i class="fab fa-facebook-square" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/norquest" target="_blank" aria-label="Twitter">
+                            <span style="font-size:24px">
+                                <i class="fab fa-twitter-square" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://instagram.com/norquestcollege" target="_blank" aria-label="Instagram">
+                            <span style="font-size:24px">
+                                <i class="fab fa-instagram-square" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UC1GYY8NHkJ-ANkl7c8w030w" target="_blank" aria-label="Youtube">
+                            <span style="font-size:24px">
+                                <i class="fab fa-youtube-square" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/norquest-college" target="_blank" aria-label="Linkedin">
+                            <span style="font-size:24px">
+                                <i class="fab fa-linkedin" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.snapchat.com/add/norquestcollege" target="_blank" aria-label="Snapchat">
+                            <span style="font-size:24px">
+                                <i class="fab fa-snapchat-square" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <p>
+                ©<span class="copyright">2026</span> NorQuest College. All rights reserved.
+            </p>
+
+            <nav>
+                <ul class="menu__footer-bottom">
+                    <li><a href="/terms-of-use">Terms of use</a></li>
+                    <li><span>&nbsp;|&nbsp;</span></li>
+                    <li><a href="/privacy-statement">Privacy statement</a></li>
+                </ul>
+            </nav>
+
+            <div class="footer-social_large" style="flex-grow: 1">
+                <ul>
+                    <li>
+                        <a href="https://www.facebook.com/NorQuestCollege/" target="_blank" aria-label="Facebook">
+                            <span style="font-size:24px">
+                                <i class="fab fa-facebook-square" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/norquest" target="_blank" aria-label="Twitter">
+                            <span style="font-size:24px">
+                                <i class="fab fa-twitter-square" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://instagram.com/norquestcollege" target="_blank" aria-label="Instagram">
+                            <span style="font-size:24px">
+                                <i class="fab fa-instagram-square" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UC1GYY8NHkJ-ANkl7c8w030w" target="_blank" aria-label="Youtube">
+                            <span style="font-size:24px">
+                                <i class="fab fa-youtube-square" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/norquest-college" target="_blank" aria-label="Linkedin">
+                            <span style="font-size:24px">
+                                <i class="fab fa-linkedin" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.snapchat.com/add/norquestcollege" target="_blank" aria-label="Snapchat">
+                            <span style="font-size:24px">
+                                <i class="fab fa-snapchat-square" aria-hidden="true"> </i>
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </footer>
+
+
+
+
+    <!-- ### JS ### -->
+
+    <script src="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemFormComponents.min.js"></script>
+
+    
+
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script async src="/Scripts/Custom/core/main.js?acss"></script>
+<script async src="/Scripts/Custom/core/main-menu.js?acss"></script>
+
+<script src="/Scripts/NorquestCollege/main.min.js?v=20260923104536"></script>
+<script defer="" src="//fw-cdn.com/1494427/2436893.js" chat="false"></script>
+
+
+
+
+
+
+    <script async src="/Scripts/Custom/core/main-menu.js?acss"></script>
+
+
+    <!-- ### JS - END ### -->
+    
+
+</body>
+</html>

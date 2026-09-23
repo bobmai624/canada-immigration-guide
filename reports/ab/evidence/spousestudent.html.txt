@@ -1,0 +1,767 @@
+<!doctype html>
+
+
+<html class="no-js" dir="ltr" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head prefix="og: http://ogp.me/ns#">
+    
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta charset="utf-8"/>
+<title>Help your spouse or common-law partner work in Canada - Canada.ca</title>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+
+
+	<meta name="content-page-ref" content="qDXvbDLVz6dqE3VkUsNuO8Ay6l5vjzJtQjuI4UVANUROjw4lU63fgtIIXQrI_LWGovj9UWJ3taHhNPFDUQCb46xhKTFLVhJLbHsa2bkSyBj7e8DKIrGR-L1JV9-_ww7nvccBkeiaBdzzQHDi3YreLCI6mlEbowvzPWjzfFm_6XhbAh4TPRioKvLyEt1IEhB8ha0tA2DRuPfS_5s4dQBvnQ">
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/"/>
+	<link rel="canonical" href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada.html"/>
+    <link rel="alternate" hreflang="en" href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada.html"/>
+	
+        <link rel="alternate" hreflang="fr" href="https://www.canada.ca/fr/immigration-refugies-citoyennete/services/etudier-canada/travail/aider-son-conjoint-son-partenaire-trouver-emploi-canada.html"/>
+	
+	
+		<meta name="description" content="International students
+Help your spouse or common-law partner work in Canada"/>
+	
+	
+		<meta name="keywords" content="Foreign students; Study permit; Work permits; International students"/>
+	
+	
+		<meta name="author" content="Immigration, Refugees and Citizenship Canada"/>
+	
+	
+		<meta name="dcterms.title" content="Help your spouse or common-law partner work in Canada"/>
+	
+	
+		<meta name="dcterms.description" content="International students
+Help your spouse or common-law partner work in Canada"/>
+	
+	
+		<meta name="dcterms.creator" content="Immigration, Refugees and Citizenship Canada"/>
+	
+	
+	
+		<meta name="dcterms.language" title="ISO639-2/T" content="eng"/>
+	
+	
+	
+		<meta name="dcterms.issued" title="W3CDTF" content="2024-03-19"/>
+	
+	
+		<meta name="dcterms.modified" title="W3CDTF" content="2026-02-03"/>
+	
+	
+	
+		<meta name="dcterms.spatial" content="Canada"/>
+	
+	
+	
+	
+	
+	
+		<meta name="dcterms.identifier" content="Immigration _Refugees_and_Citizenship_Canada"/>
+	
+	
+	
+        
+
+
+
+	<meta prefix="fb: https://www.facebook.com/2008/fbml" property="fb:pages" content="378967748836213, 160339344047502, 184605778338568, 237796269600506, 10860597051, 14498271095, 209857686718, 160504807323251, 111156792247197, 113429762015861, 502566449790031, 312292485564363, 1471831713076413, 22724568071, 17294463927, 1442463402719857, 247990812241506, 730097607131117, 1142481292546228, 1765602380419601, 131514060764735, 307780276294187, 427238637642566, 525934210910141, 1016214671785090, 192657607776229, 586856208161152, 1146080748799944, 408143085978521, 490290084411688, 163828286987751, 565688503775086, 460123390028, 318424514044, 632493333805962, 370233926766473, 173004244677, 1562729973959056, 362400293941960, 769857139754987, 167891083224996, 466882737009651, 126404198009505, 135409166525475, 664638680273646, 169011506491295, 217171551640146, 182842831756930, 1464645710444681, 218822426028, 218740415905, 123326971154939, 125058490980757, 1062292210514762, 1768389106741505, 310939332270090, 285960408117397, 985916134909087, 655533774808209, 1522633664630497, 686814348097821, 230798677012118, 320520588000085, 103201203106202, 273375356172196, 61263506236, 353102841161, 1061339807224729, 1090791104267764, 395867780593657, 1597876400459657, 388427768185631, 937815283021844, 207409132619743, 1952090675003143, 206529629372368, 218566908564369, 175257766291975, 118472908172897, 767088219985590, 478573952173735, 465264530180856, 317418191615817, 428040827230778, 222493134493922, 196833853688656, 194633827256676, 252002641498535, 398018420213195, 265626156847421, 202442683196210, 384350631577399, 385499078129720, 178433945604162, 398240836869162, 326182960762584, 354672164565195, 375081249171867, 333050716732105, 118996871563050, 240349086055056, 119579301504003, 185184131584797, 333647780005544, 306255172770146, 369589566399283, 117461228379000, 349774478396157, 201995959908210, 307017162692056, 145928592172074, 122656527842056">
+
+
+	
+
+
+    
+
+
+	<script src="//assets.adobedtm.com/be5dfd287373/abb618326704/launch-3eac5e076135.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous"/>
+<script blocking="render" src="/etc/designs/canada/wet-boew/js/gcdsloader.min.js"></script>
+<link rel="stylesheet" href="/etc/designs/canada/wet-boew/css/theme.min.css"/>
+<link href="/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon"/>
+<noscript><link rel="stylesheet" href="/etc/designs/canada/wet-boew/css/noscript.min.css"/></noscript>
+
+
+
+
+
+
+
+                                <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="KBFUZ-C9D7G-RB8SX-GRGEN-HGMC9",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"KBFUZ-C9D7G-RB8SX-GRGEN-HGMC9",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="eqa5abvpbw3aajqacqkqaeadtrvliank-f-b141e8e4e-clienttons-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"41","ak.cp":"653406","ak.ai":parseInt("231651",10),"ak.ol":"0","ak.cr":4,"ak.ipv":6,"ak.proto":"h2","ak.rid":"38cda11","ak.r":25453,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.cport":51661,"ak.gh":"23.48.95.23","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1790181802","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Yp7nxpHEyAY+Zdi36lKWT2wfTTqd5IjxeevWBdg9puubZyoizLJfQHVIWZheXNZcdrMSvIINVJGNlJBOkVKCo2ZwNC5AQD8WukHJueDwK3aNng2/C+RjcuWdfzQYqIfb53fFwz2Z2h5j06FVEkSZd8qFESS/Mn9WEmijIBqyPzACy4POBWdRJ8G3dISQvp21YMY1So6lnnEy61vhgzAEPRxHdg6c/qOxzwWw98M7D2PwcIpJB3Gy45apU4iz4iPYAvACbAQJwPHj0oMpIidV2MHnvs3UZ21SpZ7UgDrjbyJ0ao74y5Zp24GW2k6uDDjp12w4OO9WZ0Ijpfa3VMfb8DhMfcH4OPE8d+9LENE/vWG3H8B1UzBF7JRW/uTKA/zsrBsJ+mnKGPIL7/iVehknagIeul5NucVusH9BAHvB2wg=","ak.pv":"846","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+
+<body vocab="http://schema.org/" typeof="WebPage" resource="#wb-webpage" class="">
+
+    
+
+
+
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+        
+        
+        <div class="global-header"><nav><ul id="wb-tphp">
+	<li class="wb-slc"><a class="wb-sl" href="#wb-cont">Skip to main content</a></li>
+	<li class="wb-slc"><a class="wb-sl" href="#wb-info">Skip to &#34;About government&#34;</a></li>
+	
+</ul></nav>
+
+<header>
+	<div id="wb-bnr" class="container">
+		<div class="row">
+			
+			<section id="wb-lng" class="col-xs-3 col-sm-12 pull-right text-right">
+    <h2 class="wb-inv">Language selection</h2>
+    <div class="row">
+        <div class="col-md-12">
+            <ul class="list-inline mrgn-bttm-0">
+                <li>
+                    <a lang="fr" href="/fr/immigration-refugies-citoyennete/services/etudier-canada/travail/aider-son-conjoint-son-partenaire-trouver-emploi-canada.html">
+                        
+                            <span class="hidden-xs" translate="no">Fran&ccedil;ais</span>
+                            <abbr title="Fran&ccedil;ais" class="visible-xs h3 mrgn-tp-sm mrgn-bttm-0 text-uppercase" translate="no">fr</abbr>
+                        
+                        
+                    </a>
+                </li>
+                
+                
+            </ul>
+        </div>
+    </div>
+</section>
+				<div class="brand col-xs-9 col-sm-5 col-md-4" property="publisher" resource="#wb-publisher" typeof="GovernmentOrganization">
+					
+                    
+					
+						
+						<a href="/en.html" property="url">
+							<img src="/etc/designs/canada/wet-boew/assets/sig-blk-en.svg" alt="Government of Canada" property="logo"/>
+							<span class="wb-inv"> /
+								
+								<span lang="fr">Gouvernement du Canada</span>
+							</span>
+						</a>
+					
+					<meta property="name" content="Government of Canada"/>
+					<meta property="areaServed" typeof="Country" content="Canada"/>
+					<link property="logo" href="/etc/designs/canada/wet-boew/assets/wmms-blk.svg"/>
+				</div>
+				<section id="wb-srch" class="col-lg-offset-4 col-md-offset-4 col-sm-offset-2 col-xs-12 col-sm-5 col-md-4">
+					<h2>Search</h2>
+					
+<form action="/en/services/immigration-citizenship/search.html" method="get" name="cse-search-box" role="search">
+	<div class="form-group wb-srch-qry">
+		    
+		
+		    <label for="wb-srch-q" class="wb-inv">Search IRCC</label>
+			<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Search IRCC"/>
+		
+
+		<datalist id="wb-srch-q-ac">
+		</datalist>
+	</div>
+	<div class="form-group submit">
+	<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+	</div>
+</form>
+
+				</section>
+		</div>
+	</div>
+	<hr/>
+	
+	<div class="container"><div class="row">
+		
+        <div class="col-md-8">
+        <nav class="gcweb-menu" typeof="SiteNavigationElement">
+		<h2 class="wb-inv">Menu</h2>
+		<button type="button" aria-haspopup="true" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+<ul role="menu" aria-orientation="vertical" data-ajax-replace="/content/dam/canada/sitemenu/sitemenu-v2-en.html">
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://travel.gc.ca/">Travel and tourism</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/health.html">Health</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/science.html">Science and innovation</a></li>
+	<li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.canada.ca/en/services/life-events.html">Manage life events</a></li>
+</ul>
+
+		
+        </nav>   
+        </div>
+		
+		
+		<div class="col-xs-offset-6 col-xs-6 col-md-offset-0 col-md-4">
+		<section id="wb-so">
+	    <h2 class="wb-inv">Sign in</h2>
+        <a class="btn btn-primary" href="/en/immigration-refugees-citizenship/services/application/account.html"><span class="visible-xs">IRCC sign in</span><span class="hidden-xs">IRCC sign in</span></a>
+        </section>
+        </div>
+		
+		
+    </div></div>
+	
+		<nav id="wb-bc" property="breadcrumb"><h2 class="wb-inv">You are here:</h2><div class="container"><ol class="breadcrumb">
+<li><a href='/en.html'>Canada.ca</a></li>
+<li><a href='/en/services/immigration-citizenship.html'>Immigration and citizenship</a></li>
+<li><a href='/en/immigration-refugees-citizenship/services/study-canada.html'>Study in Canada as an international student</a></li>
+<li><a href='/en/immigration-refugees-citizenship/services/study-canada/work.html'>Working in Canada as an international student</a></li>
+</ol></div></nav>
+
+
+	
+
+  
+</header>
+</div>
+
+    
+
+</div>
+
+    
+
+
+
+
+	
+
+
+
+    
+    
+
+    
+    
+        <main property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement" class="container">
+            
+            <div class="mwsgeneric-base-html parbase section">
+
+
+
+    <h1 property="name" id="wb-cont"><span class="small">International students</span><br>
+Help your spouse or common-law partner work in Canada</h1>
+
+
+
+</div>
+<div class="mwsgeneric-base-html parbase section">
+
+
+
+    
+<p>The spouses and common-law partners of <strong>some</strong> international students may be eligible for an open work permit. An&nbsp;<strong>open work permit</strong>&nbsp;lets them work for any employer in Canada, except for one that <strong>either</strong></p>
+<ul>
+  <li>is listed as ineligible on the&nbsp;<a href="/en/immigration-refugees-citizenship/services/work-canada/employers-non-compliant.html">list of employers who have failed to comply with the conditions</a>, <strong>or</strong></li>
+  <li>regularly offers striptease, erotic dance, escort services, or erotic massages</li>
+</ul>
+<h2>On this page</h2>
+<ul>
+  <li><a href="#who">Who can apply</a></li>
+  <li><a href="#how">How to apply</a></li>
+  <li><a href="#extending">Extending an open work permit</a></li>
+</ul>
+<h2 id="who">Who can apply</h2>
+<p>Your spouse or common-law partner <strong>must meet the eligibility criteria</strong> listed below to be eligible for an open work permit.</p>
+<p id="eligibility">Starting January&nbsp;21, 2025, your spouse or common-law partner may be eligible for an <a href="http://ircc.canada.ca/english/helpcentre/answer.asp?qnum=176&amp;top=17">open work permit</a> if you have a valid study permit <strong>and</strong> you’re either</p>
+<ul>
+  <li>studying in a <strong>master’s degree</strong> program of 16&nbsp;months or longer</li>
+  <li>studying in a <strong>doctoral degree</strong> program</li>
+  <li>participating in an <a href="#pilot-programs">eligible program</a>, <strong>or</strong></li>
+  <li>studying in one of the following professional degree programs at a university:
+    <ul>
+      <li>Doctor of Dental Surgery (DDS, DMD)</li>
+      <li>Bachelor of Law or Juris Doctor (LLB, JD, BCL)</li>
+      <li>Doctor of Medicine (MD)</li>
+      <li>Doctor of Optometry (OD)</li>
+      <li>Pharmacy (PharmD, BS, BSc, BPharm)</li>
+      <li>Doctor of Veterinary Medicine (DVM)</li>
+      <li>Bachelor of Science in Nursing (BScN, BSN)</li>
+      <li>Bachelor of Nursing Science (BNSc)</li>
+      <li>Bachelor of Nursing (BN)</li>
+      <li>Bachelor of Education (BEd)</li>
+      <li>Bachelor of Engineering (BEng, BE, BASc)</li>
+    </ul>
+  </li>
+</ul>
+<p>If they’re not eligible for this open work permit, they may be able to get <a href="/en/immigration-refugees-citizenship/services/work-canada/need-permit.html">another type of work permit</a>.</p>
+<details>
+  <summary id="pilot-programs"><strong>Eligible programs</strong></summary>
+  <div class="table-responsive">
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th scope="col">Province or territory</th>
+          <th scope="col">Program name</th>
+          <th scope="col">Eligibility period</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Outside of Quebec</td>
+          <td>Francophone Minority Communities Student Pilot (FMCSP)</td>
+          <td>From August 26, 2024</td>
+        </tr>
+        <tr>
+          <td>Quebec</td>
+          <td><span lang="fr">Le projet de reconnaissance des compétences d’infirmières et d’infirmiers recrutés à l’international</span></td>
+          <td>From April 30, 2024</td>
+        </tr>
+        <tr>
+          <td>Quebec</td>
+          <td><ul>
+              <li><span lang="fr">Projet de reconnaissance des compétences d’inhalothérapeutes formés à l’étranger</span></li>
+              <li><span lang="fr">Projet de recrutement et reconnaissance des compétences de technologistes médicaux formés à l’étranger</span></li>
+            </ul></td>
+          <td>From January 21, 2025</td>
+        </tr>
+        <tr>
+          <td>Ontario</td>
+          <td>Supervised Practice Experience Partnership</td>
+          <td>From January 21, 2025</td>
+        </tr>
+        <tr>
+          <td>Manitoba</td>
+          <td>Nurse Re-Entry (Red River College Polytechnic)</td>
+          <td>From January 21, 2025</td>
+        </tr>
+        <tr>
+          <td>British Columbia</td>
+          <td><ul>
+              <li>Internationally Educated Midwives Bridging Program (The University of British Columbia)</li>
+              <li>Canadian Pharmacy Practice Program (CP3) (The University of British Columbia)</li>
+              <li>Post-Degree Diploma: Nursing Practice in Canada (Langara College)</li>
+            </ul></td>
+          <td>From January 21, 2025</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</details>
+<h3>Documents to provide</h3>
+<p>Your spouse or common-law partner must provide <strong>one</strong> of the following documents to prove your enrolment in a program of study:</p>
+<ul>
+  <li>a <a href="/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html#doc1">valid letter of acceptance</a> from your designated learning institution (DLI)</li>
+  <li>a proof of enrolment letter from your DLI</li>
+  <li>transcripts from your current program</li>
+</ul>
+<p>If applicable, they must also provide proof that you’re participating or enrolled in one of the eligible programs, such as</p>
+<ul>
+  <li>a letter from the province or territory </li>
+  <li>a letter of acceptance from a participating DLI indicating admission to the program </li>
+</ul>
+<p>We’ll also ask them to provide additional documents, such as proof of their relationship to you, the student.</p>
+<div class="well well-sm">
+  <h3 class="mrgn-tp-0">How long the open work permit will be valid</h3>
+  <p>Most of the time, your spouse or common-law partner’s work permit will be&nbsp;valid for the same period of time as your study permit.</p>
+</div>
+<h2 id="how">How to apply</h2>
+<p>In most cases, your spouse or common-law partner must apply online for a work permit.</p>
+<h3>Step 1: Make sure they have what they need</h3>
+<p>To apply online, they’ll need</p>
+<ul>
+  <li>a scanner or camera to create electronic copies of their documents, and</li>
+  <li>a valid <a href="#centred-popup" class="wb-lbx" role="button">credit</a> or <a href="#centred-popup2" class="wb-lbx" role="button">debit</a> card</li>
+</ul>
+<h3>Step 2: Read the instruction guide</h3>
+<p>Even if they apply online, they should <a href="/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5553-applying-change-conditions-extend-your-stay-canada-worker.html">read the instruction guide</a> <strong>before</strong> they complete their application. The guide will explain how to complete each field on the form.</p>
+<h3>Step 3: Prepare their answers for the online tool</h3>
+<p>Before they can upload their forms, they must answer some questions. We use their answers to create a personalized document checklist for them.</p>
+<p><strong>Open work permit applications for spouses or common-law partners of students</strong></p>
+<p>Due to a technical issue with online applications, you must use the following instructions to apply for the open permit online:</p>
+<ul>
+  <li>You must answer <a href="/en/immigration-refugees-citizenship/services/come-canada-tool.html">some questions</a> to create a personalized document checklist.</li>
+  <li>Answer the following questions in the tool <strong>exactly</strong> as shown based on if:</li>
+</ul>
+<details>
+  <summary><strong>You’re applying from outside Canada</strong></summary>
+  <ul>
+    <li>When asked: Will you be coming to Canada under an active public policy or special measure announced by IRCC?
+      <ul>
+        <li>Answer <strong>No</strong></li>
+      </ul>
+    </li>
+    <li>When asked: Are you a <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#spouse">spouse</a>, <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#common_law_partner">common-law partner</a> or <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#dependent_child">dependent child</a> of a person who has or is applying for a work permit?
+      <ul>
+        <li>Answer <strong>Yes</strong></li>
+      </ul>
+    </li>
+    <li>When asked: Are you a <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#spouse">spouse</a> or <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#common_law_partner">common-law partner</a> of a person who holds a study permit?
+      <ul>
+        <li>Answer <strong>Yes</strong></li>
+      </ul>
+    </li>
+    <li>When asked: What type of work permit do you want to apply for?
+      <ul>
+        <li>Answer “<strong>A work permit for a spouse of an international student, or for a family member of a worker</strong>”</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+<details>
+  <summary><strong>You’re applying from inside Canada</strong></summary>
+  <ul>
+    <li>When asked: Does one of the following apply to you? I am applying for an open work permit under an active public policy or pilot program announced by IRCC.
+      <ul>
+        <li>Answer <strong>No</strong></li>
+      </ul>
+    </li>
+    <li>When asked: Are you a <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#spouse">spouse</a>, <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#common_law_partner">common-law partner</a> or <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#dependent_child">dependent child</a> of a person who holds a valid work permit or is applying for a work permit?
+      <ul>
+        <li>Answer <strong>Yes</strong></li>
+      </ul>
+    </li>
+    <li>When asked: Are you a <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#spouse">spouse</a> or <a href="/en/services/immigration-citizenship/helpcentre/glossary.html#common_law_partner">common-law partner</a> of a person who holds a study permit?
+      <ul>
+        <li>Answer <strong>Yes</strong></li>
+      </ul>
+    </li>
+  </ul>
+</details>
+<h3>Step 4: Know the fees you have to pay</h3>
+<p>In most cases, their fees will include processing fees for them and anyone they include on their application.</p>
+<p>We’ll ask them to pay their fees at the end of their application.</p>
+<h3>Step 5: Create their online account or sign in</h3>
+<p>They need an account to apply online. They can use their account to:</p>
+<ul>
+  <li>pay their fees</li>
+  <li>submit their application</li>
+  <li>check their status</li>
+</ul>
+<p><a href="/en/immigration-refugees-citizenship/services/application/account.html" class="btn btn-primary">Create an account or sign in</a></p>
+<details>
+  <summary>
+    <h3>If they can’t apply online</h3>
+  </summary>
+  <p>They can submit a paper application if either:</p>
+  <ul>
+    <li>they can’t apply online because of a disability</li>
+    <li>there’s a problem with the online application</li>
+  </ul>
+  <p><a href="/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada/alternate-format.html">What to do if they can’t apply online</a></p>
+</details>
+<h2 id="extending">Extending an open work permit</h2>
+<p>Your spouse or common-law partner may be eligible to extend their existing open work permit under this stream if you meet the following requirements:</p>
+<ul>
+  <li>You have a valid study permit.</li>
+  <li>You’re physically in Canada or will physically be in Canada while studying.</li>
+  <li>You’re a full-time student enrolled in a <a href="/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html#eligibility">PGWP-eligible program</a> at a designated learning institution (DLI).</li>
+  <li>You’re not in the last term of your study program.</li>
+</ul>
+<p>Additionally, your spouse or common-law partner cannot extend their open work permit under this stream beyond the expiration date of your study permit. </p>
+<h3>Documents you need</h3>
+<p>Your spouse or common-law partner must give the following documents to prove your enrolment in a program of study leading to a degree:</p>
+<ul>
+  <li>proof that you’re a full-time student at one of the types of schools listed above, which can include
+    <ul>
+      <li>a letter of enrolment from your DLI</li>
+      <li>transcripts from your current program</li>
+    </ul>
+  </li>
+  <li>a copy of your study permit</li>
+</ul>
+<p><a href="/en/immigration-refugees-citizenship/services/work-canada/extend.html" class="btn btn-primary">Extend  your open work permit</a></p>
+
+
+</div>
+<div class="reference parbase section"><div class="cq-dd-paragraph"><div class="par parsys"><div class="mwsgeneric-base-html parbase section">
+
+
+
+     <span data-incl-name="payment-credit-eng"></span> 
+
+  <section class="mfp-hide modal-dialog modal-content overlay-def" id="centred-popup">
+      <header class="modal-header">
+        <p class="h3 modal-title mrgn-tp-0">Credit cards and prepaid cards</p>
+      </header>
+      <div class="modal-body">
+        <p>We accept credit cards and prepaid cards from:</p>
+        <ul>
+          <li>Visa<sup>®</sup>,</li>
+          <li>MasterCard<sup>®</sup>,</li>
+          <li>American Express<sup>®</sup>, and</li>
+          <li>JCB.</li>
+        </ul>
+        <p>If you use a prepaid credit card, keep it for <strong>at least</strong> 18&nbsp;months after you pay to make refunds easier.</p>
+        <p>We also accept all Visa Debit cards.</p>
+        <p>The card you use does not have to be in your name. The cardholder’s name will appear on the receipt but it does not need to match your application.</p>
+      </div>
+    </section>
+
+
+</div>
+
+</div>
+</div>
+</div>
+<div class="reference parbase section"><div class="cq-dd-paragraph"><div class="par parsys"><div class="mwstext section"><span data-incl-name="payment-debit-eng"></span> 
+<section class="mfp-hide modal-dialog modal-content overlay-def" id="centred-popup2"> 
+ <header class="modal-header"> 
+  <p class="h4 modal-title mrgn-tp-0">Debit cards</p> 
+ </header> 
+ <div class="modal-body"> 
+  <p>It must:</p> 
+  <ul> 
+   <li>be from a Canadian bank using <a href="http://www.interac.ca/en/interac-online-consumer.html" rel="external">INTERAC<sup>®</sup> Online</a>, and</li> 
+   <li>be registered for online banking through your bank’s website.</li> 
+  </ul> 
+  <p>We also accept all Visa Debit cards. If your card has the Visa Debit logo on it, alone or with the INTERAC<sup>®</sup> Online logo, select Visa Debit as your payment method.</p> 
+  <p>The card you use does not have to be in your name. The cardholder’s name will appear on the receipt but it does not need to match your application.</p> 
+ </div> 
+</section></div>
+
+</div>
+</div>
+</div>
+<div class="mwsgeneric-base-html parbase section">
+
+
+
+    <nav role="navigation" class="mrgn-bttm-lg">
+<h3 class="wb-inv">Document navigation</h3>
+<ul class="pager">
+<li class="next"><a href="/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation.html" rel="next">Next: Stay in Canada after graduation</a></li>
+</ul>
+</nav>
+
+
+</div>
+<div class="mwsmediaplayer section">
+
+    <script>
+
+    function docReady(fn) {
+        // see if DOM is already available
+        if (document.readyState === "complete" || document.readyState === "interactive") {
+            // call on next available tick
+            setTimeout(fn, 1);
+        } else {
+            document.addEventListener("DOMContentLoaded", fn);
+        }
+    }    
+
+    docReady(function() {
+
+        let customcss = document.createElement('link');
+        customcss.setAttribute('rel', 'stylesheet');
+        customcss.setAttribute('href', 'https://test.canada.ca/wayfinding-orientation-2023/css/split-h1.css');  
+        document.head.appendChild(customcss);       
+	});
+</script>
+
+
+</div>
+
+
+            <section class="pagedetails">
+    <h2 class="wb-inv">Page details</h2>
+
+    
+
+    
+    
+<gcds-date-modified>
+	2026-02-03
+</gcds-date-modified>
+
+
+</section>
+        </main>
+    
+
+
+
+    
+
+
+
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+
+</div>
+
+    
+
+
+
+
+    
+
+
+
+
+    
+        
+        
+        <div class="newpar new section">
+
+</div>
+
+    
+        
+        
+        <div class="par iparys_inherited">
+
+    
+    
+    
+    
+        
+        
+        <div class="global-footer">
+    <footer id="wb-info">
+	    <h2 class="wb-inv">About this site</h2>
+    	<div class="gc-contextual"><div class="container">
+    <nav>
+        <h3>Immigration and citizenship</h3>
+        <ul class="list-col-xs-1 list-col-sm-2 list-col-md-3">
+            <li><a href="https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?top=15">Help Centre</a></li>
+        
+            <li><a href="/en/immigration-refugees-citizenship/corporate/contact-ircc.html">Contact us</a></li>
+        
+            <li><a href="/en/immigration-refugees-citizenship/services/application/check-status.html">Check your application status</a></li>
+        </ul>
+    </nav>
+</div></div>	
+        <div class="gc-main-footer">
+			<div class="container">
+	<nav>
+	<h3 class="toc-ignore">Government of Canada</h3>
+	<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3">
+		<li><a href="/en/contact.html">All contacts</a></li>
+		<li><a href="/en/government/dept.html">Departments and agencies</a></li>
+		<li><a href="/en/government/system.html">About government</a></li>
+	</ul>
+	<h4 class="toc-ignore"><span class="wb-inv">Themes and topics</span></h4>
+	<ul class="list-unstyled colcount-sm-2 colcount-md-3">			
+		<li><a href="/en/services/jobs.html">Jobs</a></li>
+		<li><a href="/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+		<li><a href="https://travel.gc.ca/">Travel and tourism</a></li>
+		<li><a href="/en/services/business.html">Business</a></li>
+		<li><a href="/en/services/benefits.html">Benefits</a></li>
+		<li><a href="/en/services/health.html">Health</a></li>
+		<li><a href="/en/services/taxes.html">Taxes</a></li>
+		<li><a href="/en/services/environment.html">Environment and natural resources</a></li>
+		<li><a href="/en/services/defence.html">National security and defence</a></li>
+		<li><a href="/en/services/culture.html">Culture, history and sport</a></li>
+		<li><a href="/en/services/policing.html">Policing, justice and emergencies</a></li>
+		<li><a href="/en/services/transport.html">Transport and infrastructure</a></li>
+		<li><a href="https://www.international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+		<li><a href="/en/services/finance.html">Money and finances</a></li>
+		<li><a href="/en/services/science.html">Science and innovation</a></li>
+		<li><a href="/en/services/indigenous-peoples.html">Indigenous Peoples</a></li>
+		<li><a href="/en/services/veterans-military.html">Veterans and military</a></li>
+		<li><a href="/en/services/youth.html">Youth</a></li>
+		<li><a href="/en/services/life-events.html">Manage life events</a></li>		
+	</ul>
+	</nav>
+</div>
+	
+        </div>
+        <div class="gc-sub-footer">
+            <div class="container d-flex align-items-center">
+            <nav>
+                <h3 class="wb-inv">Government of Canada Corporate</h3>
+                <ul>
+                
+                    		<li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+		<li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+		<li><a href="https://www.canada.ca/en/government/about-canada-ca.html">About Canada.ca</a></li>
+                
+                <li><a href="/en/transparency/terms.html">Terms and conditions</a></li>
+                <li><a href="/en/transparency/privacy.html">Privacy</a></li>
+                </ul>
+            </nav>
+                <div class="wtrmrk align-self-end">
+                    <img src="/etc/designs/canada/wet-boew/assets/wmms-blk.svg" alt="Symbol of the Government of Canada"/>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</div>
+
+    
+
+</div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+    <script type="text/javascript">_satellite.pageBottom();</script>
+
+
+
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="/etc/designs/canada/wet-boew/js/ep-pp.min.js"></script>
+<script src="/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
+<script src="/etc/designs/canada/wet-boew/js/theme.min.js"></script>
+
+
+
+
+</body>
+</html>

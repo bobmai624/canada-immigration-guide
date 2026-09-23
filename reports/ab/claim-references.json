@@ -1,0 +1,194 @@
+[
+  {
+    "page": "index.html",
+    "source_ids": [
+      "overview",
+      "processing"
+    ],
+    "checked_on": "2026-09-24"
+  },
+  {
+    "page": "01-framework.html",
+    "source_ids": [
+      "abbiz",
+      "abee",
+      "abfarm",
+      "abforeigncriteria",
+      "abgradbiz",
+      "abos",
+      "abrural",
+      "abtour",
+      "expired",
+      "fees",
+      "overview",
+      "pnp",
+      "points",
+      "processing",
+      "worker-apply"
+    ],
+    "checked_on": "2026-09-24"
+  },
+  {
+    "page": "02-fit.html",
+    "source_ids": [
+      "abos",
+      "abrural",
+      "abtour",
+      "work-permit"
+    ],
+    "checked_on": "2026-09-24"
+  },
+  {
+    "page": "03-rules.html",
+    "source_ids": [
+      "abbiz",
+      "abee",
+      "abfarm",
+      "abforeigncriteria",
+      "abgradbiz",
+      "abhealth",
+      "abos",
+      "abrural",
+      "abtechindustry",
+      "abtechlist",
+      "abtour",
+      "cec",
+      "communities",
+      "ee-selection",
+      "employers",
+      "farm-apply",
+      "fges-apply",
+      "fst",
+      "fsw",
+      "ges-apply",
+      "hca-regulation",
+      "health-regulators",
+      "pnp",
+      "points",
+      "processing",
+      "res-apply",
+      "worker-apply",
+      "worker-docs"
+    ],
+    "checked_on": "2026-09-24"
+  },
+  {
+    "page": "04-study.html",
+    "source_ids": [
+      "abos",
+      "cec",
+      "cip",
+      "dli",
+      "olds-fees-pdf",
+      "pgwp",
+      "school-ece-cost",
+      "school-ece-entry",
+      "school-nurse-entry",
+      "school-software",
+      "spousestudent",
+      "spouseworker",
+      "study-funds"
+    ],
+    "checked_on": "2026-09-24"
+  },
+  {
+    "page": "05-schools.html",
+    "source_ids": [
+      "abos",
+      "olds-fees-pdf",
+      "olds-international",
+      "pgwp",
+      "sait-language",
+      "school-agri",
+      "school-aircraft",
+      "school-civil",
+      "school-culinary",
+      "school-ece",
+      "school-ece-cost",
+      "school-ece-entry",
+      "school-hca",
+      "school-hca-cost",
+      "school-hca-entry",
+      "school-hospitality",
+      "school-mechanical",
+      "school-nurse",
+      "school-nurse-cost",
+      "school-nurse-entry",
+      "school-software"
+    ],
+    "checked_on": "2026-09-24"
+  },
+  {
+    "page": "06-timeline.html",
+    "source_ids": [
+      "abos",
+      "aos-after",
+      "bowp",
+      "farm-apply",
+      "fees",
+      "fges-apply",
+      "ges-apply",
+      "res-apply",
+      "work-permit",
+      "worker-apply",
+      "worker-docs"
+    ],
+    "checked_on": "2026-09-24"
+  },
+  {
+    "page": "07-risks.html",
+    "source_ids": [
+      "abbiz",
+      "abee",
+      "abhealth",
+      "abos",
+      "abrural",
+      "abtour",
+      "health-regulators",
+      "levels",
+      "noc-elements",
+      "processing",
+      "school-hospitality",
+      "updates",
+      "worker-apply"
+    ],
+    "checked_on": "2026-09-24"
+  },
+  {
+    "page": "08-commentary.html",
+    "source_ids": [
+      "abbiz",
+      "abhealth",
+      "abrural",
+      "abtour",
+      "spousestudent"
+    ],
+    "checked_on": "2026-09-24"
+  },
+  {
+    "page": "occupations.html",
+    "source_ids": [
+      "abee",
+      "abhealth",
+      "abos",
+      "abrural",
+      "abtechindustry",
+      "abtechlist",
+      "abtour",
+      "childcare",
+      "communities",
+      "find-noc",
+      "foreign-trades",
+      "hca-regulation",
+      "health-regulators",
+      "noc-elements",
+      "trades"
+    ],
+    "checked_on": "2026-09-24"
+  },
+  {
+    "page": "evidence.html",
+    "source_ids": [],
+    "checked_on": "2026-09-24"
+  }
+]

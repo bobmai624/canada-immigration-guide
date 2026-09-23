@@ -1,0 +1,797 @@
+
+  
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="goa-components-2 theme--default" id="template-service" lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="goa-components-2 theme--default" id="template-service">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="After your AAIP nomination is accepted, you may apply for permanent residence or to extend your work permit or nomination." />
+<link rel="canonical" href="https://www.alberta.ca/aaip-alberta-opportunity-stream-after-you-are-nominated" />
+<meta name="template" content="Service" />
+<meta name="ministry-id" content="25" />
+<meta name="page-type" content="Program" />
+<meta name="published" content="2026-02-18T15:26:48-0700" />
+<meta name="robots" content="index" />
+<meta name="robots" content="follow" />
+<meta name="robots" content="noarchive" />
+<meta name="landing" content="false" />
+<meta name="id" content="679" />
+<meta property="og:site_name" content="Alberta.ca" />
+<meta property="og:type" content="Article" />
+<meta property="og:url" content="https://www.alberta.ca/aaip-alberta-opportunity-stream-after-you-are-nominated" />
+<meta property="og:title" content="Alberta Opportunity Stream – After you are nominated" />
+<meta property="og:description" content="After your AAIP nomination is accepted, you may apply for permanent residence or to extend your work permit or nomination." />
+<meta property="og:image" content="https://www.alberta.ca/system/files/alberta-share-legislature.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Alberta Opportunity Stream – After you are nominated" />
+<meta name="twitter:image" content="https://www.alberta.ca/system/files/alberta-share-legislature.jpg" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://challenges.cloudflare.com" />
+<link rel="icon" href="/themes/custom/goa_core/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.alberta.ca/aaip-alberta-opportunity-stream-after-you-are-nominated" />
+
+    <title>Alberta Opportunity Stream – After you are nominated | Alberta.ca</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_JYyzsDUp8fWe4a4ZIsPKIZsqGJz5_KxxhWkQ5s_2Whc.css?delta=0&amp;language=en&amp;theme=goa_core&amp;include=eJxNyEEKAyEMQNELBT3SEE1wwkQjiU5pT1-YTbv5fF69mGSZHzKIxypq9cp_D9Wc8zDvqPJhaIbHQ02toMJEx-Y4z8jke6Kmn6Q95i4qcTJBvGNxzwWD4RZ-RX6autFW_gIm5TUY" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_tOGe64FFwJG78Wv4y0ENFTtBvP6IkVyOaDdD-hInhfQ.css?delta=1&amp;language=en&amp;theme=goa_core&amp;include=eJxNyEEKAyEMQNELBT3SEE1wwkQjiU5pT1-YTbv5fF69mGSZHzKIxypq9cp_D9Wc8zDvqPJhaIbHQ02toMJEx-Y4z8jke6Kmn6Q95i4qcTJBvGNxzwWD4RZ-RX6autFW_gIm5TUY" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_cko3J5jaxdGLlT6cpAcr7zy3_i0wa0OlPNwHS6Wi_yc.css?delta=2&amp;language=en&amp;theme=goa_core&amp;include=eJxNyEEKAyEMQNELBT3SEE1wwkQjiU5pT1-YTbv5fF69mGSZHzKIxypq9cp_D9Wc8zDvqPJhaIbHQ02toMJEx-Y4z8jke6Kmn6Q95i4qcTJBvGNxzwWD4RZ-RX6autFW_gIm5TUY" />
+
+          <style>custom_css</style>
+            <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/679","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":false,"force_html5_validation":false,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"miniorange_saml":{"base_url":"https:\/\/www.alberta.ca"},"user":{"uid":0,"permissionsHash":"642d10741e771b87208f35e7363ed7992db415d5c0e6006b887c5899487b36a4"}}</script>
+<script src="/sites/default/files/js/js__VcEB7Z7M8-zqhlksdKRDNayj-o8EQttt7ZmrCk481o.js?scope=header&amp;delta=0&amp;language=en&amp;theme=goa_core&amp;include=eJxLz0-MT84vStVPz8lPSszRyc3My8wvSsxLT40vTszN0Ufj65WkFpcAAB1pFJM"></script>
+
+
+          <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-58699CN');</script>
+    
+          <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-P6MFS54');</script>
+      <!-- End Google Tag Manager -->
+    
+  </head>
+  <body class="page-aaip-alberta-opportunity-stream-after-you-are-nominated section-aaip-alberta-opportunity-stream-after-you-are-nominated path-node page-node-type-service">
+          <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-58699CN
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-P6MFS54
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    
+    <svg class="svg_sprite" style="display:none;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol viewBox="0 0 24 37.2" id="angle-left"><path d="M.8 16.6L16.6.8c1.1-1.1 2.9-1.1 3.9 0l2.6 2.6c1.1 1.1 1.1 2.9 0 3.9L12 18.6l11.2 11.2c1.1 1.1 1.1 2.9 0 3.9l-2.6 2.6c-1.1 1.1-2.9 1.1-3.9 0L.8 20.6c-1.1-1.1-1.1-2.9 0-4z" fill="#fff" /></symbol><symbol viewBox="0 0 24 37.2" id="angle-right"><path d="M23.2 20.6L7.4 36.4c-1.1 1.1-2.9 1.1-3.9 0L.9 33.8c-1.1-1.1-1.1-2.9 0-3.9L12 18.6.8 7.4C-.3 6.3-.3 4.5.8 3.5L3.4.9C4.5-.2 6.3-.2 7.3.9l15.8 15.8c1.2 1 1.2 2.8.1 3.9z" fill="#fff" /></symbol><symbol viewBox="0 0 24 24" id="arrow-right"><path d="M10.2 1.9L11.4.7c.5-.5 1.3-.5 1.8 0l10.4 10.4c.5.5.5 1.3 0 1.8L13.2 23.3c-.5.5-1.3.5-1.8 0l-1.2-1.2c-.5-.5-.5-1.3 0-1.8l6.5-6.1H1.3c-.7 0-1.3-.6-1.3-1.3v-1.7c0-.7.6-1.3 1.3-1.3h15.4l-6.5-6.1c-.5-.6-.5-1.4 0-1.9z" /></symbol><symbol viewBox="0 0 24 24" id="chevron-down"><path d="M12.07,15.21c.07-.11,6.47-6.58,9.62-9.71a1.08,1.08,0,0,1,.56-.31.72.72,0,0,1,.51.19c.33.28.62.6.93.9s.41.72,0,1.13L12.51,18.58a.62.62,0,0,1-1,0L.34,7.45c-.46-.46-.46-.74,0-1.2l.81-.81a.68.68,0,0,1,1.1,0Z" /></symbol><symbol viewBox="0 0 22 20.51" id="external"><path d="M21,19.69a.58.58,0,0,1-.57.57H3.57A.58.58,0,0,1,3,19.69V4.31a.58.58,0,0,1,.57-.57H6.82v-2H3.57A2.58,2.58,0,0,0,1,4.31V19.69a2.58,2.58,0,0,0,2.57,2.57H20.43A2.58,2.58,0,0,0,23,19.69V16.44H21Z" transform="translate(-1 -1.74)" /><path d="M22,1.75H14.15a1,1,0,1,0,0,2h5.44l-7.41,7.41a1,1,0,0,0,.71,1.71,1,1,0,0,0,.7-.3L21,5.17V10.6a1,1,0,1,0,2,0V2.75A1,1,0,0,0,22,1.75Z" transform="translate(-1 -1.74)" /></symbol><symbol viewBox="0 0 24 24" id="facebook"><path d="m9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615z" /></symbol><symbol viewBox="0 0 24 24" id="instagram"><path d="m12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948s.014 3.668.072 4.948c.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072s3.668-.014 4.948-.072c4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948s-.014-3.667-.072-4.947c-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" /></symbol><symbol viewBox="0 0 18 18" id="link-arrow"><defs></defs><defs></defs><g clip-path="url(#link-arrow_a)"><path fill="none" d="M0 0h18v18H0z" /><path d="M9.7 4.3a.7.7 0 10-1 1l2.8 3H3.6a.8.8 0 100 1.4h7.9l-2.9 2.9a.7.7 0 000 1 .7.7 0 001 0l4.2-4a.7.7 0 000-1.1z" fill="#006dcc" /></g></symbol><clipPath id="link-arrow_a"><path d="M0 0h18v18H0z" /></clipPath><symbol viewBox="0 0 24 24" id="linkedin"><path d="M19 0H5a5 5 0 0 0-5 5v14a5 5 0 0 0 5 5h14a5 5 0 0 0 5-5V5a5 5 0 0 0-5-5zM8 19H5V8h3v11zM6.5 6.732c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zM20 19h-3v-5.604c0-3.368-4-3.113-4 0V19h-3V8h3v1.765c1.396-2.586 7-2.777 7 2.476V19z" /></symbol><symbol viewBox="0 0 216 61" id="logo">
+  <rect class="logo" fill="#00aad2" x="196.411" y="31.014" width="19.59" height="19.592" />
+  <path class="logo" fill="#5f6a72" d="M91.271,47.934c-1.972,0.198-4.068,0.382-6.278,0.548c0.833-6.288,4.105-15.027,8.177-13.62C95.521,35.676,94.284,43.033,91.271,47.934 M86.106,52.264c-0.714,0.111-1.304,0.101-1.773,0.014c0.28-0.241,0.455-0.594,0.455-1.014c0-0.266,0.009-0.544,0.024-0.832c1.104-0.052,2.831-0.177,4.888-0.376C88.623,51.241,87.409,52.067,86.106,52.264 M111.223,37.314c2.598-2.413,3.89-2.237,4.231-1.589c0.736,1.403-2.325,6.345-8.184,9.047C107.774,42.114,109.176,39.216,111.223,37.314 M207.625,39.712c-0.251-4.887-4.579-5.683-5.176-4.293c-0.208,0.487,1.626,0.313,1.633,3.764c0.005,5.71-5.787,13.165-13.167,13.165c-8.04,0-10.114-6.254-10.502-9.348c-0.256-2.058,0.187-5.029-3.368-4.636c-2.486,0.28-4.733,5.12-7.885,9.196c-2.704,3.499-3.918,3.166-3.286,0.163c0.783-3.763,3.925-12.594,7.517-13.237c1.661-0.297,2.257,2.625,3.02,0.796c0.768-1.832,0.063-5.783-3.655-5.783c-2.605,0-5.73,2.762-8.292,5.905c-2.233,2.744-13.522,19.357-18.257,15.77c-2.215-1.676-2.035-8.506-0.643-16.553c5.618-2.167,10.292-1.456,12.936-0.188c1.305,0.626,1.485,0.532,0.929-0.903c-0.825-2.108-5.345-5.405-12.405-3.888c-0.17,0.033-0.336,0.079-0.505,0.119c0.569-2.613,1.231-5.268,1.954-7.849c0.661-2.364,2.6-6.454-2.462-7.242c-1.613-0.252-0.927,0.53-1.459,2.71c-0.978,4.015-2.214,9.227-3.109,14.458c-4.161,2.396-8.035,6.399-10.874,11.667c0.492-2.429,1.254-5.116,1.308-6.93c0.054-1.911-1.255-2.332-1.763-2.482c-1.111-0.314-2.453,0.236-3.776,2.106c-3.104,4.37-7.035,11.284-13.001,14.184c-4.28,2.081-6.157-0.015-6.262-3.238c0.845-0.259,1.601-0.525,2.24-0.813c7.756-3.437,10.419-8.621,8.448-11.774c-1.87-3-7.217-2.086-11.439,2.361c-2.081,2.193-3.684,5.956-3.871,9.387c-1.79,0.387-3.848,0.731-6.146,1.041c3.644-5.911,3.329-13.9-2.001-15.247c-6.182-1.561-9.309,4.44-10.633,9.436c0.408-4.996,1.206-11.077,2.335-16.725c0.472-2.361,2.087-6.455-3.041-7.24c-1.629-0.252-1.377,0.505-1.241,2.71c0.18,2.958-3.096,20.875-1.384,28.744c-2.206,0.714-3.101,2.375-0.264,4.127c1.955,1.203,6.258,1.603,10.605-0.537c1.559-0.771,2.909-1.854,4.034-3.125c2.59-0.326,5.314-0.744,7.796-1.241c0.425,3.45,2.677,6.095,7.905,5.606c7.433-0.691,14.035-9.826,16.528-14.226c-0.45,4.716-3.519,15.019,1.716,14.49c2.051-0.208,1.158-0.536,1.285-2.306c0.454-6.208,5.62-11.47,10.73-14.694c-0.887,7.602-0.579,14.391,2.868,16.546c6.341,3.963,15.326-6.477,20.27-12.862c-2.516,5.671-3.945,12.936-0.164,14.047c4.435,1.293,7.932-6.063,12.022-11.693c0.475,4.042,3.168,11.003,14.033,11.003C200.729,54.163,208.007,47.148,207.625,39.712 M51.101,52.114c-2.665-0.965-6.464-2.513-11.424-5.046c2.717-0.991,6.169-2.443,9.806-4.345C49.973,46.873,50.505,49.892,51.101,52.114M80.545,57.718c-0.125-0.258-0.849,0.105-1.587-0.003c-2.101-0.31-4.863-3.18-5.699-7.896c-1.504-8.489-0.612-16.865,1.88-29.348c0.47-2.361,2.084-6.451-3.041-7.243c-1.63-0.251-0.786,0.554-1.243,2.71c-1.971,9.297-9.574,15.999-17.207,20.493c-0.799-10.645-0.474-22.465,1.53-29.714c1.691-6.115,3.703-4.992,1.209-6.277c-2.624-1.352-5.445,0.435-7.726,4.989c-2.28,4.552-12.795,29.289-29.584,45.984c-8.592,8.545-16.363,4.146-17.919,2.831c-1.266-1.069-1.734,0.582-0.163,2.271c6.949,7.494,17.1,3.194,20.795-0.5c10.215-10.21,22.092-32.19,26.897-41.517c-0.443,5.251-0.593,14.058,0.385,24.379c-5.199,2.533-9.86,4.021-12.059,4.601c-2.381,0.624-3.854,1.593-3.898,2.697c-0.047,1.208,1.552,2.227,3.863,3.325c4.116,1.954,16.167,7.647,19.136,9.374c2.543,1.476,3.784,0.325,4.537-1.268c0.983-2.076-1.716-3.276-4.328-4.057c-1.006-3.495-1.81-8.196-2.345-13.377c6.126-3.772,12.158-8.793,15.635-15.068c-0.876,5.245-3.124,23.08,2.507,30.621c1.241,1.662,3.981,3.479,6.656,3.209C80.036,58.805,80.671,57.977,80.545,57.718" />
+</symbol><symbol viewBox="0 0 24 24" id="search"><path d="M23.7 20.8L19 16.1c-.2-.2-.5-.3-.8-.3h-.8c1.3-1.7 2.1-3.7 2.1-6 0-5.4-4.4-9.7-9.7-9.7S0 4.4 0 9.8s4.4 9.7 9.7 9.7c2.3 0 4.3-.8 6-2.1v.8c0 .3.1.6.3.8l4.7 4.7c.4.4 1.2.4 1.6 0l1.3-1.3c.5-.5.5-1.2.1-1.6zm-14-5c-3.3 0-6-2.7-6-6s2.7-6 6-6 6 2.7 6 6-2.6 6-6 6z" /></symbol><symbol viewBox="0 0 24 24" id="twitter"><path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z" /></symbol><symbol viewBox="0 0 24 24" id="youtube"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0C.488 3.45.029 5.804 0 12c.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0C23.512 20.55 23.971 18.196 24 12c-.029-6.185-.484-8.549-4.385-8.816zM9 16V8l8 3.993L9 16z" /></symbol><symbol viewBox="0 0 24 24" id="youtube-alt"><path d="m4.652 0h1.44l.988 3.702.916-3.702h1.454l-1.665 5.505v3.757h-1.431v-3.757l-1.702-5.505zm6.594 2.373c-1.119 0-1.861.74-1.861 1.835v3.349c0 1.204.629 1.831 1.861 1.831 1.022 0 1.826-.683 1.826-1.831v-3.349c0-1.069-.797-1.835-1.826-1.835zm.531 5.127c0 .372-.19.646-.532.646-.351 0-.554-.287-.554-.646v-3.179c0-.374.172-.651.529-.651.39 0 .557.269.557.651zm4.729-5.07v5.186c-.155.194-.5.512-.747.512-.271 0-.338-.186-.338-.46v-5.238h-1.27v5.71c0 .675.206 1.22.887 1.22.384 0 .918-.2 1.468-.853v.754h1.27v-6.831zm2.203 13.858c-.448 0-.541.315-.541.763v.659h1.069v-.66c.001-.44-.092-.762-.528-.762zm-4.703.04c-.084.043-.167.109-.25.198v4.055c.099.106.194.182.287.229.197.1.485.107.619-.067.07-.092.105-.241.105-.449v-3.359c0-.22-.043-.386-.129-.5-.147-.193-.42-.214-.632-.107zm4.827-5.195c-2.604-.177-11.066-.177-13.666 0-2.814.192-3.146 1.892-3.167 6.367.021 4.467.35 6.175 3.167 6.367 2.6.177 11.062.177 13.666 0 2.814-.192 3.146-1.893 3.167-6.367-.021-4.467-.35-6.175-3.167-6.367zm-12.324 10.686h-1.363v-7.54h-1.41v-1.28h4.182v1.28h-1.41v7.54zm4.846 0h-1.21v-.718c-.223.265-.455.467-.696.605-.652.374-1.547.365-1.547-.955v-5.438h1.209v4.988c0 .262.063.438.322.438.236 0 .564-.303.711-.487v-4.939h1.21v6.506zm4.657-1.348c0 .805-.301 1.431-1.106 1.431-.443 0-.812-.162-1.149-.583v.5h-1.221v-8.82h1.221v2.84c.273-.333.644-.608 1.076-.608.886 0 1.18.749 1.18 1.631v3.609zm4.471-1.752h-2.314v1.228c0 .488.042.91.528.91.511 0 .541-.344.541-.91v-.452h1.245v.489c0 1.253-.538 2.013-1.813 2.013-1.155 0-1.746-.842-1.746-2.013v-2.921c0-1.129.746-1.914 1.837-1.914 1.161 0 1.721.738 1.721 1.914v1.656z" /></symbol></defs></svg>
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+	
+
+
+
+	
+<header>
+	<div id="page-top" class="ab-skiplinks" tabindex="-1">
+	<a href="#page-title">Skip to content</a>
+	<a href="#goa-main-nav">Skip to navigation</a>
+</div>
+
+
+  
+  
+
+
+<!-- __noindex__ -->
+<div class="goa-header noindex">
+	<div class="goa-logo-container">
+		<div class="goa-logo">
+			<a href="/" title="Home" rel="home" aria-label="Home, Alberta.ca">
+				<svg xmlns="http://www.w3.org/2000/svg" width="149" height="42" viewbox="0 0 216 61" shape-rendering="geometricPrecision" aria-hidden="true">
+					<rect class="logo" fill="#00aad2" x="196.411" y="31.014" width="19.59" height="19.592"></rect>
+					<path class="logo" fill="#5f6a72" d="M91.271,47.934c-1.972,0.198-4.068,0.382-6.278,0.548c0.833-6.288,4.105-15.027,8.177-13.62C95.521,35.676,94.284,43.033,91.271,47.934 M86.106,52.264c-0.714,0.111-1.304,0.101-1.773,0.014c0.28-0.241,0.455-0.594,0.455-1.014c0-0.266,0.009-0.544,0.024-0.832c1.104-0.052,2.831-0.177,4.888-0.376C88.623,51.241,87.409,52.067,86.106,52.264 M111.223,37.314c2.598-2.413,3.89-2.237,4.231-1.589c0.736,1.403-2.325,6.345-8.184,9.047C107.774,42.114,109.176,39.216,111.223,37.314 M207.625,39.712c-0.251-4.887-4.579-5.683-5.176-4.293c-0.208,0.487,1.626,0.313,1.633,3.764c0.005,5.71-5.787,13.165-13.167,13.165c-8.04,0-10.114-6.254-10.502-9.348c-0.256-2.058,0.187-5.029-3.368-4.636c-2.486,0.28-4.733,5.12-7.885,9.196c-2.704,3.499-3.918,3.166-3.286,0.163c0.783-3.763,3.925-12.594,7.517-13.237c1.661-0.297,2.257,2.625,3.02,0.796c0.768-1.832,0.063-5.783-3.655-5.783c-2.605,0-5.73,2.762-8.292,5.905c-2.233,2.744-13.522,19.357-18.257,15.77c-2.215-1.676-2.035-8.506-0.643-16.553c5.618-2.167,10.292-1.456,12.936-0.188c1.305,0.626,1.485,0.532,0.929-0.903c-0.825-2.108-5.345-5.405-12.405-3.888c-0.17,0.033-0.336,0.079-0.505,0.119c0.569-2.613,1.231-5.268,1.954-7.849c0.661-2.364,2.6-6.454-2.462-7.242c-1.613-0.252-0.927,0.53-1.459,2.71c-0.978,4.015-2.214,9.227-3.109,14.458c-4.161,2.396-8.035,6.399-10.874,11.667c0.492-2.429,1.254-5.116,1.308-6.93c0.054-1.911-1.255-2.332-1.763-2.482c-1.111-0.314-2.453,0.236-3.776,2.106c-3.104,4.37-7.035,11.284-13.001,14.184c-4.28,2.081-6.157-0.015-6.262-3.238c0.845-0.259,1.601-0.525,2.24-0.813c7.756-3.437,10.419-8.621,8.448-11.774c-1.87-3-7.217-2.086-11.439,2.361c-2.081,2.193-3.684,5.956-3.871,9.387c-1.79,0.387-3.848,0.731-6.146,1.041c3.644-5.911,3.329-13.9-2.001-15.247c-6.182-1.561-9.309,4.44-10.633,9.436c0.408-4.996,1.206-11.077,2.335-16.725c0.472-2.361,2.087-6.455-3.041-7.24c-1.629-0.252-1.377,0.505-1.241,2.71c0.18,2.958-3.096,20.875-1.384,28.744c-2.206,0.714-3.101,2.375-0.264,4.127c1.955,1.203,6.258,1.603,10.605-0.537c1.559-0.771,2.909-1.854,4.034-3.125c2.59-0.326,5.314-0.744,7.796-1.241c0.425,3.45,2.677,6.095,7.905,5.606c7.433-0.691,14.035-9.826,16.528-14.226c-0.45,4.716-3.519,15.019,1.716,14.49c2.051-0.208,1.158-0.536,1.285-2.306c0.454-6.208,5.62-11.47,10.73-14.694c-0.887,7.602-0.579,14.391,2.868,16.546c6.341,3.963,15.326-6.477,20.27-12.862c-2.516,5.671-3.945,12.936-0.164,14.047c4.435,1.293,7.932-6.063,12.022-11.693c0.475,4.042,3.168,11.003,14.033,11.003C200.729,54.163,208.007,47.148,207.625,39.712 M51.101,52.114c-2.665-0.965-6.464-2.513-11.424-5.046c2.717-0.991,6.169-2.443,9.806-4.345C49.973,46.873,50.505,49.892,51.101,52.114M80.545,57.718c-0.125-0.258-0.849,0.105-1.587-0.003c-2.101-0.31-4.863-3.18-5.699-7.896c-1.504-8.489-0.612-16.865,1.88-29.348c0.47-2.361,2.084-6.451-3.041-7.243c-1.63-0.251-0.786,0.554-1.243,2.71c-1.971,9.297-9.574,15.999-17.207,20.493c-0.799-10.645-0.474-22.465,1.53-29.714c1.691-6.115,3.703-4.992,1.209-6.277c-2.624-1.352-5.445,0.435-7.726,4.989c-2.28,4.552-12.795,29.289-29.584,45.984c-8.592,8.545-16.363,4.146-17.919,2.831c-1.266-1.069-1.734,0.582-0.163,2.271c6.949,7.494,17.1,3.194,20.795-0.5c10.215-10.21,22.092-32.19,26.897-41.517c-0.443,5.251-0.593,14.058,0.385,24.379c-5.199,2.533-9.86,4.021-12.059,4.601c-2.381,0.624-3.854,1.593-3.898,2.697c-0.047,1.208,1.552,2.227,3.863,3.325c4.116,1.954,16.167,7.647,19.136,9.374c2.543,1.476,3.784,0.325,4.537-1.268c0.983-2.076-1.716-3.276-4.328-4.057c-1.006-3.495-1.81-8.196-2.345-13.377c6.126-3.772,12.158-8.793,15.635-15.068c-0.876,5.245-3.124,23.08,2.507,30.621c1.241,1.662,3.981,3.479,6.656,3.209C80.036,58.805,80.671,57.977,80.545,57.718"></path>
+				</svg>
+			</a>
+		</div>
+	</div>
+
+	<div class="goa-search-container">
+		<div class="goa-search-tool">
+			<div class="goa-search-tool--bar">
+				<form action="https://search.alberta.ca/alberta/Pages/results.aspx" role="search">
+					<label for="search-goa">Search Alberta.ca</label>
+					<input id="search-goa" name="k" placeholder="Search Alberta.ca" type="search" aria-controls="goa-popular-panel">
+					<button id="goa-search-button" aria-label="Search">
+						<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="18" height="18" viewbox="0 0 18.01 18" shape-rendering="geometricPrecision">
+							<path fill="#000" d="M16.68,5.35a8,8,0,1,0-.75,12l3.37,3.37a1,1,0,1,0,1.41-1.42l-3.37-3.37a8,8,0,0,0-.66-10.57ZM6.76,15.27a6,6,0,1,1,8.5,0A6,6,0,0,1,6.76,15.27Z" transform="translate(-3 -3)"></path>
+						</svg>
+					</button>
+				</form>
+			</div>
+		</div>
+		<!-- goa-search-tool -->
+
+				<div id="goa-search-status" class="visually-hidden" aria-live="polite" aria-atomic="true"></div>
+
+		<div class="goa-search-popular" id="goa-popular-panel">
+			<div class="goa-search-container--popular-topics noindex">
+				<div class="goa-searchbar--popular-wrapper">
+					
+					<h3>Popular topics:</h3>
+					
+  <nav role="navigation" aria-labelledby="block-populartopics-menu" id="block-populartopics">
+            
+  <h2 class="visually-hidden" id="block-populartopics-menu">Popular topics</h2>
+  
+
+        
+  
+      <ul>
+
+          <li>
+        <a href="/vehicle-registration-renewal" data-drupal-link-system-path="node/5885">Renew your vehicle registration</a>
+      </li>
+          <li>
+        <a href="/aish" data-drupal-link-system-path="node/1274">Assured Income for the Severely Handicapped (AISH)</a>
+      </li>
+          <li>
+        <a href="/ahcip" data-drupal-link-system-path="node/1243">Alberta Health Care Insurance Plan (AHCIP)</a>
+      </li>
+          <li>
+        <a href="/wildfire-status" data-drupal-link-system-path="node/6171">Wildfire status</a>
+      </li>
+    
+    </ul>
+  
+
+
+  </nav>
+
+
+				</div>
+			</div>
+		</div>
+		<!-- goa-search-popular -->
+
+	</div>
+	<!-- goa-search-container -->
+
+	<!-- make this a menu or a block -->
+		<div class="goa-header-actions">
+					<nav aria-label="Account">
+		<div class="goa-user-icon"><div class="goa-user-icon--text"><a href="https://www.alberta.ca/alberta-ca-account">Alberta.ca Account</a></div></div>
+	</nav>
+
+
+		<div class="goa-togglemenu" role="navigation" aria-label="Menu"></div>
+	</div>
+	<!-- goa-header-actions -->
+
+</div>
+<!-- goa-header -->
+<!-- __/noindex__ -->
+<!-- __noindex__ -->
+	<nav id="goa-main-nav" class="goa-nav noindex" aria-expanded="true" aria-label="Main navigation" tabindex="-1"> <div class="goa-nav-global">
+		
+  
+	<div class="goa-nav-container">
+
+		<div class="column">
+			<ul class="goa-nav-items">
+				
+  
+			<li class="goa-nav-item">
+			<div class="goa-nav-item--header">
+				<h2 class="goa-nav-item--heading">
+					<a href="/alberta-ca-account">Alberta.ca Account</a>
+				</h2>
+			</div>
+			<div class="goa-nav-item--lede">
+				<p>Find and access the online government services you need.</p>
+			</div>
+		</li>
+	
+  
+			<li class="goa-nav-item">
+			<div class="goa-nav-item--header">
+				<h2 class="goa-nav-item--heading">
+					<a href="/all-services">Find a service</a>
+				</h2>
+			</div>
+			<div class="goa-nav-item--lede">
+				<p>Find all of the Alberta government services and information you need.</p>
+			</div>
+		</li>
+	
+  
+			<li class="goa-nav-item">
+			<div class="goa-nav-item--header">
+				<h2 class="goa-nav-item--heading">
+					<a href="/public-engagement">Public engagements</a>
+				</h2>
+			</div>
+			<div class="goa-nav-item--lede">
+				<p>Help shape the future of government policies, programs and services.</p>
+			</div>
+		</li>
+	
+  
+			<li class="goa-nav-item">
+			<div class="goa-nav-item--header">
+				<h2 class="goa-nav-item--heading">
+					<a href="/find-a-job">Jobs</a>
+				</h2>
+			</div>
+			<div class="goa-nav-item--lede">
+				<p>Government of Alberta jobs, job postings across the province, and resources for job seekers.</p>
+			</div>
+		</li>
+	
+
+			</ul>
+		</div>
+
+		<div class="column">
+			<div class="goa-nav-item goa-nav-news">
+				<div class="goa-nav-item--header">
+					<h2 class="goa-nav-item--heading">
+						<a href="/news">News</a>
+					</h2>
+				</div>
+
+				<div class="goa-news--listings">
+											
+  <div class="views-element-container"><div class="view view-news-release-feed view-id-news_release_feed view-display-id-block_1 js-view-dom-id-7dde3e2d4e80474fdfaa500620e0831cfa508ed97228789130fa8b09ce268e7a">
+  
+
+  
+  
+
+  
+  
+  
+      <div class="view-content">
+      
+
+<div class="goa-news--listings">
+    <ul>
+          
+<li>
+  <div class="goa-news--listings-date">
+    <p>
+      <time datetime="2026-09-22T14:30:00Z">
+        September 22, 2026
+      </time>
+    </p>
+  </div>
+  <div class="goa-news--listings-title">
+    <a href="https://www.alberta.ca/announcements.cfm?xID=97807E513A088-C229-9F41-362A56EA03BA1B13">Levelling up local business for global success</a>
+  </div>
+</li>
+
+          
+<li>
+  <div class="goa-news--listings-date">
+    <p>
+      <time datetime="2026-09-22T14:00:00Z">
+        September 22, 2026
+      </time>
+    </p>
+  </div>
+  <div class="goa-news--listings-title">
+    <a href="https://www.alberta.ca/announcements.cfm?xID=97809EACAF29C-9B17-D4A3-9FC318D9C30E5E33">More career education and financial literacy</a>
+  </div>
+</li>
+
+          
+<li>
+  <div class="goa-news--listings-date">
+    <p>
+      <time datetime="2026-09-22T13:00:00Z">
+        September 22, 2026
+      </time>
+    </p>
+  </div>
+  <div class="goa-news--listings-title">
+    <a href="https://www.alberta.ca/announcements.cfm?xID=97805E1A5C7B9-D9DE-ACE4-BF5BDD2B70B40119">Update on ASIRT investigation in Yukon</a>
+  </div>
+</li>
+
+          
+<li>
+  <div class="goa-news--listings-date">
+    <p>
+      <time datetime="2026-09-22T12:30:00Z">
+        September 22, 2026
+      </time>
+    </p>
+  </div>
+  <div class="goa-news--listings-title">
+    <a href="https://www.alberta.ca/announcements.cfm?xID=97808E7904EC3-AC07-E528-948DF8816DCAFB58">Suspending fuel tax for savings at the pump</a>
+  </div>
+</li>
+
+          
+<li>
+  <div class="goa-news--listings-date">
+    <p>
+      <time datetime="2026-09-22T09:15:00Z">
+        September 22, 2026
+      </time>
+    </p>
+  </div>
+  <div class="goa-news--listings-title">
+    <a href="https://www.alberta.ca/announcements.cfm?xID=97804E0A897B7-0956-6C3D-F2931F4A3868ED99">Alberta’s top trades talent on the world stage</a>
+  </div>
+</li>
+
+      </ul>
+</div>
+
+
+    </div>
+  
+  
+  
+  
+  
+  </div>
+</div>
+
+
+														</div>
+			</div>
+
+			<div class="goa-nav--secondary">
+				<ul>
+					
+  <li><a href="/government-of-alberta">Alberta.ca home</a></li>
+  <li><a href="/open-government-program">Open government</a></li>
+  <li><a href="/contact-government">Contact government</a></li>
+  <li><a href="/social-media-directory">Social media directory</a></li>
+
+				</ul>
+			</div>
+
+			<div class="goa-nav--social goa-socialshare">
+				<ul>
+					<li class="goa-socialshare-facebook">
+						<a href="https://www.facebook.com/youralberta.ca/">Facebook</a>
+					</li>
+					<li class="goa-socialshare-twitter">
+						<a href="https://twitter.com/YourAlberta">Twitter</a>
+					</li>
+					<li class="goa-socialshare-instagram">
+						<a href="https://www.instagram.com/youralberta/">Instagram</a>
+					</li>
+					<li class="goa-socialshare-linkedin">
+						<a href="https://www.linkedin.com/company/government-of-alberta/">Linkedin</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<!-- column -->
+
+	</div>
+	<!-- goa-nav-container -->
+
+															
+		<div class="goa-feature-container">
+			<h2 class="goa-feature-heading">Feature</h2>
+
+			<div class="goa-feature goa-card-container">
+								<div class="goa-card-content">
+					<div class="goa-title">
+						<a href="/alberta-advantage-immigration-program">Alberta Advantage Immigration Program</a>
+					</div>
+					<div class="goa-text">Eligible individuals can apply to be nominated to work and live in Alberta permanently.</div>
+				</div>
+			</div>
+		</div>
+		<!-- goa-feature-container -->
+	
+
+	</div>
+	<!-- goa-nav-global -->
+</nav>
+<!-- __/noindex__ -->
+
+				<div class="goa-page-header ">
+			
+			
+  <nav class="goa-breadcrumbs goa-container" aria-label="Breadcrumb">
+  
+  <ul>
+      <li>
+              <a href="/">Home</a>
+          </li>
+      <li>
+              <a href="/all-services">All services</a>
+          </li>
+      <li>
+              <a href="/moving-to-alberta-topic">Moving to Alberta</a>
+          </li>
+      <li>
+              <a href="/immigration">Immigration</a>
+          </li>
+      <li>
+              <a href="/alberta-advantage-immigration-program">Alberta Advantage Immigration Program</a>
+          </li>
+      <li>
+              <a href="/aaip-application-streams">AAIP application streams</a>
+          </li>
+      <li>
+              <a href="/aaip-alberta-opportunity-stream">Alberta Opportunity Stream</a>
+          </li>
+      <li>
+                      <span aria-current="page">After you are nominated</span>
+          </li>
+    </ul>
+
+</nav>
+
+
+
+
+							<div class="goa-page-headings goa-container">
+																<div class="goa-previous-page">
+							<span>Part of</span>
+							<a href=/aaip-alberta-opportunity-stream>Alberta Opportunity Stream</a>
+						</div>
+										<div class="goa-heading">
+						<h1 id="page-title" tabindex="-1">
+<span>Alberta Opportunity Stream – After you are nominated</span>
+</h1>
+						<p class="goa-page-header--lede">
+  After your AAIP nomination is accepted, you may apply for permanent residence or to extend your work permit or nomination.
+</p>
+											</div>
+				</div>
+			
+		</div>
+	</header>
+
+	
+	
+
+		
+  <div data-drupal-messages-fallback class="hidden"></div>
+
+
+
+	
+	<main id="main" class="main">
+		
+  <div class="goa-container">
+
+    <a href="#on-this-page" class="goa-skip-link">Skip to On this page</a>
+      <a href="#explore-pages-in" class="goa-skip-link">Skip to Explore pages in</a>
+  
+          <div class="goa-sidebar-content">
+        <div class="goa-section--header">
+    <h2 class="style-span">Explore pages in:</h2>
+    <div class="goa-section--heading">
+              <a href="/aaip-alberta-opportunity-stream">Alberta Opportunity Stream</a>
+          </div>
+  </div>
+  <ul role="list">
+                  <li role="listitem">
+          <a href="/aaip-alberta-opportunity-stream-eligibility" >Eligibility</a>
+        </li>
+                        <li class="current" aria-current="true" role="listitem">
+          After you are nominated
+        </li>
+            </ul>
+
+    </div>
+    <div class="goa-main-content">
+    
+  
+
+  
+  <div  class="goa-main-grid" >
+    
+  
+
+  
+  <div class="paragraph paragraph--type--text-block paragraph--view-mode--default goa-column-100-100-100">
+    
+  <div class="goa-callout"><p>Read <a href="/aaip-updates" data-entity-type="node" data-entity-uuid="bec57694-6b9e-4a34-8d50-d8a86c1d79ae" data-entity-substitution="canonical" title="Alberta Advantage Immigration Program – Updates">important program and fee updates</a> to the Alberta Advantage Immigration Program (AAIP) and its 8 intake streams.</p></div>
+
+  </div>
+
+
+  
+
+  
+  <div class="paragraph paragraph--type--text-block paragraph--view-mode--default goa-column-100-100-100">
+    
+  <h2>Regular system updates</h2><p>System maintenance for the <abbr title="Alberta Advantage Immigration Program">AAIP</abbr> portal occurs Fridays from 11 pm to Sundays at 7 pm. If you experience technical issues during these times, try again later. We apologize for any inconvenience.</p>
+
+  </div>
+
+
+
+  </div>
+
+  
+
+  
+  <div  class="goa-main-grid" >
+    
+  
+  <div class="paragraph paragraph--type--text-block paragraph--view-mode--default goa-column-100-100-100">
+    
+  <h2>Overview</h2><p>Once you are nominated for the Alberta Opportunity Stream, there are several things to consider:</p><ul><li>You must apply for permanent residence within 6 months.<ul><li><abbr title="Alberta Advantage Immigration Program">AAIP</abbr> may extend your nomination. Read the information below on how to extend your nomination.</li></ul></li><li>You must keep the AAIP and the Immigration, Refugees and Citizenship Canada (IRCC) updated on changes to your personal circumstances.</li><li>You must maintain your status to live and work in Alberta while your application for permanent residence is in process. See information below on options for extending your work permit.</li><li>AAIP may withdraw your nomination at any time if you no longer meet the conditions of nomination or if you provided false or misleading information in your AAIP application.</li></ul><h2>Apply for permanent residence</h2><h3>Step 1. Review your nomination package</h3><p>Your <abbr title="Alberta Advantage Immigration Program">AAIP</abbr> nomination certificate is available under the “View Decision Letters” in the AAIP portal. If you have an authorized representative, notify them of the decision on your application.&nbsp;</p><p>Read everything in the package carefully.</p><p>Update your information through the “Update Employment Information” tab in your AAIP portal. If you find mistakes on your nomination certificate, highlight all errors on the nomination certificate and upload a PDF copy of the corrected certificate via your AAIP portal. AAIP will not accept update requests sent by email.&nbsp;</p><p>Save a copy of your nomination for your personal records.</p><p><abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr> requires you to provide a copy of this nomination certificate with your application for permanent residence. You may also be asked to provide a copy of this nomination certificate to renew your work permit.</p><h3>Step 2: Get your permanent residence application ready</h3><p>After you get your AAIP nomination, you must apply to IRCC as soon as possible. Your nomination is only valid for 6 months; you must apply to IRCC before it expires. You may qualify to have your AAIP nomination extended. A $150 fee applies for all requests for nomination extensions.</p><p>The sooner you apply for permanent residence, the sooner you can get an Acknowledgement of Receipt (AOR) of your application from IRCC and your IRCC file number. Your AOR and IRCC file number are very important if you need to <a href="#extend-your-work-permit">extend your work permit</a>.</p><p>Visit the IRCC website to get all the information you need to <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html" target="_blank">apply for permanent residence</a>.</p><p><strong>Note:</strong> IRCC will not accept your application if it is incomplete or you have not paid the required fees.</p><h3>Step 3: Submit your application online</h3><p><a href="https://prson-srpel.apps.cic.gc.ca/en/login" target="_blank">Apply online</a> to submit your application for permanent residence.</p><h2>After you apply</h2><p>When you apply online, you will receive immediate confirmation you have successfully submitted your application.</p><p>You can <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html" target="_blank">check the status of your <abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr> application</a> online using your file number.</p><p><abbr title="Alberta Advantage Immigration Program">AAIP</abbr> does not have any information about your IRCC application and cannot provide status updates.</p><h3>Medical, criminal and security checks</h3><p>You and your family must pass medical, criminal and security checks to receive permanent residence.</p><p>Do not have a medical check until IRCC asks you to get one. Instructions on how to take the medical examination will be sent to you after you submit your application to IRCC.</p><p>Your AAIP Nomination does not mean that you will receive permanent residence. Only IRCC can issue a permanent resident visa.</p><h3>Change of information</h3><p>If there are changes to the following information while IRCC is processing your permanent residence application, you must contact both AAIP and IRCC:</p><ul><li>address, email or phone number</li><li>family status</li><li>employment changes and new work permits</li><li>immigration status</li><li>use of representative</li></ul><p>IRCC will tell you how to contact them with any changes after receiving your application for permanent residence.</p><p>Provide AAIP application updates through the <a href="https://aaip.labour.alberta.ca/" target="_blank">AAIP portal</a>.</p><h4>Online application using the AAIP portal</h4><p><strong>Note:</strong> All responses to requests for information, updates of your contact information (except email address), employment and family information and changes to your representative must be completed in the portal. Withdrawals must also be completed in the AAIP portal.</p><p>If you need to change your email address for corresponding with the AAIP, you must update your&nbsp;<a href="https://account.alberta.ca/" target="_blank">Alberta.ca Account</a>.</p><p>Ensure you attach all relevant documents. You must keep track of the changes you send to AAIP. AAIP will update its internal system with changes.</p><p><strong>Forms to notify AAIP of updates</strong></p><ul><li>A signed <a href="/system/files/custom_downloaded_images/lbr-aaip-candidate-representative-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="4710deb1-69d4-4435-8fd1-c5e39db5507d" data-entity-substitution="media" title="lbr-aaip-candidate-representative-form.pdf">Use of Representative form</a> must be provided to change your third-party representative for your AAIP application</li></ul><h4><span>Complete the online request</span></h4><p>To respond to requests for information, withdraw an application, update your contact information (excluding email address), family information, employment information and representative:</p><ul><li>Log into the&nbsp;<a href="https://aaip.labour.alberta.ca/" target="_blank">AAIP portal</a></li><li>On the portal main page, select 'Create New Request'.</li><li>Find the AAIP application number for the application that you want to update existing contact information.</li><li>Once you select the application number, you will be directed to a page with detailed information. You can only see request options that are available to you for this application.<ul><li>Withdrawal: If you are eligible to withdraw the application, a blue 'Withdraw Application' button will be available above the application number.</li><li>Update contact information: You can update contact information for all active or nominated applications.</li><li>Update employment information: You can update your current employment information for all active or nominated applications. Use this option to provide responses to information requests, reference letters, <abbr title="Labour Market Impact Assessment">LMIA</abbr>s, work permits, job offers, employment contracts, pay records, Records of employment and licensing or certification documents.</li><li>Update family information: You can update spouse or common-law partner and dependent information for all active and nominated applications.</li><li>Respond to requests for information: All responses to information requests must be saved in a Word or PDF format and uploaded via the “Update Employment Information” tab in your AAIP portal. Documents related to the request for information should be uploaded via the portal. Responses sent by email could delay processing of your application. &nbsp;</li><li>Request change of representative: You can update your representative for all applications, including withdrawn and declined applications.</li></ul></li><li>Select the blue button for the type of request or update you want to submit.</li><li>Read the information provided on submitting the request and follow the instructions to complete the request.<ul><li>Withdrawal: Once an application is withdrawn, it cannot be re-activated. Enter your reason for requesting the withdrawal of the application,</li><li>Update contact information: The contact information AAIP currently has for you is provided. To update your address or phone number, replace the existing information with your new information. Only update the information that is no longer correct. Do not delete any information that is still correct. Include only your contact information. Do not provide anyone else’s information, including that of your third-party representative.</li><li>Update employment information: Check off all the changes to employment that apply and upload supporting documents.</li><li>Update family information: Provide details on the spouse or common-law partner and or dependent you need to add or remove from the application and upload supporting documents.</li><li>Respond to requests for information: All responses to information requests must be saved in a Word or PDF format and uploaded via the “Update Employment Information” tab in your AAIP portal. Documents related to the request for information should be uploaded via the portal. Responses sent by email could delay processing of your application.</li><li>Request change of representative: If you are removing a representative and representing yourself, fill out the fields as directed in the portal. If you are appointing a representative or changing from one representative to another representative, read the provided AAIP Use of Representative policy and upload a signed <a href="/system/files/custom_downloaded_images/lbr-aaip-candidate-representative-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="c4864db9-1307-41a6-8741-15b64fe562cb" data-entity-substitution="media" title="lbr-aaip-candidate-representative-form.pdf">Use of Representative form</a>. Read the instructions in the form to determine which pages must be completed for the change to representative you are requesting.</li></ul></li><li>Select 'Submit Request' button.</li></ul><p>AAIP will review your request to withdraw and will notify you by email after the review is completed.</p><p>We will make the changes to your contact, family, employment and representative information in our internal system. Changes will only be reflected in the individual requests in the 'Check Existing Request' section in the portal. Changes to your information will not be reflected in the online application.</p><p>IRCC will tell you how to contact them with any changes after receiving your application for permanent residence.</p><p><strong>Forms to notify AAIP of updates</strong></p><ul><li><a href="/system/files/custom_downloaded_images/lbr-aaip-change-contact-information-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="27cc74b5-ecdd-4cc9-8af9-cbacb944e249" data-entity-substitution="media" title="lbr-aaip-change-contact-information-form.pdf">Change of Contact and Address Information</a></li><li><a href="/system/files/im-aaip-add-remove-family-member-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="bdd6c9ec-59ed-4305-9bcb-ced6b619e5ed" data-entity-substitution="media" title="im-aaip-add-remove-family-member-form.pdf">Request to Add or Remove Family Member(s)</a></li><li>A signed <a href="/system/files/custom_downloaded_images/lbr-aaip-candidate-representative-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="db91c5cb-da76-4283-a613-4c2ed7352e9f" data-entity-substitution="media" title="lbr-aaip-candidate-representative-form.pdf">Use of Representative form</a> must be provided to change your third-party representative for your AAIP application.</li></ul><h2><a class="ck-anchor" id="extend-your-work-permit"></a>Extend your work permit</h2><p>All <abbr title="Alberta Advantage Immigration Program">AAIP</abbr> nominees must apply to <abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr> for a work permit renewal if their current work permit will expire before their permanent residence application is finalized.</p><p>An AAIP nomination is not an automatic work permit renewal. It is very important to not let your work permit expire.</p><p>There are 4 ways that AAIP nominees can apply to IRCC for a work permit renewal.</p><p>AAIP recommends that you first explore option 1, 2 or 3.</p><h3>Option 1</h3><p>Renew your work permit with a new <a href="http://www.cic.gc.ca/english/work/employers/lmo-basics.asp" target="_blank">Labour Market Impact Assessment</a> (LMIA) from your Alberta employer.</p><p>If your Alberta employer has a new LMIA, you can <a href="http://www.cic.gc.ca/english/work/extend-stay.asp" target="_blank">apply to IRCC for a work permit renewal</a>.</p><p>Make sure you include a copy of the LMIA.</p><h3>Option 2</h3><p>Renew your work permit based on <a href="http://www.cic.gc.ca/english/work/apply-who-permit.asp" target="_blank">an LMIA exemption</a> as determined by IRCC.</p><h3>Option 3</h3><p>Renew your work permit by applying for a <a href="http://www.cic.gc.ca/english/work/permit/extend/permanent.asp" target="_blank">Bridging Open Work Permit</a>. This option is available to all AAIP nominees in all streams and categories who have applied for permanent residence to IRCC and who:</p><ul><li>live in Canada</li><li>have an IRCC file number</li><li>have an Acknowledgement of Receipt (AOR), and</li><li>can meet all other <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend-permit/bridging-open-work-permit.html" target="_blank">IRCC work permit and status requirements</a></li></ul><p>Follow these steps when applying for the <a href="http://www.cic.gc.ca/english/work/permit/extend/permanent.asp" target="_blank">Bridging Open Work Permit</a>:</p><ol><li>Include a copy of your AAIP nomination when you apply.</li><li>Include a copy of your AOR from IRCC with your IRCC file number.</li><li>Select ‘Open Work Permit’ on the IRCC application form to extend your work permit where it asks ‘What type of work permit are you applying for?’</li><li><a href="http://www.cic.gc.ca/english/information/fees/index.asp" target="_blank">Pay all fees</a>, including the additional $100 fee for an open work permit.</li></ol><h3>Option 4 (only recommended if options 1, 2, and 3 are not possible)</h3><h4>204(c) Letter of Support</h4><p>If Options 1, 2 or 3 are not available to you, you may be eligible to receive a 204(c) Letter of Support from AAIP to renew your work permit.</p><p>All nominees who had a valid work permit at the time of nomination, must submit a request to be considered for a 204(c) Letter of Support. AAIP will review your request and determine if a letter can be issued.</p><p>There is no guarantee a 204(c) Letter of Support will be issued.</p><p>AAIP will only issue one 204(c) Letter of Support per nominee. A second 204(c) Letter of Support may be issued to nominees who have a written request from IRCC for a 204(c) Letter of Support.</p><p>The following processes and considerations apply to requests for a 204(c) Letter of Support:</p><ul><li>All nominees must complete and submit a request for 204(c) Letter of Support. How you submit the request depends on how you applied to AAIP (mail or online application). You cannot submit a request for a 204(c) Letter of Support until you have received a nomination certificate.</li><li>All requests for a 204(c) Letter of Support are subject to a service fee of $150. Exception: Nominees who have a written request from IRCC for a 204(c) Letter of Support do not need to pay the service fee.</li><li>Requests will not be processed until full payment is received.</li></ul><h4>How to request a 204(c) Letter of Support</h4><p><strong>Step 1. Complete the online request</strong></p><ul><li>Log into the&nbsp;<a href="https://aaip.labour.alberta.ca/" target="_blank">Alberta Advantage Immigration Program portal</a></li><li>On the portal main page, select 'Create New Request'.</li><li>Find the AAIP application number for the application for which you want to make a request for a 204(c) Letter of Support.</li><li>Once you select the application number, you will be directed to a page with detailed information. You can only see request options that are available to you for this application. You can make a request for a 204(c) Letter of Support for applications that have a valid nomination. If you are eligible to submit a request for a 204(c) Letter of Support for the application, a blue 'Request 204(c) Letter of Support' button will be available above the application number.</li><li>Select the 'Request 204(c) Letter of Support' button.</li><li>Next, read the <a href="https://open.alberta.ca/publications/p28p5" target="_blank"><em>Protection of Privacy Act</em></a> (POPA) clause and other important information about completing a request. Check off the box and click on 'Continue'. A draft is automatically saved once you click on the 'Continue' button. If you experience any technical issues or leave the request section while creating the request, you will need to go to the 'Check Existing Requests' page to retrieve the draft request to continue.</li><li>Read the information provided on submitting the request and follow the instructions to complete the request. Fill out the fields as directed in the portal and upload supporting documents.</li><li>Select 'Submit Request' button.</li><li>Next you must pay the fee.</li></ul><p><strong>Step 2. Pay the fee</strong></p><p>All requests for a 204(c) Letter of Support are subject to a service fee of $150.</p><p>Exception: Nominees who have a written request from IRCC for a 204(c) Letter of Support do not need to pay the service fee.</p><p><strong>Fee conditions</strong></p><p>The request for a 204(c) Letter of Support fee is non-refundable once a request has been submitted in the AAIP portal. Refund requests for requests for a 204(c) Letter of Support will not be considered. The fee covers the cost of processing your request and is required whether a 204(c) Letter of Support is issued or not. There is no guarantee you will be issued a 204(c) Letter of Support.</p><p><strong>Online payment</strong></p><p>Instructions on how to pay your fee are available in the portal. For any online fee payment issues, contact <a href="https://eservices.alberta.ca/contact/" target="_blank">eServices</a>.</p><p>You will need to pay your fee in full within 24 hours of submitting your request in the portal. If you do not pay your fee within 24 hours of submitting your request, your request will be cancelled. Cancelled requests cannot be reinstated and a new request must be created and submitted.</p><p>Check the Request Status of your application on the Check Existing Requests page to confirm if your request fee has been paid.&nbsp;</p><ul><li>If the status is 'Payment Pending', your fee has not been paid.</li><li>If the status is 'Submitted', your request is being processed. eServices will send an email with a paid receipt.</li></ul><p><strong>After you submit a request for a 204(c) Letter of Support</strong></p><p>To view the status of your 204 (c) Letter of Support request, log into the AAIP portal, and select “Check Existing Request”. &nbsp; &nbsp; &nbsp;&nbsp;</p><p>If you receive a written request from IRCC for a 204(c) Letter of Support, AAIP will attempt to respond to your request by the deadline provided by IRCC.&nbsp;</p><p>The online request and supporting documents will be reviewed. You will receive an email notifying you if the request meets the conditions required for a 204(c) Letter of Support to be issued.</p><p><strong>Applying for a new work permit with a 204(c) Letter of Support</strong></p><ul><li>include a copy of your AAIP nomination and your 204(c) Letter of Support</li><li>include a copy of your Acknowledgement of Receipt from IRCC with your IRCC file number, if your AAIP nomination is no longer valid when you apply</li><li>confirm if your Alberta employer paid the employer compliance fee of $230 and has submitted an offer of employment through the Employer Portal</li></ul><p>More information on applying to IRCC to renew a work permit with a 204(c) Letter of Support can be found on the&nbsp;<a href="https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/foreign-workers/exemption-codes/federal-provincial-territorial-agreements-r204-lmia-exemption-code-t13.html" target="_blank">IRCC website</a>&nbsp;under the section 'Foreign workers nominated by a province or territory'.</p><h2>Extend your nomination</h2><p><strong>Note:</strong> All requests for a nomination extension are subject to a service fee of $150. Information on how to pay the fee is provided below.</p><p>Your <abbr title="Alberta Advantage Immigration Program">AAIP</abbr> nomination gives you 6 months to submit your application for permanent residence as a Provincial Nominee to <abbr title="Immigration, Refugees and Citizenship Canada">IRCC</abbr>.</p><p>You must apply to IRCC before your nomination expires. If your nomination expires and you request an extension, the reasons why you need an extension will be reviewed by AAIP.</p><p>There is no guarantee that you will be issued an extension.</p><p>If you have already been granted an AAIP nomination extension, you will not be granted any further extensions.</p><p>To be considered for an extension request:</p><ul><li>AAIP must receive your extension request within 6 months of the expiry date of your original Nomination. If more than 6 months have passed since the expiry date of your original Nomination, you are not eligible for an AAIP Nomination extension.&nbsp;&nbsp;<ul><li>Exception: If you applied for permanent residence before your nomination expired and were impacted by IRCC’s processing delays, you can submit a request more than 6 months after your nomination’s expiry date. You must explain your situation in your request and provide proof that you applied for permanent residence before your nomination certificate expired.</li></ul></li><li>You must continue to meet all of the conditions that were in place at the time your original nomination was issued by AAIP.</li><li>Full fee payment must be received. Requests will not be processed until full payment is received.</li></ul><p>AAIP will not respond to any inquiries about the status of your nomination extension request. You can log onto the AAIP portal to view the status of your request. &nbsp;</p><h3>Request a nomination extension</h3><h4>Online application using the AAIP portal</h4><p>Candidates who submitted their application online using the AAIP portal must submit their request for nomination extension using the portal.</p><p><strong>Step 1. Complete the online request</strong></p><ul><li>Log into the <a href="https://aaip.labour.alberta.ca/">AAIP portal</a></li><li>On the portal main page, select 'Create New Request'.</li><li>Find the AAIP application number for the application that you want to request a nomination extension for. Only applications with a status of 'Certificate Issued” are eligible for a nomination extension.</li><li>Once you select the application number, you will be directed to a page with detailed information. You can only see request options that are available to you for this application. If you are eligible to submit a request for a nomination extension, a blue 'Request Nomination Extension' button will be available above the application number.</li><li>Select the blue 'Request Nomination Extension' button.</li><li>Next, read the <a href="https://open.alberta.ca/publications/p28p5" target="_blank"><em>Protection of Privacy Act</em></a> (POPA) clause and other important information about completing a request. Check off the box and click on 'Continue'. A draft is automatically saved once you click on the 'Continue' button. If you experience any technical issues or leave the request section while creating the request, you will need to go to the 'Check Existing Requests' page to retrieve the draft request to continue.</li><li>Fill out the form, complete the online declaration and upload supporting documents, if applicable, and select 'Submit Request' button.</li><li>Next you must pay the fee.</li></ul><p><strong>Step 2. Pay the fee</strong></p><p>All requests for nomination extension are subject to a service fee of $150.</p><p><strong>Fee conditions</strong></p><p>The request for a nomination extension fee is non-refundable once a request has been submitted to AAIP. Refund requests for nomination extensions will not be considered. The fee covers the cost of processing of your request and is required whether a nomination extension is issued or not.</p><p><strong>Online payment</strong></p><p>Instructions on how to pay your fee are available in the portal. For any online fee payment issues, contact the&nbsp;<a href="https://eservices.alberta.ca/contact/" target="_blank">eServices</a>.</p><p>You will need to pay your fee in full within 24 hours of submitting your request in the portal. If you do not pay your fee within 24 hours of submitting your request, your request will be cancelled. Cancelled requests cannot be reinstated and a new request must be created and submitted.</p><p>Check the request status of your application on the 'Check Existing Requests' page to confirm your request fee has been paid.&nbsp;</p><ul><li>If the status is 'Payment Pending', your fee has not been paid.</li><li>If the status is 'Submitted', your request is being processed. eServices will send an email with a paid receipt.</li></ul><p><strong>After you request an extension</strong><br>Your request and supporting documents will be reviewed. You will receive an email notifying you if the request meets the conditions required for a nomination extension to be issued.</p><p>If you are issued a nomination extension, you must follow the steps for applying to IRCC in order to submit your application.</p><h2>Forms and documents</h2><ul><li><a href="/system/files/custom_downloaded_images/lbr-aaip-candidate-representative-form.pdf" target="_blank" data-entity-type="media" data-entity-uuid="3240f4df-88cf-4f84-a6d8-8dcc2ef6e9d3" data-entity-substitution="media" title="lbr-aaip-candidate-representative-form.pdf">Use of Representative form</a></li></ul>
+
+  </div>
+
+  
+  <div class="paragraph paragraph--type--text-block paragraph--view-mode--default goa-column-100-100-100">
+    
+  <h2>Contact</h2><p>Connect with us if you have questions about the program:<br>Use the <a href="/contact-opportunity-alberta" data-entity-type="node" data-entity-uuid="b3c24993-6b17-439e-aead-25c29a1da184" data-entity-substitution="canonical" title="Contact Opportunity Alberta">Opportunity Alberta contact form</a>.</p>
+
+  </div>
+
+
+  </div>
+
+
+
+    
+
+        
+              
+
+            <div class="goa-main-grid goa-previous-next no-next">
+      <div class="goa-prev-btn">
+      <span>Previous</span>
+      <a href="/aaip-alberta-opportunity-stream-eligibility" target="_self">Eligibility</a>
+    </div>
+  
+  </div>
+
+
+    
+      </div>
+</div>
+
+
+	</main>
+
+		<footer class="goa-footer goa-footer--border">
+		  <div class="goa-metadata-feedback goa-feedback-wrapper"  data-page-meta='{"id":"679","owner":"25","type":"program","title":"Alberta Opportunity Stream – After you are nominated"}'>
+    <div class="goa-container">
+
+              <div class="goa-lead-ministry">
+          <strong>Lead ministry:</strong>
+          <span>Jobs, Economy, Trade and Immigration</span>
+        </div>
+      
+      <div class="goa-feedback">
+
+        <div class="goa-feedback-question active">
+          <p>Was this page helpful?</p>
+          <div class="goa-feedback-question-buttons">
+            <button class="goa-button goa-button--yes">Yes</button>
+            <button class="goa-button goa-button--no" aria-expanded="false">No</button>
+          </div>
+        </div>
+
+        <div class="goa-feedback-form">
+          <div id="form39609" class="goa-form">
+            <form method="post" action="/aaip-alberta-opportunity-stream-after-you-are-nominated#form39609" enctype="multipart/form-data" accept-charset="utf-8">
+
+              <div class="step-feedback" data-type="feedback" data-enabled="true">
+                <p class="form-legend" style="display: none;">
+                  All fields are required unless otherwise indicated.
+                </p>
+
+                <div class="form-legend form-legend--feedback">
+                  <p>
+                    You will <strong>NOT</strong> receive a reply on your feedback. Do <strong>NOT</strong> include personal information. To get answers to questions, use
+                    <a href="https://www.alberta.ca/general-inquiries#jumplinks-1">Alberta Connects</a>.
+                  </p>
+                </div>
+
+                <div class="goa-field goa-field--textarea goa--required">
+                  <label for="textareaQuestion1">What were you trying to do? (500 character limit)</label>
+                  <textarea id="textareaQuestion1" name="textareaQuestion1" maxlength="500" cols="40" rows="4" required="required" aria-required="true" aria-describedby="textareaQuestion1-error"></textarea>
+                  <span id="textareaQuestion1-error" class="error-help">Please tell us what you were trying to do.</span>
+                </div>
+
+                <div class="goa-field goa-field--textarea goa--required">
+                  <label for="textareaQuestion2">What went wrong? (500 character limit)</label>
+                  <textarea id="textareaQuestion2" name="textareaQuestion2" maxlength="500" cols="40" rows="4" required="required" aria-required="true" aria-describedby="textareaQuestion2-error"></textarea>
+                  <span id="textareaQuestion2-error" class="error-help">Please tell us what went wrong.</span>
+                </div>
+
+                <input id="path" name="path" type="hidden" value="/aaip-alberta-opportunity-stream-after-you-are-nominated">
+                <input id="ua" name="ua" type="hidden" value="false">
+                <input id="step" name="step" type="hidden" value="1">
+
+                <div class="goa-buttons">
+                  <button name="buttonSubmit" class="goa-button">Send your feedback</button>
+                </div>
+
+              </div>
+                          </form>
+          </div>
+
+          <div id="disclaimer-reset" class="goa-disclaimer">
+            <p>Your submissions are monitored by our web team and are used to help improve the experience on Alberta.ca.</p>
+          </div>
+        </div>
+        
+        <div id="feedback-message39609" class="goa-feedback-message"></div>
+
+      </div>
+
+                    
+    </div>
+  </div>
+
+		<div class="goa-container">
+			<a href="/" title="Home" class="goa-logo">Alberta.ca</a>
+
+			<div class="goa-footer--links">
+				<div id="goa-quicklinks" class="goa-list">
+					
+<nav
+	role="navigation" id="goa-quicklinks-nav" aria-labelledby="block-footer-menu">
+					
+	<h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+
+			
+  
+  
+  
+  
+          <ul region="footer" class="menu__main_nav menu__primary_footer">
+      
+        
+          
+                    <li class="menu_footer__item">
+            <a href="/ministries" class="menu_footer__link" data-drupal-link-system-path="node/7020">Ministries</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_footer__item">
+            <a href="/find-a-job" class="menu_footer__link" data-drupal-link-system-path="node/7575">Jobs</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_footer__item">
+            <a href="/contact-government" class="menu_footer__link" data-drupal-link-system-path="node/6862">Contact government</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_footer__item">
+            <a href="/staff-directory.cfm" class="menu_footer__link">Staff directory</a>
+
+            
+          </li>
+        
+      </ul>
+      
+
+
+	</nav>
+
+				</div>
+
+				<div id="goa-aboutlinks" class="goa-list">
+					
+  
+<nav
+	role="navigation" id="goa-aboutlinks" class="goa-list" aria-labelledby="block-aboutlinks-menu">
+					
+	<h2  class="visually-hidden" id="block-aboutlinks-menu">About Links</h2>
+
+			
+  
+  
+  
+  
+          <ul region="about_links" class="menu__main_nav menu__primary_about-links">
+      
+        
+          
+                    <li class="menu_about-links__item">
+            <a href="/usingthissite" class="menu_about-links__link" data-drupal-link-system-path="node/5864">Using Alberta.ca</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_about-links__item">
+            <a href="/disclaimer" class="menu_about-links__link" data-drupal-link-system-path="node/2990">Disclaimer</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_about-links__item">
+            <a href="/privacystatement" class="menu_about-links__link" data-drupal-link-system-path="node/4931">Privacy</a>
+
+            
+          </li>
+        
+          
+                    <li class="menu_about-links__item">
+            <a href="/accessibility" class="menu_about-links__link" data-drupal-link-system-path="node/761">Accessibility</a>
+
+            
+          </li>
+        
+      </ul>
+      
+
+
+	</nav>
+
+
+				</div>
+			</div>
+
+			<div class="goa-footer--social-copy">
+				<div class="goa-footer--social goa-socialshare">
+					<ul>
+						<li class="goa-socialshare-facebook">
+							<a href="https://www.facebook.com/youralberta.ca/" target='_blank'>Facebook</a>
+						</li>
+						<li class="goa-socialshare-twitter">
+							<a href="https://twitter.com/YourAlberta" target='_blank'>Twitter</a>
+						</li>
+						<li class="goa-socialshare-instagram">
+							<a href="https://www.instagram.com/youralberta/" target='_blank'>Instagram</a>
+						</li>
+						<li class="goa-socialshare-linkedin">
+							<a href="https://www.linkedin.com/company/government-of-alberta/" target='_blank'>Linkedin</a>
+						</li>
+					</ul>
+				</div>
+				<div class="goa-copyright">
+					&copy;
+					2026
+					Government of Alberta
+				</div>
+			</div>
+		</div>
+
+			</footer>
+
+	<script>
+		// dsComponents
+goa.init({debug: false, enableescape: false});
+
+// abLayouts
+ab.init({enablejumplinks: true, enableupdates: false, debug: false,});
+
+// abComponents
+if (abComponents) 
+abComponents.init({debug: false});
+	</script>
+
+  </div>
+
+    
+    
+    <script src="/sites/default/files/js/js_56D_F3rsNYQ0xZj6CX1Qf8vMpULz2j-cg9fh1mdUFpI.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=goa_core&amp;include=eJxLz0-MT84vStVPz8lPSszRyc3My8wvSsxLT40vTszN0Ufj65WkFpcAAB1pFJM"></script>
+
+  </body>
+  </html>

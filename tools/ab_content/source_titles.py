@@ -1,0 +1,66 @@
+ZH={}
+for l in '''overview|省级计划总览：八个主类别
+updates|省级政策更新公告
+levels|联邦2026—2028移民水平计划
+fsw|联邦技术工人计划资格
+cec|加拿大经验类移民资格
+fst|联邦技工计划资格
+pnp|联邦省提名移民说明
+pgwp|毕业工作许可：谁能申请
+cip|毕业工作许可：合格学习领域
+abstatus|阿省配额、库存与邀请
+processing|阿省配额、库存与最新邀请
+abos|阿尔伯塔机会类别资格
+abee|阿尔伯塔快速通道类别资格
+abhealth|专设医疗通路资格
+abrural|乡村振兴类别资格
+abtour|旅游与酒店类别资格
+abbiz|乡村企业家类别资格
+abgradbiz|毕业生企业家类别资格
+abforeignbiz|海外毕业生企业家类别总览
+abforeigncriteria|海外毕业生企业家类别资格
+abfarm|农场类别资格
+noc|国家职业分类官方入口
+spouseworker|外国工人的配偶及家属工作许可
+spousestudent|国际学生配偶工作许可
+wages|外国工人适用工资资料
+abtechlist|科技通路44个合格职业原表
+abtechindustry|科技雇主27个合格行业原表
+worker-apply|工人意向表达、邀请及完整申请
+employers|职位与雇主资格
+worker-docs|工人申请官方材料清单
+fees|省计划官方收费表
+communities|乡村振兴指定社区完整名单
+resources|省计划官方资源与表格
+res-elig|乡村企业家类别资格
+ges-elig|毕业生企业家类别资格
+res-apply|乡村企业家申请流程与材料
+ ges-apply|毕业生企业家申请流程与材料
+fges-apply|海外毕业生企业家申请流程与材料
+farm-apply|农场类别申请流程与材料
+ee-selection|省快速通道选择说明
+expired|已关闭的历史类别
+childcare|阿省幼教等级认证
+public-schools|阿省公立高等院校名单
+points|工人100分评分表原件
+draws-2025|2025年历史邀请记录
+foreign-trades|境外技工资格认可
+dli|联邦指定学习机构名单
+study-funds|学习许可生活资金标准
+bowp|过渡性开放工作许可资格
+aos-after|机会类别获得提名后的操作
+clpna|阿省护理及护理助理监管机构
+sait-language|南阿尔伯塔理工学院英语要求
+nait-fees|北阿尔伯塔理工学院国际学费
+health-regulators|阿省医疗监管机构目录
+hca-regulation|健康护理助理监管变化
+trades|阿省指定技工职业与认证目录
+olds-fees|奥兹学院收费入口
+olds-international|奥兹学院国际招生与语言
+olds-fees-pdf|奥兹学院2026—27官方收费表
+work-permit|联邦工作许可申请
+find-noc|联邦职业代码查找工具
+noc-elements|国家职业分类一般就业要求官方数据'''.splitlines():
+ k,v=l.split('|');ZH[k.strip()]=v
+for k,v in {'software':'软件开发','civil':'市政土木技术','mechanical':'机械工程技术','aircraft':'飞机维修技术','culinary':'烹饪艺术','hospitality':'酒店与旅游综合方向','ece':'幼儿教育文凭','nurse':'实用护理','hca':'健康护理助理','agri':'农业管理'}.items():
+ for suf,desc in [('', '官方项目页'),('-entry','录取要求'),('-cost','国际学费与课程')]:ZH['school-'+k+suf]=v+'：'+desc

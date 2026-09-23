@@ -45,16 +45,36 @@ CONTROLLED_TERMS={
 'UBC':('不列颠哥伦比亚大学','University of British Columbia'),
 'SFU':('西蒙弗雷泽大学','Simon Fraser University'),'VIU':('温哥华岛大学','Vancouver Island University'),
 'TRU':('汤普森河大学','Thompson Rivers University'),'KPU':('昆特兰理工大学','Kwantlen Polytechnic University'),
-'UVic':('维多利亚大学','University of Victoria'),'CNC':('新喀里多尼亚学院','College of New Caledonia'),
+'UVic':('维多利亚大学','University of Victoria'),'CNC':('计算机数控','Computer Numerical Control'),
 'BCACC':('不列颠哥伦比亚省临床咨询师协会','British Columbia Association of Clinical Counsellors'),
 'BCCNM':('不列颠哥伦比亚省护士与助产士监管学院','British Columbia College of Nurses and Midwives'),
 'BCCSW':('不列颠哥伦比亚省社会工作者监管学院','British Columbia College of Social Workers'),
 'JAL':('职位批准函','Job Approval Letter'),'SINP':('萨斯喀彻温省移民提名计划','Saskatchewan Immigrant Nominee Program'),
 'EPA':('雇佣职位评估','Employment Position Assessment'),
 }
+CONTROLLED_TERMS.update({
+'EI':('企业家移民','Entrepreneur Immigration'),'WCB':('工伤赔偿委员会','Workers’ Compensation Board'),
+'NIC':('北岛学院','North Island College'),'NLC':('北光学院','Northern Lights College'),'CST':('计算机系统技术','Computer Systems Technology'),
+'PLAR':('先前学习评估与认可','Prior Learning Assessment and Recognition'),'CRC':('犯罪记录检查','Criminal Record Check'),
+'TB':('结核病','Tuberculosis'),'CPR-C':('C级心肺复苏','Cardiopulmonary Resuscitation Level C'),'CPR-BLS':('心肺复苏及基础生命支持','Cardiopulmonary Resuscitation – Basic Life Support'),
+'CPR':('心肺复苏','Cardiopulmonary Resuscitation'),'BSN':('护理学学士','Bachelor of Science in Nursing'),'PPE':('个人防护装备','Personal Protective Equipment'),
+'FOODSAFE':('食品安全培训','FOODSAFE Food Safety Training'),'DPECES':('幼儿教育文凭项目代码','Early Childhood Education Diploma program code'),
+'PDEP':('营养教育与实践合作组织','Partnership for Dietetic Education and Practice'),'CDRE':('加拿大营养师注册考试','Canadian Dietetic Registration Exam'),
+'EPPP':('心理学专业执业考试','Examination for Professional Practice in Psychology'),'CAGC':('加拿大遗传咨询师协会','Canadian Association of Genetic Counsellors'),
+'CACPT':('加拿大心肺技术人员协会','Canadian Association of Cardio-pulmonary Technologists'),'CMRTO':('安省医学放射技术人员监管学院（原名称）','College of Medical Radiation Technologists of Ontario'),
+'ACVIM':('美国兽医内科学会','American College of Veterinary Internal Medicine'),'ABVP':('美国兽医执业委员会','American Board of Veterinary Practitioners'),
+'LEED':('能源与环境设计先锋认证','Leadership in Energy and Environmental Design'),'CWC':('认证在职主厨','Certified Working Chef'),'CCC':('认证行政主厨','Certified Chef de Cuisine'),
+'CCI':('加拿大烹饪学院','Canadian Culinary Institute'),'CCF':('加拿大烹饪联合会','Canadian Culinary Federation'),'APR':('认证公共关系资格','Accredited in Public Relations'),
+'CISA':('认证信息系统审计师','Certified Information Systems Auditor'),'CISM':('认证信息安全经理','Certified Information Security Manager'),'CIA':('认证内部审计师','Certified Internal Auditor'),
+'CBCPO':('加拿大假肢及矫形师认证委员会','Canadian Board of Certification of Prosthetists and Orthotists'),'CAPO':('加拿大假肢及矫形师协会','Canadian Association of Prosthetists and Orthotists'),
+'CMRP':('认证市场研究专业人员','Certified Marketing Research Professional'),'CHRP':('认证人力资源专业人员','Certified Human Resources Professional'),
+'CLHA':('阿省执业护士与健康护理助理监管学院','College of Licensed Practical Nurses and Health Care Aides of Alberta'),
+'IT':('信息技术','Information Technology'),'HR':('人力资源','Human Resources'),
+'CAD-CAM':('计算机辅助设计与制造','Computer-Aided Design and Computer-Aided Manufacturing'),
+})
 def full(k):
  zh,en=CONTROLLED_TERMS[k];return f'{zh}（{en}，{k}）'
-pattern=re.compile(r'(?<![A-Za-z0-9_-])('+'|'.join(re.escape(k) for k in sorted(CONTROLLED_TERMS,key=len,reverse=True))+r')(?![A-Za-z0-9_-])')
+pattern=re.compile(r'(?<![A-Za-z0-9_-])('+'|'.join(re.escape(k) for k in sorted(CONTROLLED_TERMS,key=len,reverse=True))+r')(?![A-Za-z_-])')
 def protect(text):
  saved=[]
  def hold(m):saved.append(m.group());return f'\uE000{len(saved)-1}\uE001'
@@ -63,6 +83,7 @@ def protect(text):
  text=re.sub(r'https?://[^\s<>]+',hold,text)
  return text,saved
 def expand_text(text):
+ text=text.replace('computer numerical control (CNC)', '计算机数控（Computer Numerical Control，数控）').replace('computer numerical control (新喀里多尼亚学院（College of New Caledonia，CNC）)', '计算机数控（Computer Numerical Control，数控）')
  text,saved=protect(text)
  text=pattern.sub(lambda m:full(m.group()),text)
  return re.sub(r'\uE000(\d+)\uE001',lambda m:saved[int(m[1])],text)

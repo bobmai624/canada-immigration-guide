@@ -1,0 +1,685 @@
+[
+  {
+    "id": "abos",
+    "title": "阿尔伯塔机会类别：不合格职业",
+    "kind": "negative",
+    "source": "abos",
+    "rows": [
+      {
+        "code": "00010",
+        "scope": "Legislators",
+        "partial": false
+      },
+      {
+        "code": "40021",
+        "scope": "School principals and administrators of elementary and secondary education",
+        "partial": false
+      },
+      {
+        "code": "40030",
+        "scope": "Managers in social, community and correctional services",
+        "partial": false
+      },
+      {
+        "code": "40041",
+        "scope": "Fire chiefs and senior firefighting officers",
+        "partial": false
+      },
+      {
+        "code": "60040",
+        "scope": "Escort agency managers, massage parlour managers",
+        "partial": true
+      },
+      {
+        "code": "41100",
+        "scope": "Judges",
+        "partial": false
+      },
+      {
+        "code": "41220",
+        "scope": "Secondary school teachers",
+        "partial": false
+      },
+      {
+        "code": "41221",
+        "scope": "Elementary school and kindergarten teachers",
+        "partial": false
+      },
+      {
+        "code": "51111",
+        "scope": "Authors and writers (except technical)",
+        "partial": false
+      },
+      {
+        "code": "51122",
+        "scope": "Musicians and singers",
+        "partial": false
+      },
+      {
+        "code": "42200",
+        "scope": "Justices of the peace",
+        "partial": true
+      },
+      {
+        "code": "42202",
+        "scope": "Early childhood educators who do not have certification through Alberta Children's Services – Child Care Staff Certification Office or who have been certified as Level 1 Early Childhood Educator (formerly Child Development Assistant)",
+        "partial": true
+      },
+      {
+        "code": "43100",
+        "scope": "Elementary and secondary school teacher assistants",
+        "partial": false
+      },
+      {
+        "code": "43109",
+        "scope": "Other instructors",
+        "partial": false
+      },
+      {
+        "code": "53121",
+        "scope": "Actors, comedians and circus performers",
+        "partial": false
+      },
+      {
+        "code": "53122",
+        "scope": "Painters, sculptors and other visual artists",
+        "partial": false
+      },
+      {
+        "code": "53124",
+        "scope": "Artisans and craftspersons",
+        "partial": false
+      },
+      {
+        "code": "53200",
+        "scope": "Athletes",
+        "partial": false
+      },
+      {
+        "code": "63101",
+        "scope": "Real estate agents and salespersons",
+        "partial": false
+      },
+      {
+        "code": "33100",
+        "scope": "Dental laboratory assistants/bench workers",
+        "partial": true
+      },
+      {
+        "code": "44100",
+        "scope": "Home child care providers",
+        "partial": false
+      },
+      {
+        "code": "44101",
+        "scope": "Home support workers, caregivers and related occupations",
+        "partial": false
+      },
+      {
+        "code": "64321",
+        "scope": "Casino occupations",
+        "partial": false
+      },
+      {
+        "code": "55109",
+        "scope": "Other performers",
+        "partial": false
+      },
+      {
+        "code": "65109",
+        "scope": "Other sales related occupations",
+        "partial": false
+      },
+      {
+        "code": "65211",
+        "scope": "Operators and attendants in amusement, recreation and sport",
+        "partial": false
+      },
+      {
+        "code": "65229",
+        "scope": "Other support occupations in personal services",
+        "partial": false
+      },
+      {
+        "code": "65329",
+        "scope": "Other service support occupations",
+        "partial": false
+      },
+      {
+        "code": "75200",
+        "scope": "Taxi and limousine drivers and chauffeurs",
+        "partial": false
+      },
+      {
+        "code": "85101",
+        "scope": "Harvesting labourers",
+        "partial": false
+      },
+      {
+        "code": "85102",
+        "scope": "Aquaculture and marine harvest labourers",
+        "partial": false
+      },
+      {
+        "code": "85104",
+        "scope": "Trappers and hunters",
+        "partial": false
+      },
+      {
+        "code": "85110",
+        "scope": "Mine labourers",
+        "partial": false
+      },
+      {
+        "code": "85121",
+        "scope": "Landscaping and grounds maintenance labourers",
+        "partial": false
+      }
+    ]
+  },
+  {
+    "id": "abrural",
+    "title": "乡村振兴类别：不合格职业",
+    "kind": "negative",
+    "source": "abrural",
+    "rows": [
+      {
+        "code": "00010",
+        "scope": "Legislators",
+        "partial": false
+      },
+      {
+        "code": "60040",
+        "scope": "Escort agency managers, massage parlour managers",
+        "partial": true
+      },
+      {
+        "code": "41100",
+        "scope": "Judges",
+        "partial": false
+      },
+      {
+        "code": "51111",
+        "scope": "Authors and writers (except technical)",
+        "partial": false
+      },
+      {
+        "code": "51122",
+        "scope": "Musicians and singers",
+        "partial": false
+      },
+      {
+        "code": "42200",
+        "scope": "Justices of the peace",
+        "partial": true
+      },
+      {
+        "code": "53121",
+        "scope": "Actors, comedians and circus performers",
+        "partial": false
+      },
+      {
+        "code": "53122",
+        "scope": "Painters, sculptors and other visual artists",
+        "partial": false
+      },
+      {
+        "code": "53124",
+        "scope": "Artisans and craftspersons",
+        "partial": false
+      },
+      {
+        "code": "53200",
+        "scope": "Athletes",
+        "partial": false
+      },
+      {
+        "code": "33100",
+        "scope": "Dental laboratory bench workers",
+        "partial": true
+      },
+      {
+        "code": "44100",
+        "scope": "Home child care providers",
+        "partial": false
+      },
+      {
+        "code": "44101",
+        "scope": "Home support workers, caregivers and related occupations",
+        "partial": false
+      },
+      {
+        "code": "64321",
+        "scope": "Casino Occupations",
+        "partial": false
+      },
+      {
+        "code": "55109",
+        "scope": "Other performers",
+        "partial": false
+      },
+      {
+        "code": "65229",
+        "scope": "Other support occupations in personal services",
+        "partial": false
+      },
+      {
+        "code": "85101",
+        "scope": "Harvesting Labourers",
+        "partial": false
+      }
+    ]
+  },
+  {
+    "id": "abtour",
+    "title": "旅游与酒店类别：合格职业",
+    "kind": "positive",
+    "source": "abtour",
+    "rows": [
+      {
+        "code": "54100",
+        "scope": "Program leaders and instructors in recreation, sport, and fitness",
+        "partial": false
+      },
+      {
+        "code": "60030",
+        "scope": "Restaurant and food services managers",
+        "partial": false
+      },
+      {
+        "code": "60031",
+        "scope": "Accommodation service managers",
+        "partial": false
+      },
+      {
+        "code": "62020",
+        "scope": "Food service supervisors",
+        "partial": false
+      },
+      {
+        "code": "62200",
+        "scope": "Chefs",
+        "partial": false
+      },
+      {
+        "code": "63200",
+        "scope": "Cooks",
+        "partial": false
+      },
+      {
+        "code": "64300",
+        "scope": "Maîtres d’hôtel and hosts/hostesses",
+        "partial": false
+      },
+      {
+        "code": "64301",
+        "scope": "Bartenders",
+        "partial": false
+      },
+      {
+        "code": "64314",
+        "scope": "Hotel front desk clerks",
+        "partial": false
+      },
+      {
+        "code": "64320",
+        "scope": "Tour and travel guides",
+        "partial": false
+      },
+      {
+        "code": "64322",
+        "scope": "Outdoor sport and recreational guides",
+        "partial": false
+      },
+      {
+        "code": "65200",
+        "scope": "Food and beverage servers",
+        "partial": false
+      },
+      {
+        "code": "65201",
+        "scope": "Food counter attendants, kitchen helpers and related support occupations",
+        "partial": false
+      },
+      {
+        "code": "65210",
+        "scope": "Support occupations in accommodation, travel, and facilities set-up services",
+        "partial": false
+      },
+      {
+        "code": "65310",
+        "scope": "Light duty cleaners",
+        "partial": false
+      },
+      {
+        "code": "65311",
+        "scope": "Specialized cleaners",
+        "partial": false
+      },
+      {
+        "code": "65312",
+        "scope": "Janitors, caretakers, and heavy-duty cleaners",
+        "partial": false
+      },
+      {
+        "code": "65320",
+        "scope": "Dry cleaning, laundry, and related occupations",
+        "partial": false
+      }
+    ]
+  },
+  {
+    "id": "technology",
+    "title": "加速科技通路：合格职业",
+    "kind": "positive",
+    "source": "abtechlist",
+    "rows": [
+      {
+        "code": "00012",
+        "scope": "Senior managers - financial, communications and other business services",
+        "partial": false
+      },
+      {
+        "code": "10011",
+        "scope": "Human resources managers",
+        "partial": false
+      },
+      {
+        "code": "10022",
+        "scope": "Advertising, marketing and public relations manager",
+        "partial": false
+      },
+      {
+        "code": "10030",
+        "scope": "Telecommunication carriers manager",
+        "partial": false
+      },
+      {
+        "code": "11200",
+        "scope": "Human resources professionals",
+        "partial": false
+      },
+      {
+        "code": "11202",
+        "scope": "Professional occupations in advertising, marketing and public relations",
+        "partial": false
+      },
+      {
+        "code": "12101",
+        "scope": "Human resources and recruitment officers",
+        "partial": false
+      },
+      {
+        "code": "20010",
+        "scope": "Engineering managers",
+        "partial": false
+      },
+      {
+        "code": "20011",
+        "scope": "Architecture and science managers",
+        "partial": false
+      },
+      {
+        "code": "20012",
+        "scope": "Computer and information systems managers",
+        "partial": false
+      },
+      {
+        "code": "21210",
+        "scope": "Mathematicians, statisticians and actuaries",
+        "partial": false
+      },
+      {
+        "code": "21211",
+        "scope": "Data scientists",
+        "partial": false
+      },
+      {
+        "code": "21220",
+        "scope": "Cybersecurity specialists",
+        "partial": false
+      },
+      {
+        "code": "21221",
+        "scope": "Business system specialists",
+        "partial": false
+      },
+      {
+        "code": "21222",
+        "scope": "Information systems specialists",
+        "partial": false
+      },
+      {
+        "code": "21233",
+        "scope": "Web designers",
+        "partial": false
+      },
+      {
+        "code": "21223",
+        "scope": "Database analysts and data administrators",
+        "partial": false
+      },
+      {
+        "code": "21231",
+        "scope": "Software engineers and designers",
+        "partial": false
+      },
+      {
+        "code": "21230",
+        "scope": "Computer systems developers and programmers",
+        "partial": false
+      },
+      {
+        "code": "21232",
+        "scope": "Software developers and programmers",
+        "partial": false
+      },
+      {
+        "code": "21234",
+        "scope": "Web developers and programmers",
+        "partial": false
+      },
+      {
+        "code": "21300",
+        "scope": "Civil engineers",
+        "partial": false
+      },
+      {
+        "code": "21301",
+        "scope": "Mechanical engineers",
+        "partial": false
+      },
+      {
+        "code": "21310",
+        "scope": "Electrical and electronics engineers",
+        "partial": false
+      },
+      {
+        "code": "21311",
+        "scope": "Computer engineers (except software engineers and designers)",
+        "partial": false
+      },
+      {
+        "code": "22110",
+        "scope": "Biological technologists and technicians",
+        "partial": false
+      },
+      {
+        "code": "22212",
+        "scope": "Drafting technologists and technicians",
+        "partial": false
+      },
+      {
+        "code": "22220",
+        "scope": "Computer network and web technicians",
+        "partial": false
+      },
+      {
+        "code": "22221",
+        "scope": "User support technicians",
+        "partial": false
+      },
+      {
+        "code": "22222",
+        "scope": "Information systems testing technicians",
+        "partial": false
+      },
+      {
+        "code": "22301",
+        "scope": "Mechanical engineering technologists and technicians",
+        "partial": false
+      },
+      {
+        "code": "22302",
+        "scope": "Industrial engineering and manufacturing technologists and technicians",
+        "partial": false
+      },
+      {
+        "code": "22310",
+        "scope": "Electrical and electronics engineering technologists and technicians",
+        "partial": false
+      },
+      {
+        "code": "32120",
+        "scope": "Medical laboratory technologists",
+        "partial": false
+      },
+      {
+        "code": "32129",
+        "scope": "Other medical technologists and technicians",
+        "partial": false
+      },
+      {
+        "code": "33101",
+        "scope": "Medical laboratory assistants and related technical occupations",
+        "partial": false
+      },
+      {
+        "code": "41402",
+        "scope": "Business development officers and market researchers and analysts",
+        "partial": false
+      },
+      {
+        "code": "50011",
+        "scope": "Managers – publishing, motion pictures, broadcasting and performing arts",
+        "partial": false
+      },
+      {
+        "code": "51120",
+        "scope": "Producers, directors, choreographers and related occupations",
+        "partial": false
+      },
+      {
+        "code": "52120",
+        "scope": "Graphic designers and illustrators",
+        "partial": false
+      },
+      {
+        "code": "60010",
+        "scope": "Corporate sales managers",
+        "partial": false
+      },
+      {
+        "code": "72200",
+        "scope": "Electricians (except industrial and power system)",
+        "partial": false
+      },
+      {
+        "code": "72201",
+        "scope": "Industrial electricians",
+        "partial": false
+      },
+      {
+        "code": "72205",
+        "scope": "Telecommunications equipment installation and cable television service technicians",
+        "partial": false
+      }
+    ]
+  },
+  {
+    "id": "law",
+    "title": "执法通路：三个职业类别",
+    "kind": "positive",
+    "source": "abee",
+    "rows": [
+      {
+        "code": "40040",
+        "scope": "Commissioned police officers and related occupations in public protection services",
+        "partial": false
+      },
+      {
+        "code": "41310",
+        "scope": "Police investigators and other investigative occupations",
+        "partial": false
+      },
+      {
+        "code": "42100",
+        "scope": "Police officers (except commissioned)",
+        "partial": false
+      }
+    ]
+  },
+  {
+    "id": "health",
+    "title": "专设医疗通路：九类专业及代码研究映射",
+    "kind": "profession-mapping",
+    "source": "abhealth",
+    "rows": [
+      {
+        "code": "31100",
+        "scope": "临床及实验室专科医生",
+        "partial": true
+      },
+      {
+        "code": "31101",
+        "scope": "外科医生",
+        "partial": true
+      },
+      {
+        "code": "31102",
+        "scope": "全科及家庭医生",
+        "partial": true
+      },
+      {
+        "code": "31301",
+        "scope": "注册护士；需核实具体注册类别",
+        "partial": true
+      },
+      {
+        "code": "32101",
+        "scope": "执业护士",
+        "partial": true
+      },
+      {
+        "code": "31302",
+        "scope": "高阶执业护士",
+        "partial": true
+      },
+      {
+        "code": "31303",
+        "scope": "仅医师助理，不包括该代码全部职业",
+        "partial": true
+      },
+      {
+        "code": "31203",
+        "scope": "作业治疗师",
+        "partial": true
+      },
+      {
+        "code": "31202",
+        "scope": "物理治疗师",
+        "partial": true
+      },
+      {
+        "code": "41300",
+        "scope": "仅临床社会工作者",
+        "partial": true
+      },
+      {
+        "code": "31200",
+        "scope": "心理学家",
+        "partial": true
+      }
+    ]
+  }
+]

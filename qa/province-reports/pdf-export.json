@@ -1,0 +1,134 @@
+[
+  {
+    "province": "bc",
+    "page": "01-framework.html",
+    "file": "reports/bc/pdf/01-framework.pdf",
+    "bytes": 1163868
+  },
+  {
+    "province": "bc",
+    "page": "02-fit.html",
+    "file": "reports/bc/pdf/02-fit.pdf",
+    "bytes": 962651
+  },
+  {
+    "province": "bc",
+    "page": "03-rules.html",
+    "file": "reports/bc/pdf/03-rules.pdf",
+    "bytes": 1711349
+  },
+  {
+    "province": "bc",
+    "page": "04-study.html",
+    "file": "reports/bc/pdf/04-study.pdf",
+    "bytes": 1052156
+  },
+  {
+    "province": "bc",
+    "page": "05-schools.html",
+    "file": "reports/bc/pdf/05-schools.pdf",
+    "bytes": 913718
+  },
+  {
+    "province": "bc",
+    "page": "06-timeline.html",
+    "file": "reports/bc/pdf/06-timeline.pdf",
+    "bytes": 1351857
+  },
+  {
+    "province": "bc",
+    "page": "07-risks.html",
+    "file": "reports/bc/pdf/07-risks.pdf",
+    "bytes": 808086
+  },
+  {
+    "province": "bc",
+    "page": "08-commentary.html",
+    "file": "reports/bc/pdf/08-commentary.pdf",
+    "bytes": 636004
+  },
+  {
+    "province": "bc",
+    "page": "evidence.html",
+    "file": "reports/bc/pdf/evidence.pdf",
+    "bytes": 8712867
+  },
+  {
+    "province": "bc",
+    "page": "index.html",
+    "file": "reports/bc/pdf/index.pdf",
+    "bytes": 656437
+  },
+  {
+    "province": "ab",
+    "page": "01-framework.html",
+    "file": "reports/ab/pdf/01-framework.pdf",
+    "bytes": 1016478
+  },
+  {
+    "province": "ab",
+    "page": "02-fit.html",
+    "file": "reports/ab/pdf/02-fit.pdf",
+    "bytes": 582450
+  },
+  {
+    "province": "ab",
+    "page": "03-rules.html",
+    "file": "reports/ab/pdf/03-rules.pdf",
+    "bytes": 1146622
+  },
+  {
+    "province": "ab",
+    "page": "04-study.html",
+    "file": "reports/ab/pdf/04-study.pdf",
+    "bytes": 983377
+  },
+  {
+    "province": "ab",
+    "page": "05-schools.html",
+    "file": "reports/ab/pdf/05-schools.pdf",
+    "bytes": 713543
+  },
+  {
+    "province": "ab",
+    "page": "06-timeline.html",
+    "file": "reports/ab/pdf/06-timeline.pdf",
+    "bytes": 1023105
+  },
+  {
+    "province": "ab",
+    "page": "07-risks.html",
+    "file": "reports/ab/pdf/07-risks.pdf",
+    "bytes": 642678
+  },
+  {
+    "province": "ab",
+    "page": "08-commentary.html",
+    "file": "reports/ab/pdf/08-commentary.pdf",
+    "bytes": 481485
+  },
+  {
+    "province": "ab",
+    "page": "evidence.html",
+    "file": "reports/ab/pdf/evidence.pdf",
+    "bytes": 4091133
+  },
+  {
+    "province": "ab",
+    "page": "index.html",
+    "file": "reports/ab/pdf/index.pdf",
+    "bytes": 569327
+  },
+  {
+    "province": "bc",
+    "page": "occupations.html",
+    "file": "reports/bc/pdf/occupations.pdf",
+    "bytes": 1950151
+  },
+  {
+    "province": "ab",
+    "page": "occupations.html",
+    "file": "reports/ab/pdf/occupations.pdf",
+    "bytes": 1810406
+  }
+]
