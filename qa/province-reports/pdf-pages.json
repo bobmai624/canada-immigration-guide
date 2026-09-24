@@ -81,8 +81,8 @@
       "file": "reports/ab/pdf/01-framework.pdf",
       "pages": 6,
       "a4": true,
-      "sha256": "845ec6223e509195da21234ce3b8dd593fae5ace01c095463b8f6590e9c85610",
-      "bytes": 1016478
+      "sha256": "d910211fd32e11d8329426fc3a9613dd9818c37e3fdf3a55825883af7bac93f0",
+      "bytes": 1421511
     },
     {
       "file": "reports/ab/pdf/02-fit.pdf",
@@ -142,10 +142,10 @@
     },
     {
       "file": "reports/ab/pdf/index.pdf",
-      "pages": 2,
+      "pages": 4,
       "a4": true,
-      "sha256": "246045e0736f5aabc009c6c6eeb981b6196ad127533a9ad0863793df6b4deca4",
-      "bytes": 569327
+      "sha256": "5dea900b226c91d85ab025915ca48c0bb8af652c10e03c4495d3f8a4f6c00537",
+      "bytes": 1132094
     },
     {
       "file": "reports/ab/pdf/occupations.pdf",

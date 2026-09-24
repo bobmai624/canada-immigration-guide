@@ -25,7 +25,7 @@
 /* Long bilingual terminology should wrap naturally, including reference chips. */
 .ref,.tag{overflow-wrap:anywhere;max-width:100%}.source-url{font-size:12px;overflow-wrap:anywhere;color:var(--muted)}.source-card code{overflow-wrap:anywhere;white-space:normal}.search input{display:block;width:100%;padding:12px;border:1px solid var(--line);border-radius:8px;margin:10px 0}.chapter-next{margin-top:40px;padding-top:20px;border-top:1px solid var(--line)}
 @media print{.chapter-next{display:none}.source-url{font-size:8pt}.ref{font-size:8pt}details{break-inside:auto}.occupation-row{break-inside:auto!important}figure img{object-fit:contain}a{overflow-wrap:anywhere}.report-title .meta{margin-bottom:8mm}section{break-before:auto}}
-figure img{display:block;max-width:100%;height:auto}figure>img{width:100%}
+figure img{display:block;max-width:100%;height:auto}figure>img,.architecture-map img{width:100%}
 @media print{
  /* Occupational evidence prints as full-width records rather than a narrow text column. */
  table:has(.occupation-row),table:has(.occupation-row) tbody{display:block;width:100%}

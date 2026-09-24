@@ -61,12 +61,6 @@
   },
   {
     "province": "ab",
-    "page": "01-framework.html",
-    "file": "reports/ab/pdf/01-framework.pdf",
-    "bytes": 1016478
-  },
-  {
-    "province": "ab",
     "page": "02-fit.html",
     "file": "reports/ab/pdf/02-fit.pdf",
     "bytes": 582450
@@ -114,12 +108,6 @@
     "bytes": 4091133
   },
   {
-    "province": "ab",
-    "page": "index.html",
-    "file": "reports/ab/pdf/index.pdf",
-    "bytes": 569327
-  },
-  {
     "province": "bc",
     "page": "occupations.html",
     "file": "reports/bc/pdf/occupations.pdf",
@@ -130,5 +118,17 @@
     "page": "occupations.html",
     "file": "reports/ab/pdf/occupations.pdf",
     "bytes": 1810406
+  },
+  {
+    "province": "ab",
+    "page": "index.html",
+    "file": "reports/ab/pdf/index.pdf",
+    "bytes": 1132094
+  },
+  {
+    "province": "ab",
+    "page": "01-framework.html",
+    "file": "reports/ab/pdf/01-framework.pdf",
+    "bytes": 1421511
   }
 ]
