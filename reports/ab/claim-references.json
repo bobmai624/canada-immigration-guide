@@ -4,9 +4,34 @@
     "source_ids": [
       "abhealth",
       "overview",
-      "processing"
+      "processing-20260928"
     ],
-    "checked_on": "2026-09-24"
+    "checked_on": "2026-09-28"
+  },
+  {
+    "page": "quick-start.html",
+    "source_ids": [
+      "abee-20260928",
+      "abhealth-20260928",
+      "abos-20260928",
+      "abrural-20260928",
+      "abtour-20260928",
+      "cec-20260928",
+      "cip-20260928",
+      "employer-permit",
+      "outlook-aide",
+      "outlook-mechanic",
+      "outlook-nurse",
+      "outlook-welder",
+      "overview-20260928",
+      "permit-duration",
+      "pgwp-20260928",
+      "processing-20260928",
+      "school-nurse-entry-20260928",
+      "study-funds-20260928",
+      "worker-apply-20260928"
+    ],
+    "checked_on": "2026-09-28"
   },
   {
     "page": "01-framework.html",
@@ -25,10 +50,10 @@
       "overview",
       "pnp",
       "points",
-      "processing",
+      "processing-20260928",
       "worker-apply"
     ],
-    "checked_on": "2026-09-24"
+    "checked_on": "2026-09-28"
   },
   {
     "page": "02-fit.html",
@@ -191,6 +216,6 @@
   {
     "page": "evidence.html",
     "source_ids": [],
-    "checked_on": "2026-09-24"
+    "checked_on": "2026-09-28"
   }
 ]

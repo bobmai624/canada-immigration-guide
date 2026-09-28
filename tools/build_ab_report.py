@@ -9,6 +9,8 @@ from ab_content.core import *
 from ab_content.architecture import build_architecture
 from ab_content.source_titles import ZH as SOURCE_ZH
 P=Path(__file__).resolve().parents[1];A=P/'reports/ab';E=A/'evidence'; SOURCES=json.loads((A/'sources.json').read_text()); S={x['id']:x for x in SOURCES};TABLES=json.loads((A/'government-tables.json').read_text());G=json.loads((A/'occupation-groups.json').read_text());N=json.loads((P/'government/occupations.json').read_text())
+for key,value in list(SOURCE_ZH.items()):
+ if key+'-20260928' in S:SOURCE_ZH[key+'-20260928']=value+'（9月28日核对）'
 CLAIMS=[]
 def c(k,label=None):
  assert k in S,k
@@ -22,15 +24,17 @@ def detail(t,b):return '<details><summary>'+t+'</summary><div>'+b+'</div></detai
 def fig(k,title,caption,refs):
  if k=='architecture':return f'<figure class="architecture-map" id="architecture-map"><a href="diagrams/architecture.svg" target="_blank" rel="noopener" aria-label="打开完整分支架构图"><img src="diagrams/architecture.svg" alt="{h(title)}：工人与企业家类别、专项通路及联邦衔接"></a><div class="diagram-links"><a href="diagrams/architecture.svg" target="_blank" rel="noopener">打开原图 / 放大查看</a><a href="diagrams/architecture.svg" download="阿尔伯塔省移民通道架构图.svg">下载矢量图</a></div><figcaption><b>{title}</b> · {caption} {refs}</figcaption></figure>'
  return f'<figure><img src="diagrams/{k}.svg" alt="{h(title)}"><figcaption><b>{title}</b> · {caption} {refs}</figcaption></figure>'
-def page(name,title,lead,body):
- nav=''.join(f'<a href="{f}"'+(' class="active"' if f==name else '')+'>'+t+'</a>' for f,t in CHAPTERS)
+def page(name,title,lead,body,checked="2026-09-24"):
+ if name in ["index.html","01-framework.html","evidence.html","quick-start.html"]:checked="2026-09-28"
+ if name in ['index.html','01-framework.html']:body='<p class="data-note">9月28日新增中文入门讲解，并更新容量数据至官网9月23日快照；其余规则按章节和来源各自日期复核。</p>'+body
+ nav=''.join(f'<a href="{f}"'+(' class="active"' if f==name else '')+'>'+t+'</a>' for f,t in [CHAPTERS[0],('quick-start.html','入门　先读懂个人路径')]+CHAPTERS[1:])
  canonical='https://bobmai624.github.io/canada-immigration-guide/reports/ab/'+name
- html=f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{title} · 加拿大政策知识库</title><meta name="description" content="{h(lead)}"><link rel="stylesheet" href="../report.css"></head><body><a class="skip" href="#main">跳到正文</a><header class="topbar"><a class="brand" href="../../index.html">加拿大政策知识库 / 研究工作台</a><nav><a href="../index.html">省份深度报告</a><a href="../bc/index.html">不列颠哥伦比亚省</a><a href="../../government/options.html">全国通道目录</a></nav></header><div class="layout"><aside class="sidebar"><p>Alberta / 专题目录</p><div class="chapter-list">{nav}</div></aside><main class="report-main" id="main"><div class="crumb"><a href="../index.html">省份报告</a> / <a href="index.html">阿尔伯塔省</a></div><div class="report-title"><div class="eyebrow">政府政策与留学路径研究</div><h1>{title}</h1><p class="lead">{lead}</p><div class="meta"><span class="tag">政策核对 2026-09-24</span><span class="tag gray">金额默认加元</span><span class="tag gold">资格 ≠ 获邀 ≠ 批准</span></div></div><div class="print-toolbar"><button class="print-action" data-print-report>打印 / 保存 A4 PDF</button><a class="pdf-download" href="pdf/{name.replace('.html','.pdf')}" download>下载本页 A4 PDF</a><span class="print-hint">打印按钮可保存当前版；下载文件为本次发布版。长表和折叠内容会完整展开。</span></div><div class="print-meta">{title}<br>政策核对：2026-09-24 · 发布版：2026-09-24<br>{canonical}</div>{body}<div class="chapter-next"><a href="index.html">回到报告总览</a> · <a href="evidence.html">查看官方证据</a></div></main></div><footer>供机构内部研究与个案准备。政府规则、研究判断和规划情景分别标注；每次支付和提交前核对官方现行版本。</footer><script src="../report.js" defer></script></body></html>'''
+ html=f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{title} · 加拿大政策知识库</title><meta name="description" content="{h(lead)}"><link rel="stylesheet" href="../report.css"><link rel="stylesheet" href="guide.css"></head><body><a class="skip" href="#main">跳到正文</a><header class="topbar"><a class="brand" href="../../index.html">加拿大政策知识库 / 研究工作台</a><nav><a href="../index.html">省份深度报告</a><a href="../bc/index.html">不列颠哥伦比亚省</a><a href="../../government/options.html">全国通道目录</a></nav></header><div class="layout"><aside class="sidebar"><p>Alberta / 专题目录</p><div class="chapter-list">{nav}</div></aside><main class="report-main" id="main"><div class="crumb"><a href="../index.html">省份报告</a> / <a href="index.html">阿尔伯塔省</a></div><div class="report-title"><div class="eyebrow">政府政策与留学路径研究</div><h1>{title}</h1><p class="lead">{lead}</p><div class="meta"><span class="tag">政策核对 {checked}</span><span class="tag gray">金额默认加元</span><span class="tag gold">资格 ≠ 获邀 ≠ 批准</span></div></div><div class="print-toolbar"><button class="print-action" data-print-report>打印 / 保存 A4 PDF</button><a class="pdf-download" href="pdf/{name.replace('.html','.pdf')}" download>下载本页 A4 PDF</a><span class="print-hint">打印按钮可保存当前版；下载文件为本次发布版。长表和折叠内容会完整展开。</span></div><div class="print-meta">{title}<br>政策核对：{checked} · 发布版：{checked}<br>{canonical}</div>{body}<div class="chapter-next"><a href="index.html">回到报告总览</a> · <a href="evidence.html">查看官方证据</a></div></main></div><footer>供机构内部研究与个案准备。政府规则、研究判断和规划情景分别标注；每次支付和提交前核对官方现行版本。</footer><script src="../report.js" defer></script></body></html>'''
  soup=BeautifulSoup(html,'html.parser')
  for t in list(soup.find_all(string=True)):
   if not isinstance(t,(Doctype,Comment)) and t.parent.name not in ['script','style','code'] and not str(t).startswith('http'):t.replace_with(expand_text(str(t)))
  (A/name).write_text(str(soup))
- CLAIMS.append(dict(page=name,source_ids=sorted(set(re.findall(r'evidence.html#([\w-]+)',html))),checked_on='2026-09-24'))
+ CLAIMS.append(dict(page=name,source_ids=sorted(set(re.findall(r'evidence.html#([\w-]+)',html))),checked_on=checked[:10]))
 
 def diagram(name,title,steps,foot):
  # Straight vertical reading flow, sufficient room for full Chinese labels.
@@ -43,23 +47,27 @@ def diagram(name,title,steps,foot):
  for j,l in enumerate(textwrap.wrap(foot,48)):out.append(f'<text class="body" x="40" y="{height-65+j*25}">{h(l)}</text>')
  out.append('</svg>');(A/'diagrams'/f'{name}.svg').write_text(''.join(out))
 build_architecture(A/'diagrams/architecture.svg')
-diagram('allocation','图2｜2026年度名额不是获批概率',[('年度省提名配额：6,603','省官网2026年9月9日更新；本库9月24日核对。'),('已发提名：4,864；剩余：1,739','剩余空间会调整；不能理解为现在还能接受1,739个任意申请。'),('待处理申请：1,238','申请库存不是意向表达池，也不是全部最终获批人数。'),('工人意向表达池：35,957','不同类别竞争、职位、行业、地区、身份均影响选择。'),('额外联邦空间：另列','医生与法语人才全国额外安排，不可全部计作阿省固定配额。')],'这是不同统计口径的顺序解释，不能相除推算个人成功率。')
+diagram('allocation','图2｜2026年度名额不是获批概率',[('年度省提名配额：6,603','省官网2026年9月23日更新；本库9月28日核对。'),('已发提名：5,221；剩余：1,382','剩余空间会调整；不能理解为现在还能接受1,382个任意申请。'),('待处理申请：1,092','申请库存不是意向表达池，也不是全部最终获批人数。'),('工人意向表达池：35,596','不同类别竞争、职位、行业、地区、身份均影响选择。'),('额外联邦空间：另列','医生与法语人才全国额外安排，不可全部计作阿省固定配额。')],'这是不同统计口径的顺序解释，不能相除推算个人成功率。')
 diagram('scoring','图3｜工人评分只是一个筛选维度',[('先过硬门槛','工签、工作、职业、语言和雇主条件先分别核实。'),('个人因素最高69分','学历22＋语言13＋经历21＋年龄5＋家庭联系8。'),('经济因素最高31分','职位16＋地点5＋受监管职业资格10。'),('省政府按重点进行邀请','未计分的职业、行业、身份也可用于筛选。'),('获邀之后提交真实证据','自报分数与实际不符，可被拒绝；高分不保证获邀。')],'评分表版本：2025年8月7日；本轮核对的官方现行下载。')
 diagram('study-path','图4｜从选专业到省提名的逐关检查',[('入学前：职业与资格','先查真实岗位、职业代码和阿省执照，再选择课程。'),('交定金前：学校与课程','核对国际招生、学历类型、课程代码、毕业工签和省级学历要求。'),('学习中：完成课程与合法实习','语言入学分数、毕业工签语言和移民语言要求分别核。'),('毕业后：工签＋匹配工作','阿省机会类别的毕业工签持有人通常需相关工作至少6个月。'),('满足类别后：意向表达与邀请','邀请等待时间无法预先保证；留有身份及资金缓冲。'),('提名后：联邦审批与身份衔接','按证书期限提交永久居民申请；另行检查是否可以继续工作。')],'规划示例通常跨3—5年以上；任何一个门槛失败都要暂停后续投入。')
 diagram('work-permit','图5｜工作权要独立检查',[('人在境外＋真实雇主职位','先判断雇主能否提供劳动力市场评估或适用豁免依据。'),('人在加拿大读书','学签工作权限有限；正常在读工作不自动变成合格移民工作经验。'),('毕业后申请工作许可','课程与个人资格、申请期限、护照效期一起决定结果。'),('工签将到期但仍在候选池','入池、邀请或省申请收件本身都不会自动延长工作权。'),('取得提名或递交永久居民申请','分别核省支持信、雇主专属工签或过渡开放工签；由联邦批准。')],'图中是不同身份情形的检查顺序，不是每人都依次办理的五张签证。')
 
-body=note('<b>先行结论：</b>政府使用不同工具填补省内岗位、乡村人口和创业需求。研究产品前，先分清“可以申请”“会不会被选中”和“能否合法工作”。普通中国客户应优先核真实技能、语言、雇主及资金，不能靠一个便宜课程锁定几年后的身份。'+c('overview')+c('processing'))
+body=note('<b>先行结论：</b>政府使用不同工具填补省内岗位、乡村人口和创业需求。研究产品前，先分清“可以申请”“会不会被选中”和“能否合法工作”。普通中国客户应优先核真实技能、语言、雇主及资金，不能靠一个便宜课程锁定几年后的身份。'+c('overview')+c('processing-20260928'))
+body+='<a class="guide-entry" href="quick-start.html"><span>第一次看阿省移民，从这里开始</span><h2>先读懂：学签 → 工签 → 省提名 → 永久居民</h2><p>用个人办理顺序理解政策，再看三条选路、行业、预算、时间和下一步怎么查。</p><b>进入中文快速读懂指南 →</b></a>'
 body+=sec('architecture','一张图看懂：先选大类，再沿分支往下看',fig('architecture','阿尔伯塔省移民通道架构图','点击图像可打开原图；八个主类别、专项关系与联邦审批分别展示。',c('overview')+c('abhealth'))+p('<a href="01-framework.html#layers">进入第一章，逐层理解架构 →</a>'))
 body+='<div class="cards">'+''.join(f'<a class="card" href="{f}"><span class="index">{t}</span><p>沿用不列颠哥伦比亚省报告的章节，逐层查规则、准备与证据。</p></a>' for f,t in CHAPTERS[1:9])+'</div>'
 body+=sec('scope','本轮覆盖什么',ul(['完整列出省级八个现行经济移民主类别；医疗、科技和执法等作为子通路处理；旧关闭类别单列，不冒充在招。','六组职业关系，共110个不同代码：34项机会类别排除、17项乡村排除、18项旅游正面、44项科技正面、3项执法、9类医疗专业映射11码。代码重叠不能简单相加。','10个具体公立学校项目作筛选研究，含不建议作为当前毕业工签产品的反例；不是全省院校穷举。','官方原文、网页留存、可下载文件、文件指纹与截图分开标记；全国职业一般要求沿用2026-09-17官方数据版本。','联邦申请、工作许可、学校录取和职业执照都是独立审批。未知个案、未来招生空位和未来政策不假装已确定。']))
 body+=sec('read','按问题选择阅读顺序',table(['你现在要解决什么','阅读顺序'],[['先设计产品','第一章政府工具→第三章硬规则→职业库→第六章流程→第七章风险'],['中国客户准备留学','第四章学历与工签→第五章具体课程→职业库查准入→第二章评估差距'],['已经在阿省工作','第三章核工签和雇主→评分表→第六章材料及期限→官方最新邀请'],['需要复核一个说法','附录拆解说法→证据中心原文→与规则章节对照']]))
-page('index.html',TITLE,'保持七章与附录结构。先把政府开放的选项列全，再做客户与产品匹配。',body)
+page('index.html',TITLE,'先用中文入门指南理解个人路径，再通过七章与附录核政府规则、职业和证据。',body)
 
-body=sec('layers','1.1 联邦、省、社区、执照：四个不同的决定',fig('architecture','图1：两类入口、八个主类别与联邦衔接','沿自己的分支往下看；横向类别为备选，专项通路不重复计数。',c('overview')+c('abhealth')+c('pnp'))+table(['层级','实际负责什么','不能替代什么'],[['联邦','工作与学习许可、联邦经济移民资格、最终永久居民审批与准入','省提名不能保证签证、体检/安全/犯罪审查结果'],['阿省政府','选择符合省需求的人、签发提名、符合条件时出工作许可支持信','支持信不是工作许可'],['指定社区','按本地劳动力需求审核雇主、职位及候选人，提供背书','社区背书不保证省邀请、提名或工作签证'],['监管机构','认定能否从事受监管工作，核学历、考试、语言、实习及执照','职业在移民清单不等于已经可以上岗']]))
+from ab_content.quick_guide import build_guide
+page('quick-start.html','阿尔伯塔移民，先把这条路读懂','从一个普通申请人的角度，讲清工作权、读书、找工作、省提名和永久居民身份怎样衔接。',build_guide(p,table,sec,note,detail,c,ul))
+
+body=p('<a href="quick-start.html">还分不清学签、工签与省提名？先读中文入门指南 →</a>')+sec('layers','1.1 联邦、省、社区、执照：四个不同的决定',fig('architecture','图1：两类入口、八个主类别与联邦衔接','沿自己的分支往下看；横向类别为备选，专项通路不重复计数。',c('overview')+c('abhealth')+c('pnp'))+table(['层级','实际负责什么','不能替代什么'],[['联邦','工作与学习许可、联邦经济移民资格、最终永久居民审批与准入','省提名不能保证签证、体检/安全/犯罪审查结果'],['阿省政府','选择符合省需求的人、签发提名、符合条件时出工作许可支持信','支持信不是工作许可'],['指定社区','按本地劳动力需求审核雇主、职位及候选人，提供背书','社区背书不保证省邀请、提名或工作签证'],['监管机构','认定能否从事受监管工作，核学历、考试、语言、实习及执照','职业在移民清单不等于已经可以上岗']]))
 body+=sec('streams','1.2 八个现行主类别',table(['名称／层级','基本用途','产品理解与边界','官方'],[[r[0]+'<br>'+r[1],r[2],r[3],c(r[4])] for r in STREAMS]))
-body+=sec('capacity','1.3 当前容量：2026-09-09省官网快照',fig('allocation','图2：名额、库存与候选池','这些数字有不同分母，不能当作成功率。',c('processing'))+table(['类别','配额','已发','剩余','库存','正在审理收到日期'],ALLOCATION)+note('全省6,603个配额不含额外联邦医生/法语空间。全国“最多10,000”额外空间不是阿省独享；阿省额外已提名医生50人、法语12人。医生涉及31100、31101、31102且能在阿省执业；法语四项NCLC 5仍需满足省类别条件。'+c('processing')))
-body+=sec('selection','1.4 谁进入候选池，谁被选中',p('工人通道使用WEOI：一个人只能有一个；与已有企业家意向表达或在处理/草稿省申请的限制分开核。一般有效12个月，更新信息不会自动续期。提交费135加元；最低语言4级只代表可提交意向，具体类别可能更高。'+c('worker-apply')+c('points')+c('fees'))+p('阿省未公布固定邀请日历。除了分数，还可以按职业、雇主行业、身份、地区等条件选择；最低获邀分数不能作为下一轮承诺。')+table(['观察指标','实际用途'],[['2026年重点行业','医疗、科技、建筑、制造、航空、农业及指定乡村；并非全部各有独立签证。'],['候选池','机会22,381；医疗1,302；乡村1,750；旅游3,372；科技2,039；执法46；重点及其他5,067；合计35,957。'],['历史类别','旧战略招聘、雇主驱动等历史入口不作为现行新产品；以关闭类别官方页核历史记录。']])+c('processing')+c('expired'))
-body+=sec('recent-draws','1.5 最近十二次邀请：历史结果，不是下一轮保证',p('按2026-09-09更新页留存顺序列示；分数采用省工人意向表达100分体系，不是联邦综合排名分。完整年度表可在证据中心下载。')+table(['日期','类别／选择重点（官方名称）','最低分','邀请数'],TABLES['processing'][9][1:13])+c('processing'))
+body+=sec('capacity','1.3 当前容量：2026-09-23省官网快照',fig('allocation','图2：名额、库存与候选池','这些数字有不同分母，不能当作成功率。',c('processing-20260928'))+table(['类别','配额','已发','剩余','库存','正在审理收到日期'],ALLOCATION)+note('全省6,603个配额不含额外联邦医生/法语空间。全国“最多10,000”额外空间不是阿省独享；阿省额外已提名医生50人、法语12人。医生涉及31100、31101、31102且能在阿省执业；法语四项NCLC 5仍需满足省类别条件。'+c('processing-20260928')))
+body+=sec('selection','1.4 谁进入候选池，谁被选中',p('工人通道使用WEOI：一个人只能有一个；与已有企业家意向表达或在处理/草稿省申请的限制分开核。一般有效12个月，更新信息不会自动续期。提交费135加元；最低语言4级只代表可提交意向，具体类别可能更高。'+c('worker-apply')+c('points')+c('fees'))+p('阿省未公布固定邀请日历。除了分数，还可以按职业、雇主行业、身份、地区等条件选择；最低获邀分数不能作为下一轮承诺。')+table(['观察指标','实际用途'],[['2026年重点行业','医疗、科技、建筑、制造、航空、农业及指定乡村；并非全部各有独立签证。'],['候选池','机会22,315；医疗1,222；乡村1,736；旅游3,275；科技1,992；执法45；重点及其他5,011；合计35,596。'],['历史类别','旧战略招聘、雇主驱动等历史入口不作为现行新产品；以关闭类别官方页核历史记录。']])+c('processing-20260928')+c('expired'))
+body+=sec('recent-draws','1.5 最近十二次邀请：历史结果，不是下一轮保证',p('按2026-09-09更新页留存顺序列示；分数采用省工人意向表达100分体系，不是联邦综合排名分。完整年度表可在证据中心下载。')+table(['日期','类别／选择重点（官方名称）','最低分','邀请数'],TABLES['processing'][9][1:13])+c('processing-20260928'))
 page('01-framework.html',CHAPTERS[1][1],'先识别八个主类别，再理解子通路、年度名额和选择机制。',body)
 
 body=sec('starting-point','2.1 先问人在何处，再看合法身份',table(['目前状态','可以优先研究','关键阻碍'],[['中国大陆，无加拿大身份','海外可行的乡村职位、具备联邦资格后的省快速通道选择、合格雇主工签；留学为另一条成本更高路径','机会类别需要已在阿省工作；旅游类别需要特定工签及本地连续工作'],['第三国有合法工作经历','先核职责、工资、工作时长证明、学历认证和联邦资格；乡村可用符合规则的境外经验','第三国身份不自动赋予加拿大工作权；不同国的证明和无犯罪材料可能增加准备时间'],['加拿大其他省工作','阿省真实职位、迁居意图、工签许可地点/雇主；乡村境外阿省申请职业只限0—3级','不能把其他省0—5级职位直接复制为阿省境外乡村方案'],['阿省有效毕业工签','学历类型、专业与工作关联、6个月工作、职业及雇主；乡村另外核社区和经验豁免','某些短证书虽有毕业工签资格，却不符合机会类别的学历要求'],['阿省雇主专属工签','检查实际许可依据及到期日；机会、乡村、旅游的差异规则','换雇主不等于立刻可上岗；维持身份在机会/旅游类别不被接受'],['加拿大访客或失去身份','先核合法身份恢复/离境和未来签证方案','访客不能直接工作；在加拿大无有效工签者不能用乡村类别绕过规则']])+c('abos')+c('abrural')+c('abtour')+c('work-permit'))
@@ -152,7 +160,7 @@ body+=sec('licensing','受监管职业：资料核查入口与正确顺序',tabl
 page('occupations.html',CHAPTERS[9][1],'完整保留正面、负面及子职业范围；按代码查一般任职要求、当地执照和雇主行业。',body)
 
 body=note('这里保存的是本轮实际取得的官方原件或网页下载。网页文本提取、官方文件页面渲染、浏览器截图和本库绘制图分别标注。文件SHA-256指纹可用于检查下载是否改变；它不代表政府给本报告背书。')
-body+=sec('coverage','证据覆盖与核验日期',table(['类别','本轮情况'],[['省级类别','8个主类别及医疗、科技、执法子通路；申请方式、材料、费用、积分、名额、邀请和社区名单。'],['联邦衔接','经济移民、省提名、工作许可、毕业工作许可、指定学校、课程代码、生活资金和配偶政策。'],['院校与职业','10个具体项目；国际招生、收费和课程要求；职业官方分类原件、监管和技工核查入口。'],['版本边界','阿省及院校2026-09-24核对；职业一般要求为2026-09-17留存的2021分类版本。截图以各记录日期为准。'],['本库图表','5张路径图为研究整理，不伪装政府原图；名额及评分来源在图下注明。']]))
+body+=sec('coverage','证据覆盖与核验日期',table(['类别','本轮情况'],[['省级类别','8个主类别及医疗、科技、执法子通路；申请方式、材料、费用、积分、名额、邀请和社区名单。'],['联邦衔接','经济移民、省提名、工作许可、毕业工作许可、指定学校、课程代码、生活资金和配偶政策。'],['院校与职业','10个具体项目；国际招生、收费和课程要求；职业官方分类原件、监管和技工核查入口。'],['版本边界','中文入门讲解和容量数据2026-09-28核对；原有规则及院校章节保留2026-09-24版本，新增来源单独标日期。职业一般要求沿用2026-09-17留存版本。截图以各记录日期为准。'],['本库图表','5张路径图为研究整理，不伪装政府原图；名额及评分来源在图下注明。']]))
 body+='<label class="search">搜索证据 <input type="search" data-filter=".source-card" data-count="source-count" placeholder="例如：费用、school、职业"></label><p id="source-count">'+str(len(SOURCES))+'项来源记录</p>'
 for s in SOURCES:
  k=s['id']; b=p('<a href="'+h(s['url'])+'" target="_blank" rel="noopener">打开官方原文</a>')+p('<span class="source-url">'+h(s['url'])+'</span>')
@@ -167,5 +175,5 @@ for s in SOURCES:
  body+=f'<section class="source-card" id="{k}"><h2>{h(SOURCE_ZH.get(k,s["title"]))}</h2><p class="muted">官方标题：{h(s["title"])}</p>{b}</section>'
 body+=sec('download-register','下载可复核的结构化台账',ul(['<a href="sources.json" download>来源与文件指纹台账</a>','<a href="claim-references.json" download>章节—来源对应台账</a>','<a href="occupation-groups.json" download>六组职业清单</a>','<a href="government-tables.json" download>政府表格提取（含完整邀请和社区数据）</a>','<a href="schools-research.json" download>十个项目研究数据</a>']))
 page('evidence.html',CHAPTERS[10][1],'从章节结论回到政府原文；下载留存文件，检查日期、版本和适用边界。',body)
-(A/'claim-references.json').write_text(json.dumps(CLAIMS,ensure_ascii=False,indent=2));(A/'program-research.json').write_text(json.dumps(dict(streams=STREAMS,allocation=ALLOCATION,points=POINTS,business=BUSINESS,checked_on='2026-09-24'),ensure_ascii=False,indent=2))
+(A/'claim-references.json').write_text(json.dumps(CLAIMS,ensure_ascii=False,indent=2));(A/'program-research.json').write_text(json.dumps(dict(streams=STREAMS,allocation=ALLOCATION,allocation_as_of='2026-09-23',allocation_checked_on='2026-09-28',points=POINTS,business=BUSINESS,checked_on='2026-09-24'),ensure_ascii=False,indent=2))
 print('Built',len(CLAIMS),'Alberta pages; 5 diagrams;',len(SOURCES),'sources')

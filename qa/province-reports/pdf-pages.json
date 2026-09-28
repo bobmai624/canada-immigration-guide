@@ -81,8 +81,8 @@
       "file": "reports/ab/pdf/01-framework.pdf",
       "pages": 6,
       "a4": true,
-      "sha256": "d910211fd32e11d8329426fc3a9613dd9818c37e3fdf3a55825883af7bac93f0",
-      "bytes": 1421511
+      "sha256": "b49bacb96dc761c4f9fa3c193d00fb07a200289509998744d0b5c11bc75e782b",
+      "bytes": 1455326
     },
     {
       "file": "reports/ab/pdf/02-fit.pdf",
@@ -135,17 +135,17 @@
     },
     {
       "file": "reports/ab/pdf/evidence.pdf",
-      "pages": 41,
+      "pages": 49,
       "a4": true,
-      "sha256": "482be082e308cada01b21944c23ed295d4365e804e5880bbaed7fe13105c3990",
-      "bytes": 4091133
+      "sha256": "7ff72a2df01b1665bf346bea22d93a73b877b5fda53e87549f23c909fcf910b1",
+      "bytes": 4347354
     },
     {
       "file": "reports/ab/pdf/index.pdf",
       "pages": 4,
       "a4": true,
-      "sha256": "5dea900b226c91d85ab025915ca48c0bb8af652c10e03c4495d3f8a4f6c00537",
-      "bytes": 1132094
+      "sha256": "bb922376d6b87570a246124798286ee4ccb625d420287c432383167e64bc8e12",
+      "bytes": 1232674
     },
     {
       "file": "reports/ab/pdf/occupations.pdf",
@@ -153,6 +153,13 @@
       "a4": true,
       "sha256": "4c858ace99a60ea5ab6885f2db5acd1fd52ded46de1c44d919fb59b94d2065a6",
       "bytes": 1810406
+    },
+    {
+      "file": "reports/ab/pdf/quick-start.pdf",
+      "pages": 8,
+      "a4": true,
+      "sha256": "f4609ffd37e38934d3f3db5d080fe60ebe55cdc6fd9087b220a9416adffdba93",
+      "bytes": 1348255
     }
   ],
   "errors": []

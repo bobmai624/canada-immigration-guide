@@ -6,7 +6,7 @@ from report_terms import scan_text
 R=Path(__file__).resolve().parents[1];errors=[];stats={};allow_pdf='--before-pdf' in sys.argv
 for region in ['bc','ab']:
  folder=R/'reports'/region;pages=list(folder.glob('*.html'));stats[region]={'pages':len(pages),'diagrams':len(list((folder/'diagrams').glob('*.svg')))}
- if len(pages)!=11:errors.append(f'{region}: expected 11 pages')
+ if len(pages)!=(12 if region=='ab' else 11):errors.append(f'{region}: unexpected page count')
  for p in pages:
   s=BeautifulSoup(p.read_text(),'html.parser')
   if not s.select_one('[data-print-report]') or not s.select_one('.print-meta'):errors.append(f'{p}: missing print controls')

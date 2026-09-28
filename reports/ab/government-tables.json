@@ -674,9 +674,9 @@
       ],
       [
         "6,603",
-        "4,864",
-        "1,739",
-        "1,238"
+        "5,221",
+        "1,382",
+        "1,092"
       ]
     ],
     [
@@ -703,9 +703,9 @@
       ],
       [
         "3,562",
-        "2,725",
-        "837",
-        "484",
+        "2,911",
+        "651",
+        "464",
         "June 17, 2026 (currently excludes those who received a work permit support letter under the ‘Temporary public policy to facilitate work permits for prospective Provincial Nominee Program candidates’)"
       ]
     ],
@@ -719,10 +719,10 @@
       ],
       [
         "1,057",
-        "673",
-        "384",
-        "95",
-        "August 11, 2026"
+        "740",
+        "317",
+        "44",
+        "August 17, 2026"
       ]
     ],
     [
@@ -737,7 +737,7 @@
         "156",
         "141",
         "15",
-        "5",
+        "Less than 10",
         "July 27, 2026"
       ]
     ],
@@ -751,10 +751,10 @@
       ],
       [
         "518",
-        "310",
-        "208",
-        "27",
-        "July 30, 2026"
+        "331",
+        "187",
+        "30",
+        "August 29, 2026"
       ]
     ],
     [
@@ -769,10 +769,10 @@
       [
         "Accelerated Tech Pathway (eligible list of occupations includes jobs that support data centre needs in Alberta)",
         "619",
-        "447",
-        "172",
-        "176",
-        "June 17, 2026"
+        "485",
+        "134",
+        "149",
+        "June 23, 2026"
       ],
       [
         "Law Enforcement Pathway",
@@ -785,9 +785,9 @@
       [
         "Priority sector draws and other initiatives (construction, manufacturing, agriculture, aviation, and including skilled trades linked to each sector, etc.)",
         "619",
-        "527",
-        "92",
-        "230",
+        "571",
+        "48",
+        "187",
         "June 24, 2026"
       ]
     ],
@@ -801,9 +801,9 @@
       ],
       [
         "60",
-        "34",
-        "26",
-        "221",
+        "35",
+        "25",
+        "217",
         "Business applications are evaluated upon receipt"
       ]
     ],
@@ -814,19 +814,19 @@
       ],
       [
         "Alberta Opportunity Stream",
-        "22,381"
+        "22,315"
       ],
       [
         "Dedicated Health Care Pathways (Express Entry and Non-Express Entry)",
-        "1,302"
+        "1,222"
       ],
       [
         "Rural Renewal Stream",
-        "1,750"
+        "1,736"
       ],
       [
         "Tourism and Hospitality Stream",
-        "3,372"
+        "3,275"
       ],
       [
         "Alberta Express Entry Stream:",
@@ -834,19 +834,19 @@
       ],
       [
         "Accelerated Tech Pathway",
-        "2,039"
+        "1,992"
       ],
       [
         "Law Enforcement Pathway",
-        "46"
+        "45"
       ],
       [
         "Priority sector draws and other initiatives",
-        "5,067"
+        "5,011"
       ],
       [
         "Total:",
-        "35,957"
+        "35,596"
       ]
     ],
     [
@@ -855,6 +855,42 @@
         "Worker stream, pathway, initiative or other focus and selection parameters",
         "Minimum score of invited candidates",
         "Number of invitations"
+      ],
+      [
+        "September 23, 2026",
+        "Alberta Opportunity Stream",
+        "58",
+        "113"
+      ],
+      [
+        "September 22, 2026",
+        "Alberta Express Entry Stream – Accelerated Tech Pathway",
+        "59",
+        "100"
+      ],
+      [
+        "September 21, 2026",
+        "Alberta Express Entry Stream – Law Enforcement Pathway",
+        "49",
+        "Less than 10"
+      ],
+      [
+        "September 18, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Health Care)",
+        "62",
+        "100"
+      ],
+      [
+        "September 15, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Agriculture)",
+        "60",
+        "18"
+      ],
+      [
+        "September 10, 2026",
+        "Alberta Express Entry Stream – Priority Sectors (Manufacturing)",
+        "60",
+        "48"
       ],
       [
         "September 9, 2026",
@@ -1433,5 +1469,10 @@
         "February 5, 2025"
       ]
     ]
-  ]
+  ],
+  "processing_version": {
+    "source_id": "processing-20260928",
+    "as_of": "2026-09-23",
+    "checked_on": "2026-09-28"
+  }
 }

@@ -102,12 +102,6 @@
     "bytes": 481485
   },
   {
-    "province": "ab",
-    "page": "evidence.html",
-    "file": "reports/ab/pdf/evidence.pdf",
-    "bytes": 4091133
-  },
-  {
     "province": "bc",
     "page": "occupations.html",
     "file": "reports/bc/pdf/occupations.pdf",
@@ -123,12 +117,24 @@
     "province": "ab",
     "page": "index.html",
     "file": "reports/ab/pdf/index.pdf",
-    "bytes": 1132094
+    "bytes": 1232674
   },
   {
     "province": "ab",
     "page": "01-framework.html",
     "file": "reports/ab/pdf/01-framework.pdf",
-    "bytes": 1421511
+    "bytes": 1455326
+  },
+  {
+    "province": "ab",
+    "page": "evidence.html",
+    "file": "reports/ab/pdf/evidence.pdf",
+    "bytes": 4347354
+  },
+  {
+    "province": "ab",
+    "page": "quick-start.html",
+    "file": "reports/ab/pdf/quick-start.pdf",
+    "bytes": 1348255
   }
 ]
